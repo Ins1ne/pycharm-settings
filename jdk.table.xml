@@ -1,0 +1,587 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.10 (/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/348993582" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Unknown at ~/vagrant/bookiebet_admin/env/bin/python" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/vagrant/bookiebet_admin/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/vagrant/bookiebet_admin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.11 (/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="/usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/local/Cellar/python/2.7.11/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/python_stubs/120269359" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://vagrant@127.0.0.1:2222/home/vagrant/venv/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/Logentries-0.15-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/2042098376" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1664604408" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/172881658" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1741870047" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1410359082" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/redis-2.10.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pytz-2016.4-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/272678107" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/setuptools-18.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1108491733" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/128451700" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/jsonpickle-0.9.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/242672140" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1227933812" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/Logentries-0.15-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/517111468" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1295150484" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/320931806" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1099481283" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1380405190" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/redis-2.10.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pytz-2016.4-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1013923447" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/setuptools-18.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1256541881" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-513937064" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/jsonpickle-0.9.2-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1382360560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-397687972" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/295995740" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1336471360" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/23257574" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1649864624" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1379176670" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/Logentries-0.15-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/2042098376" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1664604408" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/172881658" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1741870047" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1410359082" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/redis-2.10.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/272678107" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/setuptools-18.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1108491733" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/128451700" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-125940560" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1227933812" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/Logentries-0.15-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/517111468" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1295150484" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/320931806" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1099481283" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1380405190" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/redis-2.10.5-py2.7.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1013923447" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/setuptools-18.5-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1256541881" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-513937064" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-397687972" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/295995740" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1336471360" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/23257574" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1649864624" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1379176670" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/699025279" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/venv/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/Logentries-0.15-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/Logentries-0.15-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/2042098376" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/tld-0.7.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1664604408" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/certifi-2015.04.28-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/172881658" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/bookiebot-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1741870047" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/selenium_requests-1.2.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1410359082" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/redis-2.10.5-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pytz-2016.4-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/pytz-2016.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/python_dateutil-2.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/272678107" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/setuptools-18.5-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/setuptools-18.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1108491733" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/selenium-2.53.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/128451700" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/lxml-3.3.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/jsonpickle-0.9.2-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/jsonpickle-0.9.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/242672140" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/pyzmq-15.0.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/Logentries-0.15-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/Logentries-0.15-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/517111468" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/tld-0.7.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1295150484" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/certifi-2015.04.28-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/320931806" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/bookiebot-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1099481283" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/selenium_requests-1.2.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1380405190" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/redis-2.10.5-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pytz-2016.4-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/pytz-2016.4-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/python_dateutil-2.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1013923447" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/setuptools-18.5-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/setuptools-18.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1256541881" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/selenium-2.53.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-513937064" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/lxml-3.3.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/jsonpickle-0.9.2-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/jsonpickle-0.9.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1382360560" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/pyzmq-15.0.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-397687972" remote-root="/home/vagrant/venv/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/295995740" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/1336471360" remote-root="/home/vagrant/venv/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1649864624" remote-root="/usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/699025279/-1379176670" remote-root="/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/Logentries-0.15-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/Logentries-0.15-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/2042098376" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/tld-0.7.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1664604408" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/certifi-2015.04.28-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/172881658" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/bookiebot-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1741870047" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/selenium_requests-1.2.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1410359082" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/redis-2.10.5-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/python_dateutil-2.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/272678107" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/setuptools-18.5-py2.7.egg" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/setuptools-18.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1108491733" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/selenium-2.53.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/128451700" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages/lxml-3.3.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/Logentries-0.15-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/Logentries-0.15-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/517111468" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/tld-0.7.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1295150484" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/certifi-2015.04.28-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/320931806" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/bookiebot-1.5.2-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1099481283" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/selenium_requests-1.2.7-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1380405190" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/Jinja2-2.8-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/redis-2.10.5-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/redis-2.10.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/python_dateutil-2.5.3-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/python_dateutil-2.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1013923447" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/MarkupSafe-0.23-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/pymongo-3.2.2-py2.7-linux-x86_64.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/pymongo-3.2.2-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/setuptools-18.5-py2.7.egg" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/setuptools-18.5-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1256541881" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/selenium-2.53.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-513937064" remote-root="/home/vagrant/venv/lib/python2.7/site-packages/lxml-3.3.0-py2.7-linux-x86_64.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-397687972" remote-root="/home/vagrant/venv/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/295995740" remote-root="/home/vagrant/venv/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/1336471360" remote-root="/home/vagrant/venv/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1649864624" remote-root="/usr/lib/python2.7/dist-packages/ubuntu-sso-client" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/699025279/-1379176670" remote-root="/usr/lib/python2.7/dist-packages/wx-2.8-gtk2-unicode" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://vagrant@127.0.0.1:2222/home/vagrant/bookiebet_admin/env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/bookiebet_admin/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/179762337" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/2093442593" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/-1840380987" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/179762337" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/2093442593" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/-1840380987" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/621691670" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/bookiebet_admin/env/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/179762337" remote-root="/home/vagrant/bookiebet_admin/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/2093442593" remote-root="/home/vagrant/bookiebet_admin/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.1/remote_sources/621691670/-1840380987" remote-root="/home/vagrant/bookiebet_admin/env/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/179762337" remote-root="/home/vagrant/bookiebet_admin/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/2093442593" remote-root="/home/vagrant/bookiebet_admin/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/621691670/-1840380987" remote-root="/home/vagrant/bookiebet_admin/env/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.venvs/aiohttp_admin" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.venvs/aiohttp_admin/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Private/Projects/github/aiohttp_admin/demos/blog" />
+            <root type="simple" url="jar://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5/site-packages/aiohttp_jinja2-0.8.0-py3.5.egg!/" />
+            <root type="simple" url="jar://$USER_HOME$/.venvs/aiohttp_admin/lib/python3.5/site-packages/trafaret-0.7.2-py3.5.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/Private/Projects/github/aiohttp_admin" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-764728381" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Unknown at ~/vagrant/bookie_odds/env/bin/python" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/vagrant/bookie_odds/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/vagrant/bookie_odds" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://vagrant@127.0.0.1:2222/home/vagrant/bookie_odds/env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/bookie_odds/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/456897769" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-38703613" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/1297701507" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-486577753" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/731603956" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/bookie_odds/env/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/456897769" remote-root="/home/vagrant/bookie_odds/env/src/scrapydaemon" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-38703613" remote-root="/home/vagrant/bookie_odds/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/1297701507" remote-root="/home/vagrant/bookie_odds/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/731603956/-486577753" remote-root="/home/vagrant/bookie_odds/env/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Unknown at ~/vagrant/skyride/env/bin/python" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/vagrant/skyride/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/vagrant/skyride" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.6 (ssh://vagrant@127.0.0.1:2222/home/vagrant/skyride/env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/skyride/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/2135062526" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/201544331" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/724150857" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/-154863933" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/386177278" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/-1548885918" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1402987225" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/skyride/env/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.6">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/2135062526" remote-root="/home/vagrant/skyride/env/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/724150857" remote-root="/usr/lib/python2.7/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/386177278" remote-root="/home/vagrant/skyride/env/local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1402987225/-1548885918" remote-root="/home/vagrant/skyride/env/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.venvs/yafotki" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.venvs/yafotki/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.venvs/yafotki/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yafotki/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yafotki/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yafotki/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/-308145727" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/.venvs/yfotki" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/.venvs/yfotki/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.venvs/yfotki/lib/python3.5" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yfotki/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yfotki/lib/python3.5/lib-dynload" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5" />
+            <root type="simple" url="file:///usr/local/Cellar/python3/3.5.2_1/Frameworks/Python.framework/Versions/3.5/lib/python3.5/plat-darwin" />
+            <root type="simple" url="file://$USER_HOME$/.venvs/yfotki/lib/python3.5/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1220031604" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.4.3 (ssh://vagrant@127.0.0.1:2222/home/vagrant/prestige/env/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/prestige/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/394006849" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/1537399935" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/201545289" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/-1961588635" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/2010641156" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/1362606594" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/201545289" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/-792384633" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/-88827672" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/1568149973" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/prestige/env/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.4.3">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/394006849" remote-root="/home/vagrant/crm/env/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/1537399935" remote-root="/home/vagrant/crm/env/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-673181068/-1961588635" remote-root="/home/vagrant/crm/env/lib/python3.4/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/2010641156" remote-root="/home/vagrant/prestige/env/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/1362606594" remote-root="/home/vagrant/prestige/env/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/201545289" remote-root="/usr/lib/python3.4" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/-792384633" remote-root="/usr/lib/python3.4/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/1568149973/-88827672" remote-root="/home/vagrant/prestige/env/lib/python3.4/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Unknown at ~/vagrant/crm/bin/python" />
+      <type value="Python SDK" />
+      <homePath value="$USER_HOME$/vagrant/crm/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.2 (ssh://vagrant@127.0.0.1:2222/home/vagrant/crm/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="ssh://vagrant@127.0.0.1:2222/home/vagrant/crm/venv/py3/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/201545290" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/452379848" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/-1171821208" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/-3493601" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/121092455" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/-1928510427" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/201545290" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/452379848" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/735835659" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.2/python_stubs/533378739" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="127.0.0.1" PORT="2222" ANONYMOUS="false" USERNAME="vagrant" PASSWORD="dfdcdfcbdfcddfd8dfcbdfc4dfde" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/home/vagrant/crm/venv/py3/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.5.2">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/839874322/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/-3493601" remote-root="/home/vagrant/crm" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/121092455" remote-root="/home/vagrant/crm/venv/py3/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/-1928510427" remote-root="/home/vagrant/crm/venv/py3/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/452379848" remote-root="/usr/lib/python3.5/plat-x86_64-linux-gnu" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/533378739/735835659" remote-root="/home/vagrant/crm/venv/py3/lib/python3.5/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>
