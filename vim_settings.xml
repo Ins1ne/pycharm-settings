@@ -212,10 +212,10 @@
         <mark key="." line="34" column="39" />
         <mark key="^" line="34" column="39" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1476436752510">
-        <mark key="[" line="1075" column="0" />
-        <mark key="]" line="1075" column="0" />
-        <mark key="." line="1075" column="0" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1476438174458">
+        <mark key="[" line="1070" column="0" />
+        <mark key="]" line="1070" column="0" />
+        <mark key="." line="1070" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/prestige/prestige/settings.py" timestamp="1473083317500">
         <mark key="'" line="39" column="9" />
@@ -390,7 +390,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19nZXRfYXZhaWxhYmlsaXR5Jwo=</text>
+        <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19pc19hdmFpbGFibGUnCg==</text>
       </register>
       <register name="-" type="4">
         <text>is_available</text>
@@ -402,18 +402,21 @@
         <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19pc19hdmFpbGFibGUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19nZXRfYXZhaWxhYmlsaXR5Jwo=</text>
+        <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19pc19hdmFpbGFibGUnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMuZm9ybWF0cyBpbXBvcnQgZGF0ZV9mb3JtYXQK</text>
+        <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19nZXRfYXZhaWxhYmlsaXR5Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZCgnYWFhYScpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMuZm9ybWF0cyBpbXBvcnQgZGF0ZV9mb3JtYXQK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0LmFwcGVuZCgnYWFhYScpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>reverse(
                 'admin:{app}_{model}_change'.format(
                     app=obj.contact._meta.app_label,
@@ -422,17 +425,14 @@
                 args=[obj.contact_id, ]
             )</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZWYgY2xpZW50c19jcmVkaXRfcGF0aChpbnN0YW5jZSwgZmlsZW5hbWUpOgogICAgICAgIHJldHVybiAnL2NsaWVudHMvY3JlZGl0X2NoZWNrcy97fS97fScuZm9ybWF0KGluc3RhbmNlLmlkLCBmaWxlbmFtZSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAoJ3ByZXBhaWQnLCBfKCdQcmVwYWlkJykpLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5pc19hdmFpbGFibGVfZm9yX3Jlc2VuZChvYmopOgogICAgICAgICAgICBwcmludChzZWxmLmlzX2F2YWlsYWJsZV9mb3JfcmVzZW5kKG9iaikpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdGl2aXR5X3R5cGUgPSBBY3Rpdml0eS5UWVBFX0NIT0lDRVMuUkVDUlVJVEVFX0NPTlRBQ1QK</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5pc19hdmFpbGFibGVfZm9yX3Jlc2VuZChvYmopOgogICAgICAgICAgICBwcmludChzZWxmLmlzX2F2YWlsYWJsZV9mb3JfcmVzZW5kKG9iaikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
