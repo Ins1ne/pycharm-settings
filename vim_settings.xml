@@ -200,8 +200,8 @@
         <mark key="^" line="25" column="73" />
         <mark key="." line="25" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476449190185">
-        <mark key="'" line="3597" column="44" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476450643868">
+        <mark key="'" line="2199" column="33" />
         <mark key="[" line="3632" column="49" />
         <mark key="]" line="3632" column="68" />
         <mark key="^" line="3632" column="68" />
@@ -284,10 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1241" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" />
-      <jump line="32" column="7" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="1036" column="47" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="668" column="8" filename="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" />
       <jump line="459" column="50" filename="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" />
       <jump line="603" column="8" filename="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" />
       <jump line="25" column="0" filename="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" />
@@ -384,6 +380,10 @@
       <jump line="658" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" />
       <jump line="838" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" />
       <jump line="3597" column="44" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3581" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3031" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2894" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2199" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -393,7 +393,7 @@
         <text>date</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDUkVESVRfQ0hFQ0tfQ0hPSUNFU1w+</text>
+        <text encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdldF9jb250YWN0X2F2YWlsYWJpbGl0eS5hZG1pbl9vcmRlcl9maWVsZCA9ICdjb250YWN0X19pc19hdmFpbGFibGUnCg==</text>
@@ -436,9 +436,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDUkVESVRfQ0hFQ0tfQ0hPSUNFU1w+</last-search>
+      <last-search encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDUkVESVRfQ0hFQ0tfQ0hPSUNFU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>-1</last-dir>
@@ -446,8 +446,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY3Rpdml0eV90eXBlXD4=</entry>
-        <entry encoding="base64">XDxTTVNSZWxhdGVkT2JqZWN0XD4=</entry>
         <entry encoding="base64">XDxQUk9EX0xPR0lOXD4=</entry>
         <entry encoding="base64">XDxyZXN0b3JlX2RiX2Zvcl9kZXZcPg==</entry>
         <entry encoding="base64">XDxDbGllbnRBZG1pblw+</entry>
@@ -466,6 +464,8 @@
         <entry>result.append</entry>
         <entry>proof</entry>
         <entry encoding="base64">XDxDUkVESVRfQ0hFQ0tfQ0hPSUNFU1w+</entry>
+        <entry encoding="base64">XDxDYXJyaWVyTGlzdFw+</entry>
+        <entry encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
