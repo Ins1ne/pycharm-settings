@@ -3,25 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1476367076625">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="2" column="48" />
-        <mark key="]" line="2" column="51" />
-        <mark key="^" line="2" column="51" />
-        <mark key="." line="2" column="51" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
-        <mark key="'" line="58" column="38" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1476695012348">
-        <mark key="'" line="33" column="13" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" timestamp="1476447524399">
-        <mark key="'" line="838" column="4" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
-        <mark key="'" line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1476366567354">
         <mark key="'" line="749" column="6" />
         <mark key="[" line="695" column="0" />
@@ -36,6 +17,16 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1476367076625">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="2" column="48" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
+        <mark key="'" line="58" column="38" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476435351813">
         <mark key="'" line="903" column="67" />
         <mark key="^" line="758" column="58" />
@@ -46,6 +37,12 @@
         <mark key="^" line="152" column="11" />
         <mark key="." line="152" column="11" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="13" column="122" />
+        <mark key="^" line="13" column="122" />
+        <mark key="." line="13" column="122" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/.gitignore" timestamp="1476695433992">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
@@ -55,16 +52,18 @@
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1476474237416">
         <mark key="'" line="277" column="9" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476695039310">
-        <mark key="'" line="2751" column="8" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" timestamp="1476447524399">
+        <mark key="'" line="838" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
-        <mark key="[" line="12" column="46" />
-        <mark key="]" line="13" column="122" />
-        <mark key="^" line="13" column="122" />
-        <mark key="." line="13" column="122" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476697563696">
+        <mark key="'" line="2601" column="14" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1476693152316" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1476695012348">
+        <mark key="'" line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
+        <mark key="'" line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476695060069">
         <mark key="'" line="104" column="34" />
       </file>
@@ -73,20 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/vagrant/crm/.env" />
-      <jump line="758" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="1645" column="35" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="938" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="918" column="28" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="875" column="30" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="871" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="831" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="824" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="919" column="32" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/models.py" />
-      <jump line="394" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="782" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
-      <jump line="398" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
       <jump line="783" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
       <jump line="785" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
       <jump line="786" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
@@ -173,6 +158,20 @@
       <jump line="52" column="48" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/crm_hr/timesheet_form.html" />
       <jump line="77" column="32" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/crm_hr/timesheet_form.html" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/crm/.gitignore" />
+      <jump line="2440" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2264" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2249" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2174" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2140" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1452" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="497" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="486" column="25" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3822" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3441" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2950" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2883" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2791" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2601" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -182,7 +181,7 @@
         <text encoding="base64">d2luZG93LmxvY2F0aW9uLm9yaWdpbiArIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc3VwZXJ2aXNvcl9yZWRpcmVjdF91cmxcPg==</text>
+        <text encoding="base64">XDxUaW1lU2hlZXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">d2luZG93LmxvY2F0aW9uLm9yaWdpbiArIA==</text>
@@ -220,9 +219,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc3VwZXJ2aXNvcl9yZWRpcmVjdF91cmxcPg==</last-search>
+      <last-search encoding="base64">XDxUaW1lU2hlZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc3VwZXJ2aXNvcl9yZWRpcmVjdF91cmxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUaW1lU2hlZXRcPg==</last-pattern>
       <last-replace>0</last-replace>
       <last-substitute>0.0</last-substitute>
       <last-dir>-1</last-dir>
@@ -230,7 +229,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvc1w+</entry>
         <entry>local</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
         <entry encoding="base64">XDxEQVRFVElNRV9GT1JNQVRcPg==</entry>
@@ -250,6 +248,7 @@
         <entry encoding="base64">XDxkb19ub3RfYXBwcm92ZVw+</entry>
         <entry encoding="base64">XDxnZXRfdGhhbmtfeW91X3VybFw+</entry>
         <entry encoding="base64">XDxnZXRfc3VwZXJ2aXNvcl9yZWRpcmVjdF91cmxcPg==</entry>
+        <entry encoding="base64">XDxUaW1lU2hlZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
