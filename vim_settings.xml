@@ -29,27 +29,8 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/static/admin/css/crm_hr.css" timestamp="1476732592537">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="13" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476732743345">
-        <mark key="[" line="3085" column="39" />
-        <mark key="]" line="3085" column="48" />
-        <mark key="." line="3085" column="48" />
-        <mark key="^" line="3085" column="48" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476732891298">
-        <mark key="'" line="202" column="38" />
-        <mark key="[" line="226" column="56" />
-        <mark key="]" line="226" column="55" />
-        <mark key="^" line="226" column="55" />
-        <mark key="." line="226" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
         <mark key="[" line="12" column="46" />
@@ -83,9 +64,6 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476725595460">
         <mark key="e" line="2479" column="0" />
         <mark key="'" line="2172" column="16" />
-        <mark key="[" line="3514" column="0" />
-        <mark key="]" line="3514" column="0" />
-        <mark key="." line="3514" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1476695012348">
         <mark key="'" line="33" column="13" />
@@ -100,8 +78,6 @@
         <mark key="'" line="531" column="4" />
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="58" />
-        <mark key="^" line="1664" column="18" />
-        <mark key="." line="1664" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/timesheetfilling_change.html" timestamp="1476731368282">
         <mark key="[" line="8" column="0" />
