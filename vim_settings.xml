@@ -27,12 +27,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476725955918">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476727807581">
         <mark key="'" line="3068" column="21" />
-        <mark key="[" line="3076" column="31" />
-        <mark key="]" line="3076" column="31" />
-        <mark key="." line="3076" column="31" />
-        <mark key="^" line="3073" column="61" />
+        <mark key="[" line="3077" column="22" />
+        <mark key="]" line="3077" column="22" />
+        <mark key="." line="3077" column="22" />
+        <mark key="^" line="3077" column="22" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476704189506">
         <mark key="'" line="226" column="13" />
@@ -190,43 +190,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'time_sheet'</text>
+        <text>(
+                'shift_started_at', 'shift_ended_at', 'break_started_at', 'break_ended_at',
+                'recruitee_signed_at', 'supervisor_signed_at')</text>
       </register>
       <register name="-" type="4">
-        <text>'time_sheet'</text>
+        <text>break_ended_at</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lX3NoZWV0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAoTm9uZSwgewogICAgICAgICAgICAnZmllbGRzJzogWyd0eXBlJywgJ3RpbWVfc2hlZXQnXQogICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAoTm9uZSwgewogICAgICAgICAgICAnZmllbGRzJzogKCgnYnJlYWtfc3RhcnRlZF9hdCcsICdicmVha19lbmRlZF9hdCcpLCkKICAgICAgICB9KSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICMgbGlzdF9lZGl0YWJsZSA9IFsnZm9ybV9zdWJtaXR0ZWQnXQo=</text>
+      <register name="1" type="4">
+        <text>(
+                'shift_started_at', 'shift_ended_at', 'break_started_at', 'break_ended_at',
+                'recruitee_signed_at', 'supervisor_signed_at')</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X3JlYWRvbmx5X2ZpZWxkcyhzZWxmLCByZXF1ZXN0LCBvYmo9Tm9uZSk6CiAgICAgICAgcmVhZG9ubHlfZmllbGRzID0gW10KICAgICAgICBmb3IgZmllbGQgaW4gc2VsZi5tb2RlbC5fbWV0YS5maWVsZHM6CiAgICAgICAgICAgIHJlYWRvbmx5X2ZpZWxkcy5hcHBlbmQoZmllbGQubmFtZSkKCiAgICAgICAgcmV0dXJuIHJlYWRvbmx5X2ZpZWxkcwo=</text>
+        <text encoding="base64">ICAgICAgICAoXygiUHJldmlvdXMgdmFsdWVzIiksIHsKICAgICAgICAgICAgJ2ZpZWxkcyc6ICgKICAgICAgICAgICAgICAgICdzaGlmdF9zdGFydGVkX2F0JywgJ3NoaWZ0X2VuZGVkX2F0JywgJ2JyZWFrX3N0YXJ0ZWRfYXQnLCAnYnJlYWtfZW5kZWRfYXQnLAogICAgICAgICAgICAgICAgJ3JlY3J1aXRlZV9zaWduZWRfYXQnLCAnc3VwZXJ2aXNvcl9zaWduZWRfYXQnKQogICAgICAgIH0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzNfMzBfcG0K</text>
+        <text encoding="base64">ICAgICMgbGlzdF9lZGl0YWJsZSA9IFsnZm9ybV9zdWJtaXR0ZWQnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzEyXzMwX3BtCg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X3JlYWRvbmx5X2ZpZWxkcyhzZWxmLCByZXF1ZXN0LCBvYmo9Tm9uZSk6CiAgICAgICAgcmVhZG9ubHlfZmllbGRzID0gW10KICAgICAgICBmb3IgZmllbGQgaW4gc2VsZi5tb2RlbC5fbWV0YS5maWVsZHM6CiAgICAgICAgICAgIHJlYWRvbmx5X2ZpZWxkcy5hcHBlbmQoZmllbGQubmFtZSkKCiAgICAgICAgcmV0dXJuIHJlYWRvbmx5X2ZpZWxkcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzEyX3BtCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzNfMzBfcG0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzdfYW0K</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzEyXzMwX3BtCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzEyX3BtCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBzdXBlcnZpc29yID0gbW9kZWxzLkZvcmVpZ25LZXkoCiAgICAgICAgQ2xpZW50Q29udGFjdCwKICAgICAgICByZWxhdGVkX25hbWU9InN1cGVydmlzZWRfdGltZV9zaGVldHMiLAogICAgICAgIG9uX2RlbGV0ZT1tb2RlbHMuUFJPVEVDVCwKICAgICAgICB2ZXJib3NlX25hbWU9XygiU3VwZXJ2aXNvciIpLAogICAgICAgIGJsYW5rPVRydWUsCiAgICAgICAgbnVsbD1UcnVlCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0PXRvZGF5XzdfYW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
