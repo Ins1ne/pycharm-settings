@@ -89,15 +89,14 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" timestamp="1476786158925">
-        <mark key="'" line="31" column="6" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" timestamp="1476793772793">
+        <mark key="'" line="101" column="21" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1750" column="36" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1742" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1734" column="29" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1671" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -193,10 +192,11 @@
       <jump line="222" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="254" column="9" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="382" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="648" column="20" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
-      <jump line="101" column="21" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
       <jump line="31" column="6" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
       <jump line="186" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
+      <jump line="648" column="20" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
+      <jump line="101" column="21" filename="$USER_HOME$/vagrant/crm/pepro/core/custom_admin_models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
