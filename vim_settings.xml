@@ -21,9 +21,9 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476858845960">
         <mark key="'" line="2241" column="17" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476859381563">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476860355233">
         <mark key="'" line="126" column="30" />
-        <mark key="[" line="122" column="4" />
+        <mark key="[" line="126" column="38" />
         <mark key="]" line="122" column="24" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
