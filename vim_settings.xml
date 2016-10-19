@@ -17,11 +17,11 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476869849033">
         <mark key="'" line="220" column="37" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476861101469">
-        <mark key="[" line="11" column="106" />
-        <mark key="]" line="11" column="105" />
-        <mark key="^" line="11" column="105" />
-        <mark key="." line="11" column="105" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476880549259">
+        <mark key="[" line="128" column="28" />
+        <mark key="]" line="128" column="28" />
+        <mark key="^" line="128" column="28" />
+        <mark key="." line="128" column="28" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/crm_hr/timesheet_form.html" timestamp="1476730701138">
         <mark key="'" line="73" column="0" />
@@ -43,12 +43,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476869416926">
-        <mark key="'" line="956" column="6" />
-        <mark key="[" line="981" column="24" />
-        <mark key="]" line="981" column="44" />
-        <mark key="^" line="981" column="44" />
-        <mark key="." line="981" column="44" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1476880527056">
+        <mark key="[" line="2964" column="42" />
+        <mark key="]" line="2964" column="64" />
+        <mark key="." line="2964" column="64" />
+        <mark key="^" line="2964" column="64" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1476860976465">
         <mark key="'" line="32" column="51" />
@@ -83,9 +82,9 @@
         <mark key="]" line="936" column="98" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1476871674069">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
         <mark key="'" line="0" column="9" />
@@ -101,8 +100,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1381" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="1385" column="49" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1389" column="50" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1832" column="28" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1700" column="9" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -201,13 +198,15 @@
       <jump line="149" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="220" column="37" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="173" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
+      <jump line="1467" column="53" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2007" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X3ZlcmlmaWNhdGlvbl9ldmlkZW5jZShzZWxmLCBvYmopOgogICAgICAgIHJldHVybiAnYWFhYWFhYWEnCiAgICBnZXRfdmVyaWZpY2F0aW9uX2V2aWRlbmNlLnNob3J0X2Rlc2NyaXB0aW9uID0gJ1ZlcmljaWNhdGlvbicK</text>
+      <register name="&quot;" type="4">
+        <text>VacancyOffer cancelled</text>
       </register>
       <register name="-" type="4">
-        <text>date_format(obj.credit_check_date, settings.DATE_FORMAT)</text>
+        <text>VacancyOffer cancelled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNydWl0ZWVUYWdJbmxpbmVcPg==</text>
