@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476954024043">
-        <mark key="'" line="3151" column="6" />
-        <mark key="[" line="3154" column="45" />
-        <mark key="]" line="3154" column="50" />
-        <mark key="^" line="3154" column="44" />
-        <mark key="." line="3154" column="46" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476955572608">
+        <mark key="'" line="3203" column="24" />
+        <mark key="[" line="3195" column="64" />
+        <mark key="]" line="3195" column="64" />
+        <mark key="^" line="3200" column="24" />
+        <mark key="." line="3195" column="64" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476886128587">
         <mark key="'" line="16" column="103" />
@@ -115,7 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1020" column="9" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="992" column="44" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="988" column="35" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="983" column="35" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -215,63 +214,63 @@
       <jump line="2889" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="3177" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="3151" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
+      <jump line="3199" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get_</text>
+        <text>client.</text>
       </register>
       <register name="-" type="4">
-        <text>get_</text>
+        <text>client.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCbGFja0xpc3RBZG1pblw+</text>
+        <text>recruitee_contact</text>
       </register>
-      <register name="0" type="4">
-        <text>.primary_contact</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsaW5rID0gcmV2ZXJzZSgnYWRtaW46e2FwcH1fe21vZGVsfV9jaGFuZ2UnLmZvcm1hdCgKICAgICAgICAgICAgYXBwPW9iai5jbGllbnQucHJpbWFyeV9jb250YWN0Ll9tZXRhLmFwcF9sYWJlbCwKICAgICAgICAgICAgbW9kZWw9b2JqLmNsaWVudC5wcmltYXJ5X2NvbnRhY3QuX21ldGEubW9kZWxfbmFtZSwKICAgICAgICApLCBhcmdzPVtvYmouY2xpZW50LnByaW1hcnlfY29udGFjdC5pZF0pCiAgICAgICAgcmV0dXJuIG1hcmtfc2FmZSgnPGEgaHJlZj0ie30iPnt9PC9hPicuZm9ybWF0KGxpbmssIG9iai5jbGllbnQucHJpbWFyeV9jb250YWN0KSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA1MDogeyduZWVkcyc6IHsnc3RhdGUnOiBbMTBdLCAncmVxdWlyZW1lbnQnOiBbJ2lzX2luaXRpYWxfdGltZV9zaGVldF9jb25maXJtZWQnXX19LAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLnByaW1hcnlfY29udGFjdC5jb250YWN0LmVtYWlsLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QucGhvbmVfbW9iaWxlLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rID0gcmV2ZXJzZSgnYWRtaW46e2FwcH1fe21vZGVsfV9jaGFuZ2UnLmZvcm1hdCgKICAgICAgICAgICAgYXBwPW9iai5fbWV0YS5hcHBfbGFiZWwsCiAgICAgICAgICAgIG1vZGVsPW9iai5wcmltYXJ5X2NvbnRhY3QuX21ldGEubW9kZWxfbmFtZSwKICAgICAgICApLCBhcmdzPVtdKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA1MDogeyduZWVkcyc6IHsnc3RhdGUnOiBbMTBdLCAncmVxdWlyZW1lbnQnOiBbJ2lzX2luaXRpYWxfdGltZV9zaGVldF9jb25maXJtZWQnXX19LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLnByaW1hcnlfY29udGFjdC5jb250YWN0LmVtYWlsLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QucGhvbmVfbW9iaWxlLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBvYmoucHJpbWFyeV9jb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5rID0gcmV2ZXJzZSgnYWRtaW46e2FwcH1fe21vZGVsfV9jaGFuZ2UnLmZvcm1hdCgKICAgICAgICAgICAgYXBwPW9iai5fbWV0YS5hcHBfbGFiZWwsCiAgICAgICAgICAgIG1vZGVsPW9iai5wcmltYXJ5X2NvbnRhY3QuX21ldGEubW9kZWxfbmFtZSwKICAgICAgICApLCBhcmdzPVtdKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChsaW5rKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiBvYmoucHJpbWFyeV9jb250YWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChsaW5rKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCbGFja0xpc3RBZG1pblw+</last-search>
+      <last-search>recruitee_contact</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCbGFja0xpc3RBZG1pblw+</last-pattern>
-      <last-replace>0</last-replace>
-      <last-substitute>0.0</last-substitute>
+      <last-pattern>recruitee_contact</last-pattern>
+      <last-replace>timesheet</last-replace>
+      <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXT1JLRkxPV19SVUxFU1w+</entry>
         <entry encoding="base64">XDxXb3JrZmxvd1Byb2Nlc3NcPg==</entry>
         <entry encoding="base64">XDxnZXRfYWN0aXZlX3N0YXRlc1w+</entry>
         <entry encoding="base64">XDxfXD4=</entry>
@@ -291,6 +290,7 @@
         <entry encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</entry>
         <entry encoding="base64">XDxCbGFja0xpc3RBZG1pblw+</entry>
+        <entry>recruitee_contact</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
@@ -302,6 +302,7 @@
         <entry>s/0.0/0/g</entry>
         <entry>x</entry>
         <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL3JlY3J1aXRlZV9jb250YWN0L3RpbWVzaGVldC9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
