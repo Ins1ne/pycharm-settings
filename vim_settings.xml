@@ -35,12 +35,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476960715317">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1476961792834">
         <mark key="'" line="499" column="0" />
-        <mark key="[" line="3239" column="39" />
-        <mark key="]" line="3239" column="45" />
-        <mark key="^" line="3239" column="45" />
-        <mark key="." line="3239" column="45" />
+        <mark key="[" line="3242" column="109" />
+        <mark key="]" line="3242" column="115" />
+        <mark key="." line="3242" column="109" />
+        <mark key="^" line="3239" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1476886128587">
         <mark key="'" line="16" column="103" />
@@ -218,7 +218,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Order</text>
+        <text>.order</text>
       </register>
       <register name="-" type="4">
         <text>Order</text>
@@ -226,35 +226,35 @@
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlclw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIGdldF9vcmRlcihzZWxmLCBvYmopOgogICAgICAgIHBhc3MKICAgIGdldF9vcmRlci5zaG9ydF9kZXNjcmlwdGlvbiA9IF8oJ09yZGVyJykK</text>
+      <register name="0" type="4">
+        <text>.order</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgc2VhcmNoX2ZpZWxkcyA9ICgnaWQnLCAnY2xpZW50X19wcmltYXJ5X2NvbnRhY3RfX2NvbnRhY3RfX2ZpcnN0X25hbWUnLCAnam9ic2l0ZV9fc2l0ZV9uYW1lJywgJ3JlY3J1aXRlZV9jb250YWN0X19maXJzdF9uYW1lJywgJ3RpbWVzaGVldCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgc2VhcmNoX2ZpZWxkcyA9ICgnaWQnLCAnY2xpZW50X19wcmltYXJ5X2NvbnRhY3RfX2NvbnRhY3RfX2ZpcnN0X25hbWUnLCAnam9ic2l0ZV9fc2l0ZV9uYW1lJywgJ3JlY3J1aXRlZV9jb250YWN0X19maXJzdF9uYW1lJywgJ3RpbWVzaGVldCcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA1MDogeyduZWVkcyc6IHsnc3RhdGUnOiBbMTBdLCAncmVxdWlyZW1lbnQnOiBbJ2lzX2luaXRpYWxfdGltZV9zaGVldF9jb25maXJtZWQnXX19LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLnByaW1hcnlfY29udGFjdC5jb250YWN0LmVtYWlsLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QucGhvbmVfbW9iaWxlLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5rID0gcmV2ZXJzZSgnYWRtaW46e2FwcH1fe21vZGVsfV9jaGFuZ2UnLmZvcm1hdCgKICAgICAgICAgICAgYXBwPW9iai5fbWV0YS5hcHBfbGFiZWwsCiAgICAgICAgICAgIG1vZGVsPW9iai5wcmltYXJ5X2NvbnRhY3QuX21ldGEubW9kZWxfbmFtZSwKICAgICAgICApLCBhcmdzPVtdKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA1MDogeyduZWVkcyc6IHsnc3RhdGUnOiBbMTBdLCAncmVxdWlyZW1lbnQnOiBbJ2lzX2luaXRpYWxfdGltZV9zaGVldF9jb25maXJtZWQnXX19LAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiBvYmoucHJpbWFyeV9jb250YWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLnByaW1hcnlfY29udGFjdC5jb250YWN0LmVtYWlsLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QucGhvbmVfbW9iaWxlLAogICAgICAgICAgICBvYmoucHJpbWFyeV9jb250YWN0LmNvbnRhY3QK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
