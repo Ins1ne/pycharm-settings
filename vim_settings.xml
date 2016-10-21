@@ -41,6 +41,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477084734720">
+        <mark key="'" line="525" column="8" />
+        <mark key="[" line="2094" column="92" />
+        <mark key="]" line="2094" column="92" />
+        <mark key="^" line="2094" column="92" />
+        <mark key="." line="2094" column="92" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1476860976465">
         <mark key="'" line="32" column="51" />
         <mark key="[" line="6" column="0" />
@@ -80,9 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1933" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="980" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="978" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="981" column="56" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="956" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1926" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -180,13 +184,16 @@
       <jump line="2357" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2360" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2359" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2343" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="530" column="60" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="525" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>send_placement_acceptance_sms</text>
+        <text>skill__active=skill_active</text>
       </register>
       <register name="-" type="4">
-        <text>Order</text>
+        <text>skill__active=skill_active</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</text>
