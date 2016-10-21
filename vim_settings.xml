@@ -48,8 +48,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477059616520">
-        <mark key="'" line="2357" column="14" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477074108227">
+        <mark key="'" line="2359" column="43" />
         <mark key="[" line="2286" column="0" />
         <mark key="]" line="2286" column="0" />
         <mark key="^" line="2969" column="64" />
@@ -181,8 +181,6 @@
       <jump line="501" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="371" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="2718" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="2360" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="2359" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1983" column="30" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2274" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2171" column="30" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -194,6 +192,8 @@
       <jump line="2115" column="30" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2050" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2357" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2360" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2359" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -203,7 +203,7 @@
         <text>Order</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb29raW5nU3RhdGVcPg==</text>
+        <text encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</text>
       </register>
       <register name="0" type="4">
         <text>send_placement_acceptance_sms</text>
@@ -240,9 +240,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb29raW5nU3RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb29raW5nU3RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -267,9 +267,9 @@
         <entry encoding="base64">XDxPcmRlclw+</entry>
         <entry encoding="base64">XDxnb2luZ190b193b3JrX2NvbmZpcm1hdGlvblw+</entry>
         <entry>send_booking_sms</entry>
-        <entry encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</entry>
         <entry>send_placement_acceptance_sms</entry>
         <entry encoding="base64">XDxCb29raW5nU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
