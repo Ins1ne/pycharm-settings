@@ -3,10 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1476366567354">
+        <mark key="'" line="749" column="6" />
+        <mark key="[" line="695" column="0" />
+        <mark key="]" line="699" column="28" />
+        <mark key="^" line="331" column="14" />
+        <mark key="." line="331" column="14" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/booking/edit_inline/stacked.html" timestamp="1476279564743">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="67" column="30" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+        <mark key="^" line="68" column="23" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/change_form.html" timestamp="1476730051636">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="19" column="13" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/workflow.py" timestamp="1476858262711">
         <mark key="'" line="53" column="8" />
@@ -32,7 +53,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1476474237416">
+      <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477089712277">
         <mark key="'" line="277" column="9" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/timesheetfilling.html" timestamp="1476729988637">
@@ -87,8 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="981" column="56" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="956" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1926" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="149" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="220" column="37" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -187,13 +206,15 @@
       <jump line="2343" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="530" column="60" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="525" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/vagrant/crm/.env" />
+      <jump line="50" column="0" filename="$USER_HOME$/vagrant/crm/.env" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>skill__active=skill_active</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>skill__active=skill_active</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</text>
