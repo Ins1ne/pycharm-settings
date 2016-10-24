@@ -86,15 +86,15 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477341724406">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477342975042">
         <mark key="'" line="63" column="18" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="35" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="100" column="26" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="^" line="91" column="67" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477339356825">
-        <mark key="'" line="960" column="6" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477342695306">
+        <mark key="'" line="3846" column="8" />
         <mark key="[" line="937" column="4" />
         <mark key="]" line="937" column="33" />
         <mark key="." line="937" column="117" />
@@ -125,10 +125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1956" column="38" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="1108" column="27" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="282" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="241" column="9" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="3188" column="51" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1963" column="42" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1967" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -225,40 +221,44 @@
       <jump line="395" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
       <jump line="112" column="22" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
       <jump line="63" column="18" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
+      <jump line="926" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3860" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3849" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3846" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>super(RecruiteeTagForm).clean()</text>
+        <text encoding="base64">YW5kIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</text>
+        <text encoding="base64">XDxUYWdcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhZ19fZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJwo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhZ19fZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIGV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgc2VhcmNoX2ZpZWxkcyA9ICgnaWQnLCAnY2xpZW50X19wcmltYXJ5X2NvbnRhY3RfX2NvbnRhY3RfX2ZpcnN0X25hbWUnLCAnam9ic2l0ZV9fc2l0ZV9uYW1lJywgJ3JlY3J1aXRlZV9jb250YWN0X19maXJzdF9uYW1lJywgJ3RpbWVzaGVldCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgc2VhcmNoX2ZpZWxkcyA9ICgnaWQnLCAnY2xpZW50X19wcmltYXJ5X2NvbnRhY3RfX2NvbnRhY3RfX2ZpcnN0X25hbWUnLCAnam9ic2l0ZV9fc2l0ZV9uYW1lJywgJ3JlY3J1aXRlZV9jb250YWN0X19maXJzdF9uYW1lJywgJ3RpbWVzaGVldCcpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
@@ -271,9 +271,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</last-search>
+      <last-search encoding="base64">XDxUYWdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxUYWdcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -281,7 +281,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtZmllbGRfZm9yX2RiZmllbGRcPg==</entry>
         <entry encoding="base64">XDxDYXJyaWVyTGlzdFw+</entry>
         <entry encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</entry>
@@ -301,6 +300,7 @@
         <entry encoding="base64">XDxSZWNydWl0ZWVUYWdJbmxpbmVcPg==</entry>
         <entry encoding="base64">XDxjbGVhblw+</entry>
         <entry encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxUYWdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
