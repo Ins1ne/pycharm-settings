@@ -59,8 +59,8 @@
         <mark key="^" line="13" column="122" />
         <mark key="." line="13" column="122" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477329083819">
-        <mark key="'" line="379" column="37" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477332329220">
+        <mark key="'" line="149" column="6" />
         <mark key="[" line="3082" column="17" />
         <mark key="]" line="3083" column="38" />
         <mark key="^" line="3083" column="38" />
@@ -216,8 +216,8 @@
       <jump line="3086" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="150" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="221" column="18" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="149" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="379" column="37" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
+      <jump line="149" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
