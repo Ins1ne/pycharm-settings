@@ -86,10 +86,16 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477329063146">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477334906088">
+        <mark key="[" line="78" column="36" />
+        <mark key="]" line="79" column="47" />
+        <mark key="^" line="79" column="47" />
+        <mark key="." line="79" column="47" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477334892863">
         <mark key="'" line="960" column="6" />
-        <mark key="[" line="937" column="71" />
-        <mark key="]" line="937" column="117" />
+        <mark key="[" line="937" column="4" />
+        <mark key="]" line="937" column="33" />
         <mark key="." line="937" column="117" />
         <mark key="^" line="937" column="117" />
       </file>
@@ -220,8 +226,8 @@
       <jump line="379" column="37" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJwo=</text>
+      <register name="&quot;" type="4">
+        <text>evidence_required_for_approval</text>
       </register>
       <register name="-" type="4">
         <text>#</text>
@@ -229,8 +235,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNydWl0ZWVUYWdJbmxpbmVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJwo=</text>
+      <register name="0" type="4">
+        <text>evidence_required_for_approval</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCA9IG1vZGVscy5Cb29sZWFuRmllbGQoZGVmYXVsdD1GYWxzZSkK</text>
