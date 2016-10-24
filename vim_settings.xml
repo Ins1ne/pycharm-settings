@@ -76,8 +76,8 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477310580810">
-        <mark key="'" line="2171" column="26" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477315240641">
+        <mark key="'" line="3257" column="24" />
         <mark key="[" line="2094" column="92" />
         <mark key="]" line="2094" column="92" />
         <mark key="^" line="2094" column="92" />
@@ -108,10 +108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="231" column="52" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="86" column="29" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="94" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" />
-      <jump line="55" column="57" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" />
       <jump line="84" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" />
       <jump line="61" column="53" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" />
       <jump line="88" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" />
@@ -204,10 +200,14 @@
       <jump line="2990" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2989" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2364" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="2281" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2178" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2174" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2171" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2281" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1948" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3268" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3267" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3257" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -217,7 +217,7 @@
         <text>#</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCb29raW5nU3RhdGVcPg==</text>
+        <text encoding="base64">XDxCb29raW5nXD4=</text>
       </register>
       <register name="0" type="4">
         <text>send_placement_acceptance_sms</text>
@@ -254,9 +254,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCb29raW5nU3RhdGVcPg==</last-search>
+      <last-search encoding="base64">XDxCb29raW5nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCb29raW5nU3RhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxCb29raW5nXD4=</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -264,7 +264,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfY3VycmVudF9zdGF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRfY3VycmVudF9zdGF0ZV9ub3Rlc1w+</entry>
         <entry encoding="base64">XDx2ZXJpZmljYXRpb25fZXZpZGVuY2VcPg==</entry>
         <entry encoding="base64">XDx2ZXJpZmljYXRpb25fZXZpZGVuY2VfcGF0aFw+</entry>
@@ -284,6 +283,7 @@
         <entry>send_placement_acceptance_sms</entry>
         <entry encoding="base64">XDxzZW5kX3BsYWNlbWVudF9hY2NlcHRhbmNlX3Ntc1w+</entry>
         <entry encoding="base64">XDxCb29raW5nU3RhdGVcPg==</entry>
+        <entry encoding="base64">XDxCb29raW5nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
