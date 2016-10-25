@@ -59,13 +59,6 @@
         <mark key="^" line="13" column="122" />
         <mark key="." line="13" column="122" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477333542146">
-        <mark key="'" line="379" column="37" />
-        <mark key="[" line="3083" column="0" />
-        <mark key="]" line="3083" column="40" />
-        <mark key="^" line="3083" column="38" />
-        <mark key="." line="3083" column="38" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/.gitignore" timestamp="1476695433992">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="7" column="0" />
