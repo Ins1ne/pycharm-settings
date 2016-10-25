@@ -86,12 +86,12 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477372949550">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477374517338">
         <mark key="'" line="31" column="105" />
-        <mark key="[" line="101" column="21" />
-        <mark key="]" line="93" column="41" />
-        <mark key="." line="93" column="41" />
-        <mark key="^" line="93" column="41" />
+        <mark key="[" line="102" column="31" />
+        <mark key="]" line="102" column="46" />
+        <mark key="." line="102" column="46" />
+        <mark key="^" line="102" column="46" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477342695306">
         <mark key="'" line="3846" column="8" />
@@ -228,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Verification evidence is required for this tag</text>
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>Verification evidence is required for this tag</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcl9jbGFzc1w+</text>
