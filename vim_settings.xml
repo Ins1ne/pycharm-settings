@@ -86,15 +86,8 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477374517338">
-        <mark key="'" line="31" column="105" />
-        <mark key="[" line="102" column="31" />
-        <mark key="]" line="102" column="46" />
-        <mark key="." line="102" column="46" />
-        <mark key="^" line="102" column="46" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477342695306">
-        <mark key="'" line="3846" column="8" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477380208499">
+        <mark key="'" line="1241" column="21" />
         <mark key="[" line="937" column="4" />
         <mark key="]" line="937" column="33" />
         <mark key="." line="937" column="117" />
@@ -125,14 +118,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1290" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="32" column="66" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3810" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3809" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3799" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3758" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3317" column="53" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="1298" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2482" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2254" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2220" column="57" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -225,16 +210,24 @@
       <jump line="378" column="47" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
       <jump line="367" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
       <jump line="31" column="105" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
+      <jump line="2369" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2358" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2051" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1462" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1458" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1443" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="1241" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="102" column="32" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>y</text>
+        <text>To set Verify</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>To set Verify</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlcnJvcl9jbGFzc1w+</text>
+        <text encoding="base64">XDxfc3RhdGVcPg==</text>
       </register>
       <register name="0" type="4">
         <text>Verification evidence is required</text>
@@ -272,9 +265,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlcnJvcl9jbGFzc1w+</last-search>
+      <last-search encoding="base64">XDxfc3RhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlcnJvcl9jbGFzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfc3RhdGVcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -282,7 +275,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</entry>
         <entry encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</entry>
         <entry encoding="base64">XDxCbGFja0xpc3RBZG1pblw+</entry>
         <entry>recruitee_contact</entry>
@@ -302,6 +294,7 @@
         <entry encoding="base64">XDxUYWdcPg==</entry>
         <entry encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9jbGFzc1w+</entry>
+        <entry encoding="base64">XDxfc3RhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
