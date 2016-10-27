@@ -103,11 +103,11 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477574906710">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477587385110">
         <mark key="'" line="67" column="6" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="35" />
-        <mark key="." line="96" column="0" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="35" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
         <mark key="'" line="0" column="9" />
@@ -234,8 +234,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSZWNydWl0ZWVUYWdJbmxpbmVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>b5912edc-93b8-4b28-aa6c-11e56f64fb73</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
