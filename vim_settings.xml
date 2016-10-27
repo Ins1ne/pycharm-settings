@@ -62,12 +62,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477598345751">
-        <mark key="'" line="4012" column="8" />
-        <mark key="[" line="1014" column="36" />
-        <mark key="]" line="1015" column="34" />
-        <mark key="." line="1015" column="34" />
-        <mark key="^" line="1015" column="34" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477604529331">
+        <mark key="'" line="4013" column="8" />
+        <mark key="[" line="1015" column="0" />
+        <mark key="]" line="1015" column="0" />
+        <mark key="." line="1015" column="0" />
+        <mark key="^" line="1016" column="34" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477393694760">
         <mark key="'" line="60" column="16" />
@@ -227,7 +227,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudmVyaWZpZWRfYnkgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>return</text>
@@ -239,13 +239,13 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNlbGYudmVyaWZpZWRfYnkgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHN1cGVyKFJlY3J1aXRlZVRhZ0Zvcm0sIHNlbGYpLnNhdmUoY29tbWl0PWNvbW1pdCkK</text>
+        <text encoding="base64">ICAgICAgICAjIHNlbGYudmVyaWZpZWRfYnkgPSBOb25lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHN1cGVyKFJlY3J1aXRlZVRhZ0Zvcm0sIHNlbGYpLnNhdmUoY29tbWl0PWNvbW1pdCkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
@@ -257,13 +257,13 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGhhc2F0dHIoaW5zdGFuY2UsICd0YWcnKSBhbmQgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWyd2ZXJpZmljYXRpb25fZXZpZGVuY2UnXS5yZXF1aXJlZCA9IFRydWUK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGhhc2F0dHIoaW5zdGFuY2UsICd0YWcnKSBhbmQgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWyd2ZXJpZmljYXRpb25fZXZpZGVuY2UnXS5yZXF1aXJlZCA9IFRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
