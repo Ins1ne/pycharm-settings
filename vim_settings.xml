@@ -68,8 +68,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477548481719">
-        <mark key="'" line="3005" column="8" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477549405426">
+        <mark key="'" line="2150" column="8" />
         <mark key="[" line="2932" column="0" />
         <mark key="]" line="2933" column="33" />
         <mark key="." line="2933" column="33" />
@@ -123,9 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="960" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3086" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="150" column="19" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="221" column="18" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="525" column="35" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="149" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -223,6 +220,9 @@
       <jump line="3028" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2954" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="3004" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2151" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2707" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="2150" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -232,7 +232,7 @@
         <text>To set Verify</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc19yZWN1cnJpbmdcPg==</text>
+        <text encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>b5912edc-93b8-4b28-aa6c-11e56f64fb73</text>
@@ -270,9 +270,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc19yZWN1cnJpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc19yZWN1cnJpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -280,7 +280,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUYWdcPg==</entry>
         <entry encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9jbGFzc1w+</entry>
         <entry encoding="base64">XDxCb29raW5nU3RhdGVcPg==</entry>
@@ -300,6 +299,7 @@
         <entry encoding="base64">XDxwcm9jZXNzX3Ntc19yZXBseVw+</entry>
         <entry encoding="base64">XDxjaGVja192YWNhbmN5X3F1b3RhXD4=</entry>
         <entry encoding="base64">XDxpc19yZWN1cnJpbmdcPg==</entry>
+        <entry encoding="base64">XDxnZXRfb3JfY3JlYXRlX2Zvcl92YWNhbmN5X29mZmVyX2FjY2VwdGVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
