@@ -62,12 +62,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477574817637">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477595755074">
         <mark key="'" line="3839" column="6" />
-        <mark key="[" line="1015" column="55" />
-        <mark key="]" line="1016" column="30" />
-        <mark key="." line="1016" column="30" />
-        <mark key="^" line="1016" column="30" />
+        <mark key="[" line="1017" column="23" />
+        <mark key="]" line="1017" column="52" />
+        <mark key="." line="1017" column="52" />
+        <mark key="^" line="1017" column="52" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477393694760">
         <mark key="'" line="60" column="16" />
