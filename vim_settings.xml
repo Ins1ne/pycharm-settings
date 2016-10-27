@@ -100,12 +100,11 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477568875887">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477571519851">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="99" column="60" />
-        <mark key="]" line="89" column="63" />
-        <mark key="^" line="89" column="63" />
-        <mark key="." line="89" column="63" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="35" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
         <mark key="'" line="0" column="9" />
@@ -239,26 +238,26 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmIGhhc2F0dHIoaW5zdGFuY2UsICd0YWcnKSBhbmQgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWyd2ZXJpZmljYXRpb25fZXZpZGVuY2UnXS5yZXF1aXJlZCA9IFRydWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIGlmIGhhc2F0dHIoaW5zdGFuY2UsICd0YWcnKSBhbmQgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWyd2ZXJpZmljYXRpb25fZXZpZGVuY2UnXS5yZXF1aXJlZCA9IFRydWUK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdWZXJpZmljYXRpb24gZXZpZGVuY2UgaXMgcmVxdWlyZWQnKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>Jobsite must belong to the same client as order and to be in Open state.&quot;
                     &quot; Also it must be available today.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAndGFnJyBpbiBjbGVhCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAndGFnJyBpbiBjbGVhCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
