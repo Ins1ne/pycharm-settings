@@ -39,9 +39,9 @@
         <mark key="'" line="58" column="38" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1477553368217">
-        <mark key="'" line="501" column="4" />
-        <mark key="[" line="371" column="4" />
-        <mark key="]" line="371" column="32" />
+        <mark key="'" line="505" column="4" />
+        <mark key="[" line="375" column="4" />
+        <mark key="]" line="375" column="32" />
         <mark key="^" line="11" column="28" />
         <mark key="." line="11" column="28" />
       </file>
@@ -50,11 +50,12 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="22" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477644829607">
-        <mark key="'" line="381" column="37" />
-        <mark key="[" line="155" column="0" />
-        <mark key="]" line="155" column="0" />
-        <mark key="." line="155" column="0" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477647876680">
+        <mark key="'" line="3277" column="24" />
+        <mark key="[" line="3311" column="21" />
+        <mark key="]" line="3311" column="36" />
+        <mark key="^" line="3311" column="36" />
+        <mark key="." line="3311" column="36" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
@@ -64,13 +65,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477644106970">
-        <mark key="'" line="25" column="61" />
-        <mark key="[" line="1016" column="65" />
-        <mark key="]" line="1017" column="9" />
-        <mark key="." line="1017" column="9" />
-        <mark key="^" line="1017" column="9" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477643705928">
         <mark key="'" line="58" column="27" />
@@ -106,11 +100,8 @@
         <mark key="[" line="933" column="0" />
         <mark key="]" line="936" column="98" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477645064483">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477646483945">
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1476278310219">
         <mark key="'" line="0" column="9" />
@@ -126,7 +117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="6" filename="$USER_HOME$/vagrant/crm/pepro/core/workflow.py" />
       <jump line="2369" column="26" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2358" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2129" column="16" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -226,55 +216,56 @@
       <jump line="58" column="27" filename="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" />
       <jump line="1023" column="22" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="25" column="61" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="3277" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWydldmlkZW5jZV9yZXF1aXJlZF9mb3JfYXBwcm92YWwnXS5pbml0aWFsID0gVHJ1ZQogICAgICAgICAgICAgICAgc2VsZi5maWVsZHNbJ2V2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCddLmRpc2FibGVkID0gVHJ1ZQoK</text>
+      <register name="&quot;" type="4">
+        <text>BlackListAdmin</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW5zdGFuY2UgYW5kIA==</text>
+        <text>BlackListAdmin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfZGVmYXVsdF91c2VyXD4=</text>
+        <text encoding="base64">XDxyZWNydWl0ZWVfY29udGFjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYnknLAogICAgICAgICAgICAndXBkYXRlZF9ieScsCiAgICAgICAgICAgICd0YWcnLAogICAgICAgICAgICAndmVyaWZpZWRfYnknLAogICAgICAgICAgICAndmVyaWZ5JywKICAgICAgICAgICAgJ3ZlcmlmaWNhdGlvbl9ldmlkZW5jZScsCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZm9ybShzZWxmLCByZXF1ZXN0LCBvYmo9Tm9uZSwgKiprd2FyZ3MpOgogICAgICAgIGt3YXJncy5zZXRkZWZhdWx0KCd3aWRnZXRzJywge30pLnVwZGF0ZSh7J2NsaWVudCc6IFNlbGVjdDIoKSwgJ3JlY3J1aXRlZV9jb250YWN0JzogU2VsZWN0MigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ2pvYnNpdGUnOiBTZWxlY3QyKCksICdjbGllbnRfY29udGFjdCc6IFNlbGVjdDIoKX0pCiAgICAgICAgZm9ybSA9IHN1cGVyKEJsYWNrTGlzdEFkbWluLCBzZWxmKS5nZXRfZm9ybShyZXF1ZXN0LCBvYmosICoqa3dhcmdzKQogICAgICAgIGlmIG9iajoKICAgICAgICAgICAgZm9ybS5iYXNlX2ZpZWxkc1siY2xpZW50X2NvbnRhY3QiXS5xdWVyeXNldCA9IENsaWVudENvbnRhY3Qub2JqZWN0cy5maWx0ZXIoY2xpZW50PW9iai5jbGllbnQpCiAgICAgICAgICAgIGZvcm0uYmFzZV9maWVsZHNbImpvYnNpdGUiXS5xdWVyeXNldCA9IG1vZGVscy5Kb2JzaXRlLm9iamVjdHMuZmlsdGVyKGNsaWVudD1vYmouY2xpZW50KQogICAgICAgIHJldHVybiBmb3JtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWydldmlkZW5jZV9yZXF1aXJlZF9mb3JfYXBwcm92YWwnXS5pbml0aWFsID0gVHJ1ZQogICAgICAgICAgICAgICAgc2VsZi5maWVsZHNbJ2V2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCddLmRpc2FibGVkID0gVHJ1ZQoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCA9IGZvcm1zLkJvb2xlYW5GaWVsZChpbml0aWFsPUZhbHNlLCBsYWJlbD1fKCdFdmlkZW5jZSByZXF1aXJlZCBmb3IgYXBwcm92YWwnKSwgcmVxdWlyZWQ9RmFsc2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvYmo6CiAgICAgICAgICAgIGZvcm0uYmFzZV9maWVsZHNbImNsaWVudF9jb250YWN0Il0ucXVlcnlzZXQgPSBDbGllbnRDb250YWN0Lm9iamVjdHMuZmlsdGVyKGNsaWVudD1vYmouY2xpZW50KQogICAgICAgICAgICBmb3JtLmJhc2VfZmllbGRzWyJqb2JzaXRlIl0ucXVlcnlzZXQgPSBtb2RlbHMuSm9ic2l0ZS5vYmplY3RzLmZpbHRlcihjbGllbnQ9b2JqLmNsaWVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgIyBkaXNhYmxlIHVwbG9hZCBldmlkZW5jZSB0bwogICAgICAgIGlmIGluc3RhbmNlIGFuZCBpbnN0YW5jZS50YWcuZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsIGFuZCBpbnN0YW5jZS52ZXJpZmllZF9ieToKICAgICAgICAgICAgc2VsZi5maWVsZHNbJ3ZlcmlmaWNhdGlvbl9ldmlkZW5jZSddLmRpc2FibGVkID0gVHJ1ZQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgICMgaWYgaW5zdGFuY2UudmVyaWZpY2F0aW9uX2V2aWRlbmNlOgogICAgICAgICAgICAjICAgICBzZWxmLmZpZWxkc1sndmVyaWZpY2F0aW9uX2V2aWRlbmNlJ10uZGlzYWJsZWQgPSBUcnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgKICAgICAgICAnY3JlYXRlZF9ieScsCiAgICAgICAgJ3VwZGF0ZWRfYnknLAogICAgICAgICd0YWcnLAogICAgICAgICd0YWdfX2V2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCcsCiAgICAgICAgJ3ZlcmlmaWVkX2J5JywKICAgICAgICAndmVyaWZ5JywKICAgICAgICAndmVyaWZpY2F0aW9uX2V2aWRlbmNlJywKICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW5zdGFuY2UudGFnLmV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbDoKICAgICAgICAgICAgICAgIHNlbGYuZmllbGRzWydldmlkZW5jZV9yZXF1aXJlZF9mb3JfYXBwcm92YWwnXS5pbml0aWFsID0gVHJ1ZQogICAgICAgICAgICAgICAgc2VsZi5maWVsZHNbJ2V2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCddLmRpc2FibGVkID0gVHJ1ZQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGV2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCA9IGZvcm1zLkJvb2xlYW5GaWVsZChpbml0aWFsPUZhbHNlLCBsYWJlbD1fKCdFdmlkZW5jZSByZXF1aXJlZCBmb3IgYXBwcm92YWwnKSwgcmVxdWlyZWQ9RmFsc2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RhZ19fZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJywK</text>
+        <text encoding="base64">CiAgICAgICAgIyBkaXNhYmxlIHVwbG9hZCBldmlkZW5jZSB0bwogICAgICAgIGlmIGluc3RhbmNlIGFuZCBpbnN0YW5jZS50YWcuZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsIGFuZCBpbnN0YW5jZS52ZXJpZmllZF9ieToKICAgICAgICAgICAgc2VsZi5maWVsZHNbJ3ZlcmlmaWNhdGlvbl9ldmlkZW5jZSddLmRpc2FibGVkID0gVHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgaWYgaW5zdGFuY2UudGFnIGFuZCBpbgo=</text>
+        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgKICAgICAgICAnY3JlYXRlZF9ieScsCiAgICAgICAgJ3VwZGF0ZWRfYnknLAogICAgICAgICd0YWcnLAogICAgICAgICd0YWdfX2V2aWRlbmNlX3JlcXVpcmVkX2Zvcl9hcHByb3ZhbCcsCiAgICAgICAgJ3ZlcmlmaWVkX2J5JywKICAgICAgICAndmVyaWZ5JywKICAgICAgICAndmVyaWZpY2F0aW9uX2V2aWRlbmNlJywKICAgICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudmVyaWZpZWRfYnkgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RhZ19fZXZpZGVuY2VfcmVxdWlyZWRfZm9yX2FwcHJvdmFsJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfZGVmYXVsdF91c2VyXD4=</last-search>
+      <last-search encoding="base64">XDxyZWNydWl0ZWVfY29udGFjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfZGVmYXVsdF91c2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNydWl0ZWVfY29udGFjdFw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -282,7 +273,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZWRfcHJvcGVydHlcPg==</entry>
         <entry encoding="base64">XDxyZWNydWl0ZWVfc2lnbmVkX2F0XD4=</entry>
         <entry encoding="base64">XDxTTVNNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxTTVNSZWxhdGVkT2JqZWN0XD4=</entry>
@@ -302,6 +292,7 @@
         <entry encoding="base64">XDxkZWZhdWx0X3VzZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRfY3VycmVudF9yZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRfZGVmYXVsdF91c2VyXD4=</entry>
+        <entry encoding="base64">XDxyZWNydWl0ZWVfY29udGFjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
