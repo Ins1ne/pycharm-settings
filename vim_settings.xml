@@ -65,10 +65,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477907248809">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477929202142">
         <mark key="'" line="277" column="6" />
-        <mark key="[" line="3100" column="0" />
-        <mark key="]" line="3100" column="12" />
+        <mark key="[" line="3101" column="42" />
+        <mark key="]" line="3102" column="118" />
         <mark key="." line="3100" column="12" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477643705928">
@@ -224,8 +224,9 @@
       <jump line="403" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNraWxscykKICAgIHByaW50KHNraWxscy5xdWVyeSkK</text>
+      <register name="&quot;" type="4">
+        <text>target_date_and_time__range=(self.target_date_and_time - timedelta(hours=16),
+                                                                       self.target_date_and_time + timedelta(hours=16))</text>
       </register>
       <register name="-" type="4">
         <text>, 'contact')</text>
@@ -233,8 +234,9 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwaWN0dXJlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZpZWxkcyc6ICgnY29udGFjdCcsICdyZWNydWl0bWVudF9hZ2VudCcsICgnYWNjb3VudF9ub3RlcycsICdjb250YWN0JykpLAo=</text>
+      <register name="0" type="4">
+        <text>target_date_and_time__range=(self.target_date_and_time - timedelta(hours=16),
+                                                                       self.target_date_and_time + timedelta(hours=16))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KHNraWxscykKICAgIHByaW50KHNraWxscy5xdWVyeSkK</text>
