@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1477904873063">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1477906384468">
         <mark key="'" line="140" column="4" />
-        <mark key="[" line="157" column="72" />
-        <mark key="]" line="158" column="44" />
-        <mark key="^" line="158" column="44" />
-        <mark key="." line="158" column="44" />
+        <mark key="[" line="159" column="47" />
+        <mark key="]" line="160" column="19" />
+        <mark key="^" line="160" column="19" />
+        <mark key="." line="160" column="19" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/crm_hr/timesheet_form.html" timestamp="1476730701138">
         <mark key="'" line="73" column="0" />
