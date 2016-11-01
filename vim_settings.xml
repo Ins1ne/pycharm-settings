@@ -44,13 +44,6 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="22" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478007231911">
-        <mark key="'" line="3547" column="15" />
-        <mark key="[" line="345" column="78" />
-        <mark key="]" line="345" column="80" />
-        <mark key="^" line="345" column="59" />
-        <mark key="." line="345" column="78" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
@@ -118,7 +111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" />
       <jump line="955" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1027" column="76" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="1026" column="59" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -218,6 +210,7 @@
       <jump line="3281" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="3245" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="3122" column="21" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
+      <jump line="374" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -227,7 +220,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</text>
+        <text encoding="base64">XDxIRUFEXD4=</text>
       </register>
       <register name="0" type="4">
         <text>recruitee_skills__recruitee_contact__carrier_lists__vacancy_offer__target_date_and_time__range=(
@@ -266,9 +259,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</last-search>
+      <last-search encoding="base64">XDxIRUFEXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxIRUFEXD4=</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -276,7 +269,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfZGVmYXVsdF91c2VyXD4=</entry>
         <entry encoding="base64">XDxyZWNydWl0ZWVfY29udGFjdFw+</entry>
         <entry encoding="base64">XDxTa2lsbFw+</entry>
         <entry encoding="base64">XDx0YXJnZXRfZGF0ZV9hbmRfdGltZVw+</entry>
@@ -296,6 +288,7 @@
         <entry encoding="base64">XDxzaGlmdF9zdGFydGVkX2F0XD4=</entry>
         <entry encoding="base64">XDxWQUNBTkNZX0ZJTExJTkdfVElNRV9ERUxUQVw+</entry>
         <entry encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</entry>
+        <entry encoding="base64">XDxIRUFEXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
