@@ -43,8 +43,11 @@
         <mark key="[" line="73" column="0" />
         <mark key="]" line="73" column="22" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1477999251623">
-        <mark key="'" line="1342" column="41" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478002635925">
+        <mark key="[" line="345" column="78" />
+        <mark key="]" line="345" column="80" />
+        <mark key="^" line="345" column="59" />
+        <mark key="." line="345" column="78" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
@@ -54,12 +57,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1477999557376">
-        <mark key="'" line="2307" column="33" />
-        <mark key="[" line="3101" column="42" />
-        <mark key="]" line="3102" column="118" />
-        <mark key="." line="3100" column="12" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477643705928">
         <mark key="'" line="58" column="27" />
@@ -218,11 +215,11 @@
       <jump line="2307" column="33" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoU01TTWVzc2FnZS5vYmplY3RzLmZpbHRlcigKICAgICAgICAgICAgICAgIHRleHRfX2NvbnRhaW5zPXNtc19kYXRhWyd0YXJnZXRfZGF0ZV9hbmRfdGltZSddLAogICAgICAgICAgICAgICAgc2VudF9hdF9fZGF0ZT1kYXRlLnRvZGF5KCksCiAgICAgICAgICAgICAgICB0b19udW1iZXI9YXZhaWxhYmxlX3JlY3J1aXRlZV9jb250YWN0LmNvbnRhY3QucGhvbmVfbW9iaWxlKS5xdWVyeSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>, time(0, 0)),</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb3ZlX3JlY3J1aXRlZV90b19jYXJyaWVyX2xpc3RcPg==</text>
