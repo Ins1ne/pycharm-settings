@@ -38,12 +38,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1477981535943">
-        <mark key="'" line="1" column="43" />
-        <mark key="[" line="163" column="32" />
-        <mark key="]" line="163" column="73" />
-        <mark key="." line="163" column="73" />
-        <mark key="^" line="163" column="73" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1477983947137">
+        <mark key="'" line="20" column="29" />
+        <mark key="[" line="152" column="76" />
+        <mark key="]" line="152" column="97" />
+        <mark key="." line="152" column="97" />
+        <mark key="^" line="152" column="97" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/crm_hr/timesheet_form.html" timestamp="1476730701138">
         <mark key="'" line="73" column="0" />
@@ -127,7 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2746" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2741" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2732" column="24" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2725" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -185,7 +184,6 @@
       <jump line="727" column="59" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="545" column="52" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="98" column="39" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
-      <jump line="141" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="143" column="81" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="148" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="276" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
@@ -227,51 +225,53 @@
       <jump line="161" column="32" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="593" column="23" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
       <jump line="1" column="43" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
+      <jump line="141" column="27" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
+      <jump line="20" column="29" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>target_date_and_time + timedelta(hours=16)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB+UShyZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLCB0YXJnZXRfZGF0ZV9hbmRfdGltZSArIHRpbWVkZWx0YShob3Vycz0xNikKICAgICAgICApKSwK</text>
       </register>
       <register name="-" type="4">
-        <text>target_date_and_time + timedelta(hours=16)</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aW1lZGVsdGFcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUsIGRhdGUsIHRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ICAgICAgICB+UShyZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLCB0YXJnZXRfZGF0ZV9hbmRfdGltZSArIHRpbWVkZWx0YShob3Vycz0xNikKICAgICAgICApKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+        <text encoding="base64">ICAgICAgICB+UShyZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLCB0YXJnZXRfZGF0ZV9hbmRfdGltZSArIHRpbWVkZWx0YShob3Vycz0xNikKICAgICAgICApKSwK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB+UShyZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgpKSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZSwgZGF0ZXRpbWUsIHRpbWVkZWx0YQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>SMSMessage.objects.filter(
                     text__contains=sms_data['target_date_and_time'],
                     # sent_at__range=(target_date_and_time - timedelta(hours=16),
                     #                 target_date_and_time + timedelta(hours=16)),
                     to_number=available_recruitee_contacts.contact.phone_number).exist()</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHNlbnRfYXRfX3JhbmdlPSgnMScsICcyJyksCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="7" type="8">
         <text>self.
 self.</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50KHNraWxscykKICAgIHByaW50KHNraWxscy5xdWVyeSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2ZpZWxkcyc6ICgncmVjcnVpdG1lbnRfYWdlbnQnLCAoJ2FjY291bnRfbm90ZXMnLCAnY29udGFjdCcpKSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgQ2Fycmllckxpc3Qub2JqZWN0cy5maWx0ZXIocmVjcnVpdGVlX2NvbnRhY3Q9c2VsZi5yZWNydWl0ZWVfY29udGFjdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPShzZWxmLnRhcmdldF9kYXRlX2FuZF90aW1lIC0gdGltZWRlbHRhKGhvdXJzPTE2KSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnRhcmdldF9kYXRlX2FuZF90aW1lICsgdGltZWRlbHRhKGhvdXJzPTE2KSkpLmV4aXN0cygpOgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBDYXJyaWVyTGlzdC5vYmplY3RzLmZpbHRlcigKICAgICAgICAgICAgICAgIHJlY3J1aXRlZV9jb250YWN0PXNlbGYucmVjcnVpdGVlX2NvbnRhY3QsCiAgICAgICAgICAgICAgICB0YXJnZXRfZGF0ZV9hbmRfdGltZV9fcmFuZ2U9KHNlbGYudGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnRhcmdldF9kYXRlX2FuZF90aW1lICsgdGltZWRlbHRhKGhvdXJzPTE2KSkpLmV4aXN0cygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2ZpZWxkcyc6ICgncmVjcnVpdG1lbnRfYWdlbnQnLCAoJ2FjY291bnRfbm90ZXMnLCAnY29udGFjdCcpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
