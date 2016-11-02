@@ -38,11 +38,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478078630748">
-        <mark key="'" line="267" column="27" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478081390052">
+        <mark key="'" line="266" column="27" />
+        <mark key="[" line="176" column="35" />
+        <mark key="]" line="177" column="73" />
+        <mark key="." line="177" column="73" />
+        <mark key="^" line="177" column="73" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478075636867">
         <mark key="'" line="1218" column="48" />
@@ -102,8 +103,8 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477646483945">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1477999074326">
-        <mark key="'" line="485" column="0" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1478081433955">
+        <mark key="'" line="484" column="28" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -113,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="283" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="403" column="34" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="108" column="17" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
@@ -213,13 +213,14 @@
       <jump line="999" column="31" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1217" column="90" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="1218" column="48" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
+      <jump line="484" column="28" filename="$USER_HOME$/vagrant/crm/pepro/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5X21lc3NhZ2VfX2lzbnVsbD1GYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text encoding="base64">IGFuZCBkaWRuJ3QgcmVjZWl2ZSByZXNwb25zZQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxsX2luX3ZpZXdcPg==</text>
@@ -228,22 +229,22 @@
         <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnZ2V0X2NvbnRhY3RfcGljdHVyZScsICdjcmVhdGVkX2F0JywgJ3VwZGF0ZWRfYXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5X21lc3NhZ2VfX2lzbnVsbD1GYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5fY2Fycmllcl9saXN0ID0gQ2Fycmllckxpc3Qub2JqZWN0cy5maWx0ZXIocmVjcnVpdGVlX2NvbnRhY3Q9YXZhaWxhYmxlX3JlY3J1aXRlZV9jb250YWN0KS5leGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5X21lc3NhZ2VfX2lzbnVsbD1GYWxzZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNraWxscy5xdWVyeSkKICAgIHByaW50KCc9JyAqIDIwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5fY2Fycmllcl9saXN0ID0gQ2Fycmllckxpc3Qub2JqZWN0cy5maWx0ZXIocmVjcnVpdGVlX2NvbnRhY3Q9YXZhaWxhYmxlX3JlY3J1aXRlZV9jb250YWN0KS5leGlzdHMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBjYXJyaWVyX2xpc3RzX190YXJnZXRfZGF0ZV9hbmRfdGltZV9fZGF0ZT10YXJnZXRfZGF0ZQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNraWxscy5xdWVyeSkKICAgIHByaW50KCc9JyAqIDIwKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBjYXJyaWVyX2xpc3RzX190YXJnZXRfZGF0ZV9hbmRfdGltZV9fZGF0ZT10YXJnZXRfZGF0ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBjYXJyaWVyX2xpc3RzX190YXJnZXRfZGF0ZV9hbmRfdGltZV9fZGF0ZT10YXJnZXRfZGF0ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
