@@ -79,8 +79,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477646483945">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1478101349377">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1478104015158">
         <mark key="'" line="3917" column="12" />
+        <mark key="[" line="773" column="33" />
+        <mark key="]" line="773" column="48" />
+        <mark key="." line="773" column="48" />
+        <mark key="^" line="773" column="48" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477643705928">
         <mark key="'" line="58" column="27" />
@@ -214,16 +218,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>16</text>
+        <text>Skill Rate Defaults</text>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text>Skill Rate Defaults</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxsX2luX3ZpZXdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">VkFDQU5DWV9GSUxMSU5HX1RJTUVfREVMVEEgPSAxNgo=</text>
+      <register name="0" type="4">
+        <text>Skill Base Rate</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdzZW5kIHNtcyB0bzoge30nLmZvcm1hdChhdmFpbGFibGVfcmVjcnVpdGVlX2NvbnRhY3QpKQo=</text>
