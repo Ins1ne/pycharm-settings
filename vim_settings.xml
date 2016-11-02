@@ -75,9 +75,9 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" timestamp="1478105886225">
         <mark key="'" line="777" column="42" />
         <mark key="[" line="1680" column="32" />
-        <mark key="]" line="1681" column="49" />
-        <mark key="." line="1681" column="49" />
-        <mark key="^" line="1681" column="49" />
+        <mark key="]" line="1680" column="49" />
+        <mark key="." line="1680" column="49" />
+        <mark key="^" line="1680" column="49" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/utils/model.py" timestamp="1477643705928">
         <mark key="'" line="58" column="27" />
