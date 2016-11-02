@@ -38,11 +38,11 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1476693376392">
         <mark key="'" line="58" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478068946873">
-        <mark key="[" line="159" column="1" />
-        <mark key="]" line="159" column="62" />
-        <mark key="." line="159" column="0" />
-        <mark key="^" line="161" column="7" />
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478069669171">
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="166" column="7" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478040544631">
         <mark key="'" line="3292" column="10" />
@@ -216,7 +216,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFjYW5jeV9vZmZlcnNfX2Jvb2tpbmdfX3RpbWVfc2hlZXRzX19pc251bGw9VHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>carrier_lists__</text>
@@ -228,20 +228,19 @@
         <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnZ2V0X2NvbnRhY3RfcGljdHVyZScsICdjcmVhdGVkX2F0JywgJ3VwZGF0ZWRfYXQnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFjYW5jeV9vZmZlcnNfX2Jvb2tpbmdfX3RpbWVfc2hlZXRzX19pc251bGw9VHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>.exclude(
-    )</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIH5RKHJlY3J1aXRlZV9za2lsbHNfX3JlY3J1aXRlZV9jb250YWN0X19jYXJyaWVyX2xpc3RzX192YWNhbmN5X29mZmVyX190YXJnZXRfZGF0ZV9hbmRfdGltZV9fcmFuZ2U9KAogICAgICAgICMgICAgIHRhcmdldF9kYXRlX2FuZF90aW1lIC0gdGltZWRlbHRhKGhvdXJzPTE2KSwgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgKyB0aW1lZGVsdGEoaG91cnM9MTYpCiAgICAgICAgIyApKSwKICAgICAgICAjIH5RKHJlY3J1aXRlZV9za2lsbHNfX3JlY3J1aXRlZV9jb250YWN0X19jYXJyaWVyX2xpc3RzX192YWNhbmN5X29mZmVyX19ib29raW5nX190aW1lX3NoZWV0c19fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAjICAgICB0YXJnZXRfZGF0ZV9hbmRfdGltZSAtIHRpbWVkZWx0YShob3Vycz0xNiksIHRhcmdldF9kYXRlX2FuZF90aW1lICsgdGltZWRlbHRhKGhvdXJzPTE2KQogICAgICAgICMgKSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLCB0YXJnZXRfZGF0ZV9hbmRfdGltZSArIHRpbWVkZWx0YShob3Vycz0xNikKICAgICAgICApLAogICAgICAgIHJlY3J1aXRlZV9za2lsbHNfX3JlY3J1aXRlZV9jb250YWN0X19jYXJyaWVyX2xpc3RzX192YWNhbmN5X29mZmVyX19ib29raW5nX190aW1lX3NoZWV0c19faXNudWxsPVRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fYm9va2luZ19fdGltZV9zaGVldHNfX2lzbnVsbD1UcnVlCiAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFjYW5jeV9vZmZlcnNfX2Jvb2tpbmdfX3RpbWVfc2hlZXRzX19pc251bGw9VHJ1ZSwK</text>
       </register>
       <register name="6" type="4">
         <text>.exclude(
@@ -254,7 +253,7 @@
         <text encoding="base64">ICAgICAgICByZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgLSB0aW1lZGVsdGEoaG91cnM9MTYpLCB0YXJnZXRfZGF0ZV9hbmRfdGltZSArIHRpbWVkZWx0YShob3Vycz0xNikKICAgICAgICApLAogICAgICAgIHJlY3J1aXRlZV9za2lsbHNfX3JlY3J1aXRlZV9jb250YWN0X19jYXJyaWVyX2xpc3RzX192YWNhbmN5X29mZmVyX19ib29raW5nX190aW1lX3NoZWV0c19faXNudWxsPVRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fYm9va2luZ19fdGltZV9zaGVldHNfX2lzbnVsbD1UcnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICByZWNydWl0ZWVfc2tpbGxzX19yZWNydWl0ZWVfY29udGFjdF9fY2Fycmllcl9saXN0c19fdmFjYW5jeV9vZmZlcl9fYm9va2luZ19fdGltZV9zaGVldHNfX2lzbnVsbD1UcnVlCiAgICApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
