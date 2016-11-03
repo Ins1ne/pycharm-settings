@@ -74,12 +74,12 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478171335257">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478173685267">
         <mark key="'" line="1121" column="4" />
-        <mark key="[" line="1168" column="74" />
-        <mark key="]" line="1178" column="0" />
-        <mark key="." line="1178" column="0" />
-        <mark key="^" line="1178" column="0" />
+        <mark key="[" line="1166" column="49" />
+        <mark key="]" line="1166" column="52" />
+        <mark key="." line="1166" column="52" />
+        <mark key="^" line="1166" column="52" />
       </file>
       <file name="/Dummy.txt" timestamp="1478040446864">
         <mark key="[" line="0" column="0" />
@@ -233,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jobsite</text>
+        <text>hr</text>
       </register>
       <register name="-" type="4">
-        <text>jobsite</text>
+        <text>hr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib29raW5nc19idXR0b25fdXJsXD4=</text>
@@ -245,31 +245,31 @@
         <text>bookings__supervisor__id__exact={}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnY2xpZW50X3JlcHJlc2VudGF0aXZlJywgJ2FjY291bnRfcmVwcmVzZW50YXRpdmUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmplY3RfaWQsIGV4dHJhKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIHJlYWRvbmx5X2ZpZWxkcyA9ICgnY2xpZW50X3JlcHJlc2VudGF0aXZlJywgJ2FjY291bnRfcmVwcmVzZW50YXRpdmUnKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCJQcmljZSBMaXN0IFJhdGUgRGVmYXVsdCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdzZW5kIHNtcyB0bzoge30nLmZvcm1hdChhdmFpbGFibGVfcmVjcnVpdGVlX2NvbnRhY3QpKQo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJib3NlX25hbWUgPSBfKCJQcmljZSBMaXN0IFJhdGUgRGVmYXVsdCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCdzZW5kIHNtcyB0bzoge30nLmZvcm1hdChhdmFpbGFibGVfcmVjcnVpdGVlX2NvbnRhY3QpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5X21lc3NhZ2VfX2lzbnVsbD1GYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYgogICAgICAgICAgICBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5fY2Fycmllcl9saXN0ID0gQ2Fycmllckxpc3Qub2JqZWN0cy5maWx0ZXIocmVjcnVpdGVlX2NvbnRhY3Q9YXZhaWxhYmxlX3JlY3J1aXRlZV9jb250YWN0KS5leGlzdHMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlcGx5X21lc3NhZ2VfX2lzbnVsbD1GYWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNraWxscy5xdWVyeSkKICAgIHByaW50KCc9JyAqIDIwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5fY2Fycmllcl9saXN0ID0gQ2Fycmllckxpc3Qub2JqZWN0cy5maWx0ZXIocmVjcnVpdGVlX2NvbnRhY3Q9YXZhaWxhYmxlX3JlY3J1aXRlZV9jb250YWN0KS5leGlzdHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
