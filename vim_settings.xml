@@ -83,12 +83,12 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478199798402">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478207135393">
         <mark key="'" line="510" column="0" />
-        <mark key="[" line="510" column="0" />
-        <mark key="]" line="510" column="0" />
+        <mark key="[" line="1174" column="76" />
+        <mark key="]" line="1174" column="76" />
         <mark key="^" line="540" column="56" />
-        <mark key="." line="510" column="0" />
+        <mark key="." line="1174" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1478040446864">
         <mark key="[" line="0" column="0" />
@@ -244,17 +244,17 @@
       <jump line="640" column="0" filename="$USER_HOME$/vagrant/crm/pepro/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdkZWJ1Z190b29sYmFyLm1pZGRsZXdhcmUuRGVidWdUb29sYmFyTWlkZGxld2FyZScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>contact__</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>contact__</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib29raW5nc19idXR0b25fdXJsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>bookings__supervisor__id__exact={}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBleHRyYVsnY29tbXVuaWNhdGlvbl9sb2dzX2J1dHRvbl91cmwnXSA9ICcvYWRtaW4vY3JtX2NvcmUvYWN0aXZpdHkvP2NvbnRhY3RfX2NsaWVudF9jb250YWN0X19pZF9fZXhhY3Q9e30nLmZvcm1hdChvYmplY3RfaWQpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdkZWJ1Z190b29sYmFyLm1pZGRsZXdhcmUuRGVidWdUb29sYmFyTWlkZGxld2FyZScsCg==</text>
