@@ -74,12 +74,12 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478166077809">
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478171335257">
         <mark key="'" line="1121" column="4" />
-        <mark key="[" line="1166" column="70" />
-        <mark key="]" line="1166" column="104" />
-        <mark key="." line="1166" column="70" />
-        <mark key="^" line="1166" column="69" />
+        <mark key="[" line="1168" column="74" />
+        <mark key="]" line="1178" column="0" />
+        <mark key="." line="1178" column="0" />
+        <mark key="^" line="1178" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1478040446864">
         <mark key="[" line="0" column="0" />
@@ -233,10 +233,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>primary_contact__id__exact={}</text>
+        <text>jobsite</text>
       </register>
       <register name="-" type="4">
-        <text>primary_contact__id__exact={}</text>
+        <text>jobsite</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxib29raW5nc19idXR0b25fdXJsXD4=</text>
