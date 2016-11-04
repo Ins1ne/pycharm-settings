@@ -49,11 +49,16 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478265534321">
-        <mark key="'" line="3657" column="43" />
-        <mark key="[" line="3655" column="92" />
-        <mark key="]" line="3657" column="70" />
-        <mark key="." line="3657" column="70" />
-        <mark key="^" line="3657" column="70" />
+        <mark key="'" line="37" column="43" />
+        <mark key="]" line="37" column="70" />
+        <mark key="." line="37" column="70" />
+        <mark key="^" line="37" column="70" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478268060671">
+        <mark key="[" line="175" column="32" />
+        <mark key="]" line="176" column="34" />
+        <mark key="." line="176" column="34" />
+        <mark key="^" line="176" column="34" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
@@ -77,11 +82,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478265536793">
-        <mark key="'" line="1178" column="15" />
-        <mark key="[" line="1178" column="0" />
-        <mark key="]" line="1178" column="110" />
       </file>
       <file name="/Dummy.txt" timestamp="1478040446864">
         <mark key="[" line="0" column="0" />
@@ -126,9 +126,9 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1478243222373">
-        <mark key="[" line="623" column="0" />
-        <mark key="]" line="623" column="0" />
-        <mark key="." line="623" column="0" />
+        <mark key="[" line="625" column="0" />
+        <mark key="]" line="625" column="0" />
+        <mark key="." line="625" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -240,17 +240,17 @@
       <jump line="1178" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>supervisor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9kYXRlX2FuZF90aW1lIC0gdGltZWRlbHRhKGhvdXJzPXNldHRpbmdzLkNBUlJJRVJfTElTVF9GSUxMSU5HX1RJTUVfREVMVEEpLAogICAgICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgKyB0aW1lZGVsdGEoaG91cnM9c2V0dGluZ3MuQ0FSUklFUl9MSVNUX0ZJTExJTkdfVElNRV9ERUxUQSkK</text>
       </register>
       <register name="-" type="4">
-        <text>supervisor</text>
+        <text>date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb29rdXBfYWxsb3dlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleHRyYVsndGltZXNoZWV0c19idXR0b25fdXJsJ10gPSAnL2FkbWluL2NybV9oci90aW1lc2hlZXQvP3N1cGVydmlzb3JfX2lkX19leGFjdD17fScuZm9ybWF0KG9iamVjdF9pZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldF9kYXRlX2FuZF90aW1lIC0gdGltZWRlbHRhKGhvdXJzPXNldHRpbmdzLkNBUlJJRVJfTElTVF9GSUxMSU5HX1RJTUVfREVMVEEpLAogICAgICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgKyB0aW1lZGVsdGEoaG91cnM9c2V0dGluZ3MuQ0FSUklFUl9MSVNUX0ZJTExJTkdfVElNRV9ERUxUQSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFjYW5jeV9vZmZlcnNfX2FjY2VwdGVkPUZhbHNlLAogICAgICAgICAgICB2YWNhbmN5X29mZmVyc19fY2FuY2VsZWQ9RmFsc2UKICAgICAgICApLmV4Y2x1ZGUoICAjIHJlbW92ZSBhY2NlcHRlZCBWTwogICAgICAgICAgICB2YWNhbmN5X29mZmVyc19fdGFyZ2V0X2RhdGVfYW5kX3RpbWVfX3JhbmdlPSgKICAgICAgICAgICAgICAgIHRhcmdldF9kYXRlX2FuZF90aW1lIC0gdGltZWRlbHRhKGhvdXJzPXNldHRpbmdzLkNBUlJJRVJfTElTVF9GSUxMSU5HX1RJTUVfREVMVEEpLAogICAgICAgICAgICAgICAgdGFyZ2V0X2RhdGVfYW5kX3RpbWUgKyB0aW1lZGVsdGEoaG91cnM9c2V0dGluZ3MuQ0FSUklFUl9MSVNUX0ZJTExJTkdfVElNRV9ERUxUQSkKICAgICAgICAgICAgKSwKICAgICAgICAgICAgdmFjYW5jeV9vZmZlcnNfX2FjY2VwdGVkPVRydWUK</text>
