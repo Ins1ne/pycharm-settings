@@ -53,6 +53,9 @@
         <mark key="]" line="3493" column="0" />
         <mark key="." line="3493" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478244169296">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
@@ -82,13 +85,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" timestamp="1478243180210">
-        <mark key="'" line="540" column="61" />
-        <mark key="[" line="1131" column="0" />
-        <mark key="]" line="1131" column="0" />
-        <mark key="^" line="540" column="83" />
-        <mark key="." line="1131" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1478040446864">
         <mark key="[" line="0" column="0" />
@@ -128,9 +124,9 @@
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/settings.py" timestamp="1478243222373">
-        <mark key="[" line="623" column="0" />
-        <mark key="]" line="623" column="0" />
-        <mark key="." line="623" column="0" />
+        <mark key="[" line="625" column="0" />
+        <mark key="]" line="625" column="0" />
+        <mark key="." line="625" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -140,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="25" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/static/admin/js/modal-dialogs.js" />
       <jump line="34" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/static/admin/js/modal-dialogs.js" />
       <jump line="33" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/static/admin/js/modal-dialogs.js" />
       <jump line="32" column="12" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/static/admin/js/modal-dialogs.js" />
@@ -240,6 +235,7 @@
       <jump line="1180" column="78" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
       <jump line="540" column="61" filename="$USER_HOME$/vagrant/crm/pepro/crm_core/admin.py" />
       <jump line="624" column="4" filename="$USER_HOME$/vagrant/crm/pepro/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -282,7 +278,7 @@
         <text encoding="base64">ICAgICdkZWJ1Z190b29sYmFyLm1pZGRsZXdhcmUuRGVidWdUb29sYmFyTWlkZGxld2FyZScsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -327,9 +323,9 @@
         <entry>s/0.0/0/g</entry>
         <entry encoding="base64">JzwsJz5zL3JlY3J1aXRlZV9jb250YWN0L3RpbWVzaGVldC9n</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>x</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
