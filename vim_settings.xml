@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1477328888953">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478522547968">
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="24" />
-        <mark key="^" line="34" column="21" />
-        <mark key="." line="35" column="20" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478524555426">
+        <mark key="[" line="33" column="47" />
+        <mark key="]" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+        <mark key="^" line="34" column="7" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
@@ -272,61 +272,60 @@
       <jump line="55" column="27" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/common/slack_util.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IG5vdA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG5vdA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlfY2FsbFw+</text>
+        <text>print</text>
       </register>
       <register name="0" type="4">
         <text>dict(post_data, token=token)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwb3N0X2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaWN0KHBvc3RfZGF0YSwgdG9rZW49dG9rZW4pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwb3N0X2RhdGEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne30uY3JlYXRlJy5mb3JtYXQoYmFzZSksIGV4dHJhX2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaWN0KHBvc3RfZGF0YSwgdG9rZW49dG9rZW4pKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2xlYW5lZF9kYXRhWydyb29tJ10gPSBzZWxmLmNsZWFuZWRfZGF0YVsncm9vbSddLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne30uY3JlYXRlJy5mb3JtYXQoYmFzZSksIGV4dHJhX2FyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbmVkX2RhdGFbJ3Jvb20nXSA9IFJvb20ub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgnY2hhbm5lbCcpLmdldChudW1iZXI9cm9vbSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2xlYW5lZF9kYXRhWydyb29tJ10gPSBzZWxmLmNsZWFuZWRfZGF0YVsncm9vbSddLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZFsnY2hhbm5lbF9uYW1lJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbmVkX2RhdGFbJ3Jvb20nXSA9IFJvb20ub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgnY2hhbm5lbCcpLmdldChudW1iZXI9cm9vbSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY2hhbm5lbCA9IGZvcm1zLkNoYXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZFsnY2hhbm5lbF9uYW1lJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgY2hhbm5lbCA9IGZvcm1zLkNoYXJGaWVsZCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmNsZWFuZWRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlfY2FsbFw+</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlfY2FsbFw+</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja192YWNhbmN5X3F1b3RhXD4=</entry>
         <entry encoding="base64">XDxmaWxsX2luXD4=</entry>
         <entry encoding="base64">XDxmaWxsX2luX3ZpZXdcPg==</entry>
         <entry encoding="base64">XDxBZG1pblJlYWRvbmx5RmllbGRcPg==</entry>
@@ -346,6 +345,7 @@
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxhcGlfcmVxdWVzdGVyXD4=</entry>
         <entry encoding="base64">XDxhcGlfY2FsbFw+</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
