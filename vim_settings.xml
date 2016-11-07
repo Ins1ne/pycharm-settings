@@ -163,12 +163,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478535819103">
-        <mark key="'" line="733" column="12" />
-        <mark key="[" line="942" column="31" />
-        <mark key="]" line="937" column="69" />
-        <mark key="." line="937" column="69" />
-        <mark key="^" line="937" column="69" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478537408797">
+        <mark key="'" line="740" column="58" />
+        <mark key="[" line="1022" column="38" />
+        <mark key="]" line="1025" column="56" />
+        <mark key="." line="1025" column="56" />
+        <mark key="^" line="1025" column="56" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -178,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
-      <jump line="16" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="15" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="14" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="7" column="20" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -278,58 +276,60 @@
       <jump line="193" column="27" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="186" column="23" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="733" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="943" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="740" column="58" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbXMucXVlcnkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Room.objects.values_list('number', flat=True)</text>
       </register>
       <register name="-" type="4">
-        <text>_id</text>
+        <text>Room.objects.values_list('number', flat=True)</text>
       </register>
       <register name="/" type="4">
-        <text>self.channel.id</text>
+        <text encoding="base64">XDxjaGFubmVsX25hbWVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJvb21zID0gcm9vbXMuZmlsdGVyKGNoYW5uZWxfaWQ9c2VsZi5jaGFubmVsLmlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yb29tID0gc2VsZi5nZXRfcm9vbShyb29tX251bWJlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbXMucXVlcnkpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm9vbXMgPSByb29tcy5maWx0ZXIoY2hhbm5lbF9pZD1zZWxmLmNoYW5uZWwuaWQpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbXMucXVlcnkpCiAgICAgICAgICAgIHByaW50KHNlbGYuY2hhbm5lbCkK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJvb20gPSBSb29tLm9iamVjdHMuZ2V0KG51bWJlcj1yb29tX251bWJlcikK</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yb29tID0gUm9vbS5vYmplY3RzLmdldChudW1iZXI9cm9vbV9udW1iZXIpCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbXMucXVlcnkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcm9vbXMgPSByb29tcy5maWx0ZXIoY2hhbm5lbF9pZD1zZWxmLmNoYW5uZWwuaWQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbXMucXVlcnkpCiAgICAgICAgICAgIHByaW50KHNlbGYuY2hhbm5lbCkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5yb29tID0gUm9vbS5vYmplY3RzLnNlbGVjdF9yZWxhdGVkKCdjaGFubmVsJykuZ2V0KG51bWJlcj10ZXh0LnN0cmlwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJvb20gPSBSb29tLm9iamVjdHMuZ2V0KG51bWJlcj1yb29tX251bWJlcikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgY2xlYW5fY2hhbm5lbF9uYW1lKHNlbGYpOgogICAgICAgIGNoYW5uZWxfbmFtZSA9IHNlbGYuY2xlYW5lZF9kYXRhLmdldCgnY2hhbm5lbF9uYW1lJykKICAgICAgICBpZiBjaGFubmVsX25hbWU6CiAgICAgICAgICAgIHNlbGYuY2hhbm5lbCA9IENoYW5uZWwub2JqZWN0cy5maWx0ZXIobmFtZV9faWV4YWN0PWNoYW5uZWxfbmFtZSkuZmlyc3QoKQogICAgICAgIHJldHVybiBjaGFubmVsX25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yb29tID0gUm9vbS5vYmplY3RzLmdldChudW1iZXI9cm9vbV9udW1iZXIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBOb25lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgc2VsZi5yb29tID0gUm9vbS5vYmplY3RzLnNlbGVjdF9yZWxhdGVkKCdjaGFubmVsJykuZ2V0KG51bWJlcj10ZXh0LnN0cmlwKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBmb3Jtcy5DaGFyRmllbGQoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgY2xlYW5fY2hhbm5lbF9uYW1lKHNlbGYpOgogICAgICAgIGNoYW5uZWxfbmFtZSA9IHNlbGYuY2xlYW5lZF9kYXRhLmdldCgnY2hhbm5lbF9uYW1lJykKICAgICAgICBpZiBjaGFubmVsX25hbWU6CiAgICAgICAgICAgIHNlbGYuY2hhbm5lbCA9IENoYW5uZWwub2JqZWN0cy5maWx0ZXIobmFtZV9faWV4YWN0PWNoYW5uZWxfbmFtZSkuZmlyc3QoKQogICAgICAgIHJldHVybiBjaGFubmVsX25hbWUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>self.channel.id</last-search>
+      <last-search encoding="base64">XDxjaGFubmVsX25hbWVcPg==</last-search>
       <last-offset />
-      <last-pattern>self.channel.id</last-pattern>
+      <last-pattern encoding="base64">XDxjaGFubmVsX25hbWVcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -352,8 +352,8 @@
         <entry encoding="base64">XDxnZXRfYXZhaWxhYmxlX3Jvb21zXD4=</entry>
         <entry encoding="base64">XDxjbGVhbl9jaGFubmVsX25hbWVcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
-        <entry encoding="base64">XDxjaGFubmVsX25hbWVcPg==</entry>
         <entry>self.channel.id</entry>
+        <entry encoding="base64">XDxjaGFubmVsX25hbWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
