@@ -155,12 +155,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478518053490">
-        <mark key="'" line="732" column="0" />
-        <mark key="[" line="101" column="90" />
-        <mark key="]" line="102" column="19" />
-        <mark key="." line="102" column="19" />
-        <mark key="^" line="102" column="19" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478525305959">
+        <mark key="'" line="739" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="64" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="116" column="68" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -273,43 +273,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJvb20ub2JqZWN0cy52YWx1ZXNfbGlzdCgnbnVtYmVyJywgZmxhdD1UcnVlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5vdA==</text>
+        <text>Room.objects.values_list('number', flat=True)</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text>dict(post_data, token=token)</text>
+        <text>.select_related('channel').filter(
+                    channel_id=self.channel.id)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJvb20ub2JqZWN0cy52YWx1ZXNfbGlzdCgnbnVtYmVyJywgZmxhdD1UcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwb3N0X2RhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJvb20ub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgnY2hhbm5lbCcpLmZpbHRlcigKICAgICAgICAgICAgICAgIGNoYW5uZWxfaWQ9c2VsZi5jaGFubmVsLmlkKS52YWx1ZXNfbGlzdCgnbnVtYmVyJywgZmxhdD1UcnVlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkaWN0KHBvc3RfZGF0YSwgdG9rZW49dG9rZW4pKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgne30uY3JlYXRlJy5mb3JtYXQoYmFzZSksIGV4dHJhX2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwb3N0X2RhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2xlYW5lZF9kYXRhWydyb29tJ10gPSBzZWxmLmNsZWFuZWRfZGF0YVsncm9vbSddLgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkaWN0KHBvc3RfZGF0YSwgdG9rZW49dG9rZW4pKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbmVkX2RhdGFbJ3Jvb20nXSA9IFJvb20ub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgnY2hhbm5lbCcpLmdldChudW1iZXI9cm9vbSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgne30uY3JlYXRlJy5mb3JtYXQoYmFzZSksIGV4dHJhX2FyZ3MpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZFsnY2hhbm5lbF9uYW1lJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2xlYW5lZF9kYXRhWydyb29tJ10gPSBzZWxmLmNsZWFuZWRfZGF0YVsncm9vbSddLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgY2hhbm5lbCA9IGZvcm1zLkNoYXJGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5jbGVhbmVkX2RhdGFbJ3Jvb20nXSA9IFJvb20ub2JqZWN0cy5zZWxlY3RfcmVsYXRlZCgnY2hhbm5lbCcpLmdldChudW1iZXI9cm9vbSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZFsnY2hhbm5lbF9uYW1lJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
