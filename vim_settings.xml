@@ -162,12 +162,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478627954316">
-        <mark key="'" line="836" column="24" />
-        <mark key="[" line="1032" column="22" />
-        <mark key="]" line="1032" column="61" />
-        <mark key="^" line="1032" column="61" />
-        <mark key="." line="1032" column="61" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478629715355">
+        <mark key="'" line="1015" column="4" />
+        <mark key="[" line="948" column="0" />
+        <mark key="]" line="948" column="0" />
+        <mark key="^" line="1012" column="61" />
+        <mark key="." line="948" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -177,7 +177,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="15" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
       <jump line="985" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="247" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="935" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -277,10 +276,11 @@
       <jump line="20" column="64" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="843" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="10" column="44" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="1035" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BaseBookingForm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG5ld19kYXRlID0gcGFyc2UodGV4dC5zdHJpcCgpLCBkYXlmaXJzdD1UcnVlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>BaseBookingForm</text>
@@ -292,31 +292,31 @@
         <text>TokenCheckMixin, CommonMixin, forms.ModelForm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIHN0YXJ0X2RhdGUgPSBzZWxmLmdldF9zdGFydF9kYXRlKHN0YXJ0X2RhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIG5ld19kYXRlID0gcGFyc2UodGV4dC5zdHJpcCgpLCBkYXlmaXJzdD1UcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1hdGNoID0gcmUubWF0Y2goc2VsZi5EQVRFX0ZPUk1BVCwgc3RhcnRfZGF0ZSkKICAgICAgICAjIGlmIG1hdGNoOgogICAgICAgICMgICAgIGRlbGltaXRlciA9ICctJyBpZiBzdGFydF9kYXRlLmluZGV4KCctJykgZWxzZSAnLicKICAgICAgICAjICAgICBzdGFydF9kYXRlID0gJ3t9e317fScuZm9ybWF0KHN0YXJ0X2RhdGUsIGRlbGltaXRlciwgdGltZXpvbmUubm93KCkueWVhcikKICAgICAgICAjCiAgICAgICAgIyBzdGFydF9kYXRlID0gcGFyc2Uoc3RhcnRfZGF0ZSwgZGF5Zmlyc3Q9VHJ1ZSkK</text>
+        <text encoding="base64">Y2xhc3MgQmFzZUJvb2tpbmdGb3JtKFRva2VuQ2hlY2tNaXhpbiwgZm9ybXMuTW9kZWxGb3JtKToKICAgIERBVEVfRk9STUFUID0gcideXGR7Mn1bLy4tXVxkezJ9JCcKCiAgICBkZWYgZ2V0X3N0YXJ0X2RhdGUoc2VsZiwgc3RhcnRfZGF0ZSk6CiAgICAgICAgaWYgbm90IHN0YXJ0X2RhdGUgb3Igc3RhcnRfZGF0ZSBpbiBbJzJkYSddOgogICAgICAgICAgICBzdGFydF9kYXRlID0gdGltZXpvbmUubm93KCkKICAgICAgICBlbGlmIHN0YXJ0X2RhdGUgaW4gWyd0b21vcnJvdycsICcybW9ybyddOgogICAgICAgICAgICBzdGFydF9kYXRlID0gdGltZXpvbmUubm93KCkgKyB0aW1lem9uZS50aW1lZGVsdGEoZGF5cz0xKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIG1hdGNoID0gcmUubWF0Y2goc2VsZi5EQVRFX0ZPUk1BVCwgc3RhcnRfZGF0ZSkKICAgICAgICAgICAgaWYgbWF0Y2g6CiAgICAgICAgICAgICAgICBzdGFydF9kYXRlID0gJ3t9Lnt9Jy5mb3JtYXQoc3RhcnRfZGF0ZSwgdGltZXpvbmUubm93KCkueWVhcikKICAgICAgICAgICAgICAgIHN0YXJ0X2RhdGUgPSBzdGFydF9kYXRlLnJlcGxhY2UoJy0nLCAnLicpLnJlcGxhY2UoJy8nLCAnLicpCgogICAgICAgICAgICBzdGFydF9kYXRlID0gcGFyc2Uoc3RhcnRfZGF0ZSwgZGF5Zmlyc3Q9VHJ1ZSkKCiAgICAgICAgcmV0dXJuIHN0YXJ0X2RhdGUKCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHN0YXJ0X2RhdGUgPSBzZWxmLmdldF9zdGFydF9kYXRlKHN0YXJ0X2RhdGUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5ld19kYXRlLCB0ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG1hdGNoID0gcmUubWF0Y2goc2VsZi5EQVRFX0ZPUk1BVCwgc3RhcnRfZGF0ZSkKICAgICAgICAjIGlmIG1hdGNoOgogICAgICAgICMgICAgIGRlbGltaXRlciA9ICctJyBpZiBzdGFydF9kYXRlLmluZGV4KCctJykgZWxzZSAnLicKICAgICAgICAjICAgICBzdGFydF9kYXRlID0gJ3t9e317fScuZm9ybWF0KHN0YXJ0X2RhdGUsIGRlbGltaXRlciwgdGltZXpvbmUubm93KCkueWVhcikKICAgICAgICAjCiAgICAgICAgIyBzdGFydF9kYXRlID0gcGFyc2Uoc3RhcnRfZGF0ZSwgZGF5Zmlyc3Q9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5ld19kYXRlLCB0ZXh0KQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmRhdGUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5ld19kYXRlLCB0ZXh0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG5ld19kYXRlLCB0ZXh0KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldXRpbC5wYXJzZXIgaW1wb3J0IHBhcnNlcmluZm8KZnJvbSBkYXRldXRpbC5yZWxhdGl2ZWRlbHRhIGltcG9ydCByZWxhdGl2ZWRlbHRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
