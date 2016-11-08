@@ -158,12 +158,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478601979037">
-        <mark key="'" line="411" column="4" />
-        <mark key="[" line="303" column="103" />
-        <mark key="]" line="303" column="109" />
-        <mark key="^" line="303" column="109" />
-        <mark key="." line="303" column="109" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478602957840">
+        <mark key="'" line="849" column="45" />
+        <mark key="[" line="498" column="32" />
+        <mark key="]" line="501" column="81" />
+        <mark key="^" line="501" column="29" />
+        <mark key="." line="501" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -173,7 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="817" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="186" column="23" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="733" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="943" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -273,10 +272,14 @@
       <jump line="260" column="49" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="108" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="411" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="848" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|</text>
+        <text>(\d{1,}): ?(everyday|everyworkday|everyweek|everymonth|everyyear) ' \
+                              '?((?:(?:sun|mon|tue|wed|thu|fri|sat|day_of_month),?){0,}) ' \
+                              '(tomorrow|2da|2moro|\d{2}[/.-]\d{2}(?:[/.-]\d{2,4})?) (\d{2}:\d{2}) ' \
+                              '([^ ]{1,}) ([^ ]*)\s*((?:@[\w]+,?\s?)*)(\s?(?:.*))?</text>
       </register>
       <register name="-" type="4">
         <text>|</text>
@@ -285,7 +288,10 @@
         <text encoding="base64">XDxzdGFydF9kYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>tomorrow|2da|2moro</text>
+        <text>(\d{1,}): ?(everyday|everyworkday|everyweek|everymonth|everyyear) ' \
+                              '?((?:(?:sun|mon|tue|wed|thu|fri|sat|day_of_month),?){0,}) ' \
+                              '(tomorrow|2da|2moro|\d{2}[/.-]\d{2}(?:[/.-]\d{2,4})?) (\d{2}:\d{2}) ' \
+                              '([^ ]{1,}) ([^ ]*)\s*((?:@[\w]+,?\s?)*)(\s?(?:.*))?</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJvb2tpbmdzID0gTm9uZQo=</text>
