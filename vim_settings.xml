@@ -158,12 +158,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478597162261">
-        <mark key="'" line="223" column="29" />
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="866" column="73" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478598284424">
+        <mark key="'" line="263" column="54" />
+        <mark key="[" line="258" column="32" />
+        <mark key="]" line="260" column="108" />
+        <mark key="^" line="261" column="3" />
+        <mark key="." line="261" column="4" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -173,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="676" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="692" column="58" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/.gitignore" />
       <jump line="44" column="3" filename="$USER_HOME$/vagrant/mrplanner/.gitignore" />
       <jump line="75" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="817" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -239,7 +236,6 @@
       <jump line="251" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="1048" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="91" column="38" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="57" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="31" column="34" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="882" column="38" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="584" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -256,7 +252,6 @@
       <jump line="873" column="111" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="842" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="95" column="111" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="56" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="52" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="27" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="874" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -273,10 +268,17 @@
       <jump line="120" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="208" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="223" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="260" column="39" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="56" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="262" column="53" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="263" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>^([^ ]{1,}) (everyday|everyworkday|everyweek|everymonth|everyyear) ' \
+        '?((?:(?:sun|mon|tue|wed|thu|fri|sat|day_of_month),?){0,}) ' \
+        '(\d{2}[/.-]\d{2}(?:[/.-]\d{2,4})?) (\d{2}:\d{2}) ([^ ]{1,}) ([^ ]*)\s*((?:@[\w]+,?\s?)*)(\s?(?:.*))?</text>
       </register>
       <register name="-" type="4">
         <text>start_date</text>
@@ -284,8 +286,10 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzdGFydF9kYXRlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IHN0YXJ0X2RhdGU6CiAgICAgICAgICAgICAgICBzdGFydF9kYXRlID0gdGltZXpvbmUubm93KCkKICAgICAgICAgICAgZWxpZiBzdGFydF9kYXRlIGluIFsndG9tb3Jyb3cnLCAnMm1vcm8nLCAnMmRhJ106CiAgICAgICAgICAgICAgICBzdGFydF9kYXRlID0gdGltZXpvbmUubm93KCkgKyB0aW1lem9uZS50aW1lZGVsdGEoZGF5cz0xKQogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgbWF0Y2ggPSByZS5tYXRjaChzZWxmLkRBVEVfRk9STUFULCBzdGFydF9kYXRlKQogICAgICAgICAgICAgICAgaWYgbWF0Y2g6CiAgICAgICAgICAgICAgICAgICAgc3RhcnRfZGF0ZSA9ICd7fS57fScuZm9ybWF0KHN0YXJ0X2RhdGUsIHRpbWV6b25lLm5vdygpLnllYXIpCgogICAgICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IHBhcnNlKHN0YXJ0X2RhdGUsIGRheWZpcnN0PVRydWUpCg==</text>
+      <register name="0" type="4">
+        <text>^([^ ]{1,}) (everyday|everyworkday|everyweek|everymonth|everyyear) ' \
+        '?((?:(?:sun|mon|tue|wed|thu|fri|sat|day_of_month),?){0,}) ' \
+        '(\d{2}[/.-]\d{2}(?:[/.-]\d{2,4})?) (\d{2}:\d{2}) ([^ ]{1,}) ([^ ]*)\s*((?:@[\w]+,?\s?)*)(\s?(?:.*))?</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
