@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/vagrant/mrplanner/README.rst" timestamp="1478586577645">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="11" />
+        <mark key="]" line="81" column="18" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/admin_helpers.py" timestamp="1478118309383">
         <mark key="'" line="19" column="0" />
         <mark key="[" line="44" column="0" />
@@ -111,10 +116,6 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/utils.py" timestamp="1477981401396">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="20" column="27" />
@@ -170,12 +171,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478585454133">
-        <mark key="'" line="985" column="12" />
-        <mark key="[" line="842" column="8" />
-        <mark key="]" line="842" column="8" />
-        <mark key="." line="842" column="8" />
-        <mark key="^" line="17" column="50" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478586514955">
+        <mark key="'" line="1015" column="4" />
+        <mark key="[" line="1021" column="38" />
+        <mark key="]" line="1022" column="11" />
+        <mark key="." line="1022" column="11" />
+        <mark key="^" line="1022" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -185,10 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3057" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="2983" column="4" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3056" column="8" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
-      <jump line="3011" column="14" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="2971" column="6" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/models.py" />
       <jump line="623" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
       <jump line="622" column="15" filename="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" />
@@ -285,34 +282,38 @@
       <jump line="66" column="53" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="19" column="15" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
       <jump line="985" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="247" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="935" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="1015" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/mr_info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>ia</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWxfbmFtZSA9IGZvcm1zLkNoYXJGaWVsZCgpCg==</text>
+      <register name="0" type="4">
+        <text>/mr_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwgPSBOb25lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZXRfcm9vbSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5leHRyYV9kYXRhWydyb29tJ10gPSBSb29tLm9iamVjdHMuc2VsZWN0X3JlbGF0ZWQoJ2NoYW5uZWwnKS5nZXQobnVtYmVyPXJvb20pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNoYW5uZWwgPSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwc3ljb3BnMi5fcmFuZ2UgaW1wb3J0IERhdGVUaW1lVFpSYW5nZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -321,10 +322,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBwc3ljb3BnMi5fcmFuZ2UgaW1wb3J0IERhdGVUaW1lVFpSYW5nZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBRCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
