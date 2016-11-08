@@ -158,12 +158,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478605535133">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478606231875">
         <mark key="'" line="296" column="61" />
-        <mark key="[" line="772" column="112" />
-        <mark key="]" line="772" column="110" />
+        <mark key="[" line="864" column="8" />
+        <mark key="]" line="864" column="8" />
         <mark key="^" line="772" column="110" />
-        <mark key="." line="772" column="110" />
+        <mark key="." line="864" column="8" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
