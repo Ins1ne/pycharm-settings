@@ -200,9 +200,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478725605779">
-        <mark key="'" line="97" column="21" />
-        <mark key="[" line="712" column="61" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478726481797">
+        <mark key="'" line="515" column="31" />
+        <mark key="[" line="940" column="115" />
+        <mark key="]" line="941" column="20" />
+        <mark key="^" line="941" column="20" />
+        <mark key="." line="941" column="20" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -212,9 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="187" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="747" column="59" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="20" column="64" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="843" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="1035" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -298,13 +298,11 @@
       <jump line="183" column="56" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="30" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="31" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="36" column="36" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="240" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="38" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="182" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="2" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="184" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="9" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="858" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="564" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="339" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -312,19 +310,24 @@
       <jump line="124" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="97" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="25" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="239" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="36" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="283" column="120" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="515" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
+      <register name="&quot;" type="4">
+        <text>sun, mon, tue, wed, thu, fri, sat</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90aW1lXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydjaGFubmVsX2xpbmsnXSA9IHJlc3BvbnNlLm1ldGFbJ2NoYW5uZWxfbGluayddCg==</text>
+      <register name="0" type="4">
+        <text>sun, mon, tue, wed, thu, fri, sat</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
