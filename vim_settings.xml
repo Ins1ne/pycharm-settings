@@ -28,6 +28,9 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
+      <file name="/a.dummy" timestamp="1477328888953">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478540874971">
         <mark key="'" line="155" column="4" />
       </file>
@@ -117,6 +120,9 @@
         <mark key="'" line="270" column="6" />
         <mark key="[" line="142" column="49" />
       </file>
+      <file name="/Dummy.txt" timestamp="1478040446864">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
       </file>
@@ -171,12 +177,12 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478627571195">
-        <mark key="'" line="10" column="44" />
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478724828488">
+        <mark key="'" line="183" column="56" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_slackrequest.py" timestamp="1478522407594">
         <mark key="[" line="9" column="0" />
@@ -200,12 +206,8 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478632521089">
-        <mark key="'" line="241" column="31" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="53" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478724320629">
+        <mark key="[" line="712" column="61" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -215,10 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="1073" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="850" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="505" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="353" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="266" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="59" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -240,7 +238,6 @@
       <jump line="747" column="59" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="20" column="64" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="843" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="10" column="44" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="1035" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="948" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="1041" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -315,6 +312,11 @@
       <jump line="59" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="57" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
+      <jump line="91" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="10" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="186" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="9" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="183" column="56" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -324,7 +326,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDx0aW1lem9uZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXdzWydjaGFubmVsX2xpbmsnXSA9IHJlc3BvbnNlLm1ldGFbJ2NoYW5uZWxfbGluayddCg==</text>
@@ -361,9 +363,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDx0aW1lem9uZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0aW1lem9uZVw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -371,9 +373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
-        <entry encoding="base64">XDxnZXRfcm9vbVw+</entry>
-        <entry encoding="base64">XDxnZXRfYXZhaWxhYmxlX3Jvb21zXD4=</entry>
         <entry encoding="base64">XDxjbGVhbl9jaGFubmVsX25hbWVcPg==</entry>
         <entry>self.channel.id</entry>
         <entry encoding="base64">XDxjaGFubmVsX25hbWVcPg==</entry>
@@ -391,6 +390,9 @@
         <entry encoding="base64">XDxwYXJzZV9jb250ZW50XD4=</entry>
         <entry encoding="base64">XDxOZXdzSXRlbVw+</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxwYXJzZXJpbmZvXD4=</entry>
+        <entry encoding="base64">XDxwYXJzZVw+</entry>
+        <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
