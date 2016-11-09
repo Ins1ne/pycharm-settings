@@ -28,9 +28,6 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="/a.dummy" timestamp="1477328888953">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478540874971">
         <mark key="'" line="155" column="4" />
       </file>
@@ -120,9 +117,6 @@
         <mark key="'" line="270" column="6" />
         <mark key="[" line="142" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478040446864">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
       </file>
@@ -177,12 +171,12 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478724828488">
-        <mark key="'" line="183" column="56" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478725680704">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="2" column="8" />
+        <mark key="^" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_slackrequest.py" timestamp="1478522407594">
         <mark key="[" line="9" column="0" />
@@ -206,7 +200,8 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478724320629">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478725605779">
+        <mark key="'" line="97" column="21" />
         <mark key="[" line="712" column="61" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
@@ -217,22 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="353" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="266" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="59" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="14" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="351" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="357" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="31" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="359" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="35" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="32" column="34" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="732" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="166" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="171" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="190" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="7" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="187" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="747" column="59" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -317,6 +296,22 @@
       <jump line="186" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="9" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="183" column="56" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="30" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="31" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="36" column="36" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="240" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="182" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="2" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="184" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="9" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="858" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="564" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="339" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="125" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="124" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="97" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -326,7 +321,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lem9uZVw+</text>
+        <text encoding="base64">XDxwYXJzZV90aW1lXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXdzWydjaGFubmVsX2xpbmsnXSA9IHJlc3BvbnNlLm1ldGFbJ2NoYW5uZWxfbGluayddCg==</text>
@@ -363,9 +358,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lem9uZVw+</last-search>
+      <last-search encoding="base64">XDxwYXJzZV90aW1lXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lem9uZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZV90aW1lXD4=</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -373,8 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbGVhbl9jaGFubmVsX25hbWVcPg==</entry>
-        <entry>self.channel.id</entry>
         <entry encoding="base64">XDxjaGFubmVsX25hbWVcPg==</entry>
         <entry encoding="base64">XDxDaGFubmVsTWl4aW5cPg==</entry>
         <entry encoding="base64">XDxRXD4=</entry>
@@ -393,6 +386,8 @@
         <entry encoding="base64">XDxwYXJzZXJpbmZvXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry encoding="base64">XDx0aW1lem9uZVw+</entry>
+        <entry encoding="base64">XDx0b21vcnJvd1w+</entry>
+        <entry encoding="base64">XDxwYXJzZV90aW1lXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
