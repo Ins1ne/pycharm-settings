@@ -28,6 +28,9 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
+      <file name="/a.dummy" timestamp="1477328888953">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478540874971">
         <mark key="'" line="155" column="4" />
       </file>
@@ -106,9 +109,18 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1478674916845">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1478596770719">
         <mark key="'" line="270" column="6" />
         <mark key="[" line="142" column="49" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1478040446864">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
@@ -137,6 +149,9 @@
         <mark key="]" line="172" column="44" />
         <mark key="^" line="172" column="44" />
         <mark key="." line="172" column="44" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/README.md" timestamp="1478674925873">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/recruiteecontact/change_form.html" timestamp="1478258547816">
         <mark key="[" line="11" column="0" />
