@@ -70,6 +70,12 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1478673943344">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/admin.py" timestamp="1478265534321">
         <mark key="'" line="37" column="43" />
         <mark key="]" line="37" column="70" />
@@ -113,6 +119,12 @@
         <mark key="]" line="67" column="43" />
         <mark key="." line="67" column="43" />
         <mark key="^" line="67" column="43" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1478673948950">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
