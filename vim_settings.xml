@@ -148,10 +148,10 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478800845305">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1478802479801">
         <mark key="'" line="213" column="8" />
-        <mark key="[" line="40" column="26" />
-        <mark key="]" line="40" column="95" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="50" column="14" />
         <mark key="^" line="2" column="8" />
         <mark key="." line="71" column="8" />
       </file>
@@ -177,12 +177,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478800933409">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478802608100">
         <mark key="'" line="17" column="53" />
-        <mark key="[" line="837" column="30" />
-        <mark key="]" line="837" column="36" />
-        <mark key="^" line="837" column="36" />
-        <mark key="." line="837" column="36" />
+        <mark key="[" line="849" column="65" />
+        <mark key="]" line="849" column="85" />
+        <mark key="^" line="849" column="85" />
+        <mark key="." line="849" column="85" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -295,16 +295,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>user_id</text>
+        <text>cha</text>
       </register>
       <register name="-" type="4">
-        <text>user_id</text>
+        <text>cha</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTbGFja1VzZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX2lkID0gc2VsZi5kYXRhLmdldCgndXNlcl9pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5zbGFja191c2VyOgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcyh7CiAgICAgICAgICAgICAgICAgICAgJ3Jlc3BvbnNlX3R5cGUnOiAnZXBoZW1lcmFsJywKICAgICAgICAgICAgICAgICAgICAndGV4dCc6IF8oJ1NsYWNrIHVzZXIgZG9lcyBub3QgZXhpc3QuJykKICAgICAgICAgICAgICAgIH0pKQogICAgICAgIGlmIG5vdCBzZWxmLnNsYWNrX3VzZXIuY29tbWFuZHNfYWNjZXNzOgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcyh7CiAgICAgICAgICAgICAgICAncmVzcG9uc2VfdHlwZSc6ICdlcGhlbWVyYWwnLAogICAgICAgICAgICAgICAgJ3RleHQnOiBfKCdZb3UgY2Fubm90IHBlcmZvcm0gdGhpcyBhY3Rpb24uIENvbnRhY3QgYWRtaW5pc3RyYXRvci4nKQogICAgICAgICAgICB9KSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmVycm9ycykK</text>
