@@ -200,8 +200,8 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478775577308">
-        <mark key="'" line="906" column="25" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478779434409">
+        <mark key="'" line="1009" column="26" />
         <mark key="[" line="333" column="0" />
         <mark key="]" line="333" column="0" />
         <mark key="^" line="334" column="70" />
@@ -215,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="40" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="35" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="41" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
@@ -315,6 +314,7 @@
       <jump line="123" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="96" column="47" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="906" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="1009" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -324,7 +324,7 @@
         <text>room</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfcm9vbV90aW1lXD4=</text>
+        <text encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>sun|mon|tue|wed|thu|fri|sat</text>
@@ -361,9 +361,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfcm9vbV90aW1lXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfcm9vbV90aW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzXD4=</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -371,7 +371,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxRXD4=</entry>
         <entry encoding="base64">XDxzYXZlX21hbnlfdG9fZ2NhbF90YXNrXD4=</entry>
         <entry encoding="base64">XDxpbmNsdWRlXD4=</entry>
         <entry encoding="base64">XDxjaGFubmVsXD4=</entry>
@@ -391,6 +390,7 @@
         <entry encoding="base64">XDxwYXJzZV90aW1lXD4=</entry>
         <entry encoding="base64">XDxDaGFubmVsXD4=</entry>
         <entry encoding="base64">XDxnZXRfcm9vbV90aW1lXD4=</entry>
+        <entry encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
