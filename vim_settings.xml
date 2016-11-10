@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/vagrant/mrplanner/README.rst" timestamp="1478757855646">
-        <mark key="'" line="81" column="18" />
-        <mark key="[" line="13" column="91" />
-        <mark key="]" line="13" column="117" />
+      <file name="$USER_HOME$/vagrant/mrplanner/README.rst" timestamp="1478763663476">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="87" />
+        <mark key="]" line="23" column="113" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/admin_helpers.py" timestamp="1478118309383">
         <mark key="'" line="19" column="0" />
@@ -215,8 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="843" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="1035" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="948" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="1041" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="64" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -315,6 +313,8 @@
       <jump line="283" column="120" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="515" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="81" column="18" filename="$USER_HOME$/vagrant/mrplanner/README.rst" />
+      <jump line="3" column="0" filename="$USER_HOME$/vagrant/mrplanner/README.rst" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/README.rst" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
