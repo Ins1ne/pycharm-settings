@@ -14,8 +14,29 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1477397956547">
+        <mark key="'" line="690" column="10" />
+        <mark key="[" line="695" column="0" />
+        <mark key="]" line="699" column="28" />
+        <mark key="^" line="331" column="14" />
+        <mark key="." line="331" column="14" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/booking/edit_inline/stacked.html" timestamp="1476279564743">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="67" column="30" />
+        <mark key="]" line="68" column="23" />
+        <mark key="." line="68" column="23" />
+        <mark key="^" line="68" column="23" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478540874971">
         <mark key="'" line="155" column="4" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/common/slack_util.py" timestamp="1478521761432">
         <mark key="'" line="55" column="27" />
@@ -50,6 +71,13 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1478807398373">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1478208345025">
+        <mark key="'" line="58" column="38" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="^" line="69" column="4" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1478721059952">
         <mark key="'" line="59" column="0" />
@@ -179,12 +207,12 @@
         <mark key="]" line="625" column="0" />
         <mark key="." line="625" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478807503403">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478808284982">
         <mark key="'" line="124" column="0" />
-        <mark key="[" line="936" column="44" />
-        <mark key="]" line="936" column="59" />
-        <mark key="^" line="936" column="59" />
-        <mark key="." line="936" column="59" />
+        <mark key="[" line="834" column="0" />
+        <mark key="]" line="834" column="0" />
+        <mark key="^" line="888" column="59" />
+        <mark key="." line="834" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -296,8 +324,8 @@
       <jump line="124" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>settings.BOOKING_END_TIME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2xhc3RfYm9va2luZ3Moc2VsZik6CiAgICAgICAgdXNlcl9pZCA9IHNlbGYuZGF0YS5nZXQoJ3VzZXJfaWQnKQogICAgICAgIHRlYW0gPSBzZWxmLmRhdGEuZ2V0KCd0ZWFtX2lkJykKICAgICAgICBzbGFja191c2VyID0gU2xhY2tVc2VyLm9iamVjdHMuZmlsdGVyKHNsYWNrX2lkPXVzZXJfaWQsIHRlYW1fc2xhY2tfaWQ9dGVhbSkuZmlyc3QoKQogICAgICAgIGlmIG5vdCBzbGFja191c2VyOgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcyh7CiAgICAgICAgICAgICAgICAncmVzcG9uc2VfdHlwZSc6ICdlcGhlbWVyYWwnLAogICAgICAgICAgICAgICAgJ3RleHQnOiBfKCdTbGFjayB1c2VyIGRvZXMgbm90IGV4aXN0LicpCiAgICAgICAgICAgIH0pKQogICAgICAgIGlmIG5vdCBzbGFja191c2VyLmNvbW1hbmRzX2FjY2VzczoKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKGpzb24uZHVtcHMoewogICAgICAgICAgICAgICAgJ3Jlc3BvbnNlX3R5cGUnOiAnZXBoZW1lcmFsJywKICAgICAgICAgICAgICAgICd0ZXh0JzogXygnWW91IGNhbm5vdCBwZXJmb3JtIHRoaXMgYWN0aW9uLiBDb250YWN0IGFkbWluaXN0cmF0b3IuJykKICAgICAgICAgICAgfSkpCiAgICAgICAgYm9va2luZ3MgPSBCb29raW5nLm9iamVjdHMuZmlsdGVyKHNsYWNrX3VzZXI9c2xhY2tfdXNlciwgcm9vbV9fY2hhbm5lbD1jaGFubmVsKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgIyBmb3Igc3RhcnQsIGVuZCBpbiByZXN1bHRbJ2ludGVydmFsJ106CiAgICAgICAgIyAgICAgYWN0aW9ucy5hcHBlbmQoewogICAgICAgICMgICAgICAgICAidGV4dCI6ICd7fSAtIHt9Jy5mb3JtYXQoc3RhcnQudGltZSgpLnN0cmZ0aW1lKHRpbWVfZm9ybWF0KSwgZW5kLnRpbWUoKS5zdHJmdGltZSh0aW1lX2Zvcm1hdCkpLAogICAgICAgICMgICAgICAgICAibmFtZSI6ICJpbnRlcnZhbCIsCiAgICAgICAgIyAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgIyAgICAgICAgICJzdHlsZSI6ICJkZWZhdWx0IiwKICAgICAgICAjICAgICAgICAgInZhbHVlIjogInt9IHt9IHt9IHt9IHt9IHt9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgICAgICAgICBjZFsncm9vbSddLm51bWJlciwKICAgICAgICAjICAgICAgICAgICAgIHNlbGYuc3RhcnRfZGF0ZS5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSwKICAgICAgICAjICAgICAgICAgICAgIHN0YXJ0LnRpbWUoKS5zdHJmdGltZSh0aW1lX2Zvcm1hdCksCiAgICAgICAgIyAgICAgICAgICAgICBlbmQudGltZSgpLnN0cmZ0aW1lKHRpbWVfZm9ybWF0KSwKICAgICAgICAjICAgICAgICAgICAgIHNlbGYuZHVyYXRpb24sCiAgICAgICAgIyAgICAgICAgICAgICBzZWxmLnBhcnRpY2lwYW50cyBvciAnJwogICAgICAgICMgICAgICAgICApCiAgICAgICAgIyAgICAgfSkKICAgICAgICAjCiAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcygKICAgICAgICAjICAgICB7CiAgICAgICAgIyAgICAgICAgICJ0ZXh0IjogIlJvb20gaGFzIGFscmVhZHkgYm9va2VkIGJ5IHt9LiIuZm9ybWF0KGJvb2tlZF91c2VycyksCiAgICAgICAgIyAgICAgICAgICJhdHRhY2htZW50cyI6IFsKICAgICAgICAjICAgICAgICAgICAgIHsKICAgICAgICAjICAgICAgICAgICAgICAgICAidGV4dCI6ICJDaG9vc2UgYXZhaWxhYmxlIHRpbWUgZm9yIHt9IG9yIG1ha2UgbmV3IGJvb2tpbmciLmZvcm1hdChjZFsnZHVyYXRpb24nXS5sb3dlci5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImZhbGxiYWNrIjogIlJvb20gaGFzIGFscmVhZHkgYm9va2VkIGJ5IHt9LiIuZm9ybWF0KGJvb2tlZF91c2VycyksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImNhbGxiYWNrX2lkIjogY2RbJ3Jvb20nXS5udW1iZXIsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImNvbG9yIjogIiNGRjAwMDAiLAogICAgICAgICMgICAgICAgICAgICAgICAgICJhdHRhY2htZW50X3R5cGUiOiAiZGVmYXVsdCIsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImFjdGlvbnMiOiBhY3Rpb25zLAogICAgICAgICMgICAgICAgICAgICAgfQogICAgICAgICMgICAgICAgICBdCiAgICAgICAgIyAgICAgfQogICAgICAgICMgKSkK</text>
       </register>
       <register name="-" type="4">
         <text>settings.BOOKING_END_TIME</text>
@@ -309,31 +337,31 @@
         <text encoding="base64">ICAgICAgICBwYXJzZWRfZW5kX3RpbWUgPSBwYXJzZV90aW1lKHNldHRpbmdzLkJPT0tJTkdfRU5EX1RJTUUpCiAgICAgICAgcGFyc2VkX3N0YXJ0X3RpbWUgPSBwYXJzZV90aW1lKHNldHRpbmdzLkJPT0tJTkdfU1RBUlRfVElNRSkKCiAgICAgICAgZHVyYXRpb25fZGVsdGEgPSBjZFsnZHVyYXRpb24nXS51cHBlciAtIGNkWydkdXJhdGlvbiddLmxvd2VyCiAgICAgICAgIyBpZiBjdXJyZW50IHRpbWUgZ3JlYXRlciBib29raW5nIHN0YXJ0IHRpbWUgLSB3ZSBzZXQgc3RhcnQgdGltZSB0bwogICAgICAgICMgY3VycmVudCB0aW1lCiAgICAgICAgaWYgY2RbJ2R1cmF0aW9uJ10ubG93ZXIgPCBub3c6CiAgICAgICAgICAgICMgVE9ETyBzZXQgbG93ZXIgZm9yIGN1cnJlbnQgdGltZSB3aXRoIHByb3BlciB0aW1lem9uZQogICAgICAgICAgICBjZFsnZHVyYXRpb24nXSA9IERhdGVUaW1lVFpSYW5nZShub3csIG5vdyArIGR1cmF0aW9uX2RlbHRhKQoKICAgICAgICBib29raW5nX2VuZF90aW1lID0gY2RbJ2R1cmF0aW9uJ10ubG93ZXIucmVwbGFjZShob3VyPXBhcnNlZF9lbmRfdGltZS5ob3VyLCBtaW51dGU9cGFyc2VkX2VuZF90aW1lLm1pbnV0ZSwgc2Vjb25kPTAsIG1pY3Jvc2Vjb25kPTApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZWRfc3RhcnRfdGltZSA9IHBhcnNlX3RpbWUoc2V0dGluZ3MuQk9PS0lOR19TVEFSVF9USU1FKQoKICAgICAgICBkdXJhdGlvbl9kZWx0YSA9IGNkWydkdXJhdGlvbiddLnVwcGVyIC0gY2RbJ2R1cmF0aW9uJ10ubG93ZXIKICAgICAgICAjIGlmIGN1cnJlbnQgdGltZSBncmVhdGVyIGJvb2tpbmcgc3RhcnQgdGltZSAtIHdlIHNldCBzdGFydCB0aW1lIHRvCiAgICAgICAgIyBjdXJyZW50IHRpbWUKICAgICAgICBpZiBjZFsnZHVyYXRpb24nXS5sb3dlciA8IG5vdzoKICAgICAgICAgICAgIyBUT0RPIHNldCBsb3dlciBmb3IgY3VycmVudCB0aW1lIHdpdGggcHJvcGVyIHRpbWV6b25lCiAgICAgICAgICAgIGNkWydkdXJhdGlvbiddID0gRGF0ZVRpbWVUWlJhbmdlKG5vdywgbm93ICsgZHVyYXRpb25fZGVsdGEpCgo=</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2xhc3RfYm9va2luZ3Moc2VsZik6CiAgICAgICAgdXNlcl9pZCA9IHNlbGYuZGF0YS5nZXQoJ3VzZXJfaWQnKQogICAgICAgIHRlYW0gPSBzZWxmLmRhdGEuZ2V0KCd0ZWFtX2lkJykKICAgICAgICBzbGFja191c2VyID0gU2xhY2tVc2VyLm9iamVjdHMuZmlsdGVyKHNsYWNrX2lkPXVzZXJfaWQsIHRlYW1fc2xhY2tfaWQ9dGVhbSkuZmlyc3QoKQogICAgICAgIGlmIG5vdCBzbGFja191c2VyOgogICAgICAgICAgICByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcyh7CiAgICAgICAgICAgICAgICAncmVzcG9uc2VfdHlwZSc6ICdlcGhlbWVyYWwnLAogICAgICAgICAgICAgICAgJ3RleHQnOiBfKCdTbGFjayB1c2VyIGRvZXMgbm90IGV4aXN0LicpCiAgICAgICAgICAgIH0pKQogICAgICAgIGlmIG5vdCBzbGFja191c2VyLmNvbW1hbmRzX2FjY2VzczoKICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKGpzb24uZHVtcHMoewogICAgICAgICAgICAgICAgJ3Jlc3BvbnNlX3R5cGUnOiAnZXBoZW1lcmFsJywKICAgICAgICAgICAgICAgICd0ZXh0JzogXygnWW91IGNhbm5vdCBwZXJmb3JtIHRoaXMgYWN0aW9uLiBDb250YWN0IGFkbWluaXN0cmF0b3IuJykKICAgICAgICAgICAgfSkpCiAgICAgICAgYm9va2luZ3MgPSBCb29raW5nLm9iamVjdHMuZmlsdGVyKHNsYWNrX3VzZXI9c2xhY2tfdXNlciwgcm9vbV9fY2hhbm5lbD1jaGFubmVsKQogICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgIyBmb3Igc3RhcnQsIGVuZCBpbiByZXN1bHRbJ2ludGVydmFsJ106CiAgICAgICAgIyAgICAgYWN0aW9ucy5hcHBlbmQoewogICAgICAgICMgICAgICAgICAidGV4dCI6ICd7fSAtIHt9Jy5mb3JtYXQoc3RhcnQudGltZSgpLnN0cmZ0aW1lKHRpbWVfZm9ybWF0KSwgZW5kLnRpbWUoKS5zdHJmdGltZSh0aW1lX2Zvcm1hdCkpLAogICAgICAgICMgICAgICAgICAibmFtZSI6ICJpbnRlcnZhbCIsCiAgICAgICAgIyAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgIyAgICAgICAgICJzdHlsZSI6ICJkZWZhdWx0IiwKICAgICAgICAjICAgICAgICAgInZhbHVlIjogInt9IHt9IHt9IHt9IHt9IHt9Ii5mb3JtYXQoCiAgICAgICAgIyAgICAgICAgICAgICBjZFsncm9vbSddLm51bWJlciwKICAgICAgICAjICAgICAgICAgICAgIHNlbGYuc3RhcnRfZGF0ZS5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSwKICAgICAgICAjICAgICAgICAgICAgIHN0YXJ0LnRpbWUoKS5zdHJmdGltZSh0aW1lX2Zvcm1hdCksCiAgICAgICAgIyAgICAgICAgICAgICBlbmQudGltZSgpLnN0cmZ0aW1lKHRpbWVfZm9ybWF0KSwKICAgICAgICAjICAgICAgICAgICAgIHNlbGYuZHVyYXRpb24sCiAgICAgICAgIyAgICAgICAgICAgICBzZWxmLnBhcnRpY2lwYW50cyBvciAnJwogICAgICAgICMgICAgICAgICApCiAgICAgICAgIyAgICAgfSkKICAgICAgICAjCiAgICAgICAgIyByYWlzZSBmb3Jtcy5WYWxpZGF0aW9uRXJyb3IoanNvbi5kdW1wcygKICAgICAgICAjICAgICB7CiAgICAgICAgIyAgICAgICAgICJ0ZXh0IjogIlJvb20gaGFzIGFscmVhZHkgYm9va2VkIGJ5IHt9LiIuZm9ybWF0KGJvb2tlZF91c2VycyksCiAgICAgICAgIyAgICAgICAgICJhdHRhY2htZW50cyI6IFsKICAgICAgICAjICAgICAgICAgICAgIHsKICAgICAgICAjICAgICAgICAgICAgICAgICAidGV4dCI6ICJDaG9vc2UgYXZhaWxhYmxlIHRpbWUgZm9yIHt9IG9yIG1ha2UgbmV3IGJvb2tpbmciLmZvcm1hdChjZFsnZHVyYXRpb24nXS5sb3dlci5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImZhbGxiYWNrIjogIlJvb20gaGFzIGFscmVhZHkgYm9va2VkIGJ5IHt9LiIuZm9ybWF0KGJvb2tlZF91c2VycyksCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImNhbGxiYWNrX2lkIjogY2RbJ3Jvb20nXS5udW1iZXIsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImNvbG9yIjogIiNGRjAwMDAiLAogICAgICAgICMgICAgICAgICAgICAgICAgICJhdHRhY2htZW50X3R5cGUiOiAiZGVmYXVsdCIsCiAgICAgICAgIyAgICAgICAgICAgICAgICAgImFjdGlvbnMiOiBhY3Rpb25zLAogICAgICAgICMgICAgICAgICAgICAgfQogICAgICAgICMgICAgICAgICBdCiAgICAgICAgIyAgICAgfQogICAgICAgICMgKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9va2luZ3MgPSBCb29raW5nCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWRfc3RhcnRfdGltZSA9IHBhcnNlX3RpbWUoc2V0dGluZ3MuQk9PS0lOR19TVEFSVF9USU1FKQoKICAgICAgICBkdXJhdGlvbl9kZWx0YSA9IGNkWydkdXJhdGlvbiddLnVwcGVyIC0gY2RbJ2R1cmF0aW9uJ10ubG93ZXIKICAgICAgICAjIGlmIGN1cnJlbnQgdGltZSBncmVhdGVyIGJvb2tpbmcgc3RhcnQgdGltZSAtIHdlIHNldCBzdGFydCB0aW1lIHRvCiAgICAgICAgIyBjdXJyZW50IHRpbWUKICAgICAgICBpZiBjZFsnZHVyYXRpb24nXS5sb3dlciA8IG5vdzoKICAgICAgICAgICAgIyBUT0RPIHNldCBsb3dlciBmb3IgY3VycmVudCB0aW1lIHdpdGggcHJvcGVyIHRpbWV6b25lCiAgICAgICAgICAgIGNkWydkdXJhdGlvbiddID0gRGF0ZVRpbWVUWlJhbmdlKG5vdywgbm93ICsgZHVyYXRpb25fZGVsdGEpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2tpbmdzID0gc2VsZi5nZXRfbGFzdF9ib29raW5ncygpCiAgICAgICAgICAgICAgICBpZiBib29raW5nczoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYm9va2luZ3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9va2luZ3MgPSBCb29raW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmVycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2tpbmdzID0gc2VsZi5nZXRfbGFzdF9ib29raW5ncygpCiAgICAgICAgICAgICAgICBpZiBib29raW5nczoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gYm9va2luZ3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmVycm9ycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9yaWdpbmFsX3RpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbSwgc3RhcnRfZGF0ZSwgc3RhcnRfdGltZSwgZHVyYXRpb24sIHBhcnRpY2lwYW50cywgcHVycG9zZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9yaWdpbmFsX3RpbWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGFydF9kYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocm9vbSwgc3RhcnRfZGF0ZSwgc3RhcnRfdGltZSwgZHVyYXRpb24sIHBhcnRpY2lwYW50cywgcHVycG9zZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
