@@ -124,11 +124,12 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1478863198157">
-        <mark key="'" line="112" column="4" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1478883574890">
+        <mark key="'" line="314" column="32" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="48" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="96" column="44" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
@@ -233,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="183" column="56" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="30" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="31" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -333,46 +333,53 @@
       <jump line="676" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="249" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="79" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="306" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1ha2UgYm9va2luZyBmb3IgYWxtb3N0IDE1IG1pbiBsYXRlciBhbmQgbWFrZSBpdCBtdWx0aXBsZSA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCg==</text>
       </register>
       <register name="-" type="4">
-        <text>channel_name</text>
+        <text>danger</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGFubmVsX25hbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIG1ha2UgYm9va2luZyBmb3IgYWxtb3N0IDE1IG1pbiBsYXRlciBhbmQgbWFrZSBpdCBtdWx0aXBsZSA1Cg==</text>
+      <register name="0" type="4">
+        <text>{
+                                    'name': 'cancel_periodic',
+                                    'text': _('Cancel'),
+                                    'value': room_event.id,
+                                    'type': 'button',
+                                    'style': 'danger'
+                                }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZFsnZHVyYXRpb24nXSwgbm93KQoKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZFsnZHVyYXRpb24nXSwgbm93KQoKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYm9va2luZy5kdXJhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuZXh0cmFfZGF0YS5nZXQoJ3Jvb20nKToKICAgICAgICAjICAgICBib29raW5ncyA9IGJvb2tpbmdzLmZpbHRlcihyb29tPXNlbGYuZXh0cmFfZGF0YVsncm9vbSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYm9va2luZy5kdXJhdGlvbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuZXh0cmFfZGF0YS5nZXQoJ3Jvb20nKToKICAgICAgICAjICAgICBib29raW5ncyA9IGJvb2tpbmdzLmZpbHRlcihyb29tPXNlbGYuZXh0cmFfZGF0YVsncm9vbSddKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGF0YVsndGV4dCddID0gXygnTm8gYm9va2luZ3MgZm9yIGNhbmNlbCBmb3Ige30nLmZvcm1hdChkYXRlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ2NhbmNlbF9wZXJpb2RpYycsCiAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IGV2ZW50LmlkLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdidXR0b24nLAogICAgICAgICAgICAgICAgICAgICAgICAnc3R5bGUnOiAnZGFuZ2VyJwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGF0YVsndGV4dCddID0gXygnTm8gYm9va2luZ3MgZm9yIGNhbmNlbCBmb3Ige30nLmZvcm1hdChkYXRlKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgcm9vbV9ldmVudC5zbGFja191c2VyX2lkID09IHNsYWNrX3VzZXIuaWQ6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ2NhbmNlbF9wZXJpb2RpYycsCiAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IGV2ZW50LmlkLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdidXR0b24nLAogICAgICAgICAgICAgICAgICAgICAgICAnc3R5bGUnOiAnZGFuZ2VyJwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
