@@ -46,6 +46,9 @@
         <mark key="^" line="2" column="14" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1478891380165">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1478889906017">
         <mark key="'" line="205" column="37" />
         <mark key="[" line="6" column="9" />
@@ -76,11 +79,11 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478889737978">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="115" />
-        <mark key="^" line="157" column="59" />
-        <mark key="." line="159" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1478891226169">
+        <mark key="[" line="146" column="96" />
+        <mark key="]" line="147" column="15" />
+        <mark key="^" line="147" column="15" />
+        <mark key="." line="147" column="15" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/admin_helpers.py" timestamp="1478118309383">
         <mark key="'" line="19" column="0" />
@@ -163,8 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="182" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="2" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="184" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="858" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -260,16 +261,18 @@
       <jump line="79" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="306" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
       <jump line="307" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
       <jump line="6" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="205" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
+      <jump line="331" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
+      <jump line="337" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.decoder</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.decoder</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</text>
@@ -278,31 +281,31 @@
         <text encoding="base64">ICAgICAgICAgICAgIyBmcmVlX3RpbWVzID0gQm9va2luZy5vYmplY3RzLmdldF9mcmVlKGNkWydyb29tJ10sIGNkWydkdXJhdGlvbiddLCB1c2Vfcm9vbV90aW1lPVRydWUsIGFkZF9kZWx0YT1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBmcmVlX3RpbWVzID0gQm9va2luZy5vYmplY3RzLmdldF9mcmVlKGNkWydyb29tJ10sIGNkWydkdXJhdGlvbiddLCB1c2Vfcm9vbV90aW1lPVRydWUsIGFkZF9kZWx0YT1UcnVlKQogICAgICAgICAgICAjIGZyZWVfdGltZXMgPSBCb29raW5nLm9iamVjdHMuZ2V0X2ZyZWUoY2RbJ3Jvb20nXSwgY2RbJ2R1cmF0aW9uJ10sIHVzZV9yb29tX3RpbWU9VHJ1ZSwgYWRkX2RlbHRhPVRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjZFsnZHVyYXRpb24nXSwgbm93KQoKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjZFsnZHVyYXRpb24nXSwgbm93KQoKICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmb3JtLmVycm9ycykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYm9va2luZy5kdXJhdGlvbikK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuZXh0cmFfZGF0YS5nZXQoJ3Jvb20nKToKICAgICAgICAjICAgICBib29raW5ncyA9IGJvb2tpbmdzLmZpbHRlcihyb29tPXNlbGYuZXh0cmFfZGF0YVsncm9vbSddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoYm9va2luZy5kdXJhdGlvbikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHNlbGYuZXh0cmFfZGF0YS5nZXQoJ3Jvb20nKToKICAgICAgICAjICAgICBib29raW5ncyA9IGJvb2tpbmdzLmZpbHRlcihyb29tPXNlbGYuZXh0cmFfZGF0YVsncm9vbSddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGF0YVsndGV4dCddID0gXygnTm8gYm9va2luZ3MgZm9yIGNhbmNlbCBmb3Ige30nLmZvcm1hdChkYXRlKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ2NhbmNlbF9wZXJpb2RpYycsCiAgICAgICAgICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQ2FuY2VsJyksCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IGV2ZW50LmlkLAogICAgICAgICAgICAgICAgICAgICAgICAndHlwZSc6ICdidXR0b24nLAogICAgICAgICAgICAgICAgICAgICAgICAnc3R5bGUnOiAnZGFuZ2VyJwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGF0YVsndGV4dCddID0gXygnTm8gYm9va2luZ3MgZm9yIGNhbmNlbCBmb3Ige30nLmZvcm1hdChkYXRlKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
