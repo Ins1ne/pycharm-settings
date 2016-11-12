@@ -91,6 +91,12 @@
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" timestamp="1478949825031">
+        <mark key="[" line="38" column="22" />
+        <mark key="]" line="38" column="96" />
+        <mark key="^" line="38" column="21" />
+        <mark key="." line="38" column="22" />
+      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478852821944">
         <mark key="'" line="161" column="4" />
       </file>
@@ -270,7 +276,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>room.get_room_time(now.replace(hour=0, minute=0, second=0, microsecond=0))</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -278,8 +284,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBmcmVlX3RpbWVzID0gQm9va2luZy5vYmplY3RzLmdldF9mcmVlKGNkWydyb29tJ10sIGNkWydkdXJhdGlvbiddLCB1c2Vfcm9vbV90aW1lPVRydWUsIGFkZF9kZWx0YT1UcnVlKQo=</text>
+      <register name="0" type="4">
+        <text>room.get_room_time(now.replace(hour=0, minute=0, second=0, microsecond=0))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIyBmcmVlX3RpbWVzID0gQm9va2luZy5vYmplY3RzLmdldF9mcmVlKGNkWydyb29tJ10sIGNkWydkdXJhdGlvbiddLCB1c2Vfcm9vbV90aW1lPVRydWUsIGFkZF9kZWx0YT1UcnVlKQogICAgICAgICAgICAjIGZyZWVfdGltZXMgPSBCb29raW5nLm9iamVjdHMuZ2V0X2ZyZWUoY2RbJ3Jvb20nXSwgY2RbJ2R1cmF0aW9uJ10sIHVzZV9yb29tX3RpbWU9VHJ1ZSwgYWRkX2RlbHRhPVRydWUpCg==</text>
