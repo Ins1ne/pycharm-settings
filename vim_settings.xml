@@ -94,11 +94,6 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478852821944">
         <mark key="'" line="161" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/.gitignore" timestamp="1478534259001">
-        <mark key="]" line="44" column="2" />
-        <mark key="^" line="44" column="2" />
-        <mark key="." line="44" column="2" />
-      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1478710215658">
         <mark key="'" line="73" column="19" />
         <mark key="[" line="59" column="47" />
@@ -130,6 +125,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1478948970110">
+        <mark key="[" line="54" column="26" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="55" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
