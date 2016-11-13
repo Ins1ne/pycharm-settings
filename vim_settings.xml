@@ -13,12 +13,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/managers.py" timestamp="1478965952958">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/managers.py" timestamp="1479054353018">
         <mark key="'" line="43" column="0" />
         <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="40" />
-        <mark key="." line="71" column="40" />
-        <mark key="^" line="71" column="40" />
+        <mark key="]" line="71" column="44" />
+        <mark key="." line="71" column="44" />
+        <mark key="^" line="71" column="44" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/workflow.py" timestamp="1477383216243">
         <mark key="'" line="131" column="6" />
@@ -248,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>duration_timedelta</text>
+        <text>duration</text>
       </register>
       <register name="-" type="4">
-        <text>duration_timedelta</text>
+        <text>duration</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV90aW1lXD4=</text>
