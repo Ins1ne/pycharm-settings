@@ -70,12 +70,12 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1479148917647">
         <mark key="'" line="36" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1479149613619">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1479152281621">
         <mark key="'" line="101" column="31" />
-        <mark key="[" line="39" column="5" />
-        <mark key="]" line="40" column="40" />
-        <mark key="." line="40" column="40" />
-        <mark key="^" line="40" column="40" />
+        <mark key="[" line="93" column="23" />
+        <mark key="]" line="93" column="37" />
+        <mark key="." line="93" column="37" />
+        <mark key="^" line="93" column="37" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
