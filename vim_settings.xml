@@ -7,34 +7,20 @@
         <mark key="[" line="23" column="87" />
         <mark key="]" line="23" column="113" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/common/slack_util.py" timestamp="1478521761432">
         <mark key="'" line="55" column="27" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1479142616300">
-        <mark key="'" line="85" column="4" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1479145069499">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/workflow.py" timestamp="1477383216243">
         <mark key="'" line="131" column="6" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1479110689883">
         <mark key="'" line="274" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1478208345025">
-        <mark key="'" line="58" column="38" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="4" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1478721059952">
         <mark key="'" line="59" column="0" />
@@ -47,13 +33,6 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1478891380165">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1479120560422">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="48" column="78" />
-        <mark key="]" line="49" column="35" />
-        <mark key="." line="49" column="35" />
-        <mark key="^" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
@@ -84,20 +63,6 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1477397956547">
-        <mark key="'" line="690" column="10" />
-        <mark key="[" line="695" column="0" />
-        <mark key="]" line="699" column="28" />
-        <mark key="^" line="331" column="14" />
-        <mark key="." line="331" column="14" />
-      </file>
-      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/booking/edit_inline/stacked.html" timestamp="1476279564743">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="67" column="30" />
-        <mark key="]" line="68" column="23" />
-        <mark key="." line="68" column="23" />
-        <mark key="^" line="68" column="23" />
-      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1478852821944">
         <mark key="'" line="161" column="4" />
       </file>
@@ -127,12 +92,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1479144918423" />
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479142459482">
-        <mark key="'" line="226" column="26" />
-        <mark key="[" line="159" column="8" />
-        <mark key="]" line="159" column="15" />
-        <mark key="." line="159" column="15" />
-        <mark key="^" line="159" column="15" />
+        <mark key="'" line="180" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
@@ -149,23 +111,11 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479126740733">
-        <mark key="'" line="79" column="6" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="790" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="902" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="731" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="918" column="59" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="1002" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="857" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="879" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="448" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="367" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -260,13 +210,19 @@
       <jump line="21" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="463" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="85" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="33" column="11" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="139" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="141" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>bookings_for_cancel</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxldGVfbWFueV9nY2FsX2V2ZW50c1w+</text>
