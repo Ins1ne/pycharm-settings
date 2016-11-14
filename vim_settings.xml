@@ -108,12 +108,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479112631408">
-        <mark key="'" line="246" column="31" />
-        <mark key="[" line="154" column="42" />
-        <mark key="]" line="154" column="55" />
-        <mark key="^" line="154" column="55" />
-        <mark key="." line="154" column="55" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479114106727">
+        <mark key="'" line="117" column="25" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="29" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
@@ -135,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="940" column="110" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="477" column="72" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="856" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="213" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
@@ -235,13 +234,14 @@
       <jump line="154" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="119" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="246" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="117" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKAo=</text>
+      <register name="&quot;" type="4">
+        <text>, datetime</text>
       </register>
       <register name="-" type="4">
-        <text>: if</text>
+        <text>, datetime</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCT09LSU5HX1RJTUVfRk9STUFUXD4=</text>
