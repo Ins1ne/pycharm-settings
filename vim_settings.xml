@@ -155,11 +155,12 @@
         <mark key="." line="43" column="73" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479194358141">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479195346044">
         <mark key="'" line="139" column="0" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
+        <mark key="[" line="276" column="14" />
+        <mark key="]" line="277" column="11" />
+        <mark key="." line="277" column="11" />
+        <mark key="^" line="277" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -319,7 +320,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>len(</text>
@@ -331,12 +332,41 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2VfZGF0YVsnYXR0YWNobWVudHMnXS5hcHBlbmQoewogICAgICAgICAgICAgICAgJ3RpdGxlJzogcm9vbS5udW1iZXIsCiAgICAgICAgICAgICAgICAnZmllbGRzJzogWwogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogXygnQ2hhbm5lbCcpLAogICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiAnI3t9Jy5mb3JtYXQocm9vbS5jaGFubmVsLm5hbWUpLAogICAgICAgICAgICAgICAgICAgICAgICAnc2hvcnQnOiBUcnVlCiAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgICd0aXRsZSc6IF8oJ1RpbWV6b25lJyksCiAgICAgICAgICAgICAgICAgICAgICAgICd2YWx1ZSc6IHJvb20udGltZXpvbmUsCiAgICAgICAgICAgICAgICAgICAgICAgICdzaG9ydCc6IFRydWUKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgJ3RpdGxlJzogXygnRGVzY3JpcHRpb24nKSwKICAgICAgICAgICAgICAgICAgICAgICAgJ3ZhbHVlJzogcm9vbS5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgJ3Nob3J0JzogRmFsc2UKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>{
+                    'title': _('Description'),
+                    'value': room.description,
+                    'short': False
+                }</text>
       </register>
       <register name="3" type="4">
+        <text>[
+                    {
+                        'title': _('Channel'),
+                        'value': '#{}'.format(room.channel.name),
+                        'short': True
+                    },
+                    {
+                        'title': _('Timezone'),
+                        'value': room.timezone,
+                        'short': True
+                    },
+                    {
+                        'title': _('Description'),
+                        'value': room.description,
+                        'short': False
+                    }
+                ]</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
         <text>{
                         'title': _('Timezone'),
                         'value': room.timezone,
@@ -348,23 +378,14 @@
                         'short': False
                     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICByb29tc19pbmZvID0gW10K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kYXRhWydhdHRhY2htZW50cyddID0gcm9vbXNfaW5mbwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXNwb25zZV9kYXRhCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByb29tc19pbmZvCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb29tc19pbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kYXRhWydhdHRhY2htZW50cyddID0gcm9vbXNfaW5mbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
