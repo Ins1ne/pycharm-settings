@@ -86,8 +86,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1479151392709">
-        <mark key="'" line="25" column="7" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1479157831651">
+        <mark key="'" line="224" column="68" />
         <mark key="[" line="1020" column="65" />
         <mark key="]" line="1020" column="65" />
         <mark key="^" line="1020" column="65" />
@@ -144,6 +144,7 @@
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/DEPLOY.rst" timestamp="1479158832739" />
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1478844775103">
         <mark key="'" line="122" column="0" />
       </file>
@@ -160,8 +161,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1479157116206">
-        <mark key="'" line="428" column="17" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1479159484201">
+        <mark key="'" line="436" column="17" />
+        <mark key="[" line="424" column="26" />
+        <mark key="]" line="424" column="26" />
+        <mark key="." line="424" column="26" />
+        <mark key="^" line="424" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479153390473">
         <mark key="'" line="246" column="31" />
@@ -209,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
-      <jump line="307" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
-      <jump line="6" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="205" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="331" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
       <jump line="337" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" />
@@ -309,55 +311,58 @@
       <jump line="19" column="77" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="412" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="428" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="155" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="229" column="80" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="224" column="68" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bebebe</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>bebebe</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RpZnlfcGFydGljaXBhbnRzX2Fib3V0X2NyZWF0aW9uXD4=</text>
+        <text encoding="base64">XDxib29rZWRfdXNlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcm9vbXNfaW5mbwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByb29tc19pbmZvID0gW10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kYXRhWydhdHRhY2htZW50cyddID0gcm9vbXNfaW5mbwo=</text>
+        <text encoding="base64">ICAgICAgICByb29tc19pbmZvID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXNwb25zZV9kYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZV9kYXRhWydhdHRhY2htZW50cyddID0gcm9vbXNfaW5mbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJldHVybiByb29tc19pbmZvCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiByZXNwb25zZV9kYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyb29tc19pbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJldHVybiByb29tc19pbmZvCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElORk9fQ09NTUFORF9QQVRURVJOCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyb29tc19pbmZvKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIElORk9fQ09NTUFORF9QQVRURVJOCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtcnBsYW5uZXIuYm90LnNlcmlhbGl6ZXJzIGltcG9ydCBcCg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBtcnBsYW5uZXIuYm90LnNlcmlhbGl6ZXJzIGltcG9ydCBcCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RpZnlfcGFydGljaXBhbnRzX2Fib3V0X2NyZWF0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxib29rZWRfdXNlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RpZnlfcGFydGljaXBhbnRzX2Fib3V0X2NyZWF0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxib29rZWRfdXNlcnNcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -365,7 +370,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxyZXNwb25zZV9kYXRhXD4=</entry>
         <entry encoding="base64">XDxjYW5jZWxcPg==</entry>
         <entry encoding="base64">XDxjaGFubmVsX25hbWVcPg==</entry>
@@ -385,6 +389,7 @@
         <entry encoding="base64">XDxDT01NQU5EX0RJQ1RcPg==</entry>
         <entry encoding="base64">XDxpbnZpdGVfcGFydGljaXBhbnRzXD4=</entry>
         <entry encoding="base64">XDxub3RpZnlfcGFydGljaXBhbnRzX2Fib3V0X2NyZWF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxib29rZWRfdXNlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
