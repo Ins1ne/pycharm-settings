@@ -183,8 +183,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1479149094780">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1479280940384">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="38" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -217,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
       <jump line="59" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="41" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/managers.py" />
       <jump line="58" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -317,6 +316,7 @@
       <jump line="370" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="70" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="139" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
