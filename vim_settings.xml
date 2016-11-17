@@ -93,6 +93,18 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/tasks.py" timestamp="1478270249322">
+        <mark key="[" line="182" column="0" />
+        <mark key="]" line="182" column="0" />
+        <mark key="." line="182" column="0" />
+        <mark key="^" line="165" column="35" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/timesheetfilling.html" timestamp="1476729988637">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
@@ -101,6 +113,18 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1478844775103">
         <mark key="'" line="122" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/templates/admin/crm_hr/timesheetfilling_change.html" timestamp="1476731368282">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="52" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1478710117946">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="2" column="14" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1479148917647">
         <mark key="'" line="36" column="4" />
@@ -142,6 +166,24 @@
         <mark key="." line="359" column="0" />
         <mark key="^" line="347" column="30" />
       </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="20" column="27" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/core/fixtures/templates.json" timestamp="1477430741105">
+        <mark key="[" line="172" column="44" />
+        <mark key="]" line="172" column="44" />
+        <mark key="^" line="172" column="44" />
+        <mark key="." line="172" column="44" />
+      </file>
+      <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="13" column="122" />
+        <mark key="^" line="13" column="122" />
+        <mark key="." line="13" column="122" />
+      </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
       </file>
@@ -164,21 +206,21 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1479410773278">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1479413102554">
         <mark key="'" line="224" column="68" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="253" column="96" />
+        <mark key="[" line="253" column="56" />
+        <mark key="]" line="253" column="64" />
         <mark key="^" line="1113" column="65" />
         <mark key="." line="1113" column="65" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479411342612">
-        <mark key="[" line="74" column="8" />
-        <mark key="]" line="74" column="9" />
-        <mark key="^" line="74" column="9" />
-        <mark key="." line="74" column="9" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479413122753">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="^" line="70" column="19" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
@@ -287,8 +329,8 @@
       <jump line="347" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>|day_of_month</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
       </register>
       <register name="-" type="4">
         <text>|day_of_month</text>
@@ -297,31 +339,34 @@
         <text encoding="base64">XDxCb29raW5nUGVyaW9kaWNDb21tYW5kQVBJVmlld1w+</text>
       </register>
       <register name="0" type="4">
-        <text>?((?:(?:sun|mon|tue|wed|thu|fri|sat|day_of_month),?){0,})</text>
+        <text>([^ ]*)\s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdDUkVBVEVfUEVSSU9ESUNfQ09NTUFORCc6ICgnL21yX2Jvb2twZXJpb2RpYycsICdDb21tYW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEJvb2tpbmcKICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd1c2VyX2lkJywgJ3VzZXJfbmFtZScsICdkdXJhdGlvbicsICdyb29tJywKICAgICAgICAgICAgJ3NsYWNrX3VzZXInLCAncGFydGljaXBhbnRzJywgJ3B1cnBvc2UnCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICdDUkVBVEVfUEVSSU9ESUNfQ09NTUFORCc6ICgnL21yX2Jvb2twZXJpb2RpYycsICdDb21tYW4nKQo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEJvb2tpbmcKICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd1c2VyX2lkJywgJ3VzZXJfbmFtZScsICdkdXJhdGlvbicsICdyb29tJywKICAgICAgICAgICAgJ3NsYWNrX3VzZXInLCAncGFydGljaXBhbnRzJywgJ3B1cnBvc2UnCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
                     'title': _('Description'),
                     'value': room.description,
                     'short': False
                 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>[
                     {
                         'title': _('Channel'),
@@ -340,11 +385,8 @@
                     }
                 ]</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb3VudCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
