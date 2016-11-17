@@ -156,11 +156,10 @@
         <mark key="^" line="43" column="73" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479195346044">
-        <mark key="'" line="139" column="0" />
-        <mark key="[" line="276" column="14" />
-        <mark key="]" line="277" column="11" />
-        <mark key="." line="277" column="11" />
-        <mark key="^" line="277" column="11" />
+        <mark key="[" line="327" column="14" />
+        <mark key="]" line="328" column="11" />
+        <mark key="." line="328" column="11" />
+        <mark key="^" line="328" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -185,10 +184,6 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1479280940384">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/forms.py" timestamp="1477646483945">
         <mark key="'" line="14" column="0" />
@@ -204,10 +199,10 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1479157831651">
         <mark key="'" line="224" column="68" />
-        <mark key="[" line="1020" column="65" />
-        <mark key="]" line="1020" column="65" />
-        <mark key="^" line="1020" column="65" />
-        <mark key="." line="1020" column="65" />
+        <mark key="[" line="1113" column="65" />
+        <mark key="]" line="1113" column="65" />
+        <mark key="^" line="1113" column="65" />
+        <mark key="." line="1113" column="65" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
