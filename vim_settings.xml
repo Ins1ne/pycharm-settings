@@ -174,19 +174,18 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479414001875">
-        <mark key="'" line="63" column="4" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="129" column="17" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479449978298">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="141" column="91" />
+        <mark key="]" line="141" column="96" />
+        <mark key="^" line="141" column="96" />
+        <mark key="." line="141" column="96" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="242" column="0" filename="$USER_HOME$/vagrant/mrplanner/config/settings.py" />
       <jump line="274" column="0" filename="$USER_HOME$/vagrant/mrplanner/config/settings.py" />
       <jump line="42" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
@@ -208,7 +207,6 @@
       <jump line="39" column="6" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="110" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="161" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="88" column="66" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="79" column="6" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="158" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="106" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -286,66 +284,51 @@
       <jump line="48" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="126" column="11" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="63" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="132" column="63" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="88" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiBfKCkK</text>
+      <register name="&quot;" type="4">
+        <text>/mr_bookperiodic [room number] [repeat type] [week day] [date_start] '
+                      '[time_start] [duration] [number_of_weeks]</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>' \ '</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAidGV4dCI6IF8oJ0NvbW1hbmQgZm9ybWF0OiBgL21yX2Jvb2twZXJpb2RpYyBbcm9vbSBudW1iZXJdIFtyZXBlYXQgdHlwZV0gW3dlZWsgZGF5XSBbZGF0ZV9zdGFydF0gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnW3RpbWVfc3RhcnRdIFtkdXJhdGlvbl0gW251bWJlcl9vZl93ZWVrc11gIFxuXG4gJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnQm9vayByb29tIGZvciBwZXJpb2RpYyB0aW1lJwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnUmVwZWF0IHR5cGUgZm9ybWF0OiBgZXZlcnlkYXksIGV2ZXJ5d29ya2RheSwgZXZlcnl3ZWVrLCBldmVyeW1vbnRoLCBldmVyeXllYXJgIFxuICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ1dlZWsgZGF5IGZvcm1hdDogYHN1biwgbW9uLCB0dWUsIHdlZCwgdGh1LCBmcmksIHNhdGAgXG4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdEYXRlIHN0YXJ0IGZvcm1hdDogYGRkLm1tLnl5LCBkZC5tbS55eXl5LCBkZC1tbS15eSwgZGQtbW0teXl5eSwgdG9tb3Jyb3csIDJkYSwgMm1vcm8sICcKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3N1biwgbW9uLCB0dWUsIHdlZCwgdGh1LCBmcmksIHNhdGAgXG4nCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdUaW1lIHN0YXJ0IGZvcm1hdDogYGhoOm1tYCBcbicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ0R1cmF0aW9uIGZvcm1hdDogYDFoMzBtYCBcbicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJ051bWJlciBvZiB3ZWVrcyBmb3JtYXQ6IGAyd2AnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdZb3UgY2FuIG1lbnRpb24gcGFydGljaXBhbnRzIGBAdXNlciwgQHVzZXJfMmAgLSBhZnRlciBib29raW5nIGlzIGNyZWF0ZWQgdGhleSAnCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICd3aWxsIHJlY2VpdmUgbm90aWZpY2F0aW9uIGFib3V0IGl0LicKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KGhlbHAgfCA8cm9vbS1udW1iZXI+KQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiBfKCkK</text>
+      <register name="1" type="4">
+        <text>/mr_bookperiodic [room number] [repeat type] [week day] [date_start] '
+                      '[time_start] [duration] [number_of_weeks]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
+      <register name="2" type="4">
+        <text>/mr_bookperiodic [room number] [repeat type] [week day] [date_start] '
+                      '[time_start] [duration] [number_of_weeks]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiBfKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdDUkVBVEVfUEVSSU9ESUNfQ09NTUFORCc6ICgnL21yX2Jvb2twZXJpb2RpYycsICdDb21tYW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEJvb2tpbmcKICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd1c2VyX2lkJywgJ3VzZXJfbmFtZScsICdkdXJhdGlvbicsICdyb29tJywKICAgICAgICAgICAgJ3NsYWNrX3VzZXInLCAncGFydGljaXBhbnRzJywgJ3B1cnBvc2UnCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICdDUkVBVEVfUEVSSU9ESUNfQ09NTUFORCc6ICgnL21yX2Jvb2twZXJpb2RpYycsICdDb21tYW4nKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEJvb2tpbmcKICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd1c2VyX2lkJywgJ3VzZXJfbmFtZScsICdkdXJhdGlvbicsICdyb29tJywKICAgICAgICAgICAgJ3NsYWNrX3VzZXInLCAncGFydGljaXBhbnRzJywgJ3B1cnBvc2UnCiAgICAgICAgKQo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-                    'title': _('Description'),
-                    'value': room.description,
-                    'short': False
-                }</text>
-      </register>
-      <register name="9" type="4">
-        <text>[
-                    {
-                        'title': _('Channel'),
-                        'value': '#{}'.format(room.channel.name),
-                        'short': True
-                    },
-                    {
-                        'title': _('Timezone'),
-                        'value': room.timezone,
-                        'short': True
-                    },
-                    {
-                        'title': _('Description'),
-                        'value': room.description,
-                        'short': False
-                    }
-                ]</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
