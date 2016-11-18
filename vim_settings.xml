@@ -135,12 +135,17 @@
         <mark key="." line="43" column="73" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479489627702">
-        <mark key="'" line="347" column="86" />
-        <mark key="[" line="359" column="30" />
-        <mark key="]" line="360" column="18" />
-        <mark key="^" line="360" column="18" />
-        <mark key="." line="360" column="18" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479491096393">
+        <mark key="'" line="371" column="20" />
+        <mark key="[" line="363" column="15" />
+        <mark key="]" line="363" column="19" />
+        <mark key="^" line="363" column="19" />
+        <mark key="." line="363" column="19" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1479491035752">
+        <mark key="'" line="730" column="20" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="29" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
@@ -186,12 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="39" column="6" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="110" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="161" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="79" column="6" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="158" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="11" column="68" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="226" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="639" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -286,19 +285,25 @@
       <jump line="325" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="13" column="57" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="347" column="86" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="837" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="836" column="15" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="831" column="49" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="782" column="16" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="730" column="20" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="366" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>PeriodicEvent</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</text>
+        <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByJyg/UDxyb29tPlteIF0rKVxzKycKICAgICAgICByJyg/UDxyZXBlYXRfdHlwZT5ldmVyeWRheXxldmVyeXdvcmtkYXl8ZXZlcnl3ZWVrfGV2ZXJ5bW9udGh8ZXZlcnl5ZWFyKVxzKycKICAgICAgICByJz8oP1A8d2Vla19kYXk+KD86KD86c3VufG1vbnx0dWV8d2VkfHRodXxmcml8c2F0KSw/KXswLH0pXHMrJwogICAgICAgIHInKFxzKyg/UDxzdGFydF9kYXRlPnRvbW9ycm93fDJkYXwybW9yb3xtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxzdW58XGR7Mn1bLy4tXVxkezJ9KFsvLi1dXGR7Miw0fSk/KSk/XHMrJwogICAgICAgIHInKD9QPHN0YXJ0X3RpbWU+XGR7MSwyfTpcZHsyfSlccysnCiAgICAgICAgcicoP1A8ZHVyYXRpb24+W14gXSopXHMqJwogICAgICAgIHInKD9QPG51bWJlcl9vZl93ZWVrcz5bXiBdKilccysnCiAgICAgICAgcicoP1A8cGFydGljaXBhbnRzPig/OkBbXHcuLV0rLD9ccz8pKiknCiAgICAgICAgcicoXHM/KD9QPHB1cnBvc2U+KD86LiopKSk/Jwo=</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -334,9 +339,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -344,7 +349,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCT09LSU5HX1RJTUVfRk9STUFUXD4=</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxFbXB0eVRleHRTZXJpYWxpemVyTWl4aW5cPg==</entry>
         <entry encoding="base64">XDxkZWxldGVfbWFueV9nY2FsX2V2ZW50c1w+</entry>
@@ -364,6 +368,7 @@
         <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
         <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
