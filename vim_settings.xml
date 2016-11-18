@@ -135,12 +135,12 @@
         <mark key="." line="43" column="73" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479491096393">
-        <mark key="'" line="371" column="20" />
-        <mark key="[" line="363" column="15" />
-        <mark key="]" line="363" column="19" />
-        <mark key="^" line="363" column="19" />
-        <mark key="." line="363" column="19" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479494448719">
+        <mark key="'" line="376" column="20" />
+        <mark key="[" line="357" column="21" />
+        <mark key="]" line="358" column="25" />
+        <mark key="^" line="358" column="25" />
+        <mark key="." line="358" column="25" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1479491035752">
         <mark key="'" line="730" column="20" />
@@ -294,7 +294,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text>*args, **kwargs</text>
       </register>
       <register name="-" type="4">
         <text>''</text>
@@ -302,8 +302,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
+      <register name="0" type="4">
+        <text>*args, **kwargs</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
