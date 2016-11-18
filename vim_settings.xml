@@ -135,12 +135,12 @@
         <mark key="." line="43" column="73" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479452440155">
-        <mark key="'" line="332" column="21" />
-        <mark key="[" line="332" column="21" />
-        <mark key="]" line="332" column="25" />
-        <mark key="." line="332" column="25" />
-        <mark key="^" line="332" column="25" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479456563803">
+        <mark key="'" line="352" column="27" />
+        <mark key="[" line="352" column="109" />
+        <mark key="]" line="353" column="11" />
+        <mark key="." line="353" column="11" />
+        <mark key="^" line="353" column="11" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
@@ -174,28 +174,18 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479452143066">
-        <mark key="'" line="88" column="0" />
-        <mark key="[" line="152" column="48" />
-        <mark key="]" line="152" column="76" />
-        <mark key="." line="152" column="76" />
-        <mark key="^" line="152" column="76" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479456327227">
+        <mark key="'" line="63" column="4" />
+        <mark key="[" line="249" column="0" />
+        <mark key="]" line="249" column="0" />
+        <mark key="." line="249" column="0" />
+        <mark key="^" line="70" column="38" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="0" filename="$USER_HOME$/vagrant/mrplanner/config/settings.py" />
-      <jump line="42" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
-      <jump line="47" column="85" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
-      <jump line="62" column="67" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
-      <jump line="66" column="77" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
-      <jump line="154" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="119" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="120" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="117" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="65" column="87" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="107" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="219" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="141" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -208,7 +198,6 @@
       <jump line="161" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="79" column="6" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="158" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="106" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="11" column="68" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="226" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="639" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -282,61 +271,72 @@
       <jump line="347" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="48" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="126" column="11" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="63" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="132" column="63" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="88" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="332" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="249" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="134" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="87" column="104" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="80" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="135" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="63" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="224" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="106" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="357" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="343" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="285" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="353" column="27" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>FIELD</text>
+        <text>, 'extra_params'</text>
       </register>
       <register name="-" type="4">
-        <text>FIELD</text>
+        <text>, 'extra_params'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxGSUVMRHNcPg==</text>
+        <text encoding="base64">XDx0b2tlblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Vycm9yJzogXygnSW52YWxpZCBjb21tYW5kIGZvcm1hdC5cbicKICAgICAgICAgICAgICAgICAgICAgICAnQ29tbWFuZCBmb3JtYXQ6IGB7MH1gJy5mb3JtYXQoQ0hFQ0tfTk9XX0NPTU1BTkRfRk9STUFUKSksCiAgICAgICAgICAgICdhbGxvd19lbXB0eV90ZXh0JzogVHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICByJyg/UDxyb29tPlteIF0rKVxzKycKICAgICAgICByJyg/UDxyZXBlYXRfdHlwZT5ldmVyeWRheXxldmVyeXdvcmtkYXl8ZXZlcnl3ZWVrfGV2ZXJ5bW9udGh8ZXZlcnl5ZWFyKVxzKycKICAgICAgICByJz8oP1A8d2Vla19kYXk+KD86KD86c3VufG1vbnx0dWV8d2VkfHRodXxmcml8c2F0KSw/KXswLH0pXHMrJwogICAgICAgIHInKFxzKyg/UDxzdGFydF9kYXRlPnRvbW9ycm93fDJkYXwybW9yb3xtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxzdW58XGR7Mn1bLy4tXVxkezJ9KFsvLi1dXGR7Miw0fSk/KSk/XHMrJwogICAgICAgIHInKD9QPHN0YXJ0X3RpbWU+XGR7MSwyfTpcZHsyfSlccysnCiAgICAgICAgcicoP1A8ZHVyYXRpb24+W14gXSopXHMqJwogICAgICAgIHInKD9QPG51bWJlcl9vZl93ZWVrcz5bXiBdKilccysnCiAgICAgICAgcicoP1A8cGFydGljaXBhbnRzPig/OkBbXHcuLV0rLD9ccz8pKiknCiAgICAgICAgcicoXHM/KD9QPHB1cnBvc2U+KD86LiopKSk/Jwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChtYXRjaCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0KQo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>/mr_bookperiodic [room number] [repeat type] [week day] [date_start] '
                       '[time_start] [duration] [number_of_weeks]</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>/mr_bookperiodic [room number] [repeat type] [week day] [date_start] '
                       '[time_start] [duration] [number_of_weeks]</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiBfKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2hlbHAnOiBfKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICcodG9tb3Jyb3d8MmRhfDJtb3JvfHN1bnxtb258dHVlfHdlZHx0aHV8ZnJpfHNhdHxcZHsyfVsvLi1dXGR7Mn0oPzpbLy4tXVxkezIsNH0pPykgJyBcCiAgICAgICAgIyAnKFxkezJ9OlxkezJ9KSAoW14gXXsxLH0pIChbXiBdKilccyooKD86QFtcd10rLD9ccz8pKikoXHM/KD86LiopKT8nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdDUkVBVEVfUEVSSU9ESUNfQ09NTUFORCc6ICgnL21yX2Jvb2twZXJpb2RpYycsICdDb21tYW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IEJvb2tpbmcKICAgICAgICBmaWVsZHMgPSAoCiAgICAgICAgICAgICd1c2VyX2lkJywgJ3VzZXJfbmFtZScsICdkdXJhdGlvbicsICdyb29tJywKICAgICAgICAgICAgJ3NsYWNrX3VzZXInLCAncGFydGljaXBhbnRzJywgJ3B1cnBvc2UnCiAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxGSUVMRHNcPg==</last-search>
+      <last-search encoding="base64">XDx0b2tlblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxGSUVMRHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0b2tlblw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -344,10 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDaGFubmVsXD4=</entry>
-        <entry encoding="base64">XDxNZXNzYWdlUGFyc2VyXD4=</entry>
-        <entry encoding="base64">XDxDT05TVEFOQ0VfQ09ORklHXD4=</entry>
-        <entry encoding="base64">XDxDUkVBVEVfQk9PS0lOR19DT01NQU5EXD4=</entry>
         <entry encoding="base64">XDxCT09LSU5HX1RJTUVfRk9STUFUXD4=</entry>
         <entry encoding="base64">XDxkYXRlXD4=</entry>
         <entry encoding="base64">XDxFbXB0eVRleHRTZXJpYWxpemVyTWl4aW5cPg==</entry>
@@ -362,8 +358,12 @@
         <entry encoding="base64">XDxQZXJpb2RpY0V2ZW50XD4=</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDb21tYW5kQVBJVmlld1w+</entry>
         <entry encoding="base64">XDxDUkVBVEVfQk9PS0lOR19QQVRURVJOXD4=</entry>
-        <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
         <entry encoding="base64">XDxGSUVMRHNcPg==</entry>
+        <entry encoding="base64">XDxjb21tYW5kX3BhdHRlcm5cPg==</entry>
+        <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfQ09NTUFORFw+</entry>
+        <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
+        <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
+        <entry encoding="base64">XDx0b2tlblw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
