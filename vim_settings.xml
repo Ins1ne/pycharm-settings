@@ -164,11 +164,11 @@
         <mark key="." line="43" column="73" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479495325795">
-        <mark key="[" line="355" column="0" />
-        <mark key="]" line="355" column="0" />
-        <mark key="^" line="378" column="17" />
-        <mark key="." line="355" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479672536419">
+        <mark key="[" line="377" column="38" />
+        <mark key="]" line="378" column="25" />
+        <mark key="^" line="378" column="25" />
+        <mark key="." line="378" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -225,20 +225,18 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479462040564">
-        <mark key="'" line="58" column="4" />
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-        <mark key="^" line="70" column="38" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479672987953">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="265" column="62" />
+        <mark key="]" line="265" column="31" />
+        <mark key="." line="266" column="83" />
+        <mark key="^" line="265" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
       <jump line="141" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" />
       <jump line="25" column="7" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
@@ -337,13 +335,15 @@
       <jump line="1451" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="355" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="359" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="181" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="0" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBfX2luaXRfXyhzZWxmLCAqYXJncywgKiprd2FyZ3MpOgogICAgIyAgICAgcHJpbnQoJ2luaXQnKQogICAgIyAgICAgcHJpbnQoYXJncywga3dhcmdzKQogICAgIyAgICAgc3VwZXIoQm9va2luZ1BlcmlvZGljU2VyaWFsaXplciwgc2VsZikuX19pbml0X18oKmFyZ3MsICoqa3dhcmdzKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</text>
