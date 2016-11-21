@@ -226,12 +226,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479673819458">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479750617286">
         <mark key="'" line="220" column="8" />
-        <mark key="[" line="265" column="62" />
-        <mark key="]" line="265" column="31" />
-        <mark key="." line="266" column="83" />
-        <mark key="^" line="265" column="31" />
+        <mark key="[" line="328" column="54" />
+        <mark key="]" line="328" column="54" />
+        <mark key="." line="328" column="54" />
+        <mark key="^" line="328" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
