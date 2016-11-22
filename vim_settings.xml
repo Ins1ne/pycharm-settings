@@ -134,19 +134,19 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1479800180188">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1479844298715">
         <mark key="'" line="70" column="4" />
         <mark key="[" line="355" column="0" />
         <mark key="]" line="355" column="0" />
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479843799364">
-        <mark key="'" line="405" column="35" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479844981629">
+        <mark key="'" line="429" column="8" />
         <mark key="[" line="424" column="69" />
-        <mark key="]" line="424" column="68" />
-        <mark key="." line="424" column="68" />
-        <mark key="^" line="424" column="68" />
+        <mark key="]" line="424" column="75" />
+        <mark key="." line="424" column="75" />
+        <mark key="^" line="424" column="75" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1479491035752">
         <mark key="'" line="730" column="20" />
@@ -201,14 +201,12 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="486" column="38" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="448" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="476" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="1547" column="43" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="1493" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="1451" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="355" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="359" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="181" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="220" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="380" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -301,6 +299,8 @@
       <jump line="23" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="455" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="405" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="359" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="429" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
