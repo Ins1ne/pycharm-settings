@@ -141,12 +141,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479832948815">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1479843799364">
         <mark key="'" line="405" column="35" />
-        <mark key="[" line="17" column="96" />
-        <mark key="]" line="17" column="95" />
-        <mark key="." line="17" column="95" />
-        <mark key="^" line="17" column="95" />
+        <mark key="[" line="424" column="69" />
+        <mark key="]" line="424" column="68" />
+        <mark key="." line="424" column="68" />
+        <mark key="^" line="424" column="68" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1479491035752">
         <mark key="'" line="730" column="20" />
@@ -189,11 +189,11 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479832534752">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1479843501077">
         <mark key="'" line="456" column="54" />
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+        <mark key="[" line="402" column="28" />
+        <mark key="]" line="402" column="28" />
+        <mark key="." line="402" column="28" />
         <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, calculate_range</text>
+        <text>.date()</text>
       </register>
       <register name="-" type="4">
-        <text>, calculate_range</text>
+        <text>.date()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
