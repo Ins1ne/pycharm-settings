@@ -74,8 +74,8 @@
         <mark key="^" line="59" column="66" />
         <mark key="." line="59" column="66" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1479371983053">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1479846372502">
+        <mark key="'" line="276" column="33" />
         <mark key="[" line="275" column="5" />
         <mark key="]" line="275" column="10" />
         <mark key="." line="275" column="10" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="476" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="1547" column="43" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
       <jump line="1493" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" />
@@ -331,6 +330,7 @@
       <jump line="405" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="359" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="429" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="276" column="33" filename="$USER_HOME$/vagrant/mrplanner/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -340,7 +340,7 @@
         <text>.date()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</text>
+        <text encoding="base64">XDxtcl9ib29rcm9vbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJvb2tpbmdzID0gTm9uZQo=</text>
@@ -377,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</last-search>
+      <last-search encoding="base64">XDxtcl9ib29rcm9vbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtcl9ib29rcm9vbVw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -387,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
         <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9lbXB0eV92YWx1ZXNcPg==</entry>
@@ -407,6 +406,7 @@
         <entry encoding="base64">XDxjYWxjdWxhdGVfcmFuZ2VcPg==</entry>
         <entry encoding="base64">XDxwYXJzZXJpbmZvXD4=</entry>
         <entry encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</entry>
+        <entry encoding="base64">XDxtcl9ib29rcm9vbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
