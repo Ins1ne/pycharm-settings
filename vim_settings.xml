@@ -160,12 +160,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480272327752">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480280698777">
         <mark key="'" line="364" column="8" />
-        <mark key="[" line="408" column="76" />
-        <mark key="]" line="409" column="28" />
-        <mark key="." line="409" column="28" />
-        <mark key="^" line="409" column="28" />
+        <mark key="[" line="409" column="69" />
+        <mark key="]" line="409" column="75" />
+        <mark key="." line="409" column="75" />
+        <mark key="^" line="409" column="75" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -333,17 +333,17 @@
       <jump line="364" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToKICAgICMgICAgIHByaW50KCdzYXZlJykKICAgICMgICAgIHByaW50KGt3YXJncykKICAgICMgICAgIHJldHVybiBzdXBlcihCb29raW5nUGVyaW9kaWNTZXJpYWxpemVyLCBzZWxmKS5zYXZlKCoqa3dhcmdzKQoKICAgICMgZGVmIGNyZWF0ZShzZWxmLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAjICAgICBwcmludCgnY3JlYXRlJykKICAgICMgICAgIHByaW50KHZhbGlkYXRlZF9kYXRhKQogICAgIyAgICAgcGVyaW9kaWNfZXZlbnQgPSBzZWxmLk1ldGEubW9kZWwoKip2YWxpZGF0ZWRfZGF0YSkKICAgICMgICAgIHBlcmlvZGljX2V2ZW50LnNhdmUoKQogICAgIyAgICAgcmV0dXJuIHBlcmlvZGljX2V2ZW50Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>.date()</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvb2tpbmdzID0gTm9uZQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92YWx1ZXNbJ3N0YXJ0X2RhdGUnXSA9IGludGVybmFsX3ZhbHVlc1snc3RhcnRfZGF0ZSddLmRhdGUoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToKICAgICMgICAgIHByaW50KCdzYXZlJykKICAgICMgICAgIHByaW50KGt3YXJncykKICAgICMgICAgIHJldHVybiBzdXBlcihCb29raW5nUGVyaW9kaWNTZXJpYWxpemVyLCBzZWxmKS5zYXZlKCoqa3dhcmdzKQoKICAgICMgZGVmIGNyZWF0ZShzZWxmLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAjICAgICBwcmludCgnY3JlYXRlJykKICAgICMgICAgIHByaW50KHZhbGlkYXRlZF9kYXRhKQogICAgIyAgICAgcGVyaW9kaWNfZXZlbnQgPSBzZWxmLk1ldGEubW9kZWwoKip2YWxpZGF0ZWRfZGF0YSkKICAgICMgICAgIHBlcmlvZGljX2V2ZW50LnNhdmUoKQogICAgIyAgICAgcmV0dXJuIHBlcmlvZGljX2V2ZW50Cg==</text>
