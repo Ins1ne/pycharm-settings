@@ -160,12 +160,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480316693163">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480318606998">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="411" column="25" />
-        <mark key="]" line="411" column="32" />
-        <mark key="." line="411" column="32" />
-        <mark key="^" line="411" column="32" />
+        <mark key="[" line="361" column="30" />
+        <mark key="]" line="362" column="18" />
+        <mark key="." line="362" column="18" />
+        <mark key="^" line="362" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -179,10 +179,11 @@
         <mark key="^" line="172" column="44" />
         <mark key="." line="172" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1479491035752">
-        <mark key="'" line="730" column="20" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="29" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480318335775">
+        <mark key="'" line="417" column="8" />
+        <mark key="[" line="575" column="0" />
+        <mark key="]" line="575" column="0" />
+        <mark key="." line="575" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
         <mark key="[" line="12" column="46" />
@@ -216,11 +217,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1480272395424">
-        <mark key="'" line="9" column="35" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1480318267277">
+        <mark key="'" line="1149" column="8" />
         <mark key="[" line="391" column="54" />
-        <mark key="]" line="393" column="0" />
-        <mark key="." line="393" column="0" />
+        <mark key="]" line="392" column="7" />
+        <mark key="." line="392" column="7" />
+        <mark key="^" line="392" column="7" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
@@ -231,19 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="220" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="380" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="360" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="231" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="354" column="18" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="162" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" />
-      <jump line="154" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" />
-      <jump line="164" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" />
-      <jump line="440" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="363" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="384" column="27" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="135" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="399" column="50" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="398" column="15" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="389" column="43" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -331,55 +320,68 @@
       <jump line="43" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="364" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="573" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="421" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="1148" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="407" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="575" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="561" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="292" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="137" column="36" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="136" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="571" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="500" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="417" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>start_date</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoJz0nICogMzApCiAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="-" type="4">
         <text>start_date</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</text>
+        <text encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92YWx1ZXNbJ3N0YXJ0X2RhdGUnXSA9ICcxMTEnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToKICAgICMgICAgIHByaW50KCdzYXZlJykKICAgICMgICAgIHByaW50KGt3YXJncykKICAgICMgICAgIHJldHVybiBzdXBlcihCb29raW5nUGVyaW9kaWNTZXJpYWxpemVyLCBzZWxmKS5zYXZlKCoqa3dhcmdzKQoKICAgICMgZGVmIGNyZWF0ZShzZWxmLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAjICAgICBwcmludCgnY3JlYXRlJykKICAgICMgICAgIHByaW50KHZhbGlkYXRlZF9kYXRhKQogICAgIyAgICAgcGVyaW9kaWNfZXZlbnQgPSBzZWxmLk1ldGEubW9kZWwoKip2YWxpZGF0ZWRfZGF0YSkKICAgICMgICAgIHBlcmlvZGljX2V2ZW50LnNhdmUoKQogICAgIyAgICAgcmV0dXJuIHBlcmlvZGljX2V2ZW50Cg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQoJz0nICogMzApCiAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGUnKQogICAgICAgIHByaW50KGF0dHJzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnPScgKiAzMCkKICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaGFuZGxlJykKICAgICAgICBwcmludChzZWxmLnZhbGlkYXRlZF9kYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIHBwcmludCBpbXBvcnQgcHByaW50CiAgICAgICAgcHByaW50KGludGVybmFsX3ZhbHVlcykKCiAgICAgICAgIyBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">CiAgICAjIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToKICAgICMgICAgIHByaW50KCdzYXZlJykKICAgICMgICAgIHByaW50KGt3YXJncykKICAgICMgICAgIHJldHVybiBzdXBlcihCb29raW5nUGVyaW9kaWNTZXJpYWxpemVyLCBzZWxmKS5zYXZlKCoqa3dhcmdzKQoKICAgICMgZGVmIGNyZWF0ZShzZWxmLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAjICAgICBwcmludCgnY3JlYXRlJykKICAgICMgICAgIHByaW50KHZhbGlkYXRlZF9kYXRhKQogICAgIyAgICAgcGVyaW9kaWNfZXZlbnQgPSBzZWxmLk1ldGEubW9kZWwoKip2YWxpZGF0ZWRfZGF0YSkKICAgICMgICAgIHBlcmlvZGljX2V2ZW50LnNhdmUoKQogICAgIyAgICAgcmV0dXJuIHBlcmlvZGljX2V2ZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGUnKQogICAgICAgIHByaW50KGF0dHJzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaGFuZGxlJykKICAgICAgICBwcmludChzZWxmLnZhbGlkYXRlZF9kYXRhKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdGFydF9kYXRlLCBzdGFydF90aW1lLCBkdXJhdGlvbl9yYXcpCiAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIHBwcmludCBpbXBvcnQgcHByaW50CiAgICAgICAgcHByaW50KGludGVybmFsX3ZhbHVlcykKCiAgICAgICAgIyBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIGZvcm1zLlZhbGlkYXRpb25FcnJvcihqc29uLmR1bXBzKAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgpkZWYgY2FsY3VsYXRlX3JhbmdlKGRhdGUsIHN0YXJ0X3RpbWUsIGR1cmF0aW9uKToKICAgIHN0YXJ0X2R0ID0gZGF0ZS5yZXBsYWNlKGhvdXI9c3RhcnRfdGltZS5ob3VyLCBtaW51dGU9c3RhcnRfdGltZS5taW51dGUsIHNlY29uZD0wKQogICAgZW5kX2R0ID0gc3RhcnRfZHQgKyB0aW1lZGVsdGEoc2Vjb25kcz1kdXJhdGlvbikKICAgIHJldHVybiBEYXRlVGltZVRaUmFuZ2Uoc3RhcnRfZHQsIGVuZF9kdCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</last-search>
+      <last-search encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</last-pattern>
+      <last-pattern encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -390,7 +392,6 @@
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZV9lbXB0eV92YWx1ZXNcPg==</entry>
         <entry encoding="base64">XDxydW5fdmFsaWRhdGlvblw+</entry>
-        <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
         <entry encoding="base64">XDxwYXJzZV9zbGFja190ZXh0XD4=</entry>
         <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
@@ -407,6 +408,7 @@
         <entry encoding="base64">XDxtcl9ib29rcm9vbVw+</entry>
         <entry encoding="base64">XDxwYXJzZV90aW1lXD4=</entry>
         <entry encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</entry>
+        <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
