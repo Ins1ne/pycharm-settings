@@ -160,12 +160,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480280698777">
-        <mark key="'" line="364" column="8" />
-        <mark key="[" line="409" column="69" />
-        <mark key="]" line="409" column="75" />
-        <mark key="." line="409" column="75" />
-        <mark key="^" line="409" column="75" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480316693163">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="411" column="25" />
+        <mark key="]" line="411" column="32" />
+        <mark key="." line="411" column="32" />
+        <mark key="^" line="411" column="32" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -231,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="181" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="220" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="380" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -331,19 +330,20 @@
       <jump line="10" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="43" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="364" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>start_date</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>start_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92YWx1ZXNbJ3N0YXJ0X2RhdGUnXSA9IGludGVybmFsX3ZhbHVlc1snc3RhcnRfZGF0ZSddLmRhdGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRlcm5hbF92YWx1ZXNbJ3N0YXJ0X2RhdGUnXSA9ICcxMTEnCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAjIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToKICAgICMgICAgIHByaW50KCdzYXZlJykKICAgICMgICAgIHByaW50KGt3YXJncykKICAgICMgICAgIHJldHVybiBzdXBlcihCb29raW5nUGVyaW9kaWNTZXJpYWxpemVyLCBzZWxmKS5zYXZlKCoqa3dhcmdzKQoKICAgICMgZGVmIGNyZWF0ZShzZWxmLCB2YWxpZGF0ZWRfZGF0YSk6CiAgICAjICAgICBwcmludCgnY3JlYXRlJykKICAgICMgICAgIHByaW50KHZhbGlkYXRlZF9kYXRhKQogICAgIyAgICAgcGVyaW9kaWNfZXZlbnQgPSBzZWxmLk1ldGEubW9kZWwoKip2YWxpZGF0ZWRfZGF0YSkKICAgICMgICAgIHBlcmlvZGljX2V2ZW50LnNhdmUoKQogICAgIyAgICAgcmV0dXJuIHBlcmlvZGljX2V2ZW50Cg==</text>
