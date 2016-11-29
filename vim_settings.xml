@@ -159,6 +159,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480435958360">
+        <mark key="'" line="384" column="8" />
+        <mark key="[" line="387" column="76" />
+        <mark key="]" line="389" column="29" />
+        <mark key="." line="389" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
         <mark key="]" line="20" column="27" />
@@ -171,10 +177,10 @@
         <mark key="^" line="172" column="44" />
         <mark key="." line="172" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480367106112">
-        <mark key="'" line="561" column="21" />
-        <mark key="[" line="575" column="0" />
-        <mark key="]" line="575" column="0" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480435944035">
+        <mark key="'" line="152" column="33" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="29" />
         <mark key="." line="575" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
@@ -210,7 +216,7 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1480411614730">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1480436144504">
         <mark key="'" line="4" column="1" />
         <mark key="[" line="288" column="0" />
         <mark key="]" line="288" column="0" />
@@ -219,16 +225,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1480435791681" />
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
-      <jump line="274" column="3" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
-      <jump line="349" column="74" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="296" column="48" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="387" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="73" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="237" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
@@ -306,7 +308,6 @@
       <jump line="385" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="412" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="174" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="384" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="7" column="1" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="487" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="11" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -324,19 +325,25 @@
       <jump line="500" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="130" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
       <jump line="27" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
+      <jump line="384" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="454" column="4" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="202" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="193" column="18" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="191" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="152" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVwZWF0X3BhcmFtcykK</text>
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
       </register>
       <register name="-" type="4">
         <text>room</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</text>
+        <text encoding="base64">XDxjcmVhdGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>room, repeat_type, weekdays_list, start_date, start_time, duration, period, participants, purpose</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVwZWF0X3BhcmFtcykK</text>
@@ -370,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVcPg==</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -380,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudHNcPg==</entry>
         <entry encoding="base64">XDxDUkVBVEVfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
         <entry encoding="base64">XDx3ZWVrZGF5c19saXN0XD4=</entry>
         <entry encoding="base64">XDxnZXRfc3RhcnRfZGF0ZVw+</entry>
@@ -400,6 +406,7 @@
         <entry encoding="base64">XDxnZXRfbWVzc2FnZV92YWx1ZV9kaWN0XD4=</entry>
         <entry encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
