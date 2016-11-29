@@ -178,8 +178,8 @@
         <mark key="^" line="172" column="44" />
         <mark key="." line="172" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480435944035">
-        <mark key="'" line="152" column="33" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480443826263">
+        <mark key="'" line="554" column="42" />
         <mark key="[" line="148" column="0" />
         <mark key="]" line="148" column="29" />
         <mark key="." line="575" column="0" />
@@ -237,14 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="387" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="237" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
-      <jump line="412" column="40" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="7" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="30" column="48" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="235" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
-      <jump line="234" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/utils.py" />
       <jump line="422" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="393" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="441" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -337,6 +329,14 @@
       <jump line="193" column="18" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="191" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="152" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="410" column="25" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="400" column="42" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="301" column="65" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="1277" column="43" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="621" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="565" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="564" column="25" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
+      <jump line="554" column="42" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -346,7 +346,7 @@
         <text>room</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVcPg==</text>
+        <text encoding="base64">XDx2YWxpZGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
@@ -383,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVcPg==</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZVw+</last-pattern>
       <last-replace>timesheet</last-replace>
       <last-substitute>recruitee_contact</last-substitute>
       <last-dir>-1</last-dir>
@@ -408,11 +408,11 @@
         <entry encoding="base64">XDxwYXJzZV90aW1lXD4=</entry>
         <entry encoding="base64">XDxwYXJzZV9kYXRhXD4=</entry>
         <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
         <entry encoding="base64">XDxnZXRfbWVzc2FnZV92YWx1ZV9kaWN0XD4=</entry>
         <entry encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
