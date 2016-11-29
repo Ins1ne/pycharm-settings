@@ -159,12 +159,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480442416566">
-        <mark key="'" line="384" column="8" />
-        <mark key="[" line="387" column="76" />
-        <mark key="]" line="393" column="59" />
-        <mark key="." line="393" column="59" />
-        <mark key="^" line="393" column="59" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480453877888">
+        <mark key="'" line="385" column="8" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="356" column="0" />
+        <mark key="." line="356" column="0" />
+        <mark key="^" line="356" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
@@ -178,11 +178,17 @@
         <mark key="^" line="172" column="44" />
         <mark key="." line="172" column="44" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480448329050">
+      <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480453943955">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="415" column="0" />
+        <mark key="]" line="415" column="0" />
+        <mark key="." line="415" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" timestamp="1480453356586">
         <mark key="'" line="396" column="8" />
-        <mark key="[" line="222" column="0" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
+        <mark key="[" line="402" column="0" />
+        <mark key="]" line="402" column="0" />
+        <mark key="." line="402" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/migrations/0089_auto_20161015_0601.py" timestamp="1476473943277">
         <mark key="[" line="12" column="46" />
@@ -238,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="429" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="276" column="33" filename="$USER_HOME$/vagrant/mrplanner/config/settings.py" />
       <jump line="250" column="33" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="10" column="35" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -338,13 +343,14 @@
       <jump line="399" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="397" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="499" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgdmFsaWQnKQogICAgICAgIHByaW50KHNlbGYuX2Vycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIHZhbGlkYXRpb24nKQogICAgICAgIHByaW50KHZhbHVlLCBzZWxmLmluc3RhbmNlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>room</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5fdmFsaWRhdGlvblw+</text>
@@ -353,31 +359,31 @@
         <text encoding="base64">ICAgIGRlZiBzYXZlKHNlbGYsICoqa3dhcmdzKToK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgdmFsaWQnKQogICAgICAgIHByaW50KHNlbGYuX2Vycm9ycykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIHZhbGlkYXRpb24nKQogICAgICAgIHByaW50KHZhbHVlLCBzZWxmLmluc3RhbmNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIHZhbGlkYXRpb24nKQogICAgICAgIHByaW50KGRhdGEsIHNlbGYuaW5zdGFuY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVwZWF0X3BhcmFtcykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2Vla2RheXMpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZXh0cmFfcGFyYW1zKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWF0Y2gpCiAgICAgICAgICAgIHByaW50KHJvb20sIHJlcGVhdF90eXBlLCB3ZWVrZGF5c19saXN0LCBzdGFydF9kYXRlLCBzdGFydF90aW1lLCBkdXJhdGlvbiwgcGVyaW9kLCBwYXJ0aWNpcGFudHMsIHB1cnBvc2UpCiAgICAgICAgICAgIHByaW50KHdlZWtkYXlzX2xpc3QpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgncnVuIHZhbGlkYXRpb24nKQogICAgICAgIHByaW50KGRhdGEsIHNlbGYuaW5zdGFuY2UpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgdmFsaWQnKQogICAgICAgIHByaW50KHNlbGYuX2Vycm9ycykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmluc3RhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVwZWF0X3BhcmFtcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmluc3RhbmNlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQod2Vla2RheXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
