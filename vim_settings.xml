@@ -154,9 +154,9 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480272478919">
         <mark key="'" line="70" column="4" />
-        <mark key="[" line="356" column="0" />
-        <mark key="]" line="356" column="0" />
-        <mark key="." line="356" column="0" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
