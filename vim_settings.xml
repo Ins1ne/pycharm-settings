@@ -160,12 +160,12 @@
         <mark key="." line="355" column="0" />
         <mark key="^" line="43" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480327205419">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480397773790">
         <mark key="'" line="215" column="8" />
-        <mark key="[" line="378" column="71" />
-        <mark key="]" line="379" column="28" />
-        <mark key="." line="379" column="28" />
-        <mark key="^" line="379" column="28" />
+        <mark key="[" line="393" column="23" />
+        <mark key="]" line="396" column="20" />
+        <mark key="." line="396" column="20" />
+        <mark key="^" line="396" column="20" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_core/templates/admin/crm_core/clientcontact/change_form.html" timestamp="1478164865460">
         <mark key="[" line="21" column="40" />
