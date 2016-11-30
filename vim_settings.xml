@@ -135,11 +135,11 @@
         <mark key="." line="257" column="3" />
         <mark key="^" line="257" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480455496445">
-        <mark key="'" line="390" column="4" />
-        <mark key="[" line="389" column="0" />
-        <mark key="]" line="389" column="0" />
-        <mark key="." line="389" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480494814605">
+        <mark key="'" line="388" column="4" />
+        <mark key="[" line="386" column="0" />
+        <mark key="]" line="386" column="0" />
+        <mark key="." line="386" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -305,7 +305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndG8gaW50ZXJuYWwnKQoKICAgICAgICBwcmludChpbnRlcm5hbF92YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY3JlYXRlJykKICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">bm90IA==</text>
@@ -317,31 +317,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJhaXNlIHNlcmlhbGl6ZXJzLlZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgICAgICAgICB7J3RleHQnOiBfKCdJbnZhbGlkIHdlZWtkYXkgZm9ybWF0LiBQb3NzaWJsZSB2YWx1ZXMgZm9yIHdlZWtkYXlzIGxpc3Q6IHt9JwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZvcm1hdCgnLCcuam9pbihzZXR0aW5ncy5XRUVLREFZU19OQU1FUykpKX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndG8gaW50ZXJuYWwnKQoKICAgICAgICBwcmludChpbnRlcm5hbF92YWx1ZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnY3JlYXRlJykKICAgICAgICBwcmludCh2YWxpZGF0ZWRfZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncGFyZW50IHNhdmUnKQogICAgICAgIHByaW50KGt3YXJncykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndG8gaW50ZXJuYWwnKQoKICAgICAgICBwcmludChpbnRlcm5hbF92YWx1ZXMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgdmFsaWQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncGFyZW50IHNhdmUnKQogICAgICAgIHByaW50KGt3YXJncykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnaXMgdmFsaWQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgc2F2ZShzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgcHJpbnQoJ3NhdmUnKQogICAgICAgIHByaW50KGt3YXJncykKICAgICAgICBwcmludChzZWxmLmluc3RhbmNlKQogICAgICAgIHN1cGVyKEJvb2tpbmdQZXJpb2RpY1NlcmlhbGl6ZXIsIHNlbGYpLnNhdmUoKiprd2FyZ3MpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBkZWYgc2F2ZShzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgcHJpbnQoJ3NhdmUnKQogICAgICAgIHByaW50KGt3YXJncykKICAgICAgICBwcmludChzZWxmLmluc3RhbmNlKQogICAgICAgIHN1cGVyKEJvb2tpbmdQZXJpb2RpY1NlcmlhbGl6ZXIsIHNlbGYpLnNhdmUoKiprd2FyZ3MpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfc2xhY2tfY29tbWFuZChzZWxmKToKICAgICAgICBpbnN0YW5jZSA9IHNlbGYuc2F2ZSgpCiAgICAgICAgcmV0dXJuIHNlbGYudmFsaWRhdGVkX2RhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmluc3RhbmNlLCBzZWxmLnZhbGlkYXRlZF9kYXRhKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfc2xhY2tfY29tbWFuZChzZWxmKToKICAgICAgICBpbnN0YW5jZSA9IHNlbGYuc2F2ZSgpCiAgICAgICAgcmV0dXJuIHNlbGYudmFsaWRhdGVkX2RhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmluc3RhbmNlLCBzZWxmLnZhbGlkYXRlZF9kYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
