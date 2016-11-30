@@ -128,12 +128,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480488465538">
-        <mark key="'" line="410" column="22" />
-        <mark key="[" line="257" column="0" />
-        <mark key="]" line="261" column="22" />
-        <mark key="." line="257" column="0" />
-        <mark key="^" line="43" column="73" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480489526765">
+        <mark key="'" line="425" column="22" />
+        <mark key="[" line="256" column="22" />
+        <mark key="]" line="257" column="3" />
+        <mark key="." line="257" column="3" />
+        <mark key="^" line="257" column="3" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480455496445">
         <mark key="'" line="390" column="4" />
@@ -306,7 +306,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2NyZWF0ZWRfbWVzc2FnZShzZWxmKToKICAgICAgICBwYXJhbXMgPSBzZWxmLm1lc3NhZ2VfcGFyYW1zWzo1XQogICAgICAgIG1lc3NhZ2UgPSBfKCdSb29tICp7MH0qIGhhcyBiZWVuIHN1Y2Nlc3NmdWxseSBib29rZWQgZnJvbSAqezF9KiB0byAqezJ9KiBvbiAqezN9KiwgKns0fSouJykuZm9ybWF0KCpwYXJhbXMpCiAgICAgICAgcmV0dXJuIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIEBjYWNoZWRfcHJvcGVydHkKICAgIGRlZiBtZXNzYWdlX3BhcmFtcyhzZWxmKToKICAgICAgICBwYXJhbXMgPSBbCiAgICAgICAgICAgIHNlbGYucm9vbSwKICAgICAgICAgICAgc2VsZi5yb29tLmdldF9yb29tX3RpbWUoc2VsZi5kdXJhdGlvbi5sb3dlcikuc3RyZnRpbWUoCiAgICAgICAgICAgICAgICBzZXR0aW5ncy5CT09LSU5HX1RJTUVfRk9STUFUKSwKICAgICAgICAgICAgc2VsZi5yb29tLmdldF9yb29tX3RpbWUoc2VsZi5kdXJhdGlvbi51cHBlcikuc3RyZnRpbWUoCiAgICAgICAgICAgICAgICBzZXR0aW5ncy5CT09LSU5HX1RJTUVfRk9STUFUKSwKICAgICAgICAgICAgc2V0dGluZ3MuV0VFS0RBWVNfTkFNRVNbc2VsZi5kdXJhdGlvbi5sb3dlci5kYXRlKCkud2Vla2RheSgpXSwKICAgICAgICAgICAgc2VsZi5kdXJhdGlvbi5sb3dlci5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSwKICAgICAgICAgICAgc2VsZi5zbGFja191c2VyLm5hbWUsCiAgICAgICAgICAgIHNlbGYucHVycG9zZQogICAgICAgIF0KICAgICAgICByZXR1cm4gcGFyYW1zCg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -315,7 +315,7 @@
         <text encoding="base64">XDxtZXNzYWdlX3BhcmFtc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2NyZWF0ZWRfbWVzc2FnZShzZWxmKToKICAgICAgICBwYXJhbXMgPSBzZWxmLm1lc3NhZ2VfcGFyYW1zWzo1XQogICAgICAgIG1lc3NhZ2UgPSBfKCdSb29tICp7MH0qIGhhcyBiZWVuIHN1Y2Nlc3NmdWxseSBib29rZWQgZnJvbSAqezF9KiB0byAqezJ9KiBvbiAqezN9KiwgKns0fSouJykuZm9ybWF0KCpwYXJhbXMpCiAgICAgICAgcmV0dXJuIG1lc3NhZ2UK</text>
+        <text encoding="base64">ICAgIEBjYWNoZWRfcHJvcGVydHkKICAgIGRlZiBtZXNzYWdlX3BhcmFtcyhzZWxmKToKICAgICAgICBwYXJhbXMgPSBbCiAgICAgICAgICAgIHNlbGYucm9vbSwKICAgICAgICAgICAgc2VsZi5yb29tLmdldF9yb29tX3RpbWUoc2VsZi5kdXJhdGlvbi5sb3dlcikuc3RyZnRpbWUoCiAgICAgICAgICAgICAgICBzZXR0aW5ncy5CT09LSU5HX1RJTUVfRk9STUFUKSwKICAgICAgICAgICAgc2VsZi5yb29tLmdldF9yb29tX3RpbWUoc2VsZi5kdXJhdGlvbi51cHBlcikuc3RyZnRpbWUoCiAgICAgICAgICAgICAgICBzZXR0aW5ncy5CT09LSU5HX1RJTUVfRk9STUFUKSwKICAgICAgICAgICAgc2V0dGluZ3MuV0VFS0RBWVNfTkFNRVNbc2VsZi5kdXJhdGlvbi5sb3dlci5kYXRlKCkud2Vla2RheSgpXSwKICAgICAgICAgICAgc2VsZi5kdXJhdGlvbi5sb3dlci5zdHJmdGltZShzZXR0aW5ncy5CT09LSU5HX0RBVEVfRk9STUFUKSwKICAgICAgICAgICAgc2VsZi5zbGFja191c2VyLm5hbWUsCiAgICAgICAgICAgIHNlbGYucHVycG9zZQogICAgICAgIF0KICAgICAgICByZXR1cm4gcGFyYW1zCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBkZWYgc2F2ZShzZWxmLCAqKmt3YXJncyk6CiAgICAgICAgcHJpbnQoJ3NhdmUnKQogICAgICAgIHByaW50KGt3YXJncykKICAgICAgICBwcmludChzZWxmLmluc3RhbmNlKQogICAgICAgIHN1cGVyKEJvb2tpbmdQZXJpb2RpY1NlcmlhbGl6ZXIsIHNlbGYpLnNhdmUoKiprd2FyZ3MpCg==</text>
