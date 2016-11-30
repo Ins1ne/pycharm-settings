@@ -191,12 +191,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1480491638016">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1480492513222">
         <mark key="'" line="167" column="8" />
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="511" column="0" />
+        <mark key="[" line="510" column="23" />
+        <mark key="]" line="510" column="23" />
         <mark key="^" line="521" column="25" />
-        <mark key="." line="511" column="0" />
+        <mark key="." line="510" column="23" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
@@ -305,11 +305,11 @@
       <jump line="410" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text encoding="base64">bm90IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZXNzYWdlX3BhcmFtc1w+</text>
