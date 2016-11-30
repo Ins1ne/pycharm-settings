@@ -7,6 +7,7 @@
         <mark key="[" line="23" column="87" />
         <mark key="]" line="23" column="113" />
       </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_urls.py" timestamp="1480534432889" />
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/urls.py" timestamp="1479369902806">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="21" column="7" />
@@ -44,6 +45,13 @@
         <mark key="]" line="91" column="65" />
         <mark key="^" line="91" column="65" />
         <mark key="." line="91" column="65" />
+      </file>
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" timestamp="1480536858758">
+        <mark key="'" line="64" column="12" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="40" column="24" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
@@ -189,28 +197,18 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1480532948283">
-        <mark key="'" line="169" column="19" />
-        <mark key="[" line="508" column="0" />
-        <mark key="]" line="508" column="0" />
-        <mark key="." line="508" column="0" />
-        <mark key="^" line="395" column="18" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1480537117510">
+        <mark key="'" line="226" column="17" />
+        <mark key="[" line="331" column="26" />
+        <mark key="]" line="332" column="17" />
+        <mark key="." line="332" column="17" />
+        <mark key="^" line="332" column="17" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="361" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="215" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="491" column="9" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="163" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="162" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="157" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="524" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="408" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
-      <jump line="417" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="407" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="137" column="36" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="136" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
@@ -256,7 +254,6 @@
       <jump line="437" column="40" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="399" column="33" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="397" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
-      <jump line="499" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" />
       <jump line="518" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="107" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -301,55 +298,66 @@
       <jump line="169" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="29" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="314" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
+      <jump line="523" column="46" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="329" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="370" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="538" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="499" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="371" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
+      <jump line="40" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
+      <jump line="88" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
+      <jump line="67" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
+      <jump line="226" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXBlYXRfdHlwZSwgd2Vla2RheXNfbGlzdCwgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQogICAgICAgIHByaW50KHJlc3BvbnNlLmNvbnRlbnQpCiAgICAgICAgcHJpbnQoQm9va2luZy5vYmplY3RzLmFsbCgpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</text>
+        <text encoding="base64">XDxwYXJzZV9kYXRhXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZShyZXNwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbW1hbmQnOiAnL21yX2Jvb2twZXJpb2RpYycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXBlYXRfdHlwZSwgd2Vla2RheXNfbGlzdCwgZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQogICAgICAgIHByaW50KHJlc3BvbnNlLmNvbnRlbnQpCiAgICAgICAgcHJpbnQoQm9va2luZy5vYmplY3RzLmFsbCgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb25mbGljdHMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXBlYXRfdHlwZSwgd2Vla2RheXNfbGlzdCwgZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1lc3NhZ2UpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb25mbGljdHMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0eXBlKG1lc3NhZ2UpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KFJlc3BvbnNlKHJlc3ApKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVzc2FnZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Bvc3QnKQogICAgICAgICAgICBwcmludChyZXNwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KFJlc3BvbnNlKHJlc3ApKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ3Bvc3QnKQogICAgICAgICAgICBwcmludChyZXNwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBpbnN0YW5jZS5wYXJ0aWNpcGFudHM6CiAgICAgICAgICAgIHBhcnRpY2lwYW50cyA9IGZvcm0ucGFydGljaXBhbnRzLnNwbGl0KCkKICAgICAgICAgICAgaW52aXRlX21lc3NhZ2UgPSBfKCdZb3UgaW52aXRlZCB0byBwZXJpb2RpY2FsIG1lZXRpbmcgaW4gcm9vbSAqezB9Ki4gezF9JykuZm9ybWF0KCpwYXJhbXMpCiAgICAgICAgICAgIGludml0ZV9wYXJ0aWNpcGFudHMuYXBwbHlfYXN5bmMoKHBhcnRpY2lwYW50cywgaW52aXRlX21lc3NhZ2UpKQogICAgICAgIGNvbmZsaWN0cyA9IHNlbGYub2JqZWN0LmJvb2tpbmdzLmZpbHRlcihpc190ZW1wb3Jhcnk9VHJ1ZSkKICAgICAgICBjb25mbGljdHNfY291bnQgPSBjb25mbGljdHMuY291bnQoKQogICAgICAgIGlmIGNvbmZsaWN0c19jb3VudDoKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZChjb25mbGljdHNfY291bnQpCiAgICAgICAgICAgIG1lc3NhZ2UgPSB7CiAgICAgICAgICAgICAgICAndGV4dCc6IF8oJ1Jvb20gezB9IGJvb2tlZCAoezF9KSwgYnV0IHRoZXJlIGFyZSB7Mn0gY29uZmxpY3RzLicpLmZvcm1hdCgqcGFyYW1zKSwKICAgICAgICAgICAgICAgICdhdHRhY2htZW50cyc6IFt7CiAgICAgICAgICAgICAgICAgICAgJ3RleHQnOiAnJywKICAgICAgICAgICAgICAgICAgICAnZmFsbGJhY2snOiBfKCdSZXNvbHZlIGNvbmZsaWN0cycpLAogICAgICAgICAgICAgICAgICAgICdjYWxsYmFja19pZCc6ICdwZXJpb2RpY19saXN0JywKICAgICAgICAgICAgICAgICAgICAnYWN0aW9ucyc6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgInRleHQiOiBfKCdTaG93IGNvbmZsaWN0cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAic2hvd19wZXJpb2RpY19jb25mbGljdHMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiYnV0dG9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdHlsZSI6ICJkYW5nZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogc2VsZi5vYmplY3QucGsKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RleHQnOiBfKCdDYW5jZWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ2NhbmNlbF9wZXJpb2RpYycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiBzZWxmLm9iamVjdC5waywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ2J1dHRvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3R5bGUnOiAnZGVmYXVsdCcKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgc2VsZi5vYmplY3QuYm9va2luZ3MuZmlsdGVyKGlzX3RlbXBvcmFyeT1GYWxzZSkuZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBtZXNzYWdlWydhdHRhY2htZW50cyddWzBdWydhY3Rpb25zJ10uYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAidGV4dCI6IF8oJ0NvbnRpbnVlJyksCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiY29udGludWVfcGVyaW9kaWMiLAogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgICAgICAgICAgICAgInN0eWxlIjogInByaW1hcnkiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6IHNlbGYub2JqZWN0LnBrLAogICAgICAgICAgICAgICAgICAgICJjb25maXJtIjogewogICAgICAgICAgICAgICAgICAgICAgICAidGl0bGUiOiBfKCJBcmUgeW91IHN1cmU/IiksCiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogXygiQWxsIGNvbmZsaWN0cyB3aWxsIGJlIGRlbGV0ZWQuIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJva190ZXh0IjogXygiWWVzIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJkaXNtaXNzX3RleHQiOiBfKCJObyIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZShtZXNzYWdlKQogICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2UobWVzc2FnZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBpbnN0YW5jZS5wYXJ0aWNpcGFudHM6CiAgICAgICAgICAgIHBhcnRpY2lwYW50cyA9IGZvcm0ucGFydGljaXBhbnRzLnNwbGl0KCkKICAgICAgICAgICAgaW52aXRlX21lc3NhZ2UgPSBfKCdZb3UgaW52aXRlZCB0byBwZXJpb2RpY2FsIG1lZXRpbmcgaW4gcm9vbSAqezB9Ki4gezF9JykuZm9ybWF0KCpwYXJhbXMpCiAgICAgICAgICAgIGludml0ZV9wYXJ0aWNpcGFudHMuYXBwbHlfYXN5bmMoKHBhcnRpY2lwYW50cywgaW52aXRlX21lc3NhZ2UpKQogICAgICAgIGNvbmZsaWN0cyA9IHNlbGYub2JqZWN0LmJvb2tpbmdzLmZpbHRlcihpc190ZW1wb3Jhcnk9VHJ1ZSkKICAgICAgICBjb25mbGljdHNfY291bnQgPSBjb25mbGljdHMuY291bnQoKQogICAgICAgIGlmIGNvbmZsaWN0c19jb3VudDoKICAgICAgICAgICAgcGFyYW1zLmFwcGVuZChjb25mbGljdHNfY291bnQpCiAgICAgICAgICAgIG1lc3NhZ2UgPSB7CiAgICAgICAgICAgICAgICAndGV4dCc6IF8oJ1Jvb20gezB9IGJvb2tlZCAoezF9KSwgYnV0IHRoZXJlIGFyZSB7Mn0gY29uZmxpY3RzLicpLmZvcm1hdCgqcGFyYW1zKSwKICAgICAgICAgICAgICAgICdhdHRhY2htZW50cyc6IFt7CiAgICAgICAgICAgICAgICAgICAgJ3RleHQnOiAnJywKICAgICAgICAgICAgICAgICAgICAnZmFsbGJhY2snOiBfKCdSZXNvbHZlIGNvbmZsaWN0cycpLAogICAgICAgICAgICAgICAgICAgICdjYWxsYmFja19pZCc6ICdwZXJpb2RpY19saXN0JywKICAgICAgICAgICAgICAgICAgICAnYWN0aW9ucyc6IFsKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgInRleHQiOiBfKCdTaG93IGNvbmZsaWN0cycpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAic2hvd19wZXJpb2RpY19jb25mbGljdHMiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInR5cGUiOiAiYnV0dG9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICJzdHlsZSI6ICJkYW5nZXIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgInZhbHVlIjogc2VsZi5vYmplY3QucGsKICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgJ3RleHQnOiBfKCdDYW5jZWwnKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICduYW1lJzogJ2NhbmNlbF9wZXJpb2RpYycsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAndmFsdWUnOiBzZWxmLm9iamVjdC5waywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICd0eXBlJzogJ2J1dHRvbicsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAnc3R5bGUnOiAnZGVmYXVsdCcKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgICAgIH1dCiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgc2VsZi5vYmplY3QuYm9va2luZ3MuZmlsdGVyKGlzX3RlbXBvcmFyeT1GYWxzZSkuZXhpc3RzKCk6CiAgICAgICAgICAgICAgICBtZXNzYWdlWydhdHRhY2htZW50cyddWzBdWydhY3Rpb25zJ10uYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAidGV4dCI6IF8oJ0NvbnRpbnVlJyksCiAgICAgICAgICAgICAgICAgICAgIm5hbWUiOiAiY29udGludWVfcGVyaW9kaWMiLAogICAgICAgICAgICAgICAgICAgICJ0eXBlIjogImJ1dHRvbiIsCiAgICAgICAgICAgICAgICAgICAgInN0eWxlIjogInByaW1hcnkiLAogICAgICAgICAgICAgICAgICAgICJ2YWx1ZSI6IHNlbGYub2JqZWN0LnBrLAogICAgICAgICAgICAgICAgICAgICJjb25maXJtIjogewogICAgICAgICAgICAgICAgICAgICAgICAidGl0bGUiOiBfKCJBcmUgeW91IHN1cmU/IiksCiAgICAgICAgICAgICAgICAgICAgICAgICJ0ZXh0IjogXygiQWxsIGNvbmZsaWN0cyB3aWxsIGJlIGRlbGV0ZWQuIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJva190ZXh0IjogXygiWWVzIiksCiAgICAgICAgICAgICAgICAgICAgICAgICJkaXNtaXNzX3RleHQiOiBfKCJObyIpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZShtZXNzYWdlKQogICAgICAgIHJldHVybiBIdHRwUmVzcG9uc2UobWVzc2FnZSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxwYXJzZV9kYXRhXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZV9kYXRhXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -360,8 +368,6 @@
         <entry encoding="base64">XDxyZWxhdGl2ZWRlbHRhXD4=</entry>
         <entry encoding="base64">XDxtcl9ib29rcm9vbVw+</entry>
         <entry encoding="base64">XDxwYXJzZV90aW1lXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZV9kYXRhXD4=</entry>
-        <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
         <entry encoding="base64">XDxnZXRfbWVzc2FnZV92YWx1ZV9kaWN0XD4=</entry>
         <entry encoding="base64">XDxwYXJzZV93ZWVrZGF5c1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVcPg==</entry>
@@ -377,6 +383,8 @@
         <entry encoding="base64">XDxzYXZlX3RvX2djYWxfYXN5bmNcPg==</entry>
         <entry encoding="base64">XDxpbnZpdGVfcGFydGljaXBhbnRzXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
+        <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
+        <entry encoding="base64">XDxwYXJzZV9kYXRhXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
