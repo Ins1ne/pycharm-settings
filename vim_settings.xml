@@ -149,12 +149,12 @@
         <mark key="." line="270" column="7" />
         <mark key="^" line="270" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480588292389">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480620964391">
         <mark key="'" line="342" column="0" />
-        <mark key="[" line="407" column="0" />
-        <mark key="]" line="409" column="34" />
-        <mark key="." line="407" column="0" />
-        <mark key="^" line="406" column="28" />
+        <mark key="[" line="404" column="81" />
+        <mark key="]" line="404" column="84" />
+        <mark key="." line="404" column="84" />
+        <mark key="^" line="404" column="84" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -318,11 +318,11 @@
       <jump line="342" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgaGFuZGxlX3NsYWNrX2NvbW1hbmQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsaWRhdGVkX2RhdGEK</text>
+      <register name="&quot;" type="4">
+        <text>'1'</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>'1'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</text>
