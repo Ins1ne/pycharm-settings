@@ -87,10 +87,10 @@
         <mark key="^" line="59" column="66" />
         <mark key="." line="59" column="66" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1480664225621">
+      <file name="$USER_HOME$/vagrant/mrplanner/config/settings.py" timestamp="1480671440854">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="275" column="5" />
-        <mark key="]" line="275" column="10" />
+        <mark key="[" line="277" column="33" />
+        <mark key="]" line="277" column="50" />
         <mark key="." line="275" column="10" />
         <mark key="^" line="275" column="10" />
       </file>
@@ -143,11 +143,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480532681601">
-        <mark key="[" line="269" column="43" />
-        <mark key="]" line="270" column="7" />
-        <mark key="." line="270" column="7" />
-        <mark key="^" line="270" column="7" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480671458297">
+        <mark key="[" line="290" column="37" />
+        <mark key="]" line="290" column="54" />
+        <mark key="." line="290" column="54" />
+        <mark key="^" line="290" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480620964391">
         <mark key="'" line="342" column="0" />
@@ -171,11 +171,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1480668312263">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1480671581733">
         <mark key="'" line="16" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+        <mark key="[" line="80" column="82" />
+        <mark key="]" line="80" column="80" />
+        <mark key="." line="80" column="80" />
+        <mark key="^" line="80" column="80" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1480571381308">
         <mark key="'" line="130" column="78" />
@@ -317,44 +318,44 @@
       <jump line="16" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBtZXNzYWdlJykK</text>
+      <register name="&quot;" type="4">
+        <text>json.loads(</text>
       </register>
       <register name="-" type="4">
-        <text>'1'</text>
+        <text>json.loads(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCb29raW5nUGVyaW9kaWNDYW5jZWxTZXJpYWxpemVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5uZWxfbmFtZSc6IHNlbGYuY2hhbm5lbC5uYW1lLAogICAgICAgICAgICAnY2hhbm5lbF9pZCc6IHNlbGYuY2hhbm5lbC5waywKICAgICAgICAgICAgJ2NvbW1hbmQnOiAnL21yX2Jvb2twZXJpb2RpYycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoanNvbi5sb2FkcyhzZWxmLnJlcXVlc3QuZGF0YVsncGF5bG9hZCddKVsnYWN0aW9ucyddWzBdWyd2YWx1ZSddKVsnY29tbWFuZCddCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBtZXNzYWdlJykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChqc29uLmxvYWRzKHNlbGYucmVxdWVzdC5kYXRhWydwYXlsb2FkJ10pKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhcmdzLCBrd2FyZ3MpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgnZ2V0IGNvbW1hbmQnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb21tYW5kKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgncG9zdCBtZXNzYWdlJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChhcmdzLCBrd2FyZ3MpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjb21tYW5kKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCA0MDApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCdJbnZhbGlkIGNvbW1hbmQgZm9ybWF0Jywgc3RyKHJlc3BvbnNlLmNvbnRlbnQpKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZS5jb250ZW50KQogICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDQwMCkK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCA0MDApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHJlc3BvbnNlLnN0YXR1c19jb2RlLCA0MDApCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEluKCdJbnZhbGlkIGNvbW1hbmQgZm9ybWF0Jywgc3RyKHJlc3BvbnNlLmNvbnRlbnQpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
