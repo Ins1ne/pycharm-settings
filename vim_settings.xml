@@ -110,10 +110,10 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1478844775103">
         <mark key="'" line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1480525962756">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1480680874006">
         <mark key="'" line="36" column="4" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="106" column="35" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="38" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1479152281621">
         <mark key="'" line="101" column="31" />
@@ -319,8 +319,8 @@
       <jump line="282" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>json.loads(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYucm91dGUocmVxdWVzdCkK</text>
       </register>
       <register name="-" type="4">
         <text>json.loads(</text>
@@ -329,7 +329,7 @@
         <text encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb24ubG9hZHMoanNvbi5sb2FkcyhzZWxmLnJlcXVlc3QuZGF0YVsncGF5bG9hZCddKVsnYWN0aW9ucyddWzBdWyd2YWx1ZSddKVsnY29tbWFuZCddCg==</text>
+        <text encoding="base64">ICAgICAgICByZXNwb25zZSA9IHNlbGYucm91dGUocmVxdWVzdCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChqc29uLmxvYWRzKHNlbGYucmVxdWVzdC5kYXRhWydwYXlsb2FkJ10pKQo=</text>
