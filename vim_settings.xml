@@ -51,12 +51,12 @@
         <mark key="^" line="91" column="65" />
         <mark key="." line="91" column="65" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" timestamp="1480585344909">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" timestamp="1480661588790">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="120" column="0" />
-        <mark key="]" line="120" column="0" />
-        <mark key="." line="120" column="0" />
-        <mark key="^" line="119" column="41" />
+        <mark key="[" line="185" column="56" />
+        <mark key="]" line="186" column="29" />
+        <mark key="." line="186" column="29" />
+        <mark key="^" line="186" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
@@ -171,12 +171,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_server.py" timestamp="1478521710072">
         <mark key="'" line="136" column="8" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1480586682197">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" timestamp="1480661474867">
         <mark key="'" line="101" column="23" />
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="61" />
-        <mark key="." line="15" column="61" />
-        <mark key="^" line="15" column="61" />
+        <mark key="[" line="110" column="46" />
+        <mark key="]" line="110" column="66" />
+        <mark key="." line="110" column="66" />
+        <mark key="^" line="110" column="66" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" timestamp="1480571381308">
         <mark key="'" line="130" column="78" />
@@ -318,8 +318,8 @@
       <jump line="342" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'1'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5uZWxfbmFtZSc6IHNlbGYuY2hhbm5lbC5uYW1lLAogICAgICAgICAgICAnY2hhbm5lbF9pZCc6IHNlbGYuY2hhbm5lbC5waywKICAgICAgICAgICAgJ2NvbW1hbmQnOiAnL21yX2Jvb2twZXJpb2RpYycK</text>
       </register>
       <register name="-" type="4">
         <text>'1'</text>
@@ -328,7 +328,7 @@
         <text encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgaGFuZGxlX3NsYWNrX2NvbW1hbmQoc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYudmFsaWRhdGVkX2RhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NoYW5uZWxfbmFtZSc6IHNlbGYuY2hhbm5lbC5uYW1lLAogICAgICAgICAgICAnY2hhbm5lbF9pZCc6IHNlbGYuY2hhbm5lbC5waywKICAgICAgICAgICAgJ2NvbW1hbmQnOiAnL21yX2Jvb2twZXJpb2RpYycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
