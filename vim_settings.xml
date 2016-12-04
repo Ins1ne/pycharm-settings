@@ -145,8 +145,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480796538350">
-        <mark key="'" line="3" column="7" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1480883026797">
+        <mark key="'" line="284" column="37" />
         <mark key="[" line="292" column="0" />
         <mark key="]" line="292" column="0" />
         <mark key="." line="292" column="0" />
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="20" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="422" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="415" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="410" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
@@ -319,6 +318,7 @@
       <jump line="230" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="89" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="91" column="95" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
+      <jump line="284" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -328,7 +328,7 @@
         <text>REMOVE_BOOKING_COMMAND</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</text>
+        <text encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBjb25zdGFuY2UgaW1wb3J0IGNvbmZpZwo=</text>
@@ -365,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</last-search>
+      <last-search encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -389,12 +389,12 @@
         <entry encoding="base64">XDxwYXJzZV9kYXRhXD4=</entry>
         <entry encoding="base64">XDxWYWxpZGF0aW9uRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDYW5jZWxTZXJpYWxpemVyXD4=</entry>
-        <entry encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</entry>
         <entry encoding="base64">XDxCb29raW5nQ2FuY2VsU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxnZXRfZW1wdHlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxDT01NQU5EX0RJQ1RcPg==</entry>
         <entry encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</entry>
+        <entry encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
