@@ -107,8 +107,8 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1480751459843">
-        <mark key="'" line="21" column="31" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1480883807180">
+        <mark key="'" line="183" column="8" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="311" column="119" />
       </file>
@@ -219,10 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="422" column="26" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
-      <jump line="415" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
-      <jump line="410" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
-      <jump line="511" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="449" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="446" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -319,6 +315,10 @@
       <jump line="89" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="91" column="95" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="284" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="180" column="51" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="308" column="55" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="251" column="41" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="183" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -328,7 +328,7 @@
         <text>REMOVE_BOOKING_COMMAND</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</text>
+        <text encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBjb25zdGFuY2UgaW1wb3J0IGNvbmZpZwo=</text>
@@ -365,9 +365,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</last-search>
+      <last-search encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -375,7 +375,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzbGFja191c2VyXD4=</entry>
         <entry encoding="base64">XDxyYW5nZV9hbmRfZmlsbF9ib29raW5nXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlX3BlcmlvZGljXD4=</entry>
         <entry>internal_values</entry>
@@ -395,6 +394,7 @@
         <entry encoding="base64">XDxDT01NQU5EX0RJQ1RcPg==</entry>
         <entry encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</entry>
         <entry encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</entry>
+        <entry encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
