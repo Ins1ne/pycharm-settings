@@ -155,8 +155,8 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480966551663">
-        <mark key="'" line="347" column="61" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480969267451">
+        <mark key="'" line="618" column="8" />
         <mark key="[" line="424" column="47" />
         <mark key="]" line="424" column="51" />
         <mark key="." line="424" column="51" />
@@ -223,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="54" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="539" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="119" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="238" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="152" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -323,6 +321,8 @@
       <jump line="413" column="69" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="386" column="67" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="347" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="14" column="92" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="618" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,7 +332,7 @@
         <text>ancel</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQZXJpb2RpY01peGluXD4=</text>
+        <text encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQm9va2luZ1BlcmlvZGljQ2hhbmdlU2VyaWFsaXplcihTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW4sIFBlcmlvZGljTWl4aW4sIHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6Cg==</text>
@@ -369,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQZXJpb2RpY01peGluXD4=</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQZXJpb2RpY01peGluXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -391,7 +391,6 @@
         <entry encoding="base64">XDxNZXNzYWdlc1ZpZXdcPg==</entry>
         <entry encoding="base64">XDxzZXJpYWxpemVyc1w+</entry>
         <entry encoding="base64">XDxkZWxldGVfbWFueV9nY2FsX2V2ZW50c1w+</entry>
-        <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
         <entry encoding="base64">XDxib29raW5nX3BrXD4=</entry>
         <entry encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VDb21tYW5kQVBJVmlld1w+</entry>
@@ -399,6 +398,7 @@
         <entry encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxQZXJpb2RpY01peGluXD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
