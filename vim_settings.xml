@@ -107,10 +107,10 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1480945466623">
-        <mark key="'" line="128" column="0" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="258" column="49" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1480949469892">
+        <mark key="'" line="292" column="28" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="311" column="119" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1480680874006">
         <mark key="'" line="36" column="4" />
@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480945517824">
-        <mark key="'" line="482" column="28" />
-        <mark key="[" line="540" column="86" />
-        <mark key="]" line="541" column="15" />
-        <mark key="." line="541" column="15" />
-        <mark key="^" line="541" column="15" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480949522382">
+        <mark key="'" line="550" column="0" />
+        <mark key="[" line="591" column="116" />
+        <mark key="]" line="591" column="115" />
+        <mark key="." line="591" column="115" />
+        <mark key="^" line="591" column="115" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -223,22 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="277" column="81" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
-      <jump line="124" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="123" column="108" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="134" column="15" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="130" column="78" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/mixins.py" />
-      <jump line="332" column="17" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
-      <jump line="509" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="226" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="519" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="356" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="225" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="329" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="69" column="49" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" />
       <jump line="31" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="97" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="59" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
@@ -323,55 +307,71 @@
       <jump line="397" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="506" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="482" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="490" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="526" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="481" column="31" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="558" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="552" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="260" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="548" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="475" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="574" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="395" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="571" column="55" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="292" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
+      <jump line="483" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="550" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JsonResponse(</text>
+        <text>HttpResponse(</text>
       </register>
       <register name="-" type="4">
-        <text>JsonResponse(</text>
+        <text>HttpResponse(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</text>
+        <text encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsKICAgICAgICAgICAgICAgICd0ZXh0JzogXygnUGVyaW9kaWMgYm9va2luZyB3aXRoIGlkIGB7fWAgd2FzIG5vdCBmb3VuZC4nKS5mb3JtYXQocGspCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKHsKICAgICAgICAgICAgICAgICd0ZXh0JzogXygnQm9va2luZyB3aXRoIGlkIGB7fWAgd2FzIG5vdCBmb3VuZC4nKS5mb3JtYXQocGspCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZSh7J3RleHQnOiAnUGVyaW9kaWMgYm9va2luZyBpcyBub3QgZm91bmQnfSwgc3RhdHVzPTQwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZShkYXRhLmdldCgnb3JpZ2luYWxfbWVzc2FnZScsIHsndGV4dCc6ICdTb21ldGhpbmcgd2VudCB3cm9uZywgdHJ5IGFnYWluIGxhdGVyLid9KSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9pZCA9IGRhdGFbJ2FjdGlvbnMnXVswXVsndmFsdWUnXQo=</text>
+        <text encoding="base64">ICAgICAgICBib29raW5nX3BrID0gZGF0YVsnYWN0aW9ucyddWzBdWyd2YWx1ZSddCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwaywga3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgInZhbHVlIjogInt9IHt9IHt9Ii5mb3JtYXQoCiAgICAgICAgICAgICAgICAjICAgICBib29raW5nLnBrLAogICAgICAgICAgICAgICAgIyAgICAgYm9va2luZy5yb29tLmZyb21fcm9vbV90aW1lKHN0YXJ0KS50aW1lKCkuc3RyZnRpbWUodGltZV9mb3JtYXQpLAogICAgICAgICAgICAgICAgIyAgICAgYm9va2luZy5yb29tLmZyb21fcm9vbV90aW1lKGVuZCkudGltZSgpLnN0cmZ0aW1lKHRpbWVfZm9ybWF0KQogICAgICAgICAgICAgICAgIyApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobWVzc2FnZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGssIHN0YXJ0X3RpbWUsIGVuZF90aW1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RleHQnOiBfKCdQZXJpb2RpYyBib29raW5nIHdpdGggaWQgYHt9YCB3YXMgbm90IGZvdW5kLicpLmZvcm1hdChwaykK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwaywgc3RhcnRfdGltZSwgZW5kX3RpbWUpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZSh7J3RleHQnOiAnUGVyaW9kaWMgYm9va2luZyBpcyBub3QgZm91bmQnfSwgc3RhdHVzPTQwMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZShkYXRhLmdldCgnb3JpZ2luYWxfbWVzc2FnZScsIHsndGV4dCc6ICdTb21ldGhpbmcgd2VudCB3cm9uZywgdHJ5IGFnYWluIGxhdGVyLid9KSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudF9pZCA9IGRhdGFbJ2FjdGlvbnMnXVswXVsndmFsdWUnXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd0ZXh0JzogXygnUGVyaW9kaWMgZXZlbnQgd2l0aCBpZCBge31gIHdhcyBub3QgZm91bmQuJykuZm9ybWF0KHBrKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWx1ZSA9IGRhdGFbJ2FjdGlvbnMnXVswXVsndmFsdWUnXS5zcGxpdCgnICcpCiAgICAgICAgaWYgbGVuKHZhbHVlKSA8IDM6CiAgICAgICAgICAgIHJldHVybiBKc29uUmVzcG9uc2UoZGF0YS5nZXQoJ29yaWdpbmFsX21lc3NhZ2UnLCB7J3RleHQnOiAnU29tZXRoaW5nIHdlbnQgd3JvbmcsIHRyeSBhZ2FpbiBsYXRlci4nfSkpCgogICAgICAgIGJvb2tpbmdfcGssIHN0YXJ0X3RpbWUsIGVuZF90aW1lID0gdmFsdWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEpzb25SZXNwb25zZSh7J3RleHQnOiAnRXZlbnQgaXMgbm90IGZvdW5kJ30sIHN0YXR1cz00MDApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGJvb2tpbmcgaW4gZXZlbnQuYm9va2luZ3MuZmlsdGVyKGlzX3RlbXBvcmFyeT1UcnVlKS5pdGVyYXRvcigpOgogICAgICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-search>
+      <last-search encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -379,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRyYV9wYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDxwYXJzZV9zbGFja190ZXh0XD4=</entry>
         <entry encoding="base64">XDxwYXJzZV9kYXRhXD4=</entry>
@@ -390,7 +389,6 @@
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxDT01NQU5EX0RJQ1RcPg==</entry>
         <entry encoding="base64">XDxzaG93X3BlcmlvZGljX2NvbmZsaWN0c1w+</entry>
-        <entry encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</entry>
         <entry encoding="base64">XDxwYXNzXD4=</entry>
         <entry encoding="base64">XDxTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxnZXRfc2VyaWFsaXplcl9jbGFzc1w+</entry>
@@ -399,6 +397,8 @@
         <entry encoding="base64">XDxzZXJpYWxpemVyc1w+</entry>
         <entry encoding="base64">XDxkZWxldGVfbWFueV9nY2FsX2V2ZW50c1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
+        <entry encoding="base64">XDxib29raW5nX3BrXD4=</entry>
+        <entry encoding="base64">XDxfY3JlYXRlX2Jvb2tpbmdfZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
