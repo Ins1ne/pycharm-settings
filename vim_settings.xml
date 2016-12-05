@@ -155,8 +155,8 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480953424601">
-        <mark key="'" line="616" column="0" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480954147007">
+        <mark key="'" line="91" column="23" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="^" line="488" column="101" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="97" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="59" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="101" column="23" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
@@ -323,6 +322,7 @@
       <jump line="292" column="28" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
       <jump line="483" column="24" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="550" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="91" column="23" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
