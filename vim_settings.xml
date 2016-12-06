@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481048038633">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481049426930">
         <mark key="'" line="188" column="12" />
-        <mark key="[" line="631" column="34" />
-        <mark key="]" line="631" column="40" />
-        <mark key="^" line="631" column="40" />
-        <mark key="." line="631" column="40" />
+        <mark key="[" line="457" column="30" />
+        <mark key="]" line="458" column="25" />
+        <mark key="^" line="458" column="25" />
+        <mark key="." line="458" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
