@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1480969267451">
-        <mark key="'" line="618" column="8" />
-        <mark key="[" line="424" column="47" />
-        <mark key="]" line="424" column="51" />
-        <mark key="." line="424" column="51" />
-        <mark key="^" line="424" column="51" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481004044762">
+        <mark key="'" line="426" column="53" />
+        <mark key="[" line="424" column="27" />
+        <mark key="]" line="425" column="34" />
+        <mark key="." line="425" column="34" />
+        <mark key="^" line="425" column="34" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -202,8 +202,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1480957836928">
-        <mark key="'" line="650" column="17" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1481004054061">
+        <mark key="'" line="441" column="8" />
         <mark key="[" line="526" column="0" />
         <mark key="]" line="537" column="30" />
         <mark key="." line="288" column="0" />
@@ -223,13 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="238" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="152" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="237" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="0" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="316" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="79" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="153" column="29" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="5" column="7" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
@@ -323,16 +316,23 @@
       <jump line="347" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="14" column="92" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="618" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="423" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="426" column="53" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="526" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="507" column="45" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="505" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="443" column="47" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
+      <jump line="441" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ancel</text>
+        <text>Model</text>
       </register>
       <register name="-" type="4">
-        <text>ancel</text>
+        <text>Model</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</text>
+        <text encoding="base64">XDxfX2luaXRfX1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgQm9va2luZ1BlcmlvZGljQ2hhbmdlU2VyaWFsaXplcihTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW4sIFBlcmlvZGljTWl4aW4sIHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6Cg==</text>
@@ -369,9 +369,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-search>
+      <last-search encoding="base64">XDxfX2luaXRfX1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxfX2luaXRfX1w+</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -379,7 +379,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCb29raW5nQ2FuY2VsU2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxnZXRfZW1wdHlfcmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxqc29uXD4=</entry>
         <entry encoding="base64">XDxDT01NQU5EX0RJQ1RcPg==</entry>
@@ -399,6 +398,7 @@
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxQZXJpb2RpY01peGluXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
+        <entry encoding="base64">XDxfX2luaXRfX1w+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
