@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481045928267">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481048038633">
         <mark key="'" line="188" column="12" />
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="460" column="0" />
-        <mark key="^" line="426" column="73" />
-        <mark key="." line="460" column="0" />
+        <mark key="[" line="631" column="34" />
+        <mark key="]" line="631" column="40" />
+        <mark key="^" line="631" column="40" />
+        <mark key="." line="631" column="40" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -211,12 +211,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/views/time_sheet.py" timestamp="1476703735419">
         <mark key="'" line="14" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1481046310830">
-        <mark key="'" line="278" column="8" />
-        <mark key="[" line="325" column="20" />
-        <mark key="]" line="326" column="42" />
-        <mark key="." line="326" column="42" />
-        <mark key="^" line="326" column="42" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" timestamp="1481047483863">
+        <mark key="'" line="282" column="8" />
+        <mark key="[" line="100" column="78" />
+        <mark key="]" line="101" column="36" />
+        <mark key="." line="101" column="36" />
+        <mark key="^" line="101" column="36" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/core/models.py" timestamp="1476695004863">
         <mark key="'" line="97" column="65" />
@@ -325,44 +325,44 @@
       <jump line="278" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJzEnCg==</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>CREATE</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZV9zbGFja190ZXh0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBjaGFubmVsID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlcXVpcmVkPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgICAgICByJyg/UDxyb29tPlteIF0rKVxzKycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJzEnCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0KQogICAgICAgIHByaW50KGNvbW1hbmRfZGF0YVsnY29tbWFuZF9wYXR0ZXJuJ10pCiAgICAgICAgcHJpbnQobWF0Y2gpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwYXJzZWRfZGljdCwgcm9vbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJzEnCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChhdHRycykK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJ2VtcHR5JykK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBwcmludChza2lwX3BhcnNpbmcpCiAgICAgICAgcHJpbnQocmVzdWx0KQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChhdHRycykK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
