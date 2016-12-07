@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481100367146">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481101277871">
         <mark key="'" line="238" column="25" />
-        <mark key="[" line="514" column="0" />
-        <mark key="]" line="514" column="22" />
-        <mark key="." line="514" column="22" />
-        <mark key="^" line="514" column="22" />
+        <mark key="[" line="497" column="15" />
+        <mark key="]" line="497" column="32" />
+        <mark key="." line="497" column="32" />
+        <mark key="^" line="497" column="32" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -202,8 +202,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/slackclient/_client.py" timestamp="1478521717713">
         <mark key="'" line="21" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1481014526346">
-        <mark key="'" line="441" column="8" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" timestamp="1481101145969">
+        <mark key="'" line="610" column="8" />
         <mark key="[" line="611" column="0" />
         <mark key="]" line="642" column="61" />
         <mark key="." line="288" column="0" />
@@ -222,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="441" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="82" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="475" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="399" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -322,55 +321,56 @@
       <jump line="359" column="32" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="309" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="238" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="610" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="&quot;" type="4">
+        <text>attrs</text>
       </register>
       <register name="-" type="4">
-        <text>CancelSerializer</text>
+        <text>attrs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW5cPg==</text>
+        <text encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgcGRiOyBwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICMgICAgIHRyeToKICAgICMgICAgICAgICBzZWxmLmV2ZW50ID0gUGVyaW9kaWNFdmVudC5vYmplY3RzLmdldChpZD1pbnQodGV4dC5zdHJpcCgpKSkKICAgICMgICAgIGV4Y2VwdCBQZXJpb2RpY0V2ZW50LkRvZXNOb3RFeGlzdDoKICAgICMgICAgICAgICByYWlzZSBzZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoewogICAgIyAgICAgICAgICAgICAndGV4dCc6IF8oJ1BlcmlvZGljIGJvb2tpbmcgd2l0aCBpZCBge31gIHdhcyBub3QgZm91bmQuJykuZm9ybWF0KHRleHQpCiAgICAjICAgICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgdG9faW50ZXJuYWxfdmFsdWUoc2VsZiwgZGF0YSk6CiAgICAgICAgZGF0YSA9IHNlbGYucGFyc2VfZGF0YShkYXRhKQogICAgICAgIHJldHVybiBzdXBlcihTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW4sIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlYWRfb25seT1UcnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2tpcF9wYXJzZToK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuaW5zdGFuY2UgPSBQZXJpb2RpY0V2ZW50Lm9iamVjdHMuZ2V0KHBrPWRhdGFbJ3BrJ10pCiAgICAgICAgZXhjZXB0IFBlcmlvZGljRXZlbnQuRG9lc05vdEV4aXN0OgogICAgICAgICAgICByYWlzZSBzZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoeycnfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgZGVmIHRvX2ludGVybmFsX3ZhbHVlKHNlbGYsIGRhdGEsIHNraXBfcGFyc2U9RmFsc2UpOgogICAgICAgIHBhc3MK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICBwcmludCgnaW50ZXJuYWwnKQogICAgICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICdwaycgaW4gcGFyc2VkX2RpY3Q6CiAgICAgICAgICAgICAgICByZXN1bHRbJ2lkJ10gPSBpbnQocGFyc2VkX2RpY3RbJ3BrJ10pCg==</text>
+        <text encoding="base64">CiAgICBkZWYgdG9faW50ZXJuYWxfdmFsdWUoc2VsZiwgZGF0YSk6CiAgICAgICAgZGF0YSA9IHNlbGYucGFyc2VfZGF0YShkYXRhKQogICAgICAgIHJldHVybiBzdXBlcihTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW4sIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2tpcF9wYXJzZToK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAogICAgZGVmIHRvX2ludGVybmFsX3ZhbHVlKHNlbGYsIGRhdGEsIHNraXBfcGFyc2U9RmFsc2UpOgogICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToKICAgICAgICBkYXRhID0gc2VsZi5wYXJzZV9kYXRhKGRhdGEpCiAgICAgICAgcmV0dXJuIHN1cGVyKEJvb2tpbmdQZXJpb2RpY0NoYW5nZVNlcmlhbGl6ZXIsIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCgo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICdwaycgaW4gcGFyc2VkX2RpY3Q6CiAgICAgICAgICAgICAgICByZXN1bHRbJ2lkJ10gPSBpbnQocGFyc2VkX2RpY3RbJ3BrJ10pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlX2RhdGEoZGF0YSkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW5cPg==</last-search>
+      <last-search encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -379,7 +379,6 @@
     <history>
       <history-search>
         <entry encoding="base64">XDxDSEFOR0VfUEVSSU9ESUNfUEFUVEVSTlw+</entry>
-        <entry encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxQZXJpb2RpY01peGluXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
@@ -398,6 +397,7 @@
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VDb21tYW5kQVBJVmlld1w+</entry>
         <entry encoding="base64">XDxTbGFja0NvbW1hbmRBUElWaWV3XD4=</entry>
         <entry encoding="base64">XDxTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW5cPg==</entry>
+        <entry encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
