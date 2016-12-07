@@ -155,12 +155,12 @@
         <mark key="." line="305" column="29" />
         <mark key="^" line="292" column="89" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481057263182">
-        <mark key="'" line="224" column="8" />
-        <mark key="[" line="487" column="8" />
-        <mark key="]" line="487" column="14" />
-        <mark key="." line="487" column="14" />
-        <mark key="^" line="487" column="14" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481093745630">
+        <mark key="'" line="43" column="43" />
+        <mark key="[" line="474" column="31" />
+        <mark key="]" line="475" column="3" />
+        <mark key="." line="475" column="3" />
+        <mark key="^" line="475" column="3" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -223,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" />
       <jump line="475" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="574" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="571" column="55" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -323,10 +322,11 @@
       <jump line="343" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="285" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="224" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="43" column="43" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBoYW5kbGVfc2xhY2tfY29tbWFuZChzZWxmKToKICAgICAgICBpbnN0YW5jZSA9IHNlbGYuc2F2ZSgpCiAgICAgICAgcmV0dXJuIGluc3RhbmNlLmdldF9jcmVhdGVkX21lc3NhZ2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>SlackCommandSerializerMixin</text>
@@ -338,31 +338,31 @@
         <text encoding="base64">ICAgIGRlZiBoYW5kbGVfc2xhY2tfY29tbWFuZChzZWxmKToKICAgICAgICBpbnN0YW5jZSA9IHNlbGYuc2F2ZSgpCiAgICAgICAgcmV0dXJuIGluc3RhbmNlLmdldF9jcmVhdGVkX21lc3NhZ2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToKICAgICAgICBkYXRhID0gc2VsZi5wYXJzZV9kYXRhKGRhdGEpCiAgICAgICAgcmV0dXJuIHN1cGVyKEJvb2tpbmdQZXJpb2RpY0NoYW5nZVNlcmlhbGl6ZXIsIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlX2RhdGEoZGF0YSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0KQogICAgICAgIHByaW50KGNvbW1hbmRfZGF0YVsnY29tbWFuZF9wYXR0ZXJuJ10pCiAgICAgICAgcHJpbnQobWF0Y2gpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwYXJzZWRfZGljdCwgcm9vbSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJzEnCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZiB0b19pbnRlcm5hbF92YWx1ZShzZWxmLCBkYXRhKToKICAgICAgICBkYXRhID0gc2VsZi5wYXJzZV9kYXRhKGRhdGEpCiAgICAgICAgcmV0dXJuIHN1cGVyKEJvb2tpbmdQZXJpb2RpY0NoYW5nZVNlcmlhbGl6ZXIsIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRhKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLnBhcnNlX2RhdGEoZGF0YSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludCh0ZXh0KQogICAgICAgIHByaW50KGNvbW1hbmRfZGF0YVsnY29tbWFuZF9wYXR0ZXJuJ10pCiAgICAgICAgcHJpbnQobWF0Y2gpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcmludChwYXJzZWRfZGljdCwgcm9vbSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJzEnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
