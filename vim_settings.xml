@@ -66,8 +66,8 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" timestamp="1479725359020">
         <mark key="'" line="164" column="17" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" timestamp="1481285940399">
-        <mark key="'" line="481" column="2" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" timestamp="1481312209179">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1481274133608">
         <mark key="'" line="9" column="38" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="187" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="167" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="146" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="135" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -322,6 +320,8 @@
       <jump line="65" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="400" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="481" column="2" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
+      <jump line="165" column="30" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -331,7 +331,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</text>
+        <text encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
@@ -368,9 +368,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</last-search>
+      <last-search encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -378,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQZXJpb2RpY01peGluXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
         <entry encoding="base64">XDxfX2luaXRfX1w+</entry>
         <entry encoding="base64">XDxza2lwX3BhcnNpbmdcPg==</entry>
@@ -398,6 +397,7 @@
         <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
         <entry encoding="base64">XDxydW5fdmFsaWRhdGlvblw+</entry>
         <entry encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</entry>
+        <entry encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
