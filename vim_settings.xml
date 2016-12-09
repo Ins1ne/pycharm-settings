@@ -3,19 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/vagrant/mrplanner/README.rst" timestamp="1478849637646">
-        <mark key="[" line="23" column="87" />
-        <mark key="]" line="23" column="113" />
-      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_urls.py" timestamp="1480955175798">
         <mark key="[" line="18" column="49" />
         <mark key="]" line="18" column="49" />
         <mark key="^" line="18" column="48" />
         <mark key="." line="18" column="49" />
-      </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/urls.py" timestamp="1479369902806">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/admin_helpers.py" timestamp="1478118309383">
         <mark key="'" line="19" column="0" />
@@ -73,6 +65,9 @@
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" timestamp="1479725359020">
         <mark key="'" line="164" column="17" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" timestamp="1481285940399">
+        <mark key="'" line="481" column="2" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1481274133608">
         <mark key="'" line="9" column="38" />
@@ -227,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="30" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="174" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="187" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="167" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -327,6 +321,7 @@
       <jump line="369" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="65" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="400" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="481" column="2" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
