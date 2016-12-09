@@ -74,10 +74,10 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/common/tasks.py" timestamp="1479725359020">
         <mark key="'" line="164" column="17" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1481271653735">
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/users/models.py" timestamp="1481273196263">
         <mark key="'" line="9" column="38" />
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="46" column="34" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="15" />
         <mark key="^" line="46" column="34" />
         <mark key="." line="46" column="34" />
       </file>
@@ -330,7 +330,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -338,8 +338,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>self.parse_slack_text(data)</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
