@@ -116,12 +116,12 @@
         <mark key="[" line="225" column="0" />
         <mark key="]" line="225" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1481224252322">
-        <mark key="'" line="225" column="19" />
-        <mark key="[" line="198" column="66" />
-        <mark key="]" line="199" column="30" />
-        <mark key="." line="199" column="30" />
-        <mark key="^" line="199" column="30" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1481532681828">
+        <mark key="'" line="216" column="37" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="198" column="30" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" timestamp="1479495264442">
         <mark key="'" line="1451" column="8" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="146" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="135" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="118" column="13" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="287" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
@@ -322,16 +320,18 @@
       <jump line="481" column="2" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
       <jump line="165" column="30" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
+      <jump line="6" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
+      <jump line="216" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</text>
+        <text encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
@@ -340,37 +340,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIHBhc3MK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwYXJzZWRfZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwYXJzZWRfZGF0YSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlYWRfb25seT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgndmFsaWRhdGUnKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGlkID0gc2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKHJlYWRfb25seT1UcnVlKQo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB0cnk6CiAgICAgICAgICAgIHNlbGYuaW5zdGFuY2UgPSBQZXJpb2RpY0V2ZW50Lm9iamVjdHMuZ2V0KHBrPWRhdGFbJ3BrJ10pCiAgICAgICAgZXhjZXB0IFBlcmlvZGljRXZlbnQuRG9lc05vdEV4aXN0OgogICAgICAgICAgICByYWlzZSBzZXJpYWxpemVycy5WYWxpZGF0aW9uRXJyb3IoeycnfSkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBwcmludCgnaW50ZXJuYWwnKQogICAgICAgIGltcG9ydCBwZGI7IHBkYi5zZXRfdHJhY2UoKQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICBkZWYgdG9faW50ZXJuYWxfdmFsdWUoc2VsZiwgZGF0YSk6CiAgICAgICAgZGF0YSA9IHNlbGYucGFyc2VfZGF0YShkYXRhKQogICAgICAgIHJldHVybiBzdXBlcihTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW4sIHNlbGYpLnRvX2ludGVybmFsX3ZhbHVlKGRhdGEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</last-search>
+      <last-search encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -378,7 +378,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVfY2FuY2VsX3BlcmlvZGljXD4=</entry>
         <entry encoding="base64">XDxfX2luaXRfX1w+</entry>
         <entry encoding="base64">XDxza2lwX3BhcnNpbmdcPg==</entry>
         <entry encoding="base64">XDxFbXB0eVRleHRTZXJpYWxpemVyTWl4aW5cPg==</entry>
@@ -398,6 +397,7 @@
         <entry encoding="base64">XDxydW5fdmFsaWRhdGlvblw+</entry>
         <entry encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</entry>
         <entry encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</entry>
+        <entry encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
