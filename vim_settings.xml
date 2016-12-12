@@ -147,8 +147,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1481271559620">
-        <mark key="'" line="400" column="61" />
+      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" timestamp="1481540669400">
+        <mark key="'" line="369" column="8" />
         <mark key="[" line="305" column="29" />
         <mark key="]" line="305" column="55" />
         <mark key="." line="305" column="29" />
@@ -221,10 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="287" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="78" column="21" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="406" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="215" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
       <jump line="91" column="16" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="146" column="12" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="187" column="27" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -310,8 +306,6 @@
       <jump line="213" column="44" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="224" column="19" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="25" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
-      <jump line="169" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
-      <jump line="369" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="65" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="400" column="61" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="481" column="2" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
@@ -321,6 +315,12 @@
       <jump line="216" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="32" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="525" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
+      <jump line="206" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="307" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="384" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
+      <jump line="369" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -330,7 +330,7 @@
         <text>data</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</text>
+        <text encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGh0dHBsaWIyCg==</text>
@@ -367,9 +367,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</last-search>
+      <last-search encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</last-pattern>
       <last-replace>data</last-replace>
       <last-substitute>internal_values</last-substitute>
       <last-dir>-1</last-dir>
@@ -394,9 +394,9 @@
         <entry encoding="base64">XDxnZXRfcGVyaW9kaWNfZXZlbnRzX2Zvcl9jYW5jZWxcPg==</entry>
         <entry encoding="base64">XDx0b19pbnRlcm5hbF92YWx1ZVw+</entry>
         <entry encoding="base64">XDxydW5fdmFsaWRhdGlvblw+</entry>
-        <entry encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</entry>
         <entry encoding="base64">XDxESVNDT1ZFUllfVVJJXD4=</entry>
         <entry encoding="base64">XDxKU09ORGVjb2RlRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxzYXZlX3RvX2djYWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
