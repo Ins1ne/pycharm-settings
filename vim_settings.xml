@@ -36,12 +36,12 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1481651118319">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1481654283324">
         <mark key="'" line="55" column="17" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="16" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="59" column="28" />
+        <mark key="[" line="55" column="58" />
+        <mark key="]" line="55" column="57" />
+        <mark key="." line="55" column="57" />
+        <mark key="^" line="55" column="57" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
