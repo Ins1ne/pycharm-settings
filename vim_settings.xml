@@ -173,16 +173,17 @@
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" timestamp="1481617514902">
         <mark key="'" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1481710737857">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="33" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1481740690734">
+        <mark key="[" line="57" column="79" />
+        <mark key="]" line="57" column="94" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="82" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1481740434022">
-        <mark key="[" line="58" column="75" />
-        <mark key="]" line="58" column="63" />
-        <mark key="." line="58" column="63" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1481740799486">
+        <mark key="[" line="74" column="23" />
+        <mark key="]" line="74" column="24" />
+        <mark key="." line="74" column="24" />
+        <mark key="^" line="74" column="24" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -340,16 +341,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//p</text>
+        <text>selector.xpath('//div[@class=&quot;tag&quot;]//div[@class=&quot;list&quot;]/a/text()').extract()</text>
       </register>
       <register name="-" type="4">
-        <text>//p</text>
+        <text>selector.xpath('//div[@class=&quot;tag&quot;]//div[@class=&quot;list&quot;]/a/text()').extract()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxta3RpbWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uZXh0ZW5kKHNlbGVjdG9yLnhwYXRoKCcvL2Rpdltjb250YWlucyhAY2xhc3MsICJmaWVsZC1pdGVtIildLy9pbWcvQHNyYycpLmV4dHJhY3QoKSkK</text>
+      <register name="0" type="4">
+        <text>{'img': ['src']}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbl9zZWxlY3RvciA9IFNlbGVjdG9yKHRleHQ9cmVzcG9uc2UubWV0YVsnZGVzY3JpcHRpb24nXSkKICAgICAgICBkZXNjcmlwdGlvbiA9IGRlc2NyaXB0aW9uX3NlbGVjdG9yLnhwYXRoKCcvL3AvdGV4dCgpJykuZXh0cmFjdCgpCiAgICAgICAgZGVzY3JpcHRpb24gPSAnICcuam9pbihkZXNjcmlwdGlvbikucmVwbGFjZSgnXG4nLCAnJykucmVwbGFjZSgnXHQnLCAnJykucmVwbGFjZSgnXHInLCAnJykuc3RyaXAoKQo=</text>
