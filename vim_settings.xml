@@ -36,12 +36,12 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1481664870130">
-        <mark key="'" line="35" column="8" />
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="34" />
-        <mark key="^" line="29" column="34" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1481702329820">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="44" column="13" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="45" column="16" />
+        <mark key="^" line="45" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -122,11 +122,11 @@
         <mark key="[" line="97" column="0" />
         <mark key="]" line="126" column="13" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1481656627615">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1481702276236">
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="2" column="12" />
+        <mark key="." line="2" column="12" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1480680874006">
         <mark key="'" line="36" column="4" />
@@ -232,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="535" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api_mixins.py" />
-      <jump line="361" column="64" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="360" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="237" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="185" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -332,6 +330,8 @@
       <jump line="35" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
       <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="54" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
+      <jump line="29" column="34" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
+      <jump line="4" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
