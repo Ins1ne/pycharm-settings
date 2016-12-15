@@ -114,13 +114,15 @@
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/.gitignore" timestamp="1481789623980">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="95" column="8" />
+        <mark key="]" line="96" column="3" />
+        <mark key="^" line="96" column="3" />
+        <mark key="." line="96" column="3" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
-      </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/message_handling.py" timestamp="1480954720894">
-        <mark key="'" line="292" column="28" />
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="126" column="13" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1481702276236">
         <mark key="[" line="1" column="13" />
@@ -128,22 +130,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/views.py" timestamp="1480680874006">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="38" />
-      </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1481532681828">
         <mark key="'" line="216" column="37" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="198" column="30" />
-      </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/fields.py" timestamp="1479495264442">
-        <mark key="'" line="1451" column="8" />
-        <mark key="[" line="1432" column="0" />
-        <mark key="]" line="1432" column="38" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/generics.py" timestamp="1480930044890">
         <mark key="'" line="103" column="8" />
@@ -240,9 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="224" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="43" column="43" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="139" column="23" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="128" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="124" column="42" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
@@ -340,6 +329,9 @@
       <jump line="62" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
       <jump line="54" column="65" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="23" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="26" column="12" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="95" column="7" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
