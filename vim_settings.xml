@@ -61,10 +61,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" timestamp="1481820518794">
-        <mark key="[" line="59" column="82" />
-        <mark key="]" line="59" column="82" />
-        <mark key="." line="59" column="82" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" timestamp="1481829958139">
+        <mark key="[" line="48" column="81" />
+        <mark key="]" line="49" column="11" />
+        <mark key="." line="49" column="11" />
+        <mark key="^" line="49" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
@@ -188,7 +189,7 @@
         <mark key="^" line="96" column="3" />
         <mark key="." line="96" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1481787913059">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1481829544586">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="94" column="19" />
         <mark key="]" line="94" column="19" />
@@ -340,10 +341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_parsed</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>_parsed</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
