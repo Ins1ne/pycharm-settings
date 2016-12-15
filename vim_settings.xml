@@ -151,12 +151,12 @@
       <file name="$USER_HOME$/vagrant/crm/pepro/crm_hr/mixins.py" timestamp="1476884522593">
         <mark key="'" line="34" column="8" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1481787063943">
-        <mark key="'" line="68" column="34" />
-        <mark key="[" line="96" column="16" />
-        <mark key="]" line="96" column="21" />
-        <mark key="." line="96" column="21" />
-        <mark key="^" line="96" column="21" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1481787913059">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="94" column="19" />
+        <mark key="]" line="94" column="19" />
+        <mark key="." line="94" column="19" />
+        <mark key="^" line="94" column="19" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1478722835711">
         <mark key="'" line="0" column="0" />
@@ -240,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="285" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="224" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="43" column="43" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
@@ -340,6 +339,7 @@
       <jump line="69" column="14" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
       <jump line="62" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
       <jump line="54" column="65" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
