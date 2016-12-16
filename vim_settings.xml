@@ -137,12 +137,12 @@
         <mark key="^" line="2" column="12" />
         <mark key="." line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1481896953450">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1481900094218">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="100" column="52" />
-        <mark key="]" line="100" column="53" />
-        <mark key="." line="100" column="53" />
-        <mark key="^" line="100" column="53" />
+        <mark key="[" line="88" column="61" />
+        <mark key="]" line="88" column="61" />
+        <mark key="." line="88" column="61" />
+        <mark key="^" line="88" column="61" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1481532681828">
         <mark key="'" line="216" column="37" />
@@ -350,10 +350,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>//p</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>//p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXNjcmlwdGlvblw+</text>
