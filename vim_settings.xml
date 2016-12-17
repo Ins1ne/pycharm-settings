@@ -111,12 +111,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1481976050793">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="107" column="31" />
-        <mark key="]" line="109" column="35" />
-        <mark key="^" line="109" column="35" />
-        <mark key="." line="109" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1481980315049">
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="113" column="125" />
+        <mark key="]" line="113" column="125" />
+        <mark key="^" line="113" column="125" />
+        <mark key="." line="113" column="125" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
@@ -254,8 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="238" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
-      <jump line="610" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/forms.py" />
       <jump line="392" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="390" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="561" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
@@ -354,13 +352,15 @@
       <jump line="54" column="36" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="110" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
+      <jump line="109" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>z</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>z</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -369,35 +369,31 @@
         <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzKAogICAgICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzX3dpdGhfY29udGVudChjb250ZW50X2l0ZW1zLCB3aGljaF9vbmVzPSgnc2NyaXB0JywpKSwKICAgICAgICAgICAgICAgICAgICBrZWVwPSgnYnInLCkKICAgICAgICAgICAgICAgICk=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBta3RpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudF9pdGVtcyA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKAogICAgICAgICAgICAgICAgcmVtb3ZlX3RhZ3MoCiAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX3RhZ3Nfd2l0aF9jb250ZW50KGNvbnRlbnRfaXRlbXMsIHdoaWNoX29uZXM9KCdzY3JpcHQnLCkpLAogICAgICAgICAgICAgICAgICAgIGtlZXA9KCdicicsKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApLnNwbGl0KCc8YnI+JykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIGNvbnRlbnRfaXRlbXMgPSBbXQogICAgICAgIGVsc2U6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGNvbnRlbnQgY29udGFpbnMgc2NyaXB0IHRhZ3MgLSB3ZSBzaG91bGQgcmVtb3ZlIGl0Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <keys>
-          <key char="89" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="65535" code="65" mods="130" />
-        </keys>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzKAogICAgICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzX3dpdGhfY29udGVudChjb250ZW50X2l0ZW1zLCB3aGljaF9vbmVzPSgnc2NyaXB0JywpKSwKICAgICAgICAgICAgICAgICAgICBrZWVwPSgnYnInLCkKICAgICAgICAgICAgICAgICk=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudF9pdGVtcyA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKAogICAgICAgICAgICAgICAgcmVtb3ZlX3RhZ3MoCiAgICAgICAgICAgICAgICAgICAgcmVtb3ZlX3RhZ3Nfd2l0aF9jb250ZW50KGNvbnRlbnRfaXRlbXMsIHdoaWNoX29uZXM9KCdzY3JpcHQnLCkpLAogICAgICAgICAgICAgICAgICAgIGtlZXA9KCdicicsKQogICAgICAgICAgICAgICAgKQogICAgICAgICAgICApLnNwbGl0KCc8YnI+JykK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgS2V5RXJyb3I6CiAgICAgICAgICAgIGNvbnRlbnRfaXRlbXMgPSBbXQogICAgICAgIGVsc2U6Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAjIGNvbnRlbnQgY29udGFpbnMgc2NyaXB0IHRhZ3MgLSB3ZSBzaG91bGQgcmVtb3ZlIGl0Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
