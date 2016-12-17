@@ -111,12 +111,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482000285223">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="105" column="38" />
-        <mark key="]" line="105" column="55" />
-        <mark key="^" line="105" column="55" />
-        <mark key="." line="105" column="55" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482002520364">
+        <mark key="'" line="76" column="43" />
+        <mark key="[" line="105" column="46" />
+        <mark key="]" line="105" column="53" />
+        <mark key="^" line="105" column="53" />
+        <mark key="." line="20" column="43" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
@@ -254,7 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="417" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="407" column="21" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="137" column="36" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
       <jump line="136" column="8" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/-1476271979/rest_framework/serializers.py" />
@@ -354,13 +353,14 @@
       <jump line="113" column="128" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="114" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
+      <jump line="76" column="43" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'00:00'</text>
+        <text>response.meta['link'] + '/'</text>
       </register>
       <register name="-" type="4">
-        <text>'00:00'</text>
+        <text>response.meta['link'] + '/'</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
