@@ -144,8 +144,8 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482063546353">
-        <mark key="'" line="16" column="18" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482083683505">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="96" column="61" />
         <mark key="]" line="96" column="61" />
         <mark key="." line="96" column="61" />
@@ -261,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="30" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1465481691/1311143508/googleapiclient/discovery.py" />
       <jump line="6" column="25" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="216" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="32" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
@@ -361,6 +359,8 @@
       <jump line="74" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="25" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="16" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
+      <jump line="96" column="61" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
