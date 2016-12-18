@@ -144,12 +144,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482062115069">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482063546353">
         <mark key="'" line="16" column="18" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="94" column="35" />
+        <mark key="[" line="96" column="61" />
+        <mark key="]" line="96" column="61" />
+        <mark key="." line="96" column="61" />
+        <mark key="^" line="96" column="58" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1481970532581">
         <mark key="'" line="80" column="8" />
@@ -363,11 +363,11 @@
       <jump line="16" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>//p/text()</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>//p/text()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
