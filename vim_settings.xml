@@ -144,12 +144,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482138723614">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482140392459">
         <mark key="'" line="25" column="0" />
-        <mark key="[" line="100" column="18" />
-        <mark key="]" line="100" column="38" />
-        <mark key="^" line="100" column="38" />
-        <mark key="." line="100" column="38" />
+        <mark key="[" line="107" column="94" />
+        <mark key="]" line="107" column="94" />
+        <mark key="^" line="107" column="94" />
+        <mark key="." line="107" column="94" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482093228947">
         <mark key="'" line="80" column="8" />
@@ -363,17 +363,17 @@
       <jump line="25" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKGRlc2NyaXB0aW9uKQo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>KeyError</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="0" type="4">
-        <text>, strip_comments=True</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudC5yZXBsYWNlKCcgfCAnLmpvaW4odGFncyksICcnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKGRlc2NyaXB0aW9uKQo=</text>
