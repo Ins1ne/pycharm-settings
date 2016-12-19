@@ -121,12 +121,12 @@
       <file name="$USER_HOME$/vagrant/crm/Makefile" timestamp="1477384802308">
         <mark key="'" line="277" column="9" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/.gitignore" timestamp="1481789623980">
+      <file name="$USER_HOME$/vagrant/news_parser/.gitignore" timestamp="1482149109127">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="8" />
-        <mark key="]" line="96" column="3" />
-        <mark key="^" line="96" column="3" />
-        <mark key="." line="96" column="3" />
+        <mark key="[" line="95" column="7" />
+        <mark key="]" line="95" column="11" />
+        <mark key="^" line="95" column="11" />
+        <mark key="." line="95" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" timestamp="1481917374603">
         <mark key="'" line="9" column="23" />
@@ -134,6 +134,12 @@
         <mark key="]" line="57" column="54" />
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1482150142022">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
@@ -144,12 +150,11 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482146475493">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="103" column="56" />
-        <mark key="]" line="103" column="61" />
-        <mark key="^" line="103" column="61" />
-        <mark key="." line="103" column="61" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482149731220">
+        <mark key="'" line="104" column="8" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482093228947">
         <mark key="'" line="80" column="8" />
@@ -363,47 +368,62 @@
       <jump line="107" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>div[contains(@class, &quot;wp-caption&quot;)]//</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL21ha2thaG5ld3NwYXBlci5jb20vcnNzLWZlZWQvMzInLAogICAgICAgICdodHRwOi8vbWFra2FobmV3c3BhcGVyLmNvbS9yc3MtZmVlZC8zMycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>div[contains(@class, &quot;wp-caption&quot;)]//</text>
+        <text>aleqt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudC5yZXBsYWNlKCcgfCAnLmpvaW4odGFncyksICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL21ha2thaG5ld3NwYXBlci5jb20vcnNzLWZlZWQvMzInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKGRlc2NyaXB0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL21ha2thaG5ld3NwYXBlci5jb20vcnNzLWZlZWQvMzInLAogICAgICAgICdodHRwOi8vbWFra2FobmV3c3BhcGVyLmNvbS9yc3MtZmVlZC8zMycsCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gW10K</text>
+      <register name="2" type="4">
+        <text>s_section/frontpage',
+        'http://www.aleqt.com/feed/rss_section/online',
+        'http://www.aleqt.com/feed/rss_section/aswaq',
+        'http://www.aleqt.com/feed/rss_section/realestate',
+        'http://www.aleqt.com/feed/rss_section/reports_n_follow',
+        'http://www.aleqt.com/feed/rss_section/ft',
+        'http://www.aleqt.com/feed/rss_section/opinion',
+        'http://www.aleqt.com/feed/rss_section/sport',
+        'http://www.aleqt.com/feed/rss_section/weekly',
+        'http://www.aleqt.com/feed/rss_section/people',
+        'http://www.aleqt.com/feed/rss_section/last'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="3" type="4">
+        <keys>
+          <key char="86" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="65535" code="65" mods="130" />
+        </keys>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gY29udGVudC5yZXBsYWNlKCc8YmxvY2txdW90ZT48cD57fTwvcD48L2Jsb2NrcXVvdGU+Jy5mb3JtYXQoJyDigJMgJy5qb2luKHRhZ3MucmV2ZXJzZSgpKSksICcnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5PVEU6IGNvbnRlbnQgbWF5IGNvbnRhaW5zIHBvZW1zIGFuZCB3ZSBuZWVkIGV4dHJhIHBhcmFncmF0aCB0byBzZXBhcmF0ZSBpdAogICAgICAgIGZvciBjb250ZW50X2l0ZW0gaW4gY29udGVudF9pdGVtczoKICAgICAgICAgICAgIyBjb250ZW50X2l0ZW0gPSBjb250ZW50X2l0ZW0ucmVwbGFjZSgnXHhhMCcsICcnKS5zdHJpcCgpCgogICAgICAgICAgICBpZiBjb250ZW50X2l0ZW06CiAgICAgICAgICAgICAgICBjb250ZW50LmFwcGVuZCgnPHA+e308L3A+Jy5mb3JtYXQoY29udGVudF9pdGVtKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IGJsZWFjaC5jbGVhbihjb250ZW50LCB0YWdzPVsncCcsICdpbWcnLCAnaDEnLCAnYmxvY2txdW90ZSddLCBzdHJpcD1UcnVlLCBhdHRyaWJ1dGVzPXsnaW1nJzogWydzcmMnXX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ2h0dHA6Ly93d3cuYWxzaGFycS5uZXQuc2EvMjAxMy8xMS8wNC85ODc5NDUnLAogICAgICAgICAgICAgICAgIyAnaHR0cDovL3d3dy5hbHNoYXJxLm5ldC5zYS8yMDE2LzEyLzE4LzE2MjMzOTgnLAogICAgICAgICAgICAgICAgJ2h0dHA6Ly93d3cuYWxzaGFycS5uZXQuc2EvMjAxNi8xMC8xNC8xNTk1NjAzJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXNjcmlwdGlvbiA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKGRlc2NyaXB0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBpbWFnZXMgZnJvbSBjb250ZW50CiAgICAgICAgaW1hZ2VzID0gc2VsZWN0b3IueHBhdGgoJy8vbm9zY3JpcHQvL2ltZy9Ac3JjJykuZXh0cmFjdCgpCiAgICAgICAgZm9yIGltYWdlIGluIGltYWdlczoKICAgICAgICAgICAgaWYgJ3Jlc2l6ZV84MDAnIGluIGltYWdlIGFuZCBpbWFnZSBub3QgaW4gbmV3c1snaW1hZ2VfdXJscyddOgogICAgICAgICAgICAgICAgbmV3c1snaW1hZ2VfdXJscyddLmFwcGVuZChpbWFnZSkK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZlYXR1cmVkIGltYWdlIGlzIAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -450,11 +470,11 @@
         <entry>W</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz5zL2ludGVybmFsX3ZhbHVlcy9kYXRhL2c=</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
