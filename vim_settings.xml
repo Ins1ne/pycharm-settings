@@ -144,12 +144,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482140392459">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="107" column="94" />
-        <mark key="]" line="107" column="94" />
-        <mark key="^" line="107" column="94" />
-        <mark key="." line="107" column="94" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482141217670">
+        <mark key="'" line="108" column="8" />
+        <mark key="[" line="113" column="67" />
+        <mark key="]" line="113" column="90" />
+        <mark key="^" line="113" column="90" />
+        <mark key="." line="113" column="90" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482093228947">
         <mark key="'" line="80" column="8" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="37" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" />
       <jump line="32" column="0" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/api.py" />
       <jump line="525" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="206" column="8" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
@@ -361,13 +360,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="98" column="68" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="25" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
+      <jump line="107" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>div[contains(@class, &quot;wp-caption&quot;)]//</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>div[contains(@class, &quot;wp-caption&quot;)]//</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">IA==</text>
