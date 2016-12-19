@@ -134,12 +134,12 @@
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1482173292609">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1482174765517">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="89" column="26" />
-        <mark key="]" line="89" column="29" />
-        <mark key="." line="89" column="29" />
-        <mark key="^" line="89" column="29" />
+        <mark key="[" line="82" column="85" />
+        <mark key="]" line="83" column="33" />
+        <mark key="." line="83" column="33" />
+        <mark key="^" line="83" column="33" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.apend(image)</text>
+        <text>:00</text>
       </register>
       <register name="-" type="4">
-        <text>.apend(image)</text>
+        <text>:00</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVfdGFnc1w+</text>
@@ -381,31 +381,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbmV3c1snaW1hZ2VfdXJscyddLmFwZW5kKGltYWdlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ2h0dHA6Ly9tYWtrYWhuZXdzcGFwZXIuY29tL2FydGljbGUvNTg3NTEyLyVEOCVBNyVEOSU4NCVEOCVCOSVEOCVBNyVEOSU4NCVEOSU4NS8lRDklODclRDklODQtJUQ4JUFBJUQ5JTg2JUQ4JUFBJUQ5JTgxJUQ4JUI2LSVEOCVBNyVEOSU4NCVEOSU4NyVEOSU4QSVEOCVBNiVEOCVBOS0lRDglQTclRDklODQlRDklODYlRDglQTclRDglQUUlRDglQTglRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ5JTg1JUQ4JUIxJUQ5JThBJUQ5JTgzJUQ5JThBJUQ4JUE5LSVEOSU4OCVEOCVBQSVEOCVCNyVEOSU4QSVEOCVBRC0lRDglQTglRDglQUElRDglQjElRDglQTclRDklODUlRDglQTgnLAogICAgICAgICAgICAgICAgJ2h0dHA6Ly9tYWtrYWhuZXdzcGFwZXIuY29tL2FydGljbGUvNTg3NTI3LyVEOCVBNyVEOSU4NCVEOCVBOCVEOSU4NCVEOCVBRi8lRDklODUlRDklODQlRDglQUElRDklODIlRDklODktJUQ4JUEzJUQ5JTg1LSVEOCVBNyVEOSU4NCVEOSU4MiVEOCVCMSVEOSU4OS0lRDglQTclRDklODQlRDglQTMlRDklODglRDklODQtJUQ5JTg0JUQ5JTg0JUQ4JUE4JUQ4JUFEJUQ4JUFCLSVEOCVBNyVEOSU4NCVEOCVCOSVEOSU4NCVEOSU4NSVEOSU4QS0lRDklOEElRDklODYlRDglQTclRDklODIlRDglQjQtMTQtJUQ5JTg4JUQ4JUIxJUQ5JTgyJUQ4JUE5JywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10gPSBbXQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICBmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uYXBlbmQoaW1hZ2Up</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgZGVzY3JpcHRpb25fc2VsZWN0b3IgPSBTZWxlY3Rvcih0ZXh0PXJlc3BvbnNlLm1ldGFbJ2Rlc2NyaXB0aW9uJ10pCiAgICAgICAgZGVzY3JpcHRpb24gPSBkZXNjcmlwdGlvbl9zZWxlY3Rvci54cGF0aCgnLi8vdGV4dCgpJykuZXh0cmFjdCgpCiAgICAgICAgZGVzY3JpcHRpb24gPSByZXBsYWNlX2VzY2FwZV9jaGFycygnICcuam9pbihkZXNjcmlwdGlvbikpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydkZXNjcmlwdGlvbiddID0gZGVzY3JpcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydwdWJsaXNoZWQnXSA9IGRhdGV0aW1lLnN0cnB0aW1lKHJlc3BvbnNlLm1ldGFbJ3B1Ymxpc2hlZCddLCAnJWEsICVkICViICVZICVIOiVNOiVTJykK</text>
+        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
