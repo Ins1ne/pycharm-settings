@@ -134,12 +134,12 @@
         <mark key="." line="57" column="54" />
         <mark key="^" line="57" column="54" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1482168294620">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="77" column="54" />
-        <mark key="]" line="77" column="64" />
-        <mark key="^" line="77" column="64" />
-        <mark key="." line="77" column="64" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1482170385215">
+        <mark key="'" line="9" column="45" />
+        <mark key="[" line="82" column="86" />
+        <mark key="]" line="82" column="84" />
+        <mark key="^" line="82" column="84" />
+        <mark key="." line="82" column="84" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/tasks.py" timestamp="1477499133288">
         <mark key="'" line="105" column="4" />
@@ -266,7 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="792" column="4" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/serializers.py" />
       <jump line="224" column="15" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="7" column="22" filename="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/models.py" />
       <jump line="72" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
@@ -365,17 +364,18 @@
       <jump line="98" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
       <jump line="2" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
       <jump line="86" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
+      <jump line="82" column="64" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
+      <jump line="9" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>post-body</text>
+        <text>remove_comments(</text>
       </register>
       <register name="-" type="4">
-        <text>post-body</text>
+        <text>remove_comments(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">XDxyZW1vdmVfdGFnc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MK</text>
@@ -412,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search encoding="base64">XDxyZW1vdmVfdGFnc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdmVfdGFnc1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -422,7 +422,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVfc2xhY2tfY29tbWFuZFw+</entry>
         <entry encoding="base64">XDxCb29raW5nUGVyaW9kaWNDaGFuZ2VDb21tYW5kQVBJVmlld1w+</entry>
         <entry encoding="base64">XDxTbGFja0NvbW1hbmRBUElWaWV3XD4=</entry>
         <entry encoding="base64">XDxTbGFja0NvbW1hbmRTZXJpYWxpemVyTWl4aW5cPg==</entry>
@@ -442,6 +441,7 @@
         <entry>1</entry>
         <entry encoding="base64">XDxweXR6XD4=</entry>
         <entry encoding="base64">IA==</entry>
+        <entry encoding="base64">XDxyZW1vdmVfdGFnc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
