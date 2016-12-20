@@ -48,12 +48,12 @@
         <mark key="." line="275" column="10" />
         <mark key="^" line="275" column="10" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1482231777277">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1482235774328">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="39" />
-        <mark key="]" line="52" column="11" />
-        <mark key="^" line="52" column="11" />
-        <mark key="." line="52" column="11" />
+        <mark key="[" line="52" column="109" />
+        <mark key="]" line="53" column="24" />
+        <mark key="^" line="53" column="24" />
+        <mark key="." line="53" column="24" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/urls.py" timestamp="1478208345025">
         <mark key="'" line="58" column="38" />
@@ -377,10 +377,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>post-body</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>post-body</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
