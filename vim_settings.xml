@@ -150,11 +150,11 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" timestamp="1482260971000">
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="28" column="62" />
-        <mark key="." line="28" column="62" />
-        <mark key="^" line="28" column="62" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" timestamp="1482264785216">
+        <mark key="[" line="56" column="40" />
+        <mark key="]" line="56" column="79" />
+        <mark key="." line="56" column="79" />
+        <mark key="^" line="56" column="79" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1477397956547">
         <mark key="'" line="690" column="10" />
@@ -342,10 +342,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY1ZvbS9yc3Mvc2VjdGlvbi9ob21lJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2ZpcnN0JywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2xhdGVzdF9uZXdzJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2xvY2FsX25ld3MnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vZWNvbm9teScsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi93b3JsZCcsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9saWZlJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2N1bHR1cmUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vb3BpbmlvbicsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9jYXJpY2F0dXJlJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL3Nwb3J0JywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2xhc3Qn</text>
+        <text>@class=&quot;paragraph-row&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>alyaum</text>
+        <text>@class=&quot;paragraph-row&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWdzXD4=</text>
