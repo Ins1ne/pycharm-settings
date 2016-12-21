@@ -87,11 +87,12 @@
         <mark key="." line="38" column="49" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" timestamp="1482319648028">
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" timestamp="1482322107985">
+        <mark key="'" line="54" column="46" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="64" />
+        <mark key="." line="54" column="63" />
+        <mark key="^" line="54" column="63" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/parsers.py" timestamp="1481532681828">
         <mark key="'" line="216" column="37" />
@@ -245,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="23" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="9" column="23" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="66" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="19" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
@@ -345,19 +345,20 @@
       <jump line="41" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" />
       <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" />
       <jump line="20" column="62" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" />
+      <jump line="54" column="46" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2hvbWUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vZmlyc3QnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbGF0ZXN0X25ld3MnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbG9jYWxfbmV3cycsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9lY29ub215JywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL3dvcmxkJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2xpZmUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vY3VsdHVyZScsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9vcGluaW9uJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2NhcmljYXR1cmUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vc3BvcnQnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbGFzdCc=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVwbGFjZV9lc2NhcGVfY2hhcnMocmVtb3ZlX2NvbW1lbnRzKGNvbnRlbnQpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Alyaum</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVfY29tbWVudHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>('//div[contains(@class, &quot;article-detail-content&quot;)]')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVwbGFjZV9lc2NhcGVfY2hhcnMocmVtb3ZlX2NvbW1lbnRzKGNvbnRlbnQpKQo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2hvbWUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vZmlyc3QnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbGF0ZXN0X25ld3MnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbG9jYWxfbmV3cycsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9lY29ub215JywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL3dvcmxkJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2xpZmUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vY3VsdHVyZScsCiAgICAgICAgJ2h0dHA6Ly93d3cuYWx5YXVtLmNvbS9yc3Mvc2VjdGlvbi9vcGluaW9uJywKICAgICAgICAnaHR0cDovL3d3dy5hbHlhdW0uY29tL3Jzcy9zZWN0aW9uL2NhcmljYXR1cmUnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vc3BvcnQnLAogICAgICAgICdodHRwOi8vd3d3LmFseWF1bS5jb20vcnNzL3NlY3Rpb24vbGFzdCc=</text>
