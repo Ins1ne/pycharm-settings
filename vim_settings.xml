@@ -167,12 +167,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="93" column="10" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1482611574387">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1482612453156">
         <mark key="'" line="62" column="22" />
-        <mark key="[" line="79" column="82" />
-        <mark key="]" line="81" column="22" />
-        <mark key="^" line="81" column="22" />
-        <mark key="." line="81" column="22" />
+        <mark key="[" line="99" column="33" />
+        <mark key="]" line="99" column="32" />
+        <mark key="^" line="99" column="32" />
+        <mark key="." line="99" column="32" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482093228947">
         <mark key="'" line="80" column="8" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tags</text>
+        <text encoding="base64">IG9yICcn</text>
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text encoding="base64">IG9yICcn</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
