@@ -168,10 +168,10 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="93" column="10" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1482694550886">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1482698138291">
         <mark key="'" line="80" column="48" />
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="99" />
+        <mark key="]" line="10" column="98" />
         <mark key="^" line="80" column="72" />
         <mark key="." line="80" column="72" />
       </file>
@@ -223,12 +223,11 @@
         <mark key="." line="63" column="15" />
         <mark key="^" line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1482697869281">
-        <mark key="'" line="9" column="45" />
-        <mark key="[" line="59" column="92" />
-        <mark key="]" line="61" column="22" />
-        <mark key="." line="61" column="22" />
-        <mark key="^" line="61" column="22" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1482698627275">
+        <mark key="[" line="61" column="50" />
+        <mark key="]" line="61" column="50" />
+        <mark key="^" line="56" column="89" />
+        <mark key="." line="61" column="50" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -370,44 +369,45 @@
       <jump line="4" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzID0gYmxlYWNoLkFMTE9XRURfVEFHUyArIFsncCcsICdpbWcnLCAnaDEnLCAnaDInLCAnaDMnXQogICAgICAgIGF0dHJpYnV0ZXMgPSBibGVhY2guQUxMT1dFRF9BVFRSSUJVVEVTCiAgICAgICAgYXR0cmlidXRlc1snaW1nJ10gPSBbJ3NyYyddCg==</text>
+      <register name="&quot;" type="4">
+        <text>[0]</text>
       </register>
       <register name="-" type="4">
-        <text>tags</text>
+        <text>[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGVhY2hcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>al-jazirahonline</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MsIHJlbW92ZV9jb21tZW50cywgcmVtb3ZlX3RhZ3Nfd2l0aF9jb250ZW50Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzID0gYmxlYWNoLkFMTE9XRURfVEFHUyArIFsncCcsICdpbWcnLCAnaDEnLCAnaDInLCAnaDMnXQogICAgICAgIGF0dHJpYnV0ZXMgPSBibGVhY2guQUxMT1dFRF9BVFRSSUJVVEVTCiAgICAgICAgYXR0cmlidXRlc1snaW1nJ10gPSBbJ3NyYyddCg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgY29udGVudCA9ICcnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGNvbnRlbnQgPSByZW1vdmVfdGFnc193aXRoX2NvbnRlbnQoY29udGVudFswXSwgd2hpY2hfb25lcz0oJ3RhYmxlJywgKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29udGVudF9pdGVtIGluIGNvbnRlbnRfaXRlbXM6CiAgICAgICAgICAgIGNvbnRlbnQuYXBwZW5kKCc8cD57fTwvcD4nLmZvcm1hdChjb250ZW50X2l0ZW0uc3RyaXAoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IHJlbW92ZV9jb21tZW50cyhjb250ZW50KQogICAgICAgICAgICBjb250ZW50ID0gYmxlYWNoLmNsZWFuKGNvbnRlbnQsIHRhZ3M9WydiciddLCBzdHJpcD1UcnVlLCBzdHJpcF9jb21tZW50cz1UcnVlKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZV9jb21tZW50cygKICAgICAgICAgICAgICAgICAgICApKSwg</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgJ2h0dHA6Ly9hYXdzYXQuY29tL2hvbWUvYXJ0aWNsZS84MDk2NDEvJUQ5JTg3JUQ4JUE3JUQ4JUFBJUQ4JUIxJUQ5JThBJUQ5JTgzLSVEOCVCMSVEOSU4OCVEOSU4NiVEOCVBNyVEOSU4NCVEOCVBRiVEOSU4OC0lRDklOEElRDklODUlRDklODYlRDglQUQtJUQ4JUIxJUQ5JThBJUQ5JTgwJUQ4JUE3JUQ5JTg0LSVEOSU4NSVEOCVBRiVEOCVCMSVEOSU4QSVEOCVBRi0lRDklODQlRDklODIlRDglQTgtJUQ5JTg1JUQ5JTg4JUQ5JTg2JUQ4JUFGJUQ5JThBJUQ4JUE3JUQ5JTg0LSVEOCVBNyVEOSU4NCVEOCVBMyVEOSU4NiVEOCVBRiVEOSU4QSVEOCVBOS0lRDklODQlRDklODQlRDklODUlRDglQjElRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUFCJUQ4JUE3JUQ5JTg2JUQ5JThBJUQ4JUE5JywK</text>
+      <register name="7" type="4">
+        <text>remove_tags_with_content(
+                        content[0], which_ones=('table', )</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzID0gc2VsZWN0b3IueHBhdGgoJy8vZGl2W0BjbGFzcz0iYXJ0aWNsZS10b3BpY3MiXS8vYS90ZXh0KCknKS5leHRyYWN0KCkKCiAgICAgICAgaWYgbm90IHRhZ3M6CiAgICAgICAgICAgIHRhZ3MgPSBzZWxlY3Rvci54cGF0aCgnLy9zcGFuW0BpZD0iYXJ0aWNsZS10b3BpY3MiXS8vYS90ZXh0KCknKS5leHRyYWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
