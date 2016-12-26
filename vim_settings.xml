@@ -175,11 +175,12 @@
         <mark key="^" line="81" column="68" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482738389785">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" timestamp="1482772998675">
         <mark key="'" line="38" column="0" />
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="76" column="33" />
-        <mark key="." line="76" column="13" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="79" />
+        <mark key="." line="74" column="49" />
+        <mark key="^" line="74" column="49" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" timestamp="1482330982610">
         <mark key="'" line="21" column="0" />
@@ -222,12 +223,12 @@
         <mark key="^" line="64" column="31" />
         <mark key="." line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1482741475437">
-        <mark key="'" line="63" column="63" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="52" column="16" />
-        <mark key="^" line="52" column="16" />
-        <mark key="." line="52" column="16" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1482773005331">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="64" column="51" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/env/lib/python3.5/site-packages/rest_framework/serializers.py" timestamp="1480493746230">
         <mark key="'" line="0" column="0" />
@@ -267,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="91" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="4" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="93" column="49" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
@@ -367,46 +367,50 @@
       <jump line="5" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="61" column="63" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
       <jump line="99" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVwbGFjZV9lc2NhcGVfY2hhcnMoY29udGVudCkK</text>
       </register>
       <register name="-" type="4">
-        <text>strip=True, strip_comments=True</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVfdGFnc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>.replace('\xa0', '')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29udGVudCA9IHJlcGxhY2VfZXNjYXBlX2NoYXJzKGNvbnRlbnQpLnJlcGxhY2UoJ1x4YTAnLCAnJykuc3RyaXAoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gcmVwbGFjZV9lc2NhcGVfY2hhcnMoY29udGVudCkK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
+      <register name="2" type="4">
+        <text>remove_tags(
+                    ,
+                    keep=('br', )
+                )</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsZWFjaC5jbGVhbigK</text>
+        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzKAo=</text>
+        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZWVwPSgnYnInLCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJsZWFjaC5jbGVhbigK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgY29udGVudF9pdGVtIGluIGNvbnRlbnRfaXRlbXM6CiAgICAgICAgICAgIGlmIGNvbnRlbnRfaXRlbToKICAgICAgICAgICAgICAgIGNvbnRlbnQuYXBwZW5kKCc8cD57fTwvcD4nLmZvcm1hdChjb250ZW50X2l0ZW0pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbW92ZV90YWdzKAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ID0gW10K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBrZWVwPSgnYnInLCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
