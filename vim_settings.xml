@@ -144,12 +144,12 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1482860955733">
-        <mark key="'" line="28" column="35" />
-        <mark key="[" line="27" column="35" />
-        <mark key="]" line="28" column="35" />
-        <mark key="." line="28" column="35" />
-        <mark key="^" line="28" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1482862409879">
+        <mark key="'" line="55" column="55" />
+        <mark key="[" line="54" column="24" />
+        <mark key="]" line="54" column="23" />
+        <mark key="." line="54" column="23" />
+        <mark key="^" line="54" column="23" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1482791767955">
         <mark key="[" line="2" column="0" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="10" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="95" column="47" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="79" column="11" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
@@ -346,13 +345,14 @@
       <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" />
       <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" />
       <jump line="28" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
+      <jump line="55" column="55" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5jbmJjYXJhYmlhLmNvbS8/ZmVlZD1yc3MnCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGZpcnN0</text>
       </register>
       <register name="-" type="4">
-        <text>Cnbcarabia</text>
+        <text encoding="base64">IGZpcnN0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGVhY2hcPg==</text>
@@ -361,31 +361,31 @@
         <text>.replace(' – '.join(tags), '')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5jbmJjYXJhYmlhLmNvbS8/ZmVlZD1yc3MnCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgY29udGVudF9pdGVtLnN0cmlwKCk6Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZlYXR1cmVkIGltYWdlCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIGFkZCBpbWFnZXMgZnJvbSBjb250ZW50Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBzZWxlY3Rvci54cGF0aCgnLy9ub3NjcmlwdC8vaW1nL0BzcmMnKS5leHRyYWN0KCkKICAgICAgICBmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgICAgICAgICBpZiAncmVzaXplXzgwMCcgaW4gaW1hZ2UgYW5kIGltYWdlIG5vdCBpbiBuZXdzWydpbWFnZV91cmxzJ106CiAgICAgICAgICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uYXBwZW5kKGltYWdlKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5jbmJjYXJhYmlhLmNvbS8/ZmVlZD1yc3MnCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29udGVudF9pdGVtLnN0cmlwKCk6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAjIGZlYXR1cmVkIGltYWdlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIGFkZCBpbWFnZXMgZnJvbSBjb250ZW50Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBzZWxlY3Rvci54cGF0aCgnLy9ub3NjcmlwdC8vaW1nL0BzcmMnKS5leHRyYWN0KCkKICAgICAgICBmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgICAgICAgICBpZiAncmVzaXplXzgwMCcgaW4gaW1hZ2UgYW5kIGltYWdlIG5vdCBpbiBuZXdzWydpbWFnZV91cmxzJ106CiAgICAgICAgICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uYXBwZW5kKGltYWdlKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIE5PVEU6IGNvbnRlbnQgbWF5IGNvbnRhaW5zIHBvZW1zIGFuZCB3ZSBuZWVkIGV4dHJhIHBhcmFncmF0aCB0byBzZXBhcmF0ZSBpdAo=</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgTk9URTogY29udGVudCB1cGRhdGVzIGJ5IGFuZ3VsYXIgYW5kIHdlIGNhbid0IHJlbGF5IG9uIGh0bWwgaW4gYnJvd3Nlcgo=</text>
+        <text encoding="base64">ICAgICAgICAjIE5PVEU6IGNvbnRlbnQgbWF5IGNvbnRhaW5zIHBvZW1zIGFuZCB3ZSBuZWVkIGV4dHJhIHBhcmFncmF0aCB0byBzZXBhcmF0ZSBpdAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
