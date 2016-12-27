@@ -144,8 +144,8 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1482864354740">
-        <mark key="'" line="54" column="12" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1482865508029">
+        <mark key="'" line="66" column="8" />
         <mark key="[" line="65" column="24" />
         <mark key="]" line="65" column="36" />
         <mark key="^" line="65" column="36" />
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="92" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="9" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="69" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="7" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
@@ -346,6 +345,7 @@
       <jump line="60" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
       <jump line="57" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
       <jump line="54" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
+      <jump line="66" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
