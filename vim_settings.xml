@@ -231,16 +231,14 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" timestamp="1482856983465">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" timestamp="1482859897706">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="41" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="56" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="94" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
       <jump line="10" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
@@ -339,13 +337,15 @@
       <jump line="13" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="8" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
       <jump line="100" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://sabq.org/rss</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
-        <text>https://sabq.org/rss</text>
+        <text>innerimg-body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxibGVhY2hcPg==</text>
@@ -354,31 +354,31 @@
         <text>.replace(' – '.join(tags), '')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgTk9URTogY29udGVudCB1cGRhdGVzIGJ5IGFuZ3VsYXIgYW5kIHdlIGNhbid0IHJlbGF5IG9uIGh0bWwgaW4gYnJvd3Nlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YmxlYWNoPT0xLjUuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgY29udGVudF9pdGVtLnN0cmlwKCk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGZlYXR1cmVkIGltYWdlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGJsZWFjaF90YWdzID0gYmxlYWNoLkFMTE9XRURfVEFHUyArIFsncCcsICdpbWcnLCAnaDEnLCAnaDInLCAnaDMnLCAnYnInXQogICAgICAgICMgYXR0cmlidXRlcyA9IGJsZWFjaC5BTExPV0VEX0FUVFJJQlVURVMKICAgICAgICAjIGF0dHJpYnV0ZXNbJ2ltZyddID0gWydzcmMnXQogICAgICAgICMgY29udGVudCA9IGJsZWFjaC5jbGVhbihjb250ZW50LCB0YWdzPWJsZWFjaF90YWdzLCBhdHRyaWJ1dGVzPWF0dHJpYnV0ZXMsIHN0cmlwX2NvbW1lbnRzPVRydWUsIHN0cmlwPVRydWUpCiAgICAgICAgIyBjb250ZW50ID0gcmVwbGFjZV9lc2NhcGVfY2hhcnMoY29udGVudCkucmVwbGFjZSgnXHhhMCcsICcnKQogICAgICAgICMgIyByZW1vdmUgdGFncyBmcm9tIGNvbnRlbnQKICAgICAgICAjIGNvbnRlbnQgPSBjb250ZW50LnJlcGxhY2UoJyB8ICcuam9pbih0YWdzKSwgJycpCiAgICAgICAgIyBjb250ZW50ID0gY29udGVudC5yZXBsYWNlKCc8YmxvY2txdW90ZT48cD57fTwvcD48L2Jsb2NrcXVvdGU+Jy5mb3JtYXQoJyDigJMgJy5qb2luKHRhZ3MpKSwgJycpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGFkZCBpbWFnZXMgZnJvbSBjb250ZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgY29udGVudCA9ICcnCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZXMgPSBzZWxlY3Rvci54cGF0aCgnLy9ub3NjcmlwdC8vaW1nL0BzcmMnKS5leHRyYWN0KCkKICAgICAgICBmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgICAgICAgICBpZiAncmVzaXplXzgwMCcgaW4gaW1hZ2UgYW5kIGltYWdlIG5vdCBpbiBuZXdzWydpbWFnZV91cmxzJ106CiAgICAgICAgICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uYXBwZW5kKGltYWdlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MK</text>
+        <text encoding="base64">ICAgICAgICAjIE5PVEU6IGNvbnRlbnQgbWF5IGNvbnRhaW5zIHBvZW1zIGFuZCB3ZSBuZWVkIGV4dHJhIHBhcmFncmF0aCB0byBzZXBhcmF0ZSBpdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGJsZWFjaAo=</text>
+        <text encoding="base64">ICAgICMgTk9URTogY29udGVudCB1cGRhdGVzIGJ5IGFuZ3VsYXIgYW5kIHdlIGNhbid0IHJlbGF5IG9uIGh0bWwgaW4gYnJvd3Nlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB3M2xpYi5odG1sIGltcG9ydCByZXBsYWNlX2VzY2FwZV9jaGFycywgcmVtb3ZlX3RhZ3MK</text>
+        <text encoding="base64">YmxlYWNoPT0xLjUuMAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
