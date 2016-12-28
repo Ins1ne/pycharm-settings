@@ -132,7 +132,8 @@
         <mark key="]" line="58" column="37" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1482956074114">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1482959266015">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="36" column="35" />
         <mark key="]" line="37" column="35" />
         <mark key="." line="37" column="35" />
@@ -276,7 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="12" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="72" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="8" column="75" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
@@ -364,7 +364,6 @@
       <jump line="43" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" />
       <jump line="15" column="15" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" />
       <jump line="63" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/beinsports.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
       <jump line="56" column="69" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
       <jump line="62" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" />
       <jump line="29" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" />
@@ -376,6 +375,8 @@
       <jump line="31" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" />
       <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" />
       <jump line="32" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" />
+      <jump line="71" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
