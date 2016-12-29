@@ -106,12 +106,12 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483031716115">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483032557650">
         <mark key="'" line="79" column="0" />
-        <mark key="[" line="90" column="39" />
-        <mark key="]" line="90" column="48" />
-        <mark key="." line="90" column="48" />
-        <mark key="^" line="90" column="48" />
+        <mark key="[" line="42" column="65" />
+        <mark key="]" line="42" column="65" />
+        <mark key="." line="42" column="65" />
+        <mark key="^" line="42" column="65" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -386,10 +386,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[]</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzX2NvbnRlbnRcPg==</text>
