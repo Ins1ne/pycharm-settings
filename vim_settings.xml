@@ -132,12 +132,11 @@
         <mark key="]" line="58" column="37" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1482959266015">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="35" />
-        <mark key="]" line="37" column="35" />
-        <mark key="." line="37" column="35" />
-        <mark key="^" line="37" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1482962583469">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/items.py" timestamp="1481651070704">
         <mark key="[" line="10" column="4" />
@@ -235,12 +234,12 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1482955753876">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1482962024214">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="19" column="133" />
-        <mark key="]" line="19" column="132" />
-        <mark key="." line="19" column="132" />
-        <mark key="^" line="19" column="132" />
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+        <mark key="^" line="19" column="8" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1482788393371">
         <mark key="'" line="112" column="0" />
@@ -277,9 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
-      <jump line="72" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
-      <jump line="8" column="75" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="68" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
       <jump line="65" column="88" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" />
       <jump line="69" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
@@ -377,10 +373,13 @@
       <jump line="32" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" />
       <jump line="71" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
+      <jump line="46" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
+      <jump line="69" column="49" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -392,31 +391,33 @@
         <text>news['image_urls']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzX2RldGFpbHMgPSBzZWxlY3Rvci54cGF0aCgnLy9kaXZbQGNsYXNzPSJhcnRpY2xlX19jb250ZW50LXRleHQiXS8vZGl2W0BjbGFzcz0iYmQiXScpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB0ZWFkcyA9IG5ld3NfZGV0YWlscy54cGF0aCgnLy9kaXZbQGNsYXNzPSJ0ZWFkcy1pbnJlYWQiXScpLmV4dHJhY3QoKQogICAgICAgICAgICBtb2RpZmljYXRpb25zID0gbmV3c19kZXRhaWxzLnhwYXRoKCcvL3BbQGNsYXNzPSJtb2RpZmljYXRpb24iXScpLmV4dHJhY3QoKQogICAgICAgICAgICBuZXdzX2NvbnRlbnQgPSBuZXdzX2RldGFpbHNbMF0uZXh0cmFjdCgpCiAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgICAgIG5ld3NfY29udGVudCA9ICcnCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyByZW1vdmUgbm90IG5ld3MgY29udGVudAogICAgICAgICAgICBmb3IgdGVhZCBpbiB0ZWFkczoKICAgICAgICAgICAgICAgIG5ld3NfY29udGVudCA9IG5ld3NfY29udGVudC5yZXBsYWNlKHRlYWQsICcnKQoKICAgICAgICAgICAgZm9yIG1vZGlmaWNhdGlvbiBpbiBtb2RpZmljYXRpb25zOgogICAgICAgICAgICAgICAgbmV3c19jb250ZW50ID0gbmV3c19jb250ZW50LnJlcGxhY2UobW9kaWZpY2F0aW9uLCAnJykKCiAgICAgICAgbmV3c19zZWxlY3RvciA9IFNlbGVjdG9yKHRleHQ9bmV3c19jb250ZW50KQoK</text>
+        <text encoding="base64">ICAgICAgICB0YWdzID0gW2NsZWFuX2NvbnRlbnQodGFnKSBmb3IgdGFnIGluIHRhZ3NdCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdodHRwOi8vYXJhYmljLmNubi5jb20vd29ybGQvMjAxNi8xMi8yOC93ZC0yODEyMTYtbmstbnVjbGVhci1yYWNlP2hwdD1zaWRlYmFyJywK</text>
+      <register name="4" type="4">
+        <text>selector.xpath(
+            '//div[@class=&quot;mi-article__content-container&quot;]//a[contains(@class, &quot;global__section-label&quot;)]/text()'
+        ).extract()</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaW1hZ2UgaW4gaW1hZ2VzOgogICAgICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10uYXBwZW5kKGltYWdlKQogICAgICAgICAgICAjIHRyeSB0byBnZXQgaGlnaGVyIGltYWdlIHJlc29sdXRpb24KICAgICAgICAgICAgbmV3c1snaW1hZ2VfdXJscyddLmFwcGVuZChpbWFnZS5yZXBsYWNlKCcvbmV3cy8zMjAvJywgJy9uZXdzLzYyNC8nKSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXdzX2RldGFpbHMgPSBzZWxlY3Rvci54cGF0aCgnLy9kaXZbQGNsYXNzPSJhcnRpY2xlX19jb250ZW50LXRleHQiXS8vZGl2W0BjbGFzcz0iYmQiXScpCiAgICAgICAgdHJ5OgogICAgICAgICAgICB0ZWFkcyA9IG5ld3NfZGV0YWlscy54cGF0aCgnLy9kaXZbQGNsYXNzPSJ0ZWFkcy1pbnJlYWQiXScpLmV4dHJhY3QoKQogICAgICAgICAgICBtb2RpZmljYXRpb25zID0gbmV3c19kZXRhaWxzLnhwYXRoKCcvL3BbQGNsYXNzPSJtb2RpZmljYXRpb24iXScpLmV4dHJhY3QoKQogICAgICAgICAgICBuZXdzX2NvbnRlbnQgPSBuZXdzX2RldGFpbHNbMF0uZXh0cmFjdCgpCiAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6CiAgICAgICAgICAgIG5ld3NfY29udGVudCA9ICcnCiAgICAgICAgZWxzZToKICAgICAgICAgICAgIyByZW1vdmUgbm90IG5ld3MgY29udGVudAogICAgICAgICAgICBmb3IgdGVhZCBpbiB0ZWFkczoKICAgICAgICAgICAgICAgIG5ld3NfY29udGVudCA9IG5ld3NfY29udGVudC5yZXBsYWNlKHRlYWQsICcnKQoKICAgICAgICAgICAgZm9yIG1vZGlmaWNhdGlvbiBpbiBtb2RpZmljYXRpb25zOgogICAgICAgICAgICAgICAgbmV3c19jb250ZW50ID0gbmV3c19jb250ZW50LnJlcGxhY2UobW9kaWZpY2F0aW9uLCAnJykKCiAgICAgICAgbmV3c19zZWxlY3RvciA9IFNlbGVjdG9yKHRleHQ9bmV3c19jb250ZW50KQoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdodHRwOi8vYXJhYmljLmNubi5jb20vd29ybGQvMjAxNi8xMi8yOC93ZC0yODEyMTYtbmstbnVjbGVhci1yYWNlP2hwdD1zaWRlYmFyJywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
