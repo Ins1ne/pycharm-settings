@@ -106,12 +106,12 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483039517721">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483040216505">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="82" column="12" />
-        <mark key="]" line="82" column="16" />
-        <mark key="." line="82" column="16" />
-        <mark key="^" line="82" column="16" />
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="63" />
+        <mark key="." line="42" column="63" />
+        <mark key="^" line="42" column="63" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -385,11 +385,11 @@
       <jump line="75" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld3NfY29udGVudCA9IHJlbW92ZV90YWdzKG5ld3NfY29udGVudCwga2VlcD0oJ3AnLCAnaDEnLCAnaDInLCAnaDMnLCAnaDQnKSkKICAgICAgICAjIG5ld3NfY29udGVudCA9IG5ld3NfY29udGVudC5yZXBsYWNlKCdoMT4nLCAncD4nKS5yZXBsYWNlKCdoMj4nLCAncD4nKS5yZXBsYWNlKCdoMz4nLCAncD4nKS5yZXBsYWNlKCdoND4nLCAncD4nKQogICAgICAgICMKICAgICAgICAjIGNvbnRlbnQgPSBbXQogICAgICAgICMgbmV3c19zZWxlY3RvciA9IFNlbGVjdG9yKHRleHQ9bmV3c19jb250ZW50KQogICAgICAgICMgY29udGVudF9pdGVtcyA9IG5ld3Nfc2VsZWN0b3IueHBhdGgoJy8vcCcpLmV4dHJhY3QoKQogICAgICAgICMgZm9yIGNvbnRlbnRfaXRlbSBpbiBjb250ZW50X2l0ZW1zOgogICAgICAgICMgICAgIGNvbnRlbnQuYXBwZW5kKGNsZWFuX2NvbnRlbnQoY29udGVudF9pdGVtKSkKICAgICAgICAjIGNvbnRlbnQgPSAnPGJyPicuam9pbihjb250ZW50KQo=</text>
+      <register name="&quot;" type="4">
+        <text>0.5</text>
       </register>
       <register name="-" type="4">
-        <text>specyfied</text>
+        <text>0.5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZW1vdmVfdGFnc1w+</text>
