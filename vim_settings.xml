@@ -106,12 +106,12 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483030384807">
-        <mark key="'" line="42" column="67" />
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="81" column="51" />
-        <mark key="." line="81" column="0" />
-        <mark key="^" line="80" column="7" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1483031716115">
+        <mark key="'" line="79" column="0" />
+        <mark key="[" line="90" column="39" />
+        <mark key="]" line="90" column="48" />
+        <mark key="." line="90" column="48" />
+        <mark key="^" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -283,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="78" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-madina.py" />
       <jump line="50" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" />
       <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
@@ -383,48 +382,47 @@
       <jump line="110" column="38" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="82" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="41" column="67" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
+      <jump line="79" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10gPSByZXNwb25zZS5tZXRhWydpbWFnZSddCg==</text>
+      <register name="&quot;" type="4">
+        <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>channel</text>
+        <text>[]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdzX2NvbnRlbnRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>news['image_urls']</text>
+        <text>, args={'wait': 0.5}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10gPSByZXNwb25zZS5tZXRhWydpbWFnZSddCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltYWdlID0gaXRlbVsnbWVkaWFfY29udGVudCddWzBdWyd1cmwnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICBuZXdzWydpbWFnZV91cmxzJ10gPSByZXNwb25zZS5tZXRhWydpbWFnZSddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdzID0gW2NsZWFuX2NvbnRlbnQodGFnKSBmb3IgdGFnIGluIHRhZ3NdCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
-      <register name="7" type="4">
-        <text>selector.xpath(
-            '//div[@class=&quot;mi-article__content-container&quot;]//a[contains(@class, &quot;global__section-label&quot;)]/text()'
-        ).extract()</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB0YWdzID0gW2NsZWFuX2NvbnRlbnQodGFnKSBmb3IgdGFnIGluIHRhZ3NdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
