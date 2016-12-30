@@ -252,6 +252,13 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1483130867627">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1482790980415">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="56" column="0" />
@@ -313,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="64" column="88" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="4" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
@@ -413,6 +419,7 @@
       <jump line="72" column="30" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="21" column="7" filename="$USER_HOME$/vagrant/neag/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
