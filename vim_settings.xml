@@ -303,12 +303,12 @@
         <mark key="^" line="340" column="69" />
         <mark key="." line="340" column="70" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483437717448">
-        <mark key="'" line="21" column="18" />
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483439492919">
+        <mark key="'" line="26" column="18" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1483384757364">
         <mark key="'" line="0" column="0" />
@@ -459,36 +459,36 @@
       <jump line="20" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChGZWVkLm9iamVjdHMuZmlsdGVyKGNhdGVnb3JpZXNfX2lkPTEpLnF1ZXJ5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>atego</text>
       </register>
       <register name="-" type="4">
-        <text>ountries</text>
+        <text>atego</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbWFnZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Feed.objects.filter(categories__id=1)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5maWx0ZXIoY2F0ZWdvcmllc19faWQ9cmVxdWVzdC5xdWVyeV9wYXJhbXNbJ2lkJ10pCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChGZWVkLm9iamVjdHMuZmlsdGVyKGNhdGVnb3JpZXNfX2lkPTEpLnF1ZXJ5KQo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>serializers.HyperlinkedRelatedField(
         many=True,
         read_only=True,
         view_name='track-detail'
     )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB2aWV3X25hbWU9J3RyYWNrLWRldGFpbCcK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -497,10 +497,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7J2NvdW50cnknOiB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQgPSB7J2NvdW50cnknOiB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
