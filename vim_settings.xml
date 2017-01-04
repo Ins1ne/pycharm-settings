@@ -223,12 +223,12 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483547028400">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483548801994">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="180" column="29" />
-        <mark key="]" line="180" column="32" />
-        <mark key="." line="180" column="32" />
-        <mark key="^" line="180" column="32" />
+        <mark key="[" line="182" column="43" />
+        <mark key="]" line="183" column="27" />
+        <mark key="." line="183" column="27" />
+        <mark key="^" line="183" column="27" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -476,8 +476,8 @@
       <jump line="41" column="11" filename="$USER_HOME$/vagrant/neag/neag/users/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'mandatory'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBBQ0NPVU5UX0VNQUlMX1ZFUklGSUNBVElPTiA9ICdtYW5kYXRvcnknCg==</text>
       </register>
       <register name="-" type="4">
         <text>'mandatory'</text>
@@ -489,31 +489,31 @@
         <text encoding="base64">QUNDT1VOVF9FTUFJTF9WRVJJRklDQVRJT04gPSAnbWFuZGF0b3J5Jwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoImNhdGVnb3JpZXMiLCkK</text>
+        <text encoding="base64">IyBBQ0NPVU5UX0VNQUlMX1ZFUklGSUNBVElPTiA9ICdtYW5kYXRvcnknCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoImNhdGVnb3JpZXMiLCkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoInVzZXJzIiwpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoInVzZXJzIiwpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">REpBTkdPX0VNQUlMX1VSTD0ic210cDovL3VzZXJAOnBhc3N3b3JkQGxvY2FsaG9zdDoyNSIK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdhbGxhdXRoLnNvY2lhbGFjY291bnQnLAogICAgJ2FsbGF1dGguc29jaWFsYWNjb3VudC5wcm92aWRlcnMuZmFjZWJvb2snLAogICAgJ2FsbGF1dGguc29jaWFsYWNjb3VudC5wcm92aWRlcnMudHdpdHRlcicsCiAgICAnYWxsYXV0aC5zb2NpYWxhY2NvdW50LnByb3ZpZGVycy5nb29nbGUnLAo=</text>
+        <text encoding="base64">REpBTkdPX0VNQUlMX1VSTD0ic210cDovL3VzZXJAOnBhc3N3b3JkQGxvY2FsaG9zdDoyNSIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdhbGxhdXRoLnNvY2lhbGFjY291bnQnLAogICAgJ2FsbGF1dGguc29jaWFsYWNjb3VudC5wcm92aWRlcnMuZmFjZWJvb2snLAogICAgJ2FsbGF1dGguc29jaWFsYWNjb3VudC5wcm92aWRlcnMudHdpdHRlcicsCiAgICAnYWxsYXV0aC5zb2NpYWxhY2NvdW50LnByb3ZpZGVycy5nb29nbGUnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
