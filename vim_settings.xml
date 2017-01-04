@@ -212,12 +212,12 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483511458504">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483512306403">
         <mark key="'" line="4" column="4" />
-        <mark key="[" line="82" column="21" />
-        <mark key="]" line="83" column="20" />
-        <mark key="." line="83" column="20" />
-        <mark key="^" line="83" column="20" />
+        <mark key="[" line="84" column="15" />
+        <mark key="]" line="84" column="15" />
+        <mark key="." line="84" column="15" />
+        <mark key="^" line="84" column="15" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -455,7 +455,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>twitter</text>
@@ -467,25 +467,25 @@
         <text encoding="base64">ICAgICdhbGxhdXRoLnNvY2lhbGFjY291bnQucHJvdmlkZXJzLnR3aXR0ZXInLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgWW91ciBzdHVmZjogY3VzdG9tIHVybHMgaW5jbHVkZXMgZ28gaGVyZQo=</text>
+        <text encoding="base64">aW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgWW91ciBzdHVmZjogY3VzdG9tIHVybHMgaW5jbHVkZXMgZ28gaGVyZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2F1dGgudmlld3MgaW1wb3J0IExvZ2luVmlldwpmcm9tIHJlc3RfYXV0aC5zb2NpYWxfc2VyaWFsaXplcnMgaW1wb3J0IFR3aXR0ZXJMb2dpblNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhbGxhdXRoLnNvY2lhbGFjY291bnQucHJvdmlkZXJzLnR3aXR0ZXIudmlld3MgaW1wb3J0IFR3aXR0ZXJPQXV0aEFkYXB0ZXIK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2F1dGgudmlld3MgaW1wb3J0IExvZ2luVmlldwpmcm9tIHJlc3RfYXV0aC5zb2NpYWxfc2VyaWFsaXplcnMgaW1wb3J0IFR3aXR0ZXJMb2dpblNlcmlhbGl6ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhbGxhdXRoLnNvY2lhbGFjY291bnQucHJvdmlkZXJzLnR3aXR0ZXIudmlld3MgaW1wb3J0IFR3aXR0ZXJPQXV0aEFkYXB0ZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
