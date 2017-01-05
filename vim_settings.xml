@@ -326,12 +326,12 @@
         <mark key="^" line="340" column="69" />
         <mark key="." line="340" column="70" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483632633608">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483633489786">
         <mark key="'" line="40" column="52" />
-        <mark key="[" line="33" column="43" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="35" />
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
+        <mark key="^" line="35" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1483622224596">
         <mark key="'" line="4" column="0" />
@@ -484,10 +484,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'__all__'</text>
+        <text>.filter(**{name: value})</text>
       </register>
       <register name="-" type="4">
-        <text>'__all__'</text>
+        <text>.filter(**{name: value})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJfdHlwZVw+</text>
