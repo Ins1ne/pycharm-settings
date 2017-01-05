@@ -326,12 +326,12 @@
         <mark key="^" line="340" column="69" />
         <mark key="." line="340" column="70" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483621325868">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1483627610562">
         <mark key="'" line="7" column="102" />
-        <mark key="[" line="25" column="6" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
-        <mark key="^" line="25" column="9" />
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="25" />
+        <mark key="." line="28" column="25" />
+        <mark key="^" line="28" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1483622224596">
         <mark key="'" line="4" column="0" />
@@ -483,17 +483,17 @@
       <jump line="48" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBuZWFnLnVzZXJzLm1vZGVscyBpbXBvcnQgUHJvZmlsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>View</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdzU2VyaWFsaXplclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVybCgnXnRvcGljLyQnLCBUb3BpY0xpc3QuYXNfdmlldygpKSwK</text>
+        <text encoding="base64">ICAgIGZpbHRlcl9iYWNrZW5kcyA9IChmaWx0ZXJzLkRqYW5nb0ZpbHRlckJhY2tlbmQsICkKICAgIGZpbHRlcl9maWVsZHMgPSAoJ2NhdGVnb3JpZXMnLCAnY291bnRyaWVzJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBuZWFnLnVzZXJzLm1vZGVscyBpbXBvcnQgUHJvZmlsZQo=</text>
