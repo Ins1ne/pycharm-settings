@@ -245,11 +245,12 @@
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1483122245387">
         <mark key="'" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1483723842245">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1483731843539">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="26" />
+        <mark key="." line="29" column="26" />
+        <mark key="^" line="29" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1478710215658">
         <mark key="'" line="73" column="19" />
@@ -484,10 +485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>int(</text>
+        <text encoding="base64">J2lkJywg</text>
       </register>
       <register name="-" type="4">
-        <text>int(</text>
+        <text encoding="base64">J2lkJywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQUdFX1NJWkVcPg==</text>
