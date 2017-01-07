@@ -375,11 +375,11 @@
         <mark key="]" line="48" column="37" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1483729675562">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
+      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1483794566942">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -486,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, related_name='comments'</text>
+        <text>off</text>
       </register>
       <register name="-" type="4">
-        <text>, related_name='comments'</text>
+        <text>off</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGb3JlaWduS2V5XD4=</text>
