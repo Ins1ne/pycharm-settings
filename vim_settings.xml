@@ -245,12 +245,12 @@
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1483122245387">
         <mark key="'" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1483789651055">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="24" column="66" />
-        <mark key="]" line="24" column="78" />
-        <mark key="^" line="24" column="78" />
-        <mark key="." line="24" column="78" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1483791700779">
+        <mark key="'" line="50" column="33" />
+        <mark key="[" line="25" column="81" />
+        <mark key="]" line="25" column="93" />
+        <mark key="^" line="25" column="93" />
+        <mark key="." line="25" column="93" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1478710215658">
         <mark key="'" line="73" column="19" />
@@ -355,12 +355,12 @@
         <mark key="." line="47" column="7" />
         <mark key="^" line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483786813235">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483791733655">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="37" column="60" />
-        <mark key="]" line="37" column="80" />
-        <mark key="^" line="37" column="80" />
-        <mark key="." line="37" column="80" />
+        <mark key="[" line="22" column="86" />
+        <mark key="]" line="22" column="104" />
+        <mark key="^" line="22" column="104" />
+        <mark key="." line="22" column="104" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1483038051330">
         <mark key="'" line="11" column="15" />
@@ -383,7 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="133" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="79" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="45" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
@@ -483,46 +482,47 @@
       <jump line="49" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="41" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="40" column="33" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>favorite</text>
+        <text>avorites_list</text>
       </register>
       <register name="-" type="4">
-        <text>favorite</text>
+        <text>avorites_list</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQQUdFX1NJWkVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlzX2Zhdm9yaXRlID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2lzX2Zhdm9yaXRlKHNlbGYsIG9iaik6CiAgICAgICAgIyBjaGVjayBpZiBuZXdzIGluIHVzZXJzIGZhdm9yaXRlIGxpc3QKICAgICAgICBpZiBub3Qgc2VsZi5jb250ZXh0WydyZXF1ZXN0J10udXNlci5pc19hbm9ueW1vdXMoKToKICAgICAgICAgICAgcmV0dXJuIG9iai5wayBpbiBzZWxmLmNvbnRleHRbJ3JlcXVlc3QnXS51c2VyLnByb2ZpbGUuZmF2b3JpdGVzX2xpc3QKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">CiAgICBkZWYgdG9fcmVwcmVzZW50YXRpb24oc2VsZiwgaW5zdGFuY2UpOgogICAgICAgIHJlc3VsdHMgPSBzdXBlcihOZXdzU2VyaWFsaXplciwgc2VsZikudG9fcmVwcmVzZW50YXRpb24oaW5zdGFuY2UpCiAgICAgICAgcmV0dXJuIHJlc3VsdHMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2lzX2Zhdm9yaXRlKHNlbGYsIG9iaik6CiAgICAgICAgIyBjaGVjayBpZiBuZXdzIGluIHVzZXJzIGZhdm9yaXRlIGxpc3QKICAgICAgICBpZiBub3Qgc2VsZi5jb250ZXh0WydyZXF1ZXN0J10udXNlci5pc19hbm9ueW1vdXMoKToKICAgICAgICAgICAgcmV0dXJuIG9iai5wayBpbiBzZWxmLmNvbnRleHRbJ3JlcXVlc3QnXS51c2VyLnByb2ZpbGUuZmF2b3JpdGVzX2xpc3QKICAgICAgICByZXR1cm4gRmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5zYXZlKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS52aWV3c19jb3VudCA9IEYoJ3ZpZXdzX2NvdW50JykgKyAxCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS5zYXZlKCkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZS52aWV3c19jb3VudCA9IEYoJ3ZpZXdzX2NvdW50JykgKyAxCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnN0YW5jZSA9IHNlbGYuZ2V0X29iamVjdCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
