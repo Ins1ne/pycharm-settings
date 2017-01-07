@@ -92,10 +92,10 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1483811790658">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1483813201820">
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
         <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1482791653646">
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>''</text>
+        <text encoding="base64">J2lkJywg</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text encoding="base64">J2lkJywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWJ1Z190b29sYmFyXD4=</text>
