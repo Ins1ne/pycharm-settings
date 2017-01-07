@@ -231,11 +231,11 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483815794247">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483821714426">
         <mark key="'" line="78" column="9" />
-        <mark key="[" line="191" column="39" />
-        <mark key="]" line="191" column="57" />
-        <mark key="." line="191" column="57" />
+        <mark key="[" line="264" column="54" />
+        <mark key="]" line="264" column="54" />
+        <mark key="." line="264" column="54" />
         <mark key="^" line="191" column="57" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BasicAuthentication</text>
+        <text>, '*'</text>
       </register>
       <register name="-" type="4">
-        <text>BasicAuthentication</text>
+        <text>, '*'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBVVRIRU5USUNBVElPTl9CQUNLRU5EU1w+</text>
