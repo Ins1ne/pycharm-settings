@@ -290,10 +290,10 @@
         <mark key="^" line="4" column="3" />
         <mark key="." line="4" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/urls.py" timestamp="1483736962298">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/urls.py" timestamp="1483805119501">
         <mark key="[" line="9" column="18" />
-        <mark key="]" line="9" column="32" />
-        <mark key="." line="9" column="32" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="32" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1483737005634">
@@ -489,10 +489,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KD9QPHBrPlswLTldKykv</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">KD9QPHBrPlswLTldKykv</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWJ1Z190b29sYmFyXD4=</text>
