@@ -254,12 +254,12 @@
         <mark key="^" line="25" column="93" />
         <mark key="." line="25" column="93" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483906972712">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483907777893">
         <mark key="'" line="26" column="19" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="104" column="35" />
-        <mark key="." line="104" column="35" />
-        <mark key="^" line="104" column="35" />
+        <mark key="[" line="93" column="52" />
+        <mark key="]" line="93" column="51" />
+        <mark key="." line="93" column="51" />
+        <mark key="^" line="93" column="51" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -488,11 +488,11 @@
       <jump line="26" column="19" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</text>
