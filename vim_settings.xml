@@ -254,12 +254,12 @@
         <mark key="^" line="25" column="93" />
         <mark key="." line="25" column="93" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483899032364">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483904425764">
         <mark key="'" line="85" column="52" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-        <mark key="^" line="85" column="52" />
+        <mark key="[" line="90" column="27" />
+        <mark key="]" line="91" column="15" />
+        <mark key="." line="91" column="15" />
+        <mark key="^" line="91" column="15" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -489,7 +489,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgCiAgICAjIGRlZiBjbG9zZV9zcGlkZXIoc2VsZiwgc3BpZGVyKToKICAgICMgICAgIHNlbGYuZGJwb29sLnJ1bkludGVyYWN0aW9uKHNlbGYuaW5zZXJ0X2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmZWVkKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -501,31 +501,31 @@
         <text>RETURNING id</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgCiAgICAjIGRlZiBjbG9zZV9zcGlkZXIoc2VsZiwgc3BpZGVyKToKICAgICMgICAgIHNlbGYuZGJwb29sLnJ1bkludGVyYWN0aW9uKHNlbGYuaW5zZXJ0X2l0ZW1zKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChmZWVkKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmZlZWRzX21hcHBpbmcpCg==</text>
+        <text encoding="base64">ICAgICMgCiAgICAjIGRlZiBjbG9zZV9zcGlkZXIoc2VsZiwgc3BpZGVyKToKICAgICMgICAgIHNlbGYuZGJwb29sLnJ1bkludGVyYWN0aW9uKHNlbGYuaW5zZXJ0X2l0ZW1zKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmZlZWRzX21hcHBpbmcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBmZWVkcyA9IHNlbGYuZmVlZHNfbWFwcGluZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgZm9yIGZlZWQgaW4gZmVlZHM6CiAgICAgICAgICAgIHNlbGYuZmVlZHNbZmVlZFsxXV0gPSBmZWVkWzBdCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgogICAgICAgICAgICBmZWVkcyA9IHNlbGYuZmVlZHNfbWFwcGluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgaWYgdXJsIG5vdCBpbiBzZWxmLmZlZWRzX21hcHBpbmc6CiAgICAgICAgICAgIHR4LmV4ZWN1dGUoIiIiSU5TRVJUIElOVE8gbmV3c19mZWVkICh1cmwpIFZBTFVFUyAoJXMpIFJFVFVSTklORyBpZCIiIiwgKHVybCwgKSkKICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">CiAgICAgICAgZm9yIGZlZWQgaW4gZmVlZHM6CiAgICAgICAgICAgIHNlbGYuZmVlZHNbZmVlZFsxXV0gPSBmZWVkWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgdXJsIG5vdCBpbiBzZWxmLmZlZWRzX21hcHBpbmc6CiAgICAgICAgICAgIHR4LmV4ZWN1dGUoIiIiSU5TRVJUIElOVE8gbmV3c19mZWVkICh1cmwpIFZBTFVFUyAoJXMpIFJFVFVSTklORyBpZCIiIiwgKHVybCwgKSkKICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsZW4oc2VsZi5pdGVtcykgPj0gc2VsZi5idWxrOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
