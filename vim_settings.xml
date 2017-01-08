@@ -231,12 +231,11 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483864467574">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="264" column="54" />
-        <mark key="]" line="264" column="54" />
-        <mark key="." line="264" column="54" />
-        <mark key="^" line="191" column="57" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1483865489853">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -378,18 +377,15 @@
         <mark key="]" line="48" column="37" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1483864227205">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
-        <mark key="^" line="6" column="23" />
+      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1483865531275">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="26" column="36" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="4" column="42" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="20" column="19" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
       <jump line="28" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
@@ -486,63 +482,66 @@
       <jump line="128" column="25" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="157" column="17" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="11" column="20" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/vagrant/neag/config/.env" />
+      <jump line="10" column="16" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="42" column="26" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="18" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/root</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>/root</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>path</text>
+        <text encoding="base64">XDxESkFOR09fQUxMT1dFRF9IT1NUU1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2lzX2Zhdm9yaXRlKHNlbGYsIG9iaik6CiAgICAgICAgIyBjaGVjayBpZiBuZXdzIGluIHVzZXJzIGZhdm9yaXRlIGxpc3QKICAgICAgICBpZiBub3Qgc2VsZi5jb250ZXh0WydyZXF1ZXN0J10udXNlci5pc19hbm9ueW1vdXMoKToKICAgICAgICAgICAgcmV0dXJuIG9iai5wayBpbiBzZWxmLmNvbnRleHRbJ3JlcXVlc3QnXS51c2VyLnByb2ZpbGUuZmF2b3JpdGVzX2xpc3QKICAgICAgICByZXR1cm4gRmFsc2UK</text>
+        <text encoding="base64">cHJpbnQoZW52LlBBR0VfU0laRSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdpZCcsIAo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcGVybWlzc2lvbnMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">cHJpbnQoZW52KCdQQUdFX1NJWkUnKSkKcHJpbnQoZW52KCdESkFOR09fVVNFX0RFQlVHX1RPT0xCQVInKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdpZCcsIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXRyaWV2ZShyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcGVybWlzc2lvbnMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5taXhpbnMgaW1wb3J0IFJldHJpZXZlTW9kZWxNaXhpbiwgVXBkYXRlTW9kZWxNaXhpbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGRlZiBnZXQoc2VsZiwgcmVxdWVzdCwgKmFyZ3MsICoqa3dhcmdzKToKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5yZXRyaWV2ZShyZXF1ZXN0LCAqYXJncywgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5taXhpbnMgaW1wb3J0IFJldHJpZXZlTW9kZWxNaXhpbiwgVXBkYXRlTW9kZWxNaXhpbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>path</last-search>
+      <last-search encoding="base64">XDxESkFOR09fQUxMT1dFRF9IT1NUU1w+</last-search>
       <last-offset />
-      <last-pattern>path</last-pattern>
+      <last-pattern encoding="base64">XDxESkFOR09fQUxMT1dFRF9IT1NUU1w+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSRVRSWV9USU1FU1w+</entry>
         <entry encoding="base64">XDx1cmxvcGVuXD4=</entry>
         <entry encoding="base64">XDxyZXRyeVw+</entry>
         <entry encoding="base64">XDxDYXRlZ29yaWVzXD4=</entry>
@@ -562,6 +561,7 @@
         <entry encoding="base64">XDxBVVRIRU5USUNBVElPTl9CQUNLRU5EU1w+</entry>
         <entry encoding="base64">XDxESkFOR09fTUVESUFfUk9PVFw+</entry>
         <entry>path</entry>
+        <entry encoding="base64">XDxESkFOR09fQUxMT1dFRF9IT1NUU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
