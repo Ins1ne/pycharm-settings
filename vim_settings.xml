@@ -254,12 +254,12 @@
         <mark key="." line="59" column="3" />
         <mark key="^" line="59" column="3" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483912379620">
-        <mark key="'" line="26" column="19" />
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="111" column="30" />
-        <mark key="^" line="111" column="30" />
-        <mark key="." line="111" column="30" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1483913408351">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="114" column="68" />
+        <mark key="]" line="114" column="68" />
+        <mark key="^" line="114" column="68" />
+        <mark key="." line="114" column="68" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1482863671225">
         <mark key="'" line="109" column="35" />
@@ -357,12 +357,12 @@
         <mark key="." line="47" column="7" />
         <mark key="^" line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483911754817">
-        <mark key="'" line="94" column="49" />
-        <mark key="[" line="37" column="83" />
-        <mark key="]" line="40" column="22" />
-        <mark key="^" line="40" column="22" />
-        <mark key="." line="40" column="22" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483912580577">
+        <mark key="'" line="45" column="8" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1483038051330">
         <mark key="'" line="11" column="15" />
@@ -386,9 +386,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="25" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
-      <jump line="45" column="46" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="12" column="21" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="22" column="45" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="39" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
@@ -475,7 +472,6 @@
       <jump line="39" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="46" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="51" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="55" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="23" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="37" column="32" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
@@ -486,46 +482,53 @@
       <jump line="19" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="94" column="49" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="58" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
+      <jump line="45" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="114" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="116" column="70" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[0]</text>
+        <text>Z</text>
       </register>
       <register name="-" type="4">
-        <text>[0]</text>
+        <text>Z</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVkX2ltYWdlID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
+      <register name="0" type="4">
+        <text>(&quot;&quot;&quot;INSERT INTO news_news (
+                title, description, content, source, feed_id, created, views_count
+            ) VALUES (%s, %s, %s, %s, %s, %s) RETURNING id&quot;&quot;&quot;, (
+                item['title'], item['description'], item['content'], item['link'], feed_id, created, None))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNvdW50Ogo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2VzLm9yZGVyX2J5KCdmZWF0dXJlZCcpLmZpcnN0KCkucXVlcnkpCg==</text>
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVkX2ltYWdlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NiwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbm90IGNvdW50Ogo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmZlZWRzX21hcHBpbmcpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2VzLm9yZGVyX2J5KCdmZWF0dXJlZCcpLmZpcnN0KCkucXVlcnkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVkX2ltYWdlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NiwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0eCkK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHQK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmZlZWRzX21hcHBpbmcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
