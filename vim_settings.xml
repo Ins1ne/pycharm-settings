@@ -10,12 +10,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="64" column="88" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" timestamp="1483986052377">
-        <mark key="'" line="27" column="35" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" timestamp="1483986879756">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="7" column="16" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/tests/test_bookperiodic.py" timestamp="1481617770375">
         <mark key="[" line="17" column="103" />
@@ -51,10 +51,10 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1483986043789">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1483986128041">
         <mark key="'" line="53" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="23" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="16" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="37" column="60" />
       </file>
@@ -389,8 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
-      <jump line="17" column="27" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="7" column="35" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="4" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="115" column="48" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -489,10 +487,12 @@
       <jump line="104" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="25" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" />
+      <jump line="65" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>article</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHhtbHRvZGljdAo=</text>
       </register>
       <register name="-" type="4">
         <text>article</text>
@@ -501,7 +501,7 @@
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0ZXJ0YWcgPSAnYXJ0aWNsZScK</text>
+        <text encoding="base64">aW1wb3J0IHhtbHRvZGljdAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
