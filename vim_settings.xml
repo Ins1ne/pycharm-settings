@@ -356,12 +356,12 @@
         <mark key="." line="47" column="7" />
         <mark key="^" line="47" column="7" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483912580577">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1483978787675">
         <mark key="'" line="45" column="8" />
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="29" />
-        <mark key="^" line="20" column="29" />
-        <mark key="." line="20" column="29" />
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="26" />
+        <mark key="^" line="34" column="26" />
+        <mark key="." line="34" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1483038051330">
         <mark key="'" line="11" column="15" />
@@ -487,11 +487,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="&quot;" type="4">
+        <text>CharField(max_length=256)</text>
       </register>
       <register name="-" type="4">
-        <text>None</text>
+        <text>CharField(max_length=256)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
