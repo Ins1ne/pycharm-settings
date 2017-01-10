@@ -17,12 +17,12 @@
         <mark key="^" line="22" column="51" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" timestamp="1484048826769">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="30" />
-        <mark key="." line="27" column="30" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" timestamp="1484066159414">
+        <mark key="'" line="27" column="18" />
+        <mark key="[" line="39" column="44" />
+        <mark key="]" line="39" column="44" />
+        <mark key="." line="39" column="44" />
+        <mark key="^" line="39" column="44" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1484048302299">
         <mark key="'" line="54" column="8" />
@@ -80,10 +80,10 @@
         <mark key="^" line="69" column="4" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1484048781964">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" timestamp="1484066113960">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="35" />
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="98" />
         <mark key="." line="87" column="12" />
         <mark key="^" line="83" column="73" />
       </file>
@@ -369,7 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="78" column="9" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="264" column="54" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="20" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -469,19 +468,20 @@
       <jump line="10" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alarabiya.py" />
       <jump line="48" column="75" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
       <jump line="14" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
+      <jump line="27" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Request</text>
+        <text>self.ip</text>
       </register>
       <register name="-" type="4">
-        <text>Request</text>
+        <text>self.ip</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcGxhc2hSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFyZ3M9eyd3YWl0JzogMC4xfSwK</text>
+      <register name="0" type="4">
+        <text>cookies={'YPF8827340282Jdskjhfiw_928937459182JAX666': self.ip}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
