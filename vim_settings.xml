@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1484072621530">
-        <mark key="[" line="43" column="37" />
-        <mark key="]" line="45" column="35" />
-        <mark key="." line="45" column="35" />
-        <mark key="^" line="45" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1484074980886">
+        <mark key="'" line="15" column="24" />
+        <mark key="[" line="59" column="96" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1483998413789">
         <mark key="'" line="54" column="9" />
@@ -340,12 +341,6 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1484036347914">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="53" column="108" />
-      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1482781407410">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="57" column="0" />
@@ -389,7 +384,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="18" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="19" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="128" column="25" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="157" column="17" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -489,13 +483,14 @@
       <jump line="54" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
       <jump line="21" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/electrony.py" />
       <jump line="15" column="19" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almuraba.py" />
+      <jump line="15" column="24" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="&quot;" type="4">
+        <text>news['image_urls']</text>
       </register>
       <register name="-" type="4">
-        <text>almuraba</text>
+        <text>news['image_urls']</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcGxhc2hSZXF1ZXN0XD4=</text>
