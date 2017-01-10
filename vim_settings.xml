@@ -292,12 +292,12 @@
         <mark key="^" line="61" column="23" />
         <mark key="." line="61" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1484048944533">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1484049940218">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="110" column="14" />
-        <mark key="]" line="110" column="20" />
-        <mark key="." line="110" column="20" />
-        <mark key="^" line="110" column="20" />
+        <mark key="[" line="110" column="36" />
+        <mark key="]" line="110" column="39" />
+        <mark key="." line="110" column="39" />
+        <mark key="^" line="110" column="39" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1483984065804">
         <mark key="'" line="18" column="17" />
