@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1484129254361">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="67" column="89" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1484151952388">
         <mark key="'" line="39" column="34" />
         <mark key="[" line="10" column="34" />
@@ -344,6 +350,12 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mol.py" timestamp="1484161610660">
+        <mark key="[" line="46" column="17" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
+        <mark key="^" line="47" column="16" />
+      </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1483811687308">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="37" column="15" />
@@ -550,11 +562,11 @@
       <jump line="6" column="24" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuaHR0cCBpbXBvcnQgUmVxdWVzdAo=</text>
+      <register name="&quot;" type="4">
+        <text>Mci</text>
       </register>
       <register name="-" type="4">
-        <text>EBUG</text>
+        <text>Mci</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
@@ -563,34 +575,34 @@
         <text>datetime.fromtimestamp(mktime(response.meta['published']))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzY3JhcHkuaHR0cCBpbXBvcnQgUmVxdWVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cHM6Ly9tY2kuZ292LnNhL19sYXlvdXRzL2ZlZWQuYXNweD94c2w9MSZ3ZWI9L01lZGlhQ2VudGVyL05ld3MmcGFnZT1kMDU3ZjBhMy03OWE2LTQ1NjQtYjAyMy0zMDU2MmVmYTJmOWYmd3A9Mzk4YjExNTQtYzI4Ni00MThiLWIwMjItMzQwNDY2Nzg5OGMxJnBhZ2V1cmw9L01lZGlhQ2VudGVyL05ld3MvUGFnZXMvZGVmYXVsdC5hc3B4JywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ZnJvbSBzY3JhcHkuaHR0cCBpbXBvcnQgUmVxdWVzdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChicmFrZV9kYXkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHVybD0naHR0cHM6Ly9tY2kuZ292LnNhL01lZGlhQ2VudGVyL05ld3MvUGFnZXMvMTEtMDUtMTUtMDEuYXNweCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChicmFrZV9kYXkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudGVyID0gMQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjIHVybD0naHR0cHM6Ly9tY2kuZ292LnNhL01lZGlhQ2VudGVyL05ld3MvUGFnZXMvMTEtMDUtMTUtMDEuYXNweCcsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciAtPSAxCiAgICAgICAgICAgIGlmIGNvdW50ZXIgPT0gMDoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudGVyID0gMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY291bnRlciAtPSAxCiAgICAgICAgICAgIGlmIGNvdW50ZXIgPT0gMDoKICAgICAgICAgICAgICAgIGJyZWFrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -639,9 +651,9 @@
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvNC9n</entry>
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
-        <entry>w</entry>
         <entry>x</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
