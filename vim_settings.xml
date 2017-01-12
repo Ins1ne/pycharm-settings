@@ -180,7 +180,8 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" timestamp="1484167757277">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" timestamp="1484171505953">
+        <mark key="'" line="67" column="8" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -294,8 +295,8 @@
         <mark key="." line="68" column="23" />
         <mark key="^" line="68" column="23" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" timestamp="1484151612969">
-        <mark key="'" line="98" column="8" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" timestamp="1484171686589">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
@@ -329,12 +330,12 @@
         <mark key="." line="83" column="38" />
         <mark key="^" line="83" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/.gitignore" timestamp="1482149109127">
+      <file name="$USER_HOME$/vagrant/news_parser/.gitignore" timestamp="1484171560804">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="95" column="7" />
-        <mark key="]" line="95" column="11" />
-        <mark key="^" line="95" column="11" />
-        <mark key="." line="95" column="11" />
+        <mark key="[" line="97" column="14" />
+        <mark key="]" line="97" column="16" />
+        <mark key="^" line="97" column="16" />
+        <mark key="." line="97" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1484151962497">
         <mark key="'" line="67" column="38" />
@@ -481,14 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" />
-      <jump line="28" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almnatiq.py" />
-      <jump line="43" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="10" column="33" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="37" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="110" column="39" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="100" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="46" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="7" column="24" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
@@ -499,7 +492,6 @@
       <jump line="71" column="13" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="1" column="56" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" />
       <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="20" column="9" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="67" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="31" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="91" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -581,6 +573,15 @@
       <jump line="47" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" />
       <jump line="42" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" />
       <jump line="46" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" />
+      <jump line="67" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" />
+      <jump line="95" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="96" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="97" column="13" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
+      <jump line="20" column="15" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -590,7 +591,7 @@
         <text>[]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXF1ZXN0XD4=</text>
+        <text>local_settings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBzY3JhcHkuaHR0cCBpbXBvcnQgUmVxdWVzdAo=</text>
@@ -627,18 +628,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXF1ZXN0XD4=</last-search>
+      <last-search>local_settings</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern>local_settings</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWx0ZXJTZXRcPg==</entry>
-        <entry encoding="base64">XDxmaWx0ZXJfdHlwZVw+</entry>
         <entry encoding="base64">XDxQQUdFX1NJWkVcPg==</entry>
         <entry encoding="base64">XDxGb3JlaWduS2V5XD4=</entry>
         <entry encoding="base64">XDxkZWJ1Z190b29sYmFyXD4=</entry>
@@ -657,6 +656,8 @@
         <entry encoding="base64">XDxkb250X2ZpbHRlclw+</entry>
         <entry encoding="base64">XDxERUJVR1w+</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry>break</entry>
+        <entry>local_settings</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
