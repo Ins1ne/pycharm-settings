@@ -432,12 +432,12 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484228165226">
-        <mark key="'" line="48" column="73" />
-        <mark key="[" line="52" column="87" />
-        <mark key="]" line="52" column="85" />
-        <mark key="^" line="52" column="85" />
-        <mark key="." line="52" column="85" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484230344888">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="51" column="85" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1484151828333">
         <mark key="'" line="48" column="38" />
@@ -489,7 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="31" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="91" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="28" column="54" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -589,10 +588,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
       <jump line="4" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
       <jump line="48" column="73" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwdWJsaXNoZWQuc3RyZnRpbWUoJyVkLyUtbS8lWScpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -604,19 +604,19 @@
         <text>published.strftime('%d/%-m/%Y')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwdWJsaXNoZWQuc3RyZnRpbWUoJyVkLyUtbS8lWScpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmxzdHJpcChwdWJsaXNoZWQuc3RyZnRpbWUoJyVkLyUtbS8lWScpKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChwdWJsaXNoZWQuc3RyZnRpbWUoJyVkLyUtbS8lWScpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChuZXdzX2RhdGUsIHRpdGxlLCBpbnRybykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmxzdHJpcChwdWJsaXNoZWQuc3RyZnRpbWUoJyVkLyUtbS8lWScpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld3NfY29udGVudF90ZXh0LnJlcGxhY2UobmV3c19kYXRlLmV4dHJhY3QoKSwgJycpLnJlcGxhY2UodGl0bGUsICcnKS5yZXBsYWNlKGludHJvLCAnJykKICAgICAgICAjIHByaW50KG5ld3NfZGF0ZS54cGF0aCgnLy90ZXh0KCknKVswXS5leHRyYWN0KCkpCiAgICAgICAgIyBuZXdzX2NvbnRlbnRfdGV4dC5yZXBsYWNlKG5ld3NfZGF0ZS54cGF0aCgnLy90ZXh0KCknKVswXS5leHRyYWN0KCksICcnKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChuZXdzX2RhdGUsIHRpdGxlLCBpbnRybykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIG5ld3NfY29udGVudF90ZXh0LnJlcGxhY2UobmV3c19kYXRlLmV4dHJhY3QoKSwgJycpLnJlcGxhY2UodGl0bGUsICcnKS5yZXBsYWNlKGludHJvLCAnJykKICAgICAgICAjIHByaW50KG5ld3NfZGF0ZS54cGF0aCgnLy90ZXh0KCknKVswXS5leHRyYWN0KCkpCiAgICAgICAgIyBuZXdzX2NvbnRlbnRfdGV4dC5yZXBsYWNlKG5ld3NfZGF0ZS54cGF0aCgnLy90ZXh0KCknKVswXS5leHRyYWN0KCksICcnKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -625,10 +625,10 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dHoK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBta3RpbWUK</text>
+        <text encoding="base64">aW1wb3J0IHB5dHoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
