@@ -432,7 +432,8 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484224955950">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484228165226">
+        <mark key="'" line="48" column="73" />
         <mark key="[" line="52" column="87" />
         <mark key="]" line="52" column="85" />
         <mark key="^" line="52" column="85" />
@@ -587,7 +588,7 @@
       <jump line="35" column="48" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
       <jump line="28" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
       <jump line="4" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
-      <jump line="48" column="36" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
+      <jump line="48" column="73" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
