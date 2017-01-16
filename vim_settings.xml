@@ -318,12 +318,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="54" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" timestamp="1484555486671">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" timestamp="1484556269134">
         <mark key="'" line="23" column="8" />
-        <mark key="[" line="67" column="60" />
-        <mark key="]" line="69" column="102" />
-        <mark key="." line="69" column="102" />
-        <mark key="^" line="69" column="102" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="24" />
+        <mark key="." line="55" column="24" />
+        <mark key="^" line="55" column="24" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1483912054063">
         <mark key="'" line="58" column="4" />
@@ -649,17 +649,17 @@
       <jump line="23" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb250ZW50X2l0ZW1zKQo=</text>
+      <register name="&quot;" type="4">
+        <text>selector.xpath('//div[@class=&quot;articleBody&quot;]//p').extract()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIFtd</text>
+        <text>selector.xpath('//div[@class=&quot;articleBody&quot;]//p').extract()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>[contains(@class, &quot;entry-content&quot;)]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBjb250ZW50X2l0ZW1zID0gc2VsZWN0b3IueHBhdGgoJy8vZGl2W0BjbGFzcz0iYXJ0aWNsZUJvZHkiXS8vcCcpLmV4dHJhY3QoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChjb250ZW50X2l0ZW1zKQo=</text>
