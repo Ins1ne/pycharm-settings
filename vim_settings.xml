@@ -115,12 +115,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="31" column="49" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1484671548506">
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1484675473568">
         <mark key="'" line="36" column="11" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="27" />
-        <mark key="^" line="16" column="27" />
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1484128393010">
         <mark key="'" line="43" column="0" />
@@ -672,10 +672,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text encoding="base64">UGFzdGViaW4g</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text encoding="base64">UGFzdGViaW4g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlcGFyc2VyXD4=</text>
