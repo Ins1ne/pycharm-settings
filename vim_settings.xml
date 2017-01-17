@@ -430,8 +430,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="64" column="96" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1484151633454">
-        <mark key="'" line="70" column="30" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1484644281720">
+        <mark key="'" line="35" column="42" />
         <mark key="[" line="11" column="34" />
         <mark key="]" line="11" column="43" />
         <mark key="." line="11" column="43" />
@@ -491,8 +491,8 @@
         <mark key="." line="75" column="37" />
         <mark key="^" line="75" column="37" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1484151981179">
-        <mark key="'" line="12" column="43" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1484644333869">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="83" column="29" />
         <mark key="]" line="83" column="38" />
         <mark key="." line="83" column="38" />
@@ -594,8 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
-      <jump line="97" column="13" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
       <jump line="20" column="15" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -694,6 +692,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
       <jump line="14" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
       <jump line="34" column="61" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
+      <jump line="35" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
