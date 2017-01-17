@@ -157,7 +157,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="54" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" timestamp="1484602526932">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" timestamp="1484643564074">
+        <mark key="'" line="34" column="61" />
         <mark key="[" line="77" column="91" />
         <mark key="]" line="79" column="95" />
         <mark key="." line="79" column="95" />
@@ -593,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
       <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
       <jump line="97" column="13" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/.gitignore" />
@@ -693,6 +693,7 @@
       <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
       <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
       <jump line="14" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
+      <jump line="34" column="61" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
