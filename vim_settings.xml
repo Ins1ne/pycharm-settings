@@ -87,12 +87,12 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/requirements/base.txt" timestamp="1483803437655">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="7" />
-        <mark key="^" line="18" column="7" />
-        <mark key="." line="18" column="7" />
+      <file name="$USER_HOME$/vagrant/neag/requirements/base.txt" timestamp="1484676082462">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/unlimit-tech.py" timestamp="1484152020876">
         <mark key="'" line="37" column="38" />
@@ -435,12 +435,12 @@
         <mark key="^" line="331" column="14" />
         <mark key="." line="331" column="14" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1484672124390">
-        <mark key="'" line="25" column="51" />
-        <mark key="[" line="181" column="25" />
-        <mark key="]" line="181" column="28" />
-        <mark key="." line="181" column="28" />
-        <mark key="^" line="181" column="28" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1484676503238">
+        <mark key="'" line="278" column="4" />
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
+        <mark key="^" line="205" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -569,9 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" />
-      <jump line="23" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" />
-      <jump line="10" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" />
       <jump line="22" column="9" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" />
       <jump line="46" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ittihadfc.py" />
       <jump line="16" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ittihadfc.py" />
@@ -669,13 +666,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
       <jump line="75" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
       <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
+      <jump line="180" column="40" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="268" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UGFzdGViaW4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW1haWwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UGFzdGViaW4g</text>
+        <text>email</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRlcGFyc2VyXD4=</text>
@@ -684,7 +684,7 @@
         <text encoding="base64">UEFHRV9TSVpFPTEwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZW1haWwK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -696,19 +696,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UocmVsYXRlZCwgJycpLnJlcGxhY2UoYXV0aG9yLCAnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnJlcGxhY2UocmVsYXRlZCwgJycpLnJlcGxhY2UoYXV0aG9yLCAnJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdXJsPSdodHRwOi8vd3d3LnlvdW03LmNvbS9zdG9yeS8yMDE3LzEvMTcvJUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ4JUE3JUQ4JUE2JUQ4JUE4LSVEOCVCOSVEOSU4NSVEOCVCMSVEOSU4OC0lRDglQkElRDklODQlRDglQTclRDglQTgtJUQ5JThBJUQ4JUI3JUQ4JUE3JUQ5JTg0JUQ4JUE4LSVEOCVBOCVEOCVBQSVEOCVBRiVEOCVCNCVEOSU4QSVEOSU4Ni0lRDglQUQlRDklODUlRDklODQlRDglQTktJUQ4JUI0JUQ4JUI5JUQ4JUE4JUQ5JThBJUQ4JUE5LSVEOSU4NCVEOSU4NSVEOSU4OCVEOCVBNyVEOCVBQyVEOSU4NyVEOCVBOS0lRDglQTclRDglQjElRDglQUElRDklODElRDglQTclRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLzMwNTkyNjInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdXJsPSdodHRwOi8vd3d3LnlvdW03LmNvbS9zdG9yeS8yMDE3LzEvMTcvJUQ4JUE3JUQ5JTg0JUQ5JTg2JUQ4JUE3JUQ4JUE2JUQ4JUE4LSVEOCVCOSVEOSU4NSVEOCVCMSVEOSU4OC0lRDglQkElRDklODQlRDglQTclRDglQTgtJUQ5JThBJUQ4JUI3JUQ4JUE3JUQ5JTg0JUQ4JUE4LSVEOCVBOCVEOCVBQSVEOCVBRiVEOCVCNCVEOSU4QSVEOSU4Ni0lRDglQUQlRDklODUlRDklODQlRDglQTktJUQ4JUI0JUQ4JUI5JUQ4JUE4JUQ5JThBJUQ4JUE5LSVEOSU4NCVEOSU4NSVEOSU4OCVEOCVBNyVEOCVBQyVEOSU4NyVEOCVBOS0lRDglQTclRDglQjElRDglQUElRDklODElRDglQTclRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLzMwNTkyNjInLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
