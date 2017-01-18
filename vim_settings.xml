@@ -197,12 +197,12 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="62" column="22" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1484759412076">
-        <mark key="'" line="10" column="68" />
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="27" />
-        <mark key="." line="86" column="27" />
-        <mark key="^" line="86" column="27" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1484760882374">
+        <mark key="'" line="99" column="44" />
+        <mark key="[" line="60" column="34" />
+        <mark key="]" line="60" column="54" />
+        <mark key="." line="60" column="54" />
+        <mark key="^" line="60" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1484679801413">
         <mark key="'" line="0" column="0" />
@@ -715,9 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
-      <jump line="34" column="61" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="35" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="159" column="52" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
@@ -815,22 +812,25 @@
       <jump line="10" column="68" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="85" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="10" column="68" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="112" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="70" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="99" column="44" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jzxicj4n</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jzxicj4n</text>
+        <text encoding="base64">ID0g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxST09UX0RJUlw+</text>
+        <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBuZXdzX3BhcnNlci5zZXR0aW5ncyBpbXBvcnQgTElORV9CUkVBSwo=</text>
+      <register name="0" type="4">
+        <text>selector.xpath('//div[contains(@class, &quot;article&quot;)]//p').extract()</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="2" type="8">
         <text encoding="base64">IAog</text>
@@ -848,10 +848,10 @@
         <text encoding="base64">IAog</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
+        <text encoding="base64">IAog</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
       </register>
       <register name="9" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
@@ -861,9 +861,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxST09UX0RJUlw+</last-search>
+      <last-search encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxST09UX0RJUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -875,7 +875,6 @@
         <entry>path</entry>
         <entry encoding="base64">XDxESkFOR09fQUxMT1dFRF9IT1NUU1w+</entry>
         <entry encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</entry>
-        <entry encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</entry>
         <entry encoding="base64">XDxta3RpbWVcPg==</entry>
         <entry encoding="base64">XDxzY3JhcHlcPg==</entry>
         <entry encoding="base64">XDxmZWVkcGFyc2VyXD4=</entry>
@@ -891,6 +890,7 @@
         <entry encoding="base64">XDx1cmxqb2luXD4=</entry>
         <entry encoding="base64">XDxkYXRlcGFyc2VyXD4=</entry>
         <entry encoding="base64">XDxST09UX0RJUlw+</entry>
+        <entry encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>12G</entry>
