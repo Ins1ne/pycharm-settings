@@ -197,6 +197,12 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="62" column="22" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1484745863831">
+        <mark key="[" line="56" column="35" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="39" />
+        <mark key="^" line="57" column="39" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1484679801413">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="63" />
@@ -706,18 +712,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
-      <jump line="5" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
-      <jump line="45" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
-      <jump line="45" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aitnews.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aitnews.py" />
-      <jump line="36" column="65" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
-      <jump line="26" column="31" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
-      <jump line="23" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
-      <jump line="15" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
-      <jump line="45" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
       <jump line="37" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
       <jump line="76" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
       <jump line="40" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
@@ -806,46 +800,58 @@
       <jump line="106" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="85" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="57" column="0" filename="$USER_HOME$/vagrant/neag/.gitignore" />
+      <jump line="77" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="64" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="110" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="133" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="59" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="58" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="124" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="101" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="39" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="113" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="90" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="37" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>neag/</text>
+        <text>',</text>
       </register>
       <register name="-" type="4">
-        <text>neag/</text>
+        <text>3alyoum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxST09UX0RJUlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bmVhZy9tZWRpYS8K</text>
+      <register name="0" type="4">
+        <text>',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdXJsPSdodHRwOi8vd3d3LnNob3JvdWtuZXdzLmNvbS9uZXdzL3ZpZXcuYXNweD9jZGF0ZT0xNzAxMjAxNyZpZD03ZmM1YTBhYy1kNDM5LTRhNTMtODkxMy0wMGFhMTk3Mzk3Y2YnLAogICAgICAgICAgICAgICAgdXJsPSdodHRwOi8vd3d3LnNob3JvdWtuZXdzLmNvbS9uZXdzL3ZpZXcuYXNweD9jZGF0ZT0xODAxMjAxNyZpZD00Y2JiYWFmOS0zMDIzLTQ3YjEtYjNiMi01ZTBjZTY5YzQzZWYnLAo=</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="4" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAog</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFncyc6IFt0YWdbJ3Rlcm0nXSBmb3IgdGFnIGluIGl0ZW1bJ3RhZ3MnXV0sCg==</text>
+      <register name="7" type="8">
+        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy4zYWx5b3VtLmNvbS9mZWVkLycsCg==</text>
+      <register name="8" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -899,6 +905,10 @@
         <entry encoding="base64">JzwsJz5zLyAvL2c=</entry>
         <entry>q</entry>
         <entry>x</entry>
+        <entry encoding="base64">JzwsJz4xMTA=</entry>
+        <entry>.,.+851</entry>
+        <entry>.,.+7851</entry>
+        <entry encoding="base64">JzwsJz4x</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
