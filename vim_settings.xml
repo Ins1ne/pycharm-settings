@@ -197,12 +197,12 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="62" column="22" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1484760882374">
-        <mark key="'" line="99" column="44" />
-        <mark key="[" line="60" column="34" />
-        <mark key="]" line="60" column="54" />
-        <mark key="." line="60" column="54" />
-        <mark key="^" line="60" column="54" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1484762637603">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="100" column="72" />
+        <mark key="]" line="102" column="532" />
+        <mark key="." line="102" column="532" />
+        <mark key="^" line="102" column="532" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1484679801413">
         <mark key="'" line="0" column="0" />
@@ -715,8 +715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="159" column="52" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="171" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="5" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
@@ -815,6 +813,8 @@
       <jump line="112" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="70" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="99" column="44" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="81" column="66" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
