@@ -271,12 +271,12 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1484690167558">
-        <mark key="'" line="97" column="21" />
-        <mark key="[" line="87" column="16" />
-        <mark key="]" line="87" column="20" />
-        <mark key="^" line="87" column="20" />
-        <mark key="." line="87" column="20" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1484741307270">
+        <mark key="'" line="85" column="4" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="52" />
+        <mark key="^" line="88" column="20" />
+        <mark key="." line="85" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1484659631188">
         <mark key="'" line="0" column="0" />
@@ -560,12 +560,12 @@
         <mark key="]" line="57" column="3" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1484729222703">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1484741587567">
         <mark key="'" line="1" column="31" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="55" column="103" />
+        <mark key="[" line="26" column="96" />
+        <mark key="]" line="26" column="102" />
+        <mark key="." line="26" column="102" />
+        <mark key="^" line="26" column="102" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1484313974200">
         <mark key="'" line="46" column="0" />
@@ -706,7 +706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" />
       <jump line="15" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="5" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
@@ -806,10 +805,11 @@
       <jump line="19" column="37" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="106" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
+      <jump line="85" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -817,8 +817,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxST09UX0RJUlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>//div[contains(@class, &quot;eventContent&quot;)]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
