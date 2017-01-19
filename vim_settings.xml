@@ -20,8 +20,8 @@
       <file name="/a.dummy" timestamp="1484737125975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484828280665">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484828939228">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="102" column="94" />
         <mark key="]" line="104" column="26" />
         <mark key="." line="104" column="26" />
@@ -721,8 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
@@ -821,6 +819,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="120" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="104" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
