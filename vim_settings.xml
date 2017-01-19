@@ -20,11 +20,13 @@
       <file name="/a.dummy" timestamp="1484737125975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484809084627">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="16" column="36" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484810435150">
+        <mark key="'" line="108" column="43" />
+        <mark key="[" line="108" column="93" />
+        <mark key="]" line="110" column="95" />
+        <mark key="m" line="115" column="80" />
+        <mark key="^" line="110" column="95" />
+        <mark key="." line="110" column="95" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
@@ -721,11 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="52" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
-      <jump line="171" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
-      <jump line="5" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
-      <jump line="162" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
-      <jump line="26" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="158" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="49" column="48" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="87" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
@@ -821,46 +818,51 @@
       <jump line="99" column="44" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="81" column="66" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="49" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
+      <jump line="37" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="35" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="133" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="110" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="108" column="43" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy4zYWx5b3VtLmNvbS9mZWVkLycsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG9yIHJlc3BvbnNlLm1ldGFbJ3RhZ3MnXQ==</text>
       </register>
       <register name="-" type="4">
-        <text>3alyoum</text>
+        <text encoding="base64">IG9yIHJlc3BvbnNlLm1ldGFbJ3RhZ3MnXQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>selector.xpath('//div[contains(@class, &quot;article&quot;)]//p').extract()</text>
+        <text>',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy4zYWx5b3VtLmNvbS9mZWVkLycsCg==</text>
+      <register name="1" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      <register name="2" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="3" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="4" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">IAog</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbG1hc3J5YWx5b3VtLmNvbS9yc3MvcnNzZmVlZHMnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -899,7 +901,6 @@
         <entry encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>12G</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry encoding="base64">JzwsJz5zL2F0dHJfd2l0aF9qcy9qc192YWx1ZS9n</entry>
         <entry encoding="base64">JzwsJz5zL3RydWUvVHJ1ZS9n</entry>
@@ -918,6 +919,7 @@
         <entry>.,.+851</entry>
         <entry>.,.+7851</entry>
         <entry encoding="base64">JzwsJz4x</entry>
+        <entry>.,.+6821</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
