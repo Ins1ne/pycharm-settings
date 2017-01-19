@@ -20,6 +20,12 @@
       <file name="/a.dummy" timestamp="1484737125975">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484809084627">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="16" column="36" />
+      </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
         <mark key="[" line="2" column="0" />
@@ -817,11 +823,11 @@
       <jump line="49" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID0g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy4zYWx5b3VtLmNvbS9mZWVkLycsCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0g</text>
+        <text>3alyoum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
@@ -830,10 +836,10 @@
         <text>selector.xpath('//div[contains(@class, &quot;article&quot;)]//p').extract()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy4zYWx5b3VtLmNvbS9mZWVkLycsCg==</text>
       </register>
-      <register name="2" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="3" type="8">
         <text encoding="base64">IAog</text>
@@ -851,10 +857,10 @@
         <text encoding="base64">IAog</text>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
+        <text encoding="base64">IAog</text>
       </register>
       <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">aHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSAKaHR0cDogLy8gYWRkLm15LnlhaG9vLmNvbSAvIHJzcz91cmwgPSA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
