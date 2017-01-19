@@ -273,12 +273,12 @@
         <mark key="." line="134" column="16" />
         <mark key="^" line="134" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484814180457">
-        <mark key="'" line="41" column="28" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="41" column="28" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484815118645">
+        <mark key="'" line="51" column="28" />
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+        <mark key="." line="26" column="41" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1484152011207">
         <mark key="'" line="37" column="38" />
@@ -825,17 +825,17 @@
       <jump line="42" column="28" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGVhc2VfZGF0ZSc6IFsnZXhhY3QnLCAneWVhcl9fZ3QnXSwK</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>django_filters.</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3JpZXMnOiBbJ2V4YWN0JywgJ2luJ10sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3JlbGVhc2VfZGF0ZSc6IFsnZXhhY3QnLCAneWVhcl9fZ3QnXSwK</text>
