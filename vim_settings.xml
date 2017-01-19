@@ -273,12 +273,12 @@
         <mark key="." line="134" column="16" />
         <mark key="^" line="134" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484757704665">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="40" />
-        <mark key="^" line="32" column="40" />
-        <mark key="." line="32" column="40" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484814180457">
+        <mark key="'" line="41" column="28" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="41" column="28" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1484152011207">
         <mark key="'" line="37" column="38" />
@@ -723,7 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="49" column="48" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="87" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="4" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
@@ -823,13 +822,14 @@
       <jump line="133" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="110" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="108" column="43" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="42" column="28" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFncyc6IFt0YWdbJ3Rlcm0nXSBmb3IgdGFnIGluIGl0ZW1bJ3RhZ3MnXV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGVhc2VfZGF0ZSc6IFsnZXhhY3QnLCAneWVhcl9fZ3QnXSwK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9yIHJlc3BvbnNlLm1ldGFbJ3RhZ3MnXQ==</text>
+        <text>django_filters.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZF9pbWFnZVw+</text>
@@ -838,19 +838,19 @@
         <text>',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFncyc6IFt0YWdbJ3Rlcm0nXSBmb3IgdGFnIGluIGl0ZW1bJ3RhZ3MnXV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3JlbGVhc2VfZGF0ZSc6IFsnZXhhY3QnLCAneWVhcl9fZ3QnXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAndGFncyc6IFt0YWdbJ3Rlcm0nXSBmb3IgdGFnIGluIGl0ZW1bJ3RhZ3MnXV0sCg==</text>
       </register>
-      <register name="3" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="4" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="5" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
       <register name="6" type="8">
         <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
