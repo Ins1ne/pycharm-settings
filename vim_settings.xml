@@ -692,6 +692,12 @@
         <mark key="^" line="10" column="43" />
         <mark key="." line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbarelyom.py" timestamp="1484856550693">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="34" />
+        <mark key="." line="16" column="34" />
+        <mark key="^" line="16" column="34" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbarway.py" timestamp="1484855350882">
         <mark key="'" line="100" column="75" />
         <mark key="[" line="99" column="41" />
@@ -830,11 +836,11 @@
       <jump line="100" column="75" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbarway.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      <register name="&quot;" type="4">
+        <text>3alyoum</text>
       </register>
       <register name="-" type="4">
-        <text>clean_content(response.meta['description'], keep_tags=False)</text>
+        <text>3alyoum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaG9uZVw+</text>
