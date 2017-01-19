@@ -20,12 +20,12 @@
       <file name="/a.dummy" timestamp="1484737125975">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484823053019">
-        <mark key="'" line="20" column="14" />
-        <mark key="[" line="117" column="46" />
-        <mark key="]" line="118" column="11" />
-        <mark key="." line="118" column="11" />
-        <mark key="^" line="118" column="11" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1484828280665">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="102" column="94" />
+        <mark key="]" line="104" column="26" />
+        <mark key="." line="104" column="26" />
+        <mark key="^" line="104" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/.env" timestamp="1477089342939">
         <mark key="'" line="50" column="0" />
@@ -211,12 +211,12 @@
         <mark key="." line="102" column="532" />
         <mark key="^" line="102" column="532" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1484825173831">
-        <mark key="'" line="82" column="32" />
-        <mark key="[" line="77" column="21" />
-        <mark key="]" line="77" column="32" />
-        <mark key="." line="77" column="32" />
-        <mark key="^" line="77" column="32" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1484827678819">
+        <mark key="'" line="73" column="53" />
+        <mark key="[" line="72" column="43" />
+        <mark key="]" line="73" column="53" />
+        <mark key="^" line="73" column="53" />
+        <mark key="." line="73" column="53" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/env.example" timestamp="1484687443797">
         <mark key="'" line="0" column="15" />
@@ -721,15 +721,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="41" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mol.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almnatiq.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="28" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqartalk.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elaph.py" />
       <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" />
@@ -814,53 +805,62 @@
       <jump line="16" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="67" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="101" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
-      <jump line="20" column="14" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
       <jump line="57" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="75" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="59" column="41" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
-      <jump line="98" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="90" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="79" column="32" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="98" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="118" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="95" column="32" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="2" column="14" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="73" column="53" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="120" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feeds_mapping</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBta3RpbWUK</text>
       </register>
       <register name="-" type="4">
-        <text>feeds_mapping</text>
+        <text>tx.fetchone()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZXRjaG9uZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3Qgc2VsZi5mZWVkc19tYXBwaW5nOgogICAgICAgICAgICB0eC5leGVjdXRlKCIiIlNFTEVDVCBpZCwgdXJsIGZyb20gbmV3c19mZWVkIiIiKQogICAgICAgICAgICBmZWVkcyA9IHR4LmZldGNoYWxsKCkKCiAgICAgICAgICAgIGZvciBmZWVkIGluIGZlZWRzOgogICAgICAgICAgICAgICAgc2VsZi5mZWVkc19tYXBwaW5nW2ZlZWRbMV1dID0gZmVlZFswXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZ19pZCA9IHR4LmZldGNob25lKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgPSB0YWdfaWRbMF0K</text>
+        <text encoding="base64">ZnJvbSB0aW1lIGltcG9ydCBta3RpbWUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHR4LmV4ZWN1dGUoIiIiU0VMRUNUIGlkIEZST00gbmV3c190YWcgV0hFUkUgdGl0bGU9JXMiIiIsICh0YWcsKSkKICAgICAgICAgICAgICAgIHRhZ19pZCA9IHR4LmZldGNob25lKCkKCiAgICAgICAgICAgICAgICBpZiBub3QgdGFnX2lkOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgdHguZXhlY3V0ZSgiIiJJTlNFUlQgSU5UTyBuZXdzX3RhZyAodGl0bGUpIFZBTFVFUyAoJXMpIFJFVFVSTklORyBpZCIiIiwgKHRhZywpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJz0nICogMjApCiAgICAgICAgICAgIHByaW50KHNlbGYudGFnc19tYXBwaW5nW3RhZ10pCiAgICAgICAgICAgIHByaW50KCc9JyAqIDIwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KCc9JyAqIDIwKQogICAgICAgICAgICAgICAgcHJpbnQoc2VsZi50YWdzX21hcHBpbmdbdGFnXSkKICAgICAgICAgICAgICAgIHByaW50KCc9JyAqIDIwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgPSB0YWdfaWRbMF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHR4LmV4ZWN1dGUoIiIiU0VMRUNUIGlkIEZST00gbmV3c190YWcgV0hFUkUgdGl0bGU9JXMiIiIsICh0YWcsKSkKICAgICAgICAgICAgICAgIHRhZ19pZCA9IHR4LmZldGNob25lKCkKCiAgICAgICAgICAgICAgICBpZiBub3QgdGFnX2lkOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAjIHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjICdwdWJsaXNoZWQnOiBpdGVtWydwdWJsaXNoZWRfcGFyc2VkJ10sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIG5ld3NbJ3B1Ymxpc2hlZCddID0gZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChta3RpbWUocmVzcG9uc2UubWV0YVsncHVibGlzaGVkJ10pKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
