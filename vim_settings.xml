@@ -672,12 +672,12 @@
         <mark key="^" line="340" column="69" />
         <mark key="." line="340" column="70" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1484902698139">
-        <mark key="'" line="6" column="54" />
-        <mark key="[" line="62" column="12" />
-        <mark key="]" line="62" column="14" />
-        <mark key="." line="62" column="14" />
-        <mark key="^" line="62" column="14" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1484905080715">
+        <mark key="'" line="56" column="7" />
+        <mark key="[" line="66" column="23" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484260007068">
         <mark key="'" line="67" column="0" />
@@ -743,7 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="93" column="59" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="20" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
@@ -841,21 +840,22 @@
       <jump line="111" column="8" filename="$USER_HOME$/vagrant/neag/env/lib/python3.4/site-packages/rest_auth/views.py" />
       <jump line="54" column="5" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="59" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
-      <jump line="56" column="31" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
+      <jump line="62" column="19" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="6" column="54" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
+      <jump line="56" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>in</text>
+        <text>remove</text>
       </register>
       <register name="-" type="4">
-        <text>in</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uc1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>',</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlcl9sb2dnZWRfb3V0LmNvbm5lY3QocmVtb3ZlX2RldmljZV9pZCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
