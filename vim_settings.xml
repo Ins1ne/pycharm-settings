@@ -504,11 +504,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1484919402756">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="47" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1484943090831">
+        <mark key="'" line="0" column="11" />
+        <mark key="[" line="71" column="58" />
+        <mark key="]" line="72" column="11" />
+        <mark key="." line="72" column="11" />
+        <mark key="^" line="72" column="11" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1484313974200">
         <mark key="'" line="46" column="0" />
@@ -642,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="19" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="19" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" />
       <jump line="20" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
@@ -742,6 +742,7 @@
       <jump line="33" column="36" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
       <jump line="85" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="29" column="15" filename="$USER_HOME$/vagrant/neag/neag/templates/base.html" />
+      <jump line="0" column="11" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
