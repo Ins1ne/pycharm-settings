@@ -672,12 +672,12 @@
         <mark key="^" line="340" column="69" />
         <mark key="." line="340" column="70" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1484905080715">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1484906457681">
         <mark key="'" line="56" column="7" />
-        <mark key="[" line="66" column="23" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
-        <mark key="^" line="66" column="26" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="65" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1484260007068">
         <mark key="'" line="67" column="0" />
@@ -845,8 +845,8 @@
       <jump line="56" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>remove</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>remove</text>
@@ -858,31 +858,31 @@
         <text encoding="base64">dXNlcl9sb2dnZWRfb3V0LmNvbm5lY3QocmVtb3ZlX2RldmljZV9pZCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVmIHJlbW92ZV90b2tlbigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZGVmIHJlbW92ZV90b2tlbigpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLnNpZ25hbHMgaW1wb3J0IHVzZXJfbG9nZ2VkX2luCg==</text>
+        <text encoding="base64">ZGVmIHJlbW92ZV90b2tlbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgYXV0aGVudGljYXRpb24sIHBlcm1pc3Npb25zCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29udHJpYi5hdXRoLnNpZ25hbHMgaW1wb3J0IHVzZXJfbG9nZ2VkX2luCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgYXV0aGVudGljYXRpb24sIHBlcm1pc3Npb25zCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
