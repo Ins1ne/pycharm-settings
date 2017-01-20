@@ -275,7 +275,8 @@
         <mark key="." line="134" column="16" />
         <mark key="^" line="134" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484898517338">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1484911357100">
+        <mark key="'" line="52" column="4" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -743,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="93" column="59" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="20" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="55" column="34" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
@@ -836,13 +836,14 @@
       <jump line="77" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alwafd.py" />
       <jump line="72" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alwafd.py" />
       <jump line="75" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alwafd.py" />
-      <jump line="6" column="43" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="111" column="8" filename="$USER_HOME$/vagrant/neag/env/lib/python3.4/site-packages/rest_auth/views.py" />
       <jump line="54" column="5" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="59" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="62" column="19" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="6" column="54" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="56" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="52" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
