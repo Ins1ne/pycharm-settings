@@ -351,12 +351,11 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="32" column="41" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1484934152576">
-        <mark key="'" line="279" column="4" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="13" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1485182362633">
+        <mark key="'" line="280" column="4" />
+        <mark key="[" line="197" column="0" />
+        <mark key="]" line="197" column="0" />
+        <mark key="." line="197" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1484257374821">
         <mark key="'" line="0" column="0" />
@@ -750,8 +749,8 @@
       <jump line="3" column="28" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>me</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">UkVTVF9TRVNTSU9OX0xPR0lOID0gRmFsc2UK</text>
       </register>
       <register name="-" type="4">
         <text>me</text>
@@ -763,31 +762,31 @@
         <text>datetime.now(pytz.UTC)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQK</text>
+        <text encoding="base64">UkVTVF9TRVNTSU9OX0xPR0lOID0gRmFsc2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAogICAgICAgIHBwcmludChwcmludChuZXdzLmNvdW50KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgICAgICAgICAgcHByaW50KHByaW50KG5ld3MucXVlcnkpKQo=</text>
+        <text encoding="base64">CiAgICAgICAgZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAogICAgICAgIHBwcmludChwcmludChuZXdzLmNvdW50KCkpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGZyb20gcHByaW50IGltcG9ydCBwcHJpbnQKICAgICAgICAgICAgcHByaW50KHByaW50KG5ld3MucXVlcnkpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IHJlcXVlc3QudXNlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IHJlcXVlc3QudXNlcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXBkYXRlX3RpbWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
