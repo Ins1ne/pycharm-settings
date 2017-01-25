@@ -82,11 +82,11 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="59" column="13" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485270430503">
-        <mark key="[" line="12" column="115" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485330633067">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1484151818519">
         <mark key="'" line="10" column="43" />
@@ -768,7 +768,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkX29ubHlfZmllbGRzID0gKCd1c2VybmFtZScsKQo=</text>
       </register>
       <register name="-" type="4">
         <text>last_login</text>
@@ -780,32 +780,32 @@
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkX29ubHlfZmllbGRzID0gKCd1c2VybmFtZScsKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuY29udGV4dFsncmVxdWVzdCddLmJ1aWxkX2Fic29sdXRlX3VyaSgKICAgICAgICAgICAgICAgICd7fXt9Jy5mb3JtYXQoc2V0dGluZ3MuTUVESUFfVVJMLCBpbWFnZS51cmwpKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuY29udGV4dFsncmVxdWVzdCddLmJ1aWxkX2Fic29sdXRlX3VyaSgKICAgICAgICAgICAgICAgICd7fXt9Jy5mb3JtYXQoc2V0dGluZ3MuTUVESUFfVVJMLCBpbWFnZS51cmwpKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VfdXJsCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>self.context['request'].build_absolute_uri(
             '{}{}'.format(settings.MEDIA_URL, results['url']))</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZWYgZ2V0X2Fic29sdXRlX3VybChzZWxmKToKICAgICAgICByZXR1cm4gcmV2ZXJzZSgnbmV3czpuZXdzX2RldGFpbHMnLCBrd2FyZ3M9eydwayc6IHNlbGYucGt9KQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2hhcmVfdXJsKHNlbGYsIG9iaik6CiAgICAgICAgIyByZXR1cm4gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10uYnVpbGRfYWJzb2x1dGVfdXJpKHJldmVyc2UoJ3NoYWJyZScsIGFyZ3M9WydhYWEnXSkpCiAgICAgICAgcmV0dXJuICcnCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLmdldF9hYnNvbHV0ZV91cmwoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2hhcmVfdXJsKHNlbGYsIG9iaik6CiAgICAgICAgIyByZXR1cm4gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10uYnVpbGRfYWJzb2x1dGVfdXJpKHJldmVyc2UoJ3NoYWJyZScsIGFyZ3M9WydhYWEnXSkpCiAgICAgICAgcmV0dXJuICcnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
