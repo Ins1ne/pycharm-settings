@@ -526,12 +526,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485281057632">
-        <mark key="'" line="161" column="43" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="99" column="21" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485289101383">
+        <mark key="'" line="171" column="43" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="78" column="18" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1484313974200">
         <mark key="'" line="46" column="0" />
@@ -767,43 +767,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuY29udGV4dFsncmVxdWVzdCddLmJ1aWxkX2Fic29sdXRlX3VyaSgKICAgICAgICAgICAgICAgICd7fXt9Jy5mb3JtYXQoc2V0dGluZ3MuTUVESUFfVVJMLCBpbWFnZS51cmwpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>self.context['request'].build_absolute_uri(reverse('shabre', args=['aaa']))</text>
+        <text>image_url =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidWlsZF9hYnNvbHV0ZV91cmlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X3NoYXJlX3VybChzZWxmLCBvYmopOgogICAgICAgIHJldHVybiAne30/dXJsPXt9Jy5mb3JtYXQoCiAgICAgICAgICAgIHNlbGYuY29udGV4dFsncmVxdWVzdCddLmJ1aWxkX2Fic29sdXRlX3VyaShyZXZlcnNlKCdzaGFyZScpKSwKICAgICAgICAgICAgb2JqLnNvdXJjZQogICAgICAgICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaW1hZ2UudXJsLnN0YXJ0c3dpdGgoJ2h0dHAnKToKICAgICAgICAgICAgICAgIHJldHVybiBpbWFnZS51cmwKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHJldHVybiBzZWxmLmNvbnRleHRbJ3JlcXVlc3QnXS5idWlsZF9hYnNvbHV0ZV91cmkoCiAgICAgICAgICAgICAgICAgICAgJ3t9e30nLmZvcm1hdChzZXR0aW5ncy5NRURJQV9VUkwsIGltYWdlLnVybCkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYuY29udGV4dFsncmVxdWVzdCddLmJ1aWxkX2Fic29sdXRlX3VyaSgKICAgICAgICAgICAgICAgICd7fXt9Jy5mb3JtYXQoc2V0dGluZ3MuTUVESUFfVVJMLCBpbWFnZS51cmwpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2Fic29sdXRlX3VybChzZWxmKToKICAgICAgICByZXR1cm4gcmV2ZXJzZSgnbmV3czpuZXdzX2RldGFpbHMnLCBrd2FyZ3M9eydwayc6IHNlbGYucGt9KQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW1hZ2VfdXJsCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>self.context['request'].build_absolute_uri(
+            '{}{}'.format(settings.MEDIA_URL, results['url']))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfc2hhcmVfdXJsKHNlbGYsIG9iaik6CiAgICAgICAgIyByZXR1cm4gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10uYnVpbGRfYWJzb2x1dGVfdXJpKHJldmVyc2UoJ3NoYWJyZScsIGFyZ3M9WydhYWEnXSkpCiAgICAgICAgcmV0dXJuICcnCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqLmdldF9hYnNvbHV0ZV91cmwoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2Fic29sdXRlX3VybChzZWxmKToKICAgICAgICByZXR1cm4gcmV2ZXJzZSgnbmV3czpuZXdzX2RldGFpbHMnLCBrd2FyZ3M9eydwayc6IHNlbGYucGt9KQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfc2hhcmVfdXJsKHNlbGYsIG9iaik6CiAgICAgICAgIyByZXR1cm4gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10uYnVpbGRfYWJzb2x1dGVfdXJpKHJldmVyc2UoJ3NoYWJyZScsIGFyZ3M9WydhYWEnXSkpCiAgICAgICAgcmV0dXJuICcnCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBwb3N0X3NhdmUuY29ubmVjdChjcmVhdGVfdXNlcl9wcm9maWxlLCBzZW5kZXI9VXNlcikKIyBwb3N0X3NhdmUuY29ubmVjdChzZXRfdXNlcl9waWN0dXJlLCBzZW5kZXI9U29jaWFsQWNjb3VudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqLmdldF9hYnNvbHV0ZV91cmwoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgojIEBweXRob25fMl91bmljb2RlX2NvbXBhdGlibGUKIyBjbGFzcyBQcm9maWxlKG1vZGVscy5Nb2RlbCk6CiMgICAgIHVzZXIgPSBtb2RlbHMuT25lVG9PbmVGaWVsZChVc2VyLCBvbl9kZWxldGU9bW9kZWxzLkNBU0NBREUsIHVuaXF1ZT1UcnVlKQojICAgICBwaWN0dXJlID0gbW9kZWxzLkltYWdlRmllbGQodXBsb2FkX3RvPSdwcm9maWxlJywgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQojICAgICBub3RpZmljYXRpb25zID0gbW9kZWxzLkJvb2xlYW5GaWVsZChkZWZhdWx0PVRydWUpCiMgICAgIGZlZWRzID0gbW9kZWxzLk1hbnlUb01hbnlGaWVsZChGZWVkLCBibGFuaz1UcnVlKQojICAgICBmYXZvcml0ZXMgPSBtb2RlbHMuTWFueVRvTWFueUZpZWxkKE5ld3MsIGJsYW5rPVRydWUpCiMKIyAgICAgZGVmIF9fc3RyX18oc2VsZik6CiMgICAgICAgICByZXR1cm4gc2VsZi51c2VyLnVzZXJuYW1lCiMKIyAgICAgQGNhY2hlZF9wcm9wZXJ0eQojICAgICBkZWYgZmVlZHNfbGlzdChzZWxmKToKIyAgICAgICAgIHJldHVybiBzZWxmLmZlZWRzLnZhbHVlc19saXN0KCdpZCcsIGZsYXQ9VHJ1ZSkKIwojICAgICBAY2FjaGVkX3Byb3BlcnR5CiMgICAgIGRlZiBmYXZvcml0ZXNfbGlzdChzZWxmKToKIyAgICAgICAgIHJldHVybiBzZWxmLmZhdm9yaXRlcy52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpCiMKIwojIGRlZiBjcmVhdGVfdXNlcl9wcm9maWxlKHNlbmRlciwgaW5zdGFuY2UsIGNyZWF0ZWQsICoqa3dhcmdzKToKIyAgICAgaWYgY3JlYXRlZDoKIyAgICAgICAgIFByb2ZpbGUub2JqZWN0cy5jcmVhdGUodXNlcj1pbnN0YW5jZSkKIwojCiMgZGVmIHNldF9wcm9maWxlX3BpY3R1cmUoc2VuZGVyLCBpbnN0YW5jZSwgY3JlYXRlZCwgKiprd2FyZ3MpOgojICAgICBpZiBjcmVhdGVkOgojICAgICAgICAgcHJvZmlsZSA9IFByb2ZpbGUub2JqZWN0cy5nZXQodXNlcj1pbnN0YW5jZS51c2VyKQojCiMgICAgICAgICBpZiBub3QgcHJvZmlsZS5waWN0dXJlOgojICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
