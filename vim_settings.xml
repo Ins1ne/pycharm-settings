@@ -82,11 +82,11 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="59" column="13" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485345307674">
-        <mark key="[" line="65" column="13" />
-        <mark key="]" line="65" column="53" />
-        <mark key="." line="65" column="53" />
-        <mark key="^" line="65" column="53" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485347011469">
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="23" column="57" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1484151818519">
         <mark key="'" line="10" column="43" />
@@ -528,10 +528,10 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485339482421">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485346969959">
         <mark key="'" line="171" column="43" />
-        <mark key="[" line="28" column="40" />
-        <mark key="]" line="28" column="47" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="55" />
         <mark key="^" line="28" column="47" />
         <mark key="." line="28" column="47" />
       </file>
@@ -769,8 +769,8 @@
       <jump line="48" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>()</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="-" type="4">
         <text>()</text>
@@ -779,7 +779,7 @@
         <text encoding="base64">XDxjdXN0b21fc2lnbnVwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLmZlZWRzID0gc2VsZi52YWxpZGF0ZWRfZGF0YS5nZXQoJ2ZlZWRzJywgJycpCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBkZWYgY3VzdG9tX3NpZ251cChzZWxmLCByZXF1ZXN0LCB1c2VyKToKICAgICAgICBwYXNzCg==</text>
