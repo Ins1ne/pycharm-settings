@@ -260,11 +260,12 @@
         <mark key="." line="134" column="16" />
         <mark key="^" line="134" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1485349648676">
-        <mark key="'" line="58" column="45" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1485364265489">
+        <mark key="'" line="148" column="8" />
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1484152011207">
         <mark key="'" line="37" column="38" />
@@ -273,12 +274,12 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1485345407341">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="126" column="52" />
-        <mark key="]" line="126" column="51" />
-        <mark key="." line="126" column="51" />
-        <mark key="^" line="126" column="51" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1485364455029">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="52" column="18" />
+        <mark key="]" line="52" column="22" />
+        <mark key="." line="52" column="22" />
+        <mark key="^" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1484659631188">
         <mark key="'" line="0" column="0" />
@@ -527,12 +528,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485346969959">
-        <mark key="'" line="171" column="43" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="55" />
-        <mark key="^" line="28" column="47" />
-        <mark key="." line="28" column="47" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1485364812193">
+        <mark key="'" line="174" column="8" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="24" column="34" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1484313974200">
         <mark key="'" line="46" column="0" />
@@ -643,12 +644,12 @@
         <mark key="." line="100" column="75" />
         <mark key="^" line="100" column="75" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1485347826224">
-        <mark key="'" line="33" column="34" />
-        <mark key="[" line="7" column="45" />
-        <mark key="]" line="7" column="45" />
-        <mark key="." line="7" column="45" />
-        <mark key="^" line="7" column="52" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1485364123007">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="2" column="39" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1484759320691">
         <mark key="'" line="1" column="56" />
@@ -666,16 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="110" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="24" column="7" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="21" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="143" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="7" column="67" filename="$USER_HOME$/vagrant/neag/neag/news/urls.py" />
-      <jump line="125" column="15" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="129" column="6" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="112" column="44" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="137" column="21" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="132" column="12" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="18" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
@@ -766,55 +757,65 @@
       <jump line="48" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="33" column="34" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
       <jump line="57" column="45" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="105" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="34" column="50" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
+      <jump line="12" column="20" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
+      <jump line="37" column="32" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="30" column="65" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="28" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="148" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="174" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJlcXVlc3QucXVlcnlfcGFyYW1zKQo=</text>
+      <register name="&quot;" type="4">
+        <text>isplay_type</text>
       </register>
       <register name="-" type="4">
-        <text>, 'color'</text>
+        <text>isplay_type</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXN0b21fc2lnbnVwXD4=</text>
+        <text encoding="base64">XDxjb3VudHJpZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
+        <text encoding="base64">CiAgICBjbGFzcyBNZXRhOgogICAgICAgIHZlcmJvc2VfbmFtZSA9IF8oJ0NvdW50cmllcycpCiAgICAgICAgdmVyYm9zZV9uYW1lX3BsdXJhbCA9IF8oJ0NvdW50cmllcycpCgogICAgZGVmIF9fc3RyX18oc2VsZik6CiAgICAgICAgcmV0dXJuIHNlbGYudGl0bGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJlcXVlc3QucXVlcnlfcGFyYW1zKQo=</text>
+        <text encoding="base64">CgojIEBweXRob25fMl91bmljb2RlX2NvbXBhdGlibGUKIyBjbGFzcyBDb3VudHJ5KG1vZGVscy5Nb2RlbCk6CiMgICAgIHRpdGxlID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NikKIyAgICAgaW1hZ2UgPSBtb2RlbHMuSW1hZ2VGaWVsZChudWxsPVRydWUsIGJsYW5rPVRydWUpCiMKIyAgICAgY2xhc3MgTWV0YToKIyAgICAgICAgIHZlcmJvc2VfbmFtZSA9IF8oJ0NvdW50cmllcycpCiMgICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnQ291bnRyaWVzJykKIwojICAgICBkZWYgX19zdHJfXyhzZWxmKToKIyAgICAgICAgIHJldHVybiBzZWxmLnRpdGxlCiMKIwojIEBweXRob25fMl91bmljb2RlX2NvbXBhdGlibGUKIyBjbGFzcyBDYXRlZ29yeShtb2RlbHMuTW9kZWwpOgojICAgICB0aXRsZSA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTYpCiMgICAgIGltYWdlID0gbW9kZWxzLkltYWdlRmllbGQobnVsbD1UcnVlLCBibGFuaz1UcnVlKQojICAgICBjb2xvciA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0zMCwgYmxhbms9VHJ1ZSkKIwojICAgICBjbGFzcyBNZXRhOgojICAgICAgICAgdmVyYm9zZV9uYW1lID0gXygnQ2F0ZWdvcmllcycpCiMgICAgICAgICB2ZXJib3NlX25hbWVfcGx1cmFsID0gXygnQ2F0ZWdvcmllcycpCiMKIyAgICAgZGVmIF9fc3RyX18oc2VsZik6CiMgICAgICAgICByZXR1cm4gc2VsZi50aXRsZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgZ2V0KHNlbGYsIHJlcXVlc3QsIGZvcm1hdD1Ob25lKToKICAgICAgICBjb3VudHJpZXMgPSBDb3VudHJ5U2VyaWFsaXplcihDb3VudHJ5Lm9iamVjdHMuYWxsKCksIG1hbnk9VHJ1ZSwgY29udGV4dD17J3JlcXVlc3QnOiByZXF1ZXN0fSkKICAgICAgICBjYXRlZ29yaWVzID0gQ2F0ZWdvcnlTZXJpYWxpemVyKENhdGVnb3J5Lm9iamVjdHMuYWxsKCksIG1hbnk9VHJ1ZSwgY29udGV4dD17J3JlcXVlc3QnOiByZXF1ZXN0fSkKICAgICAgICByZXR1cm4gUmVzcG9uc2UoeydjYXRlZ29yeSc6IGNhdGVnb3JpZXMuZGF0YSwgJ2NvdW50cnknOiBjb3VudHJpZXMuZGF0YX0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5yZXF1ZXN0LnVzZXIuZmVlZHNfbGlzdCkK</text>
+        <text encoding="base64">CgpAYWRtaW4ucmVnaXN0ZXIoQ291bnRyeSkKY2xhc3MgQ291bnRyeUFkbWluKGFkbWluLk1vZGVsQWRtaW4pOgogICAgcGFzcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjICdyZXN0X2ZyYW1ld29yay5hdXRoZW50aWNhdGlvbi5TZXNzaW9uQXV0aGVudGljYXRpb24nLAo=</text>
+        <text encoding="base64">ICAgIGNvdW50cmllcyA9IENvdW50cnlTZXJpYWxpemVyKG1hbnk9VHJ1ZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZWYgY3VzdG9tX3NpZ251cChzZWxmLCByZXF1ZXN0LCB1c2VyKToKICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">CgpjbGFzcyBDYXRlZ29yeVNlcmlhbGl6ZXIoc2VyaWFsaXplcnMuTW9kZWxTZXJpYWxpemVyKToKICAgIGltYWdlID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkKCiAgICBjbGFzcyBNZXRhOgogICAgICAgIG1vZGVsID0gQ2F0ZWdvcnkKICAgICAgICBmaWVsZHMgPSAoJ2lkJywgJ3RpdGxlJywgJ2ltYWdlJywgJ2NvbG9yJykKCiAgICBkZWYgZ2V0X2ltYWdlKHNlbGYsIG9iaik6CiAgICAgICAgaWYgb2JqLmltYWdlOgogICAgICAgICAgICByZXR1cm4gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10uYnVpbGRfYWJzb2x1dGVfdXJpKAogICAgICAgICAgICAgICAgJ3t9e30nLmZvcm1hdChzZXR0aW5ncy5NRURJQV9VUkwsIG9iai5pbWFnZSkpCiAgICAgICAgcmV0dXJuICcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiAgICAgICAgc2VsZi5jdXN0b21fc2lnbnVwKHJlcXVlc3QsIHVzZXIpCg==</text>
+        <text encoding="base64">ICAgIGNvdW50cmllcyA9IG1vZGVscy5NYW55VG9NYW55RmllbGQoQ291bnRyeSwgYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMKICAgICMgZGVmIHZhbGlkYXRlKHNlbGYsIGRhdGEpOgogICAgIyAgICAgaWYgZGF0YVsncGFzc3dvcmQxJ10gIT0gZGF0YVsncGFzc3dvcmQyJ106CiAgICAjICAgICAgICAgcmFpc2Ugc2VyaWFsaXplcnMuVmFsaWRhdGlvbkVycm9yKF8oIlRoZSB0d28gcGFzc3dvcmQgZmllbGRzIGRpZG4ndCBtYXRjaC4iKSkKICAgICMgICAgIHJldHVybiBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLnJlcXVlc3QucXVlcnlfcGFyYW1zKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VsZi5yZXF1ZXN0LnVzZXIuZmVlZHNfbGlzdCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXN0b21fc2lnbnVwXD4=</last-search>
+      <last-search encoding="base64">XDxjb3VudHJpZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXN0b21fc2lnbnVwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHJpZXNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -822,7 +823,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDb21tZW50U2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxwb3N0X3NhdmVcPg==</entry>
         <entry encoding="base64">XDxwb3N0XD4=</entry>
         <entry encoding="base64">XDxDb21tZW50c0xpc3RcPg==</entry>
@@ -842,6 +842,7 @@
         <entry encoding="base64">XDxnZXRfdXNlcm5hbWVfbWF4X2xlbmd0aFw+</entry>
         <entry encoding="base64">XDxzZXR1cF91c2VyX2VtYWlsXD4=</entry>
         <entry encoding="base64">XDxjdXN0b21fc2lnbnVwXD4=</entry>
+        <entry encoding="base64">XDxjb3VudHJpZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
