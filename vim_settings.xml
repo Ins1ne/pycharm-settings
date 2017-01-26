@@ -507,12 +507,12 @@
         <mark key="^" line="331" column="14" />
         <mark key="." line="331" column="14" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1485419711322">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1485431495494">
         <mark key="'" line="185" column="8" />
-        <mark key="[" line="34" column="35" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="35" />
-        <mark key="^" line="34" column="35" />
+        <mark key="[" line="182" column="33" />
+        <mark key="]" line="182" column="37" />
+        <mark key="." line="182" column="37" />
+        <mark key="^" line="182" column="37" />
       </file>
       <file name="$USER_HOME$/vagrant/mrplanner/mrplanner/bot/admin.py" timestamp="1479191145675">
         <mark key="'" line="161" column="4" />
@@ -775,11 +775,11 @@
       <jump line="36" column="34" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+      <register name="&quot;" type="4">
+        <text>username</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>username</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQYXNzd29yZFJlc2V0Vmlld1w+</text>
