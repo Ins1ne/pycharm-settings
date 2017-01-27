@@ -82,13 +82,13 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="59" column="13" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485505809321">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1485519442562">
         <mark key="a" line="82" column="33" />
         <mark key="'" line="116" column="16" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="17" column="45" />
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="39" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1484151818519">
         <mark key="'" line="10" column="43" />
@@ -792,11 +792,11 @@
       <jump line="153" column="86" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2NyZWF0ZWQoc2VsZiwgb2JqKToKICAgICAgICByZXR1cm4gb2JqLmNyZWF0ZWQucmVwbGFjZShtaWNyb3NlY29uZD0wKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J2VtYWlsJywg</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">J2VtYWlsJywg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVc2VyU2VyaWFsaXplclw+</text>
