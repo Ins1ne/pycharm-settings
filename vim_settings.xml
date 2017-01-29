@@ -316,12 +316,12 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/templates/base.html" timestamp="1484942212210">
+      <file name="$USER_HOME$/vagrant/neag/neag/templates/base.html" timestamp="1485723083486">
         <mark key="'" line="31" column="15" />
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="28" column="48" />
-        <mark key="." line="28" column="48" />
-        <mark key="^" line="28" column="48" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="34" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/templates/password_reset_email.html" timestamp="1485504253644">
         <mark key="'" line="0" column="0" />
@@ -791,10 +791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc0F1dGhlbnRpY2F0ZWQsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>'http://x.com/x.html'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZXNwb25zZVw+</text>
@@ -803,31 +803,31 @@
         <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc0F1dGhlbnRpY2F0ZWQsICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIG5vZmlsdGVyICV9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVlc3QudXNlci5zYXZlKCkK</text>
+        <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIHJlcXVlc3QudXNlci5zYXZlKCkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdzID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
