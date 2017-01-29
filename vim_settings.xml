@@ -247,12 +247,12 @@
         <mark key="^" line="91" column="41" />
         <mark key="." line="91" column="41" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1485702405653">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1485711604079">
         <mark key="'" line="14" column="53" />
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="14" column="53" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="53" />
+        <mark key="[" line="69" column="68" />
+        <mark key="]" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+        <mark key="^" line="69" column="80" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1484659507250">
         <mark key="'" line="0" column="0" />
@@ -791,10 +791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, Favorite</text>
+        <text encoding="base64">J25ld3MnLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>, Favorite</text>
+        <text encoding="base64">J25ld3MnLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRfcXVlcnlzZXRcPg==</text>
