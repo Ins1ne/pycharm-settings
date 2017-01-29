@@ -247,10 +247,10 @@
         <mark key="^" line="91" column="41" />
         <mark key="." line="91" column="41" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1485719691818">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1485721933080">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="83" column="30" />
-        <mark key="]" line="84" column="39" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="44" />
         <mark key="." line="84" column="39" />
         <mark key="^" line="84" column="39" />
       </file>
@@ -791,7 +791,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc0F1dGhlbnRpY2F0ZWQsICkK</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -800,7 +800,7 @@
         <text encoding="base64">XDxSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gVXNlckRldGFpbHNTZXJpYWxpemVyKHJlcXVlc3QudXNlcikKICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc2VyaWFsaXplci5kYXRhKQo=</text>
+        <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc0F1dGhlbnRpY2F0ZWQsICkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
