@@ -261,11 +261,12 @@
         <mark key="." line="71" column="23" />
         <mark key="^" line="74" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485779898037">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485781474540">
         <mark key="'" line="123" column="19" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+        <mark key="[" line="134" column="61" />
+        <mark key="]" line="135" column="23" />
+        <mark key="." line="135" column="23" />
+        <mark key="^" line="135" column="23" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1485766427217">
         <mark key="'" line="0" column="0" />
