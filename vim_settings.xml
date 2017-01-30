@@ -316,12 +316,10 @@
         <mark key="." line="54" column="22" />
         <mark key="^" line="59" column="65" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/templates/base.html" timestamp="1485723083486">
-        <mark key="'" line="31" column="15" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="34" column="55" />
+      <file name="$USER_HOME$/vagrant/neag/neag/templates/base.html" timestamp="1485724680731">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/templates/password_reset_email.html" timestamp="1485504253644">
         <mark key="'" line="0" column="0" />
@@ -688,7 +686,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="38" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="76" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="92" column="31" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="81" column="6" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
@@ -788,55 +785,56 @@
       <jump line="83" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="82" column="14" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="19" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="34" column="28" filename="$USER_HOME$/vagrant/neag/neag/templates/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICAgICAgICAgICAgICAkKGRvY3VtZW50KS5yZWFkeSggZnVuY3Rpb24oKSB7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnLnJlbW90ZV9jb250ZW50JykubG9hZCgne3sgcmVxdWVzdC5HRVQudXJsIH19Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVtb3RlX2NvbnRlbnQiPjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>'http://x.com/x.html'</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChmdW5jdGlvbigpIHs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxSZXNwb25zZVw+</text>
+        <text encoding="base64">XDxyZW1vdGVfY29udGVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IChJc0F1dGhlbnRpY2F0ZWQsICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2NyaXB0PgogICAgICAgICAgICAgICAgICAgICAgICAkKGRvY3VtZW50KS5yZWFkeSggZnVuY3Rpb24oKSB7CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnLnJlbW90ZV9jb250ZW50JykubG9hZCgne3sgcmVxdWVzdC5HRVQudXJsIH19Jyk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgIDwvc2NyaXB0PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icmVtb3RlX2NvbnRlbnQiPjwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIG5vZmlsdGVyICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHN0cj0iaHR0cHM6Ly9jb2RlLmpxdWVyeS5jb20vanF1ZXJ5LTIuMi40Lm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkucmVhZHkoIGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb2N1bWVudC4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZCAlfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJlcXVlc3QudXNlci5zYXZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIG5vZmlsdGVyICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdzID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5yZXNwb25zZSBpbXBvcnQgUmVzcG9uc2UK</text>
+        <text encoding="base64">ZnJvbSBuZWFnLm5ld3MubW9kZWxzIGltcG9ydCBOZXdzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxSZXNwb25zZVw+</last-search>
+      <last-search encoding="base64">XDxyZW1vdGVfY29udGVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxSZXNwb25zZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1vdGVfY29udGVudFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -844,7 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQYXNzd29yZFJlc2V0U2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxnZXRfZW1haWxfb3B0aW9uc1w+</entry>
         <entry encoding="base64">XDx1c2VfaHR0cHNcPg==</entry>
         <entry encoding="base64">XDxleHRyYV9lbWFpbF9jb250ZXh0XD4=</entry>
@@ -864,6 +861,7 @@
         <entry>user_name</entry>
         <entry encoding="base64">XDxnZXRfcXVlcnlzZXRcPg==</entry>
         <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
+        <entry encoding="base64">XDxyZW1vdGVfY29udGVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
