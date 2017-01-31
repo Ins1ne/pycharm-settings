@@ -258,12 +258,12 @@
         <mark key="." line="71" column="23" />
         <mark key="^" line="74" column="40" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485854071187">
-        <mark key="'" line="13" column="4" />
-        <mark key="[" line="141" column="16" />
-        <mark key="]" line="141" column="15" />
-        <mark key="." line="141" column="15" />
-        <mark key="^" line="141" column="15" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485858729300">
+        <mark key="'" line="116" column="31" />
+        <mark key="[" line="23" column="75" />
+        <mark key="]" line="23" column="75" />
+        <mark key="." line="23" column="75" />
+        <mark key="^" line="23" column="75" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1485856484897">
         <mark key="'" line="0" column="0" />
@@ -517,11 +517,12 @@
         <mark key="." line="6" column="32" />
         <mark key="^" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1485852489182">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="21" />
-        <mark key="^" line="1" column="21" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1485858652024">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/vagrant/crm/pepro/twilio/models.py" timestamp="1477397956547">
         <mark key="'" line="690" column="10" />
@@ -696,11 +697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="6" filename="$USER_HOME$/vagrant/neag/neag/templates/password_reset_email.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/templates/password_reset_email.html" />
-      <jump line="131" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="12" column="112" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="17" column="51" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="147" column="11" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="6" column="39" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="152" column="21" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
@@ -796,19 +792,24 @@
       <jump line="76" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="73" column="32" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="69" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="21" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="117" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="1" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" />
+      <jump line="116" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="115" column="31" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tree_id', '</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>tree_id', '</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVkXD4=</text>
+        <text encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmluZyA9IFsndHJlZV9pZCcsICdjcmVhdGVkJ10K</text>
+        <text encoding="base64">ICAgIEFXU19BQ0NFU1NfS0VZX0lEPWRpY3QoY2FzdD1zdHIsIGRlZmF1bHQ9JycpLAogICAgQVdTX1NFQ1JFVF9BQ0NFU1NfS0VZPWRpY3QoY2FzdD1zdHIsIGRlZmF1bHQ9JycpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -842,9 +843,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVkXD4=</last-search>
+      <last-search encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -852,7 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMb2dpblNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxQYXNzd29yZFJlc2V0Vmlld1w+</entry>
         <entry encoding="base64">XDxmcm9tX2VtYWlsXD4=</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -872,6 +872,7 @@
         <entry encoding="base64">XDxSRVRSWV9USU1FU1w+</entry>
         <entry>order</entry>
         <entry encoding="base64">XDxjcmVhdGVkXD4=</entry>
+        <entry encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
