@@ -444,12 +444,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485896377214">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485898813266">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="19" column="16" />
-        <mark key="]" line="19" column="34" />
+        <mark key="]" line="19" column="16" />
         <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
+        <mark key="." line="19" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
         <mark key="'" line="112" column="42" />
@@ -598,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r ~/news-aggregator-parser/requirements.txt</text>
+        <text encoding="base64">IC0tbm8tc2l0ZS1wYWNrYWdlcw==</text>
       </register>
       <register name="-" type="4">
-        <text>r ~/news-aggregator-parser/requirements.txt</text>
+        <text encoding="base64">IC0tbm8tc2l0ZS1wYWNrYWdlcw==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
