@@ -406,11 +406,11 @@
         <mark key="." line="1" column="20" />
         <mark key="^" line="1" column="20" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485943620414">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="1" column="4" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485947461241">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
         <mark key="'" line="55" column="27" />
@@ -504,8 +504,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="33" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="88" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="69" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" />
       <jump line="67" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
@@ -604,13 +602,15 @@
       <jump line="32" column="29" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="2" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
+      <jump line="7" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lambda_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lambda_</text>
+        <text>MySpider</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
@@ -619,43 +619,31 @@
         <text>~/env/lib/python2.7/site-packages</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
+        <text encoding="base64">cHJvY2VzcyA9IENyYXdsZXJQcm9jZXNzKHsKICAgICdVU0VSX0FHRU5UJzogJ01vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDcuMDsgV2luZG93cyBOVCA1LjEpJwp9KQoKcHJvY2Vzcy5jcmF3bChvcy4pCnByb2Nlc3Muc3RhcnQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjcmFweQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgdXBkYXRlIHByb2plY3QKY2QgJFBST0pFQ1QgJiYgZ2l0IHB1bGwgb3JpZ2luIG1hc3Rlcgo=</text>
+        <text encoding="base64">CmNsYXNzIE15U3BpZGVyKHNjcmFweS5TcGlkZXIpOgogICAgIyBZb3VyIHNwaWRlciBkZWZpbml0aW9uCiAgICAuLi4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZG8KICBpZiBbIC1kICRkaXIgXSA7IHRoZW4KICAgIHB1c2hkICRkaXI7IHppcCAtciB+L2RlcHMuemlwIC47IHBvcGQKICBmaQpkb25lCm1rZGlyIC1wIGxvY2FsL2xpYgpjcCAvdXNyL2xpYjY0L2xpYmxhcGFjay5zby4zIFwKICAgL3Vzci9saWI2NC9saWJibGFzLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYmdmb3J0cmFuLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYnF1YWRtYXRoLnNvLjAgXAogICBsb2NhbC9saWIvCnppcCAtciB+L2RlcHMuemlwIGxvY2FsL2xpYgo=</text>
+        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>for dir in lib64/python2.7/site-packages \
-             lib/python2.7/site-packages
-do
-  if [ -d $dir ] ; then
-    pushd $dir; zip -r ~/deps.zip .; popd
-  fi
-done
-mkdir -p local/lib
-cp /usr/lib64/liblapack.so.3 \
-   /usr/lib64/libblas.so.3 \
-   /usr/lib64/libgfortran.so.3 \
-   /usr/lib64/libquadmath.so.0 \
-   local/lib/</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cGlwIGluc3RhbGwgc2NpcHkKcGlwIGluc3RhbGwgcGFuZGFzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
