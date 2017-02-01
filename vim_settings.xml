@@ -403,12 +403,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485963082818">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485963705670">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="34" column="15" />
-        <mark key="^" line="34" column="15" />
-        <mark key="." line="34" column="15" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485960382242">
         <mark key="'" line="88" column="39" />
@@ -606,7 +605,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
       </register>
       <register name="-" type="4">
         <text>spider</text>
@@ -618,33 +617,33 @@
         <text>~/env/lib/python2.7/site-packages</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>{
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
     }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
