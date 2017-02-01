@@ -403,7 +403,7 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485967392421">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485970934407">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="26" />
         <mark key="]" line="44" column="31" />
@@ -503,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="1" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="115" column="77" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" />
       <jump line="51" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" />
@@ -602,6 +601,7 @@
       <jump line="4" column="12" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="38" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="46" column="4" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
     </jumps>
     <registers>
