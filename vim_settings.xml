@@ -403,12 +403,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485941646386">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485963082818">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="29" />
-        <mark key="^" line="32" column="29" />
-        <mark key="." line="32" column="29" />
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="34" column="15" />
+        <mark key="^" line="34" column="15" />
+        <mark key="." line="34" column="15" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485960382242">
         <mark key="'" line="88" column="39" />
@@ -503,14 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
-      <jump line="69" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" />
-      <jump line="67" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
-      <jump line="69" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mol.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
-      <jump line="60" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" />
-      <jump line="55" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" />
       <jump line="1" column="1" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="115" column="77" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" />
@@ -592,17 +584,25 @@
       <jump line="67" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
       <jump line="92" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" />
-      <jump line="29" column="45" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="11" column="22" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="20" column="27" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="19" column="34" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="22" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="32" column="29" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
-      <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="2" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
       <jump line="7" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
+      <jump line="57" column="40" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="53" column="40" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="49" column="38" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="45" column="38" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="30" column="9" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="29" column="10" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="62" column="12" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="4" column="12" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="61" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="38" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -612,7 +612,7 @@
         <text>spider</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmxqb2luXD4=</text>
+        <text encoding="base64">XDxkZXBzXD4=</text>
       </register>
       <register name="0" type="4">
         <text>~/env/lib/python2.7/site-packages</text>
@@ -651,9 +651,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmxqb2luXD4=</last-search>
+      <last-search encoding="base64">XDxkZXBzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmxqb2luXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXBzXD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -661,7 +661,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRfcXVlcnlzZXRcPg==</entry>
         <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxyZW1vdGVfY29udGVudFw+</entry>
         <entry encoding="base64">XDxGZWVkU2VyaWFsaXplclw+</entry>
@@ -681,6 +680,7 @@
         <entry>br</entry>
         <entry encoding="base64">XDx0aW1lZGVsdGFcPg==</entry>
         <entry encoding="base64">XDx1cmxqb2luXD4=</entry>
+        <entry encoding="base64">XDxkZXBzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
