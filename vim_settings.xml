@@ -403,11 +403,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485963705670">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485967392421">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="." line="17" column="0" />
+        <mark key="[" line="44" column="26" />
+        <mark key="]" line="44" column="31" />
+        <mark key="." line="44" column="31" />
+        <mark key="^" line="44" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485960382242">
         <mark key="'" line="88" column="39" />
@@ -604,17 +605,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
+      <register name="&quot;" type="4">
+        <text>zope</text>
       </register>
       <register name="-" type="4">
-        <text>spider</text>
+        <text>zope</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZXBzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>~/env/lib/python2.7/site-packages</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyBjcmVhdGUgX19pbml0X18gdG8gbWFrZSB6b3BlIGRpciBhcyBtb2R1bGUgdG8gZml4IGltcG9ydHMK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
