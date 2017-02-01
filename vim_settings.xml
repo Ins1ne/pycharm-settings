@@ -323,11 +323,10 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485956694278">
-        <mark key="[" line="7" column="29" />
-        <mark key="]" line="7" column="50" />
-        <mark key="." line="7" column="50" />
-        <mark key="^" line="7" column="50" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485960608357">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
         <mark key="'" line="55" column="27" />
@@ -411,12 +410,12 @@
         <mark key="^" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485862346955">
-        <mark key="'" line="87" column="39" />
-        <mark key="[" line="23" column="73" />
-        <mark key="]" line="23" column="73" />
-        <mark key="." line="23" column="73" />
-        <mark key="^" line="23" column="73" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485960382242">
+        <mark key="'" line="88" column="39" />
+        <mark key="[" line="129" column="1" />
+        <mark key="]" line="130" column="25" />
+        <mark key="." line="130" column="25" />
+        <mark key="^" line="130" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
         <mark key="'" line="112" column="42" />
@@ -606,13 +605,11 @@
       <jump line="7" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>os.environ.get('spider')</text>
+        <text>spider</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
@@ -620,34 +617,34 @@
       <register name="0" type="4">
         <text>~/env/lib/python2.7/site-packages</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+      </register>
+      <register name="2" type="4">
         <text>{
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
     }</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJvY2VzcyA9IENyYXdsZXJQcm9jZXNzKHsKICAgICdVU0VSX0FHRU5UJzogJ01vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDcuMDsgV2luZG93cyBOVCA1LjEpJwp9KQoKcHJvY2Vzcy5jcmF3bChvcy4pCnByb2Nlc3Muc3RhcnQoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
