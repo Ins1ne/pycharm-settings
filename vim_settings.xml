@@ -444,12 +444,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485938036149">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485940831934">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="30" column="65" />
-        <mark key="]" line="31" column="1" />
-        <mark key="^" line="31" column="1" />
-        <mark key="." line="31" column="1" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
         <mark key="'" line="112" column="42" />
@@ -495,9 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
-      <jump line="79" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
-      <jump line="73" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="27" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="33" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="88" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -594,40 +591,46 @@
       <jump line="20" column="27" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="19" column="34" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="22" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="32" column="29" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="53" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>~/env/lib64/python2.7/dist-packages</text>
+        <text>~/env/lib64/python2.7/site-packages</text>
       </register>
       <register name="-" type="4">
-        <text>site</text>
+        <text>~/env/lib64/python2.7/site-packages</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>~/env/lib64/python2.7/dist-packages</text>
+        <text>~/env/lib/python2.7/site-packages</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
+        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiMgdXBkYXRlIHByb2plY3QKY2QgJFBST0pFQ1QgJiYgZ2l0IHB1bGwgb3JpZ2luIG1hc3Rlcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiMgdXBkYXRlIHByb2plY3QKY2QgJFBST0pFQ1QgJiYgZ2l0IHB1bGwgb3JpZ2luIG1hc3Rlcgo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ZG8KICBpZiBbIC1kICRkaXIgXSA7IHRoZW4KICAgIHB1c2hkICRkaXI7IHppcCAtciB+L2RlcHMuemlwIC47IHBvcGQKICBmaQpkb25lCm1rZGlyIC1wIGxvY2FsL2xpYgpjcCAvdXNyL2xpYjY0L2xpYmxhcGFjay5zby4zIFwKICAgL3Vzci9saWI2NC9saWJibGFzLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYmdmb3J0cmFuLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYnF1YWRtYXRoLnNvLjAgXAogICBsb2NhbC9saWIvCnppcCAtciB+L2RlcHMuemlwIGxvY2FsL2xpYgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>for dir in lib64/python2.7/site-packages \
              lib/python2.7/site-packages
 do
@@ -642,11 +645,8 @@ cp /usr/lib64/liblapack.so.3 \
    /usr/lib64/libquadmath.so.0 \
    local/lib/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cGlwIGluc3RhbGwgc2NpcHkKcGlwIGluc3RhbGwgcGFuZGFzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">U0NSQVBZX0RPTlRfRklMVEVSPW9uCg==</text>
+        <text encoding="base64">cGlwIGluc3RhbGwgc2NpcHkKcGlwIGluc3RhbGwgcGFuZGFzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
