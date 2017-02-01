@@ -444,12 +444,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485934957874">
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485936601186">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="46" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="16" />
+        <mark key="[" line="30" column="65" />
+        <mark key="]" line="31" column="1" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="31" column="1" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
         <mark key="'" line="112" column="42" />
@@ -495,7 +495,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
       <jump line="79" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" />
       <jump line="73" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -594,37 +593,41 @@
       <jump line="11" column="22" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="20" column="27" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="19" column="34" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
+      <jump line="35" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/build-env.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoKc2V0IC1lIC1vIHBpcGVmYWlsCgojIHN5c3RlbSBkZXBlbmRlbmNpZXMKc3VkbyB5dW0gLXkgdXBncmFkZQpzdWRvIHl1bSAteSBncm91cGluc3RhbGwgIkRldmVsb3BtZW50IFRvb2xzIgpzdWRvIHl1bSAteSBpbnN0YWxsIGJsYXMgYmxhcy1kZXZlbCBsYXBhY2sgbGFwYWNrLWRldmVsIEN5dGhvbiAtLWVuYWJsZXJlcG89ZXBlbApzdWRvIHl1bSAteSBpbnN0YWxsIGdjYyBsaWJmZmktZGV2ZWwgcHl0aG9uLWRldmVsIG9wZW5zc2wtZGV2ZWwgZ2l0CgpQUk9KRUNUPX4vbmV3cy1hZ2dyZWdhdG9yLXBhcnNlcgojIGdldCBvciB1cGRhdGUgcHJvamVjdAppZiBbICEgLWQgIiRQUk9KRUNUIiBdOyB0aGVuCiAgICBnaXQgY2xvbmUgaHR0cHM6Ly9naXQuc3RlZWxraXdpLmNvbS9iYWNrLWVuZC9uZXdzLWFnZ3JlZ2F0b3ItcGFyc2VyLmdpdAplbHNlCiAgICBjZCAkUFJPSkVDVCAmJiBnaXQgcHVsbCBvcmlnaW4gbWFzdGVyCmZpCgojIHB5dGhvbiBkZXBlbmRlbmNpZXMKdmlydHVhbGVudiB+L2VudiAmJiBjZCB+L2VudiAmJiBzb3VyY2UgYmluL2FjdGl2YXRlCn4vZW52L2Jpbi9waXAgaW5zdGFsbCAtVSBwaXAKfi9lbnYvYmluL3BpcCBpbnN0YWxsIC1yIH4vbmV3cy1hZ2dyZWdhdG9yLXBhcnNlci9yZXF1aXJlbWVudHMudHh0CiMgY3JlYXRlIF9faW5pdF9fIHRvIG1ha2Ugem9wZSBkaXIgYXMgbW9kdWxlIHRvIGZpeCBpbXBvcnRzCnRvdWNoIH4vZW52L2xpYjY0L3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzL3pvcGUvX19pbml0X18ucHkKY2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgpjZCB+L2Vudi9saWIvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgpjZCB+L2Vudi9saWIvcHl0aG9uMi43L2Rpc3QtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgoKIyBhZGQgcHJvamVjdApjZCB+L25ld3MtYWdncmVnYXRvci1wYXJzZXIvbmV3c19wYXJzZXIvICYmIHppcCAtciB+L2RlcHMuemlwIC4KYXdzIHMzIGNwIH4vZGVwcy56aXAgczM6Ly9uZXdzLWFnZ3JlZ2F0b3ItZGF0YS8K</text>
+      <register name="&quot;" type="4">
+        <text>~/env/lib64/python2.7/dist-packages</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0tbm8tc2l0ZS1wYWNrYWdlcw==</text>
+        <text>site</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAoKc2V0IC1lIC1vIHBpcGVmYWlsCgojIHN5c3RlbSBkZXBlbmRlbmNpZXMKc3VkbyB5dW0gLXkgdXBncmFkZQpzdWRvIHl1bSAteSBncm91cGluc3RhbGwgIkRldmVsb3BtZW50IFRvb2xzIgpzdWRvIHl1bSAteSBpbnN0YWxsIGJsYXMgYmxhcy1kZXZlbCBsYXBhY2sgbGFwYWNrLWRldmVsIEN5dGhvbiAtLWVuYWJsZXJlcG89ZXBlbApzdWRvIHl1bSAteSBpbnN0YWxsIGdjYyBsaWJmZmktZGV2ZWwgcHl0aG9uLWRldmVsIG9wZW5zc2wtZGV2ZWwgZ2l0CgpQUk9KRUNUPX4vbmV3cy1hZ2dyZWdhdG9yLXBhcnNlcgojIGdldCBvciB1cGRhdGUgcHJvamVjdAppZiBbICEgLWQgIiRQUk9KRUNUIiBdOyB0aGVuCiAgICBnaXQgY2xvbmUgaHR0cHM6Ly9naXQuc3RlZWxraXdpLmNvbS9iYWNrLWVuZC9uZXdzLWFnZ3JlZ2F0b3ItcGFyc2VyLmdpdAplbHNlCiAgICBjZCAkUFJPSkVDVCAmJiBnaXQgcHVsbCBvcmlnaW4gbWFzdGVyCmZpCgojIHB5dGhvbiBkZXBlbmRlbmNpZXMKdmlydHVhbGVudiB+L2VudiAmJiBjZCB+L2VudiAmJiBzb3VyY2UgYmluL2FjdGl2YXRlCn4vZW52L2Jpbi9waXAgaW5zdGFsbCAtVSBwaXAKfi9lbnYvYmluL3BpcCBpbnN0YWxsIC1yIH4vbmV3cy1hZ2dyZWdhdG9yLXBhcnNlci9yZXF1aXJlbWVudHMudHh0CiMgY3JlYXRlIF9faW5pdF9fIHRvIG1ha2Ugem9wZSBkaXIgYXMgbW9kdWxlIHRvIGZpeCBpbXBvcnRzCnRvdWNoIH4vZW52L2xpYjY0L3B5dGhvbjIuNy9zaXRlLXBhY2thZ2VzL3pvcGUvX19pbml0X18ucHkKY2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgpjZCB+L2Vudi9saWIvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgpjZCB+L2Vudi9saWIvcHl0aG9uMi43L2Rpc3QtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgoKIyBhZGQgcHJvamVjdApjZCB+L25ld3MtYWdncmVnYXRvci1wYXJzZXIvbmV3c19wYXJzZXIvICYmIHppcCAtciB+L2RlcHMuemlwIC4KYXdzIHMzIGNwIH4vZGVwcy56aXAgczM6Ly9uZXdzLWFnZ3JlZ2F0b3ItZGF0YS8K</text>
+      <register name="0" type="4">
+        <text>~/env/lib64/python2.7/dist-packages</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
+        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgdXBkYXRlIHByb2plY3QKY2QgJFBST0pFQ1QgJiYgZ2l0IHB1bGwgb3JpZ2luIG1hc3Rlcgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiMgdXBkYXRlIHByb2plY3QKY2QgJFBST0pFQ1QgJiYgZ2l0IHB1bGwgb3JpZ2luIG1hc3Rlcgo=</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ZG8KICBpZiBbIC1kICRkaXIgXSA7IHRoZW4KICAgIHB1c2hkICRkaXI7IHppcCAtciB+L2RlcHMuemlwIC47IHBvcGQKICBmaQpkb25lCm1rZGlyIC1wIGxvY2FsL2xpYgpjcCAvdXNyL2xpYjY0L2xpYmxhcGFjay5zby4zIFwKICAgL3Vzci9saWI2NC9saWJibGFzLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYmdmb3J0cmFuLnNvLjMgXAogICAvdXNyL2xpYjY0L2xpYnF1YWRtYXRoLnNvLjAgXAogICBsb2NhbC9saWIvCnppcCAtciB+L2RlcHMuemlwIGxvY2FsL2xpYgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>for dir in lib64/python2.7/site-packages \
              lib/python2.7/site-packages
 do
@@ -639,14 +642,11 @@ cp /usr/lib64/liblapack.so.3 \
    /usr/lib64/libquadmath.so.0 \
    local/lib/</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cGlwIGluc3RhbGwgc2NpcHkKcGlwIGluc3RhbGwgcGFuZGFzCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">U0NSQVBZX0RPTlRfRklMVEVSPW9uCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4K</text>
+        <text encoding="base64">U0NSQVBZX0RPTlRfRklMVEVSPW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
