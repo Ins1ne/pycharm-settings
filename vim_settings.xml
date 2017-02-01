@@ -3,6 +3,41 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1485866577831">
+        <mark key="'" line="70" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="^" line="14" column="55" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1485864375378">
+        <mark key="'" line="50" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/saudishift.py" timestamp="1485865101788">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" timestamp="1485865264039">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" timestamp="1485866419404">
+        <mark key="'" line="71" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jazirahonline.py" timestamp="1485863886971">
         <mark key="'" line="56" column="27" />
         <mark key="[" line="10" column="44" />
@@ -20,12 +55,33 @@
       <file name="/a.dummy" timestamp="1485943567842">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/arabi21.py" timestamp="1485864168703">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" timestamp="1485864194804">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alaan.py" timestamp="1485863908112">
         <mark key="'" line="71" column="27" />
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1485866248681">
+        <mark key="'" line="3" column="29" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aa.py" timestamp="1485862762116">
         <mark key="'" line="65" column="27" />
@@ -41,6 +97,27 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" timestamp="1485865238880">
+        <mark key="'" line="52" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alwafd.py" timestamp="1485864056820">
+        <mark key="'" line="88" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aljazeera.py" timestamp="1485866328918">
+        <mark key="'" line="82" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1485864344720">
         <mark key="'" line="68" column="27" />
         <mark key="[" line="10" column="44" />
@@ -55,12 +132,32 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1485865879070">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhurra.py" timestamp="1485863967619">
+        <mark key="'" line="75" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1485864040138">
         <mark key="'" line="97" column="27" />
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="55" />
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1485866210370">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="6" column="31" />
+        <mark key="^" line="6" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cma.py" timestamp="1485864225151">
         <mark key="'" line="53" column="27" />
@@ -69,12 +166,46 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" timestamp="1485864253503">
+        <mark key="'" line="54" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almuraba.py" timestamp="1485864013978">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" timestamp="1485862740758">
+        <mark key="'" line="10" column="46" />
+        <mark key="[" line="53" column="18" />
+        <mark key="]" line="53" column="27" />
+        <mark key="." line="53" column="27" />
+        <mark key="^" line="53" column="27" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" timestamp="1485866447717">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/unlimit-tech.py" timestamp="1485865204338">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" timestamp="1485865193481">
+        <mark key="'" line="52" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1485866290327">
         <mark key="'" line="72" column="42" />
@@ -90,6 +221,13 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1485865040536">
+        <mark key="'" line="60" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1485864126519">
         <mark key="'" line="51" column="27" />
         <mark key="[" line="10" column="44" />
@@ -97,11 +235,52 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1485866501178">
+        <mark key="'" line="83" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1485696196912">
         <mark key="[" line="7" column="65" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
         <mark key="^" line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" timestamp="1485865130308">
+        <mark key="'" line="53" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" timestamp="1485865076245">
+        <mark key="'" line="51" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" timestamp="1485866614302">
+        <mark key="'" line="95" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="83" column="27" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1485866509352">
+        <mark key="'" line="81" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1485889416628">
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="20" />
+        <mark key="." line="1" column="20" />
+        <mark key="^" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" timestamp="1485864181101">
         <mark key="'" line="58" column="27" />
@@ -144,8 +323,41 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485956694278">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1485866464587">
+        <mark key="'" line="76" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1485866544040">
+        <mark key="'" line="146" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1485864429341">
         <mark key="'" line="79" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/electrony.py" timestamp="1485864318304">
+        <mark key="'" line="51" column="27" />
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
@@ -178,6 +390,27 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/beinsports.py" timestamp="1485864207283">
+        <mark key="'" line="48" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almnatiq.py" timestamp="1485864001604">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485941646386">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="29" />
+        <mark key="^" line="32" column="29" />
+        <mark key="." line="32" column="29" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485862346955">
         <mark key="'" line="87" column="39" />
         <mark key="[" line="23" column="73" />
@@ -185,12 +418,47 @@
         <mark key="." line="23" column="73" />
         <mark key="^" line="23" column="73" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
+        <mark key="'" line="112" column="42" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="55" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1485865167790">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1485866315465">
+        <mark key="'" line="75" column="42" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqartalk.py" timestamp="1485864154295">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1485864073254">
+        <mark key="'" line="59" column="27" />
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbarelyom.py" timestamp="1485863845852">
+        <mark key="'" line="86" column="27" />
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="55" />
+        <mark key="^" line="10" column="55" />
+        <mark key="." line="10" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1485856667035">
         <mark key="'" line="69" column="4" />
@@ -226,274 +494,6 @@
         <mark key="]" line="52" column="27" />
         <mark key="." line="52" column="27" />
         <mark key="^" line="52" column="27" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1485866577831">
-        <mark key="'" line="70" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="^" line="14" column="55" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1485864375378">
-        <mark key="'" line="50" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/saudishift.py" timestamp="1485865101788">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" timestamp="1485865264039">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/dw.py" timestamp="1485866419404">
-        <mark key="'" line="71" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/arabi21.py" timestamp="1485864168703">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" timestamp="1485864194804">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1485866248681">
-        <mark key="'" line="3" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="15" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" timestamp="1485865238880">
-        <mark key="'" line="52" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alwafd.py" timestamp="1485864056820">
-        <mark key="'" line="88" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aljazeera.py" timestamp="1485866328918">
-        <mark key="'" line="82" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1485865879070">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="18" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhurra.py" timestamp="1485863967619">
-        <mark key="'" line="75" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1485866210370">
-        <mark key="'" line="4" column="29" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="31" />
-        <mark key="^" line="6" column="31" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnn.py" timestamp="1485864253503">
-        <mark key="'" line="54" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almuraba.py" timestamp="1485864013978">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" timestamp="1485862740758">
-        <mark key="'" line="10" column="46" />
-        <mark key="[" line="53" column="18" />
-        <mark key="]" line="53" column="27" />
-        <mark key="." line="53" column="27" />
-        <mark key="^" line="53" column="27" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/goal.py" timestamp="1485866447717">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" timestamp="1485865193481">
-        <mark key="'" line="52" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mubasher.py" timestamp="1485865040536">
-        <mark key="'" line="60" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1485866501178">
-        <mark key="'" line="83" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="2" column="28" />
-        <mark key="^" line="2" column="28" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" timestamp="1485865130308">
-        <mark key="'" line="53" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" timestamp="1485865076245">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/week.py" timestamp="1485866614302">
-        <mark key="'" line="95" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="83" column="27" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1485866509352">
-        <mark key="'" line="81" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1485889416628">
-        <mark key="[" line="1" column="20" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="20" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1485947461241">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="10" column="39" />
-        <mark key="." line="10" column="39" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1485866464587">
-        <mark key="'" line="76" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1485866544040">
-        <mark key="'" line="146" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/electrony.py" timestamp="1485864318304">
-        <mark key="'" line="51" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/beinsports.py" timestamp="1485864207283">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almnatiq.py" timestamp="1485864001604">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/build-env.sh" timestamp="1485941646386">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="10" />
-        <mark key="]" line="32" column="29" />
-        <mark key="^" line="32" column="29" />
-        <mark key="." line="32" column="29" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
-        <mark key="'" line="112" column="42" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1485866315465">
-        <mark key="'" line="75" column="42" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="31" />
-        <mark key="^" line="13" column="55" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqartalk.py" timestamp="1485864154295">
-        <mark key="'" line="55" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1485864073254">
-        <mark key="'" line="59" column="27" />
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbarelyom.py" timestamp="1485863845852">
-        <mark key="'" line="86" column="27" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="55" />
-        <mark key="^" line="10" column="55" />
-        <mark key="." line="10" column="55" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" timestamp="1485864237455">
         <mark key="'" line="48" column="27" />
@@ -606,11 +606,13 @@
       <jump line="7" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">a2trCg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>MySpider</text>
+        <text>os.environ.get('spider')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cmxqb2luXD4=</text>
@@ -618,32 +620,34 @@
       <register name="0" type="4">
         <text>~/env/lib/python2.7/site-packages</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">a2trCg==</text>
+      <register name="1" type="4">
+        <text>{
+        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2VzcyA9IENyYXdsZXJQcm9jZXNzKHsKICAgICdVU0VSX0FHRU5UJzogJ01vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDcuMDsgV2luZG93cyBOVCA1LjEpJwp9KQoKcHJvY2Vzcy5jcmF3bChvcy4pCnByb2Nlc3Muc3RhcnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjcmFweQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNsYXNzIE15U3BpZGVyKHNjcmFweS5TcGlkZXIpOgogICAgIyBZb3VyIHNwaWRlciBkZWZpbml0aW9uCiAgICAuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2Qgfi9lbnYvbGliNjQvcHl0aG9uMi43L3NpdGUtcGFja2FnZXMgJiYgemlwIC1yIH4vZGVwcy56aXAgLgo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdXBkYXRlIHByb2plY3QK</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvY2VzcyA9IENyYXdsZXJQcm9jZXNzKHsKICAgICdVU0VSX0FHRU5UJzogJ01vemlsbGEvNC4wIChjb21wYXRpYmxlOyBNU0lFIDcuMDsgV2luZG93cyBOVCA1LjEpJwp9KQoKcHJvY2Vzcy5jcmF3bChvcy4pCnByb2Nlc3Muc3RhcnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
