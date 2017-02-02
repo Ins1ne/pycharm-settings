@@ -62,6 +62,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/neag/taskapp/celery.py" timestamp="1486027981034">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="23" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/bbci.py" timestamp="1485864194804">
         <mark key="'" line="48" column="27" />
         <mark key="[" line="10" column="44" />
@@ -303,6 +309,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486028052242">
+        <mark key="'" line="186" column="4" />
+        <mark key="[" line="282" column="8" />
+        <mark key="]" line="284" column="17" />
+        <mark key="^" line="284" column="17" />
+        <mark key="." line="284" column="17" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1485865142314">
         <mark key="'" line="51" column="27" />
         <mark key="[" line="10" column="46" />
@@ -521,10 +534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
-      <jump line="100" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
-      <jump line="70" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
       <jump line="52" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
       <jump line="51" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
@@ -621,13 +630,17 @@
       <jump line="24" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="25" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="75" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="90" column="10" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="173" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="19" column="36" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="186" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://public:secret@example.com/1'</text>
+        <text>C(16, 16),</text>
       </register>
       <register name="-" type="4">
-        <text>'http://public:secret@example.com/1'</text>
+        <text>C(16, 16),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</text>
@@ -636,33 +649,33 @@
         <text encoding="base64">U0NSQVBZX0FXU19BQ0NFU1NfS0VZX0lEPSdBS0lBSkZQSlBTMkoyMjZETEZVUScKU0NSQVBZX0FXU19TRUNSRVRfQUNDRVNTX0tFWT0nMThFRytsbTFaYVVjTXZabTRROFd3S1I3L3IvaUw2MnVObi9mcExBWScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0VOVFJZX0RTTiA9ICdodHRwOi8vcHVibGljOnNlY3JldEBleGFtcGxlLmNvbS8xJwpFWFRFTlNJT05TID0gewogICAgInNjcmFweV9zZW50cnkuZXh0ZW5zaW9ucy5FcnJvcnMiOjEwLAp9Cg==</text>
+        <text encoding="base64">ICAgICMgRXhlY3V0ZXMgZXZlcnkgTW9uZGF5IG1vcm5pbmcgYXQgNzozMCBhLm0uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
+        <text encoding="base64">U0VOVFJZX0RTTiA9ICdodHRwOi8vcHVibGljOnNlY3JldEBleGFtcGxlLmNvbS8xJwpFWFRFTlNJT05TID0gewogICAgInNjcmFweV9zZW50cnkuZXh0ZW5zaW9ucy5FcnJvcnMiOjEwLAp9Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{
         'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
     }</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzcGlkZXJfbmFtZSA9IG9zLmVudmlyb24uZ2V0KCdzcGlkZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
