@@ -439,10 +439,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="14" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1486035355491">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1486045408733">
+        <mark key="'" line="12" column="66" />
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="66" />
+        <mark key="." line="12" column="66" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1485865167790">
         <mark key="'" line="48" column="27" />
@@ -537,7 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="6" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="4" column="29" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
@@ -637,16 +638,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="45" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="12" column="66" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRPRE8gbWF5YmUgZG9uJ3QgZmlsdGVyIGJ5IHVzZXJzIGZlZWQgaWYgd2UgaGF2ZSBgZmVlZF9faW5gIGluIHF1ZXJ5IHBhcmFtcwogICAgICAgICMgZmlsdGVyIG5ld3MgZm9yIHVzZXJzIHNlbGVjdGVkIGZlZWRzCiAgICAgICAgaWYgc2VsZi5yZXF1ZXN0LnVzZXIgYW5kIG5vdCBzZWxmLnJlcXVlc3QudXNlci5pc19hbm9ueW1vdXMoKToK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Q3JlYXRlQVBJVmlldywg</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text encoding="base64">Q3JlYXRlQVBJVmlldywg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</text>
+        <text encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICAgICAnLS1saW1pdCcsCiAgICAgICAgICAgIGFjdGlvbj0nc3RvcmUnLAogICAgICAgICAgICBkZXN0PSdsaW1pdCcsCiAgICAgICAgICAgIGRlZmF1bHQ9MCwKICAgICAgICAgICAgaGVscD0nU2V0IGxpbWl0IG9mIG5ld3MgZ2V0dGluZyBmcm9tIHJlZGlzJywKICAgICAgICApCg==</text>
@@ -683,9 +685,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</last-search>
+      <last-search encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -693,7 +695,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</entry>
         <entry encoding="base64">XDxET1dOTE9BREVSX01JRERMRVdBUkVTXD4=</entry>
         <entry>s3</entry>
         <entry>line</entry>
@@ -713,6 +714,7 @@
         <entry encoding="base64">XDxTRU5UUllfRFNOXD4=</entry>
         <entry encoding="base64">XDxkdXBsaWNhdGVfaXRlbXNfcmV0cnlfbGltaXRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</entry>
+        <entry encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
