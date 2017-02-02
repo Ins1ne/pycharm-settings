@@ -350,6 +350,9 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1486015697612">
+        <mark key="'" line="75" column="4" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" timestamp="1485866544040">
         <mark key="'" line="146" column="42" />
         <mark key="[" line="3" column="0" />
@@ -518,10 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
-      <jump line="52" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/unlimit-tech.py" />
-      <jump line="48" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/unlimit-tech.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
       <jump line="100" column="35" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="70" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
@@ -618,6 +617,10 @@
       <jump line="81" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="25" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="82" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="24" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="25" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="75" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -627,7 +630,7 @@
         <text>'http://public:secret@example.com/1'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTRU5UUllfRFNOXD4=</text>
+        <text encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0NSQVBZX0FXU19BQ0NFU1NfS0VZX0lEPSdBS0lBSkZQSlBTMkoyMjZETEZVUScKU0NSQVBZX0FXU19TRUNSRVRfQUNDRVNTX0tFWT0nMThFRytsbTFaYVVjTXZabTRROFd3S1I3L3IvaUw2MnVObi9mcExBWScK</text>
@@ -666,9 +669,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTRU5UUllfRFNOXD4=</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTRU5UUllfRFNOXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -676,8 +679,6 @@
     </search>
     <history>
       <history-search>
-        <entry>order</entry>
-        <entry encoding="base64">XDxjcmVhdGVkXD4=</entry>
         <entry encoding="base64">XDxBV1NfQUNDRVNTX0tFWV9JRFw+</entry>
         <entry encoding="base64">XDxET1dOTE9BREVSX01JRERMRVdBUkVTXD4=</entry>
         <entry>s3</entry>
@@ -696,6 +697,8 @@
         <entry encoding="base64">XDxTQ1JBUFlfQVdTX0FDQ0VTU19LRVlfSURcPg==</entry>
         <entry encoding="base64">XDxFWFRFTlNJT05TXD4=</entry>
         <entry encoding="base64">XDxTRU5UUllfRFNOXD4=</entry>
+        <entry encoding="base64">XDxkdXBsaWNhdGVfaXRlbXNfcmV0cnlfbGltaXRcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
