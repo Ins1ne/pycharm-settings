@@ -511,6 +511,13 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1486030985180">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="22" />
+        <mark key="^" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1485975462349">
         <mark key="'" line="31" column="4" />
         <mark key="[" line="31" column="73" />
@@ -534,11 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/z-pad.py" />
-      <jump line="51" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/wamda.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
-      <jump line="3" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
-      <jump line="92" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="95" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="6" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
       <jump line="4" column="29" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" />
@@ -634,48 +636,51 @@
       <jump line="173" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="19" column="36" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="186" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="15" column="42" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="7" column="55" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="45" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>C(16, 16),</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="-" type="4">
-        <text>C(16, 16),</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0NSQVBZX0FXU19BQ0NFU1NfS0VZX0lEPSdBS0lBSkZQSlBTMkoyMjZETEZVUScKU0NSQVBZX0FXU19TRUNSRVRfQUNDRVNTX0tFWT0nMThFRytsbTFaYVVjTXZabTRROFd3S1I3L3IvaUw2MnVObi9mcExBWScK</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICAgICAnLS1saW1pdCcsCiAgICAgICAgICAgIGFjdGlvbj0nc3RvcmUnLAogICAgICAgICAgICBkZXN0PSdsaW1pdCcsCiAgICAgICAgICAgIGRlZmF1bHQ9MCwKICAgICAgICAgICAgaGVscD0nU2V0IGxpbWl0IG9mIG5ld3MgZ2V0dGluZyBmcm9tIHJlZGlzJywKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgRXhlY3V0ZXMgZXZlcnkgTW9uZGF5IG1vcm5pbmcgYXQgNzozMCBhLm0uCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U0VOVFJZX0RTTiA9ICdodHRwOi8vcHVibGljOnNlY3JldEBleGFtcGxlLmNvbS8xJwpFWFRFTlNJT05TID0gewogICAgInNjcmFweV9zZW50cnkuZXh0ZW5zaW9ucy5FcnJvcnMiOjEwLAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiMgcmVtb3ZlIHByZXZpb3VzIGZpbGVzCmlmIFsgLWYgfi9wYXJzZXIuemlwIF07IHRoZW4KICAgIHJtIH4vcGFyc2VyLnppcApmaQoKaWYgWyAtZCB+L2VudiBdOyB0aGVuCiAgICBybSAtcmYgfi9lbnYKZmkK</text>
+        <text encoding="base64">aW1wb3J0IGxvZ2dpbmcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IHN5cwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        'USER_AGENT': 'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)'
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHBwcmludAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFyZ3BhcnNlCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
