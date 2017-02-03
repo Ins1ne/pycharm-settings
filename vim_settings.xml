@@ -328,12 +328,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1486074713080">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="47" column="22" />
-        <mark key="]" line="55" column="20" />
-        <mark key="." line="55" column="20" />
-        <mark key="^" line="55" column="20" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1486112214800">
+        <mark key="'" line="12" column="4" />
+        <mark key="[" line="25" column="26" />
+        <mark key="]" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
         <mark key="'" line="55" column="27" />
@@ -541,7 +541,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="15" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="5" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="3" column="29" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
@@ -641,16 +640,17 @@
       <jump line="23" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
       <jump line="26" column="60" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzcGlkZXJzX21hcHBpbmcgPSBfbG9hZF9zcGlkZXJzKCkK</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>self._spiders</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</text>
+        <text encoding="base64">XDxsb2FkX3NwaWRlcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnPScgKiA0MCkK</text>
@@ -687,9 +687,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkX3NwaWRlcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkX3NwaWRlcnNcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -697,7 +697,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxET1dOTE9BREVSX01JRERMRVdBUkVTXD4=</entry>
         <entry>s3</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxSRVRSWV9USU1FU1w+</entry>
@@ -717,6 +716,7 @@
         <entry encoding="base64">XDxkdXBsaWNhdGVfaXRlbXNfcmV0cnlfbGltaXRcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RfcmV0cnlfbGltaXRcPg==</entry>
         <entry encoding="base64">XDxDcmVhdGVBUElWaWV3XD4=</entry>
+        <entry encoding="base64">XDxsb2FkX3NwaWRlcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz53</entry>
