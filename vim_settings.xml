@@ -207,8 +207,8 @@
         <mark key="^" line="10" column="55" />
         <mark key="." line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1485866290327">
-        <mark key="'" line="72" column="42" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1486149759347">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="5" column="31" />
         <mark key="." line="2" column="0" />
@@ -542,7 +542,6 @@
     </filemarks>
     <jumps>
       <jump line="3" column="29" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="69" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
       <jump line="72" column="42" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" />
@@ -641,6 +640,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
       <jump line="12" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
       <jump line="55" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
