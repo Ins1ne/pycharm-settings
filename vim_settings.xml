@@ -427,11 +427,11 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1485977674067">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1486133359219">
         <mark key="'" line="82" column="18" />
-        <mark key="[" line="24" column="41" />
-        <mark key="]" line="25" column="41" />
-        <mark key="." line="25" column="41" />
+        <mark key="[" line="23" column="41" />
+        <mark key="]" line="23" column="41" />
+        <mark key="." line="23" column="41" />
         <mark key="^" line="25" column="41" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1485866360566">
@@ -644,10 +644,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>s3://news-aggregator-data/images/</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>s3://news-aggregator-data/images/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkX3NwaWRlcnNcPg==</text>
