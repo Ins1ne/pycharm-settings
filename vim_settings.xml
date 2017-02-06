@@ -353,7 +353,7 @@
         <mark key="^" line="71" column="18" />
         <mark key="." line="71" column="18" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1486415614574">
         <mark key="'" line="55" column="27" />
         <mark key="[" line="10" column="46" />
         <mark key="]" line="10" column="55" />
@@ -554,7 +554,7 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="31" column="73" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aitnews.py" timestamp="1485977093315">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aitnews.py" timestamp="1486415827782">
         <mark key="'" line="37" column="28" />
         <mark key="[" line="10" column="33" />
         <mark key="]" line="10" column="34" />
