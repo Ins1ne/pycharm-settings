@@ -240,12 +240,11 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486395303895">
-        <mark key="'" line="9" column="37" />
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486396787158">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1485866501178">
         <mark key="'" line="83" column="42" />
@@ -315,12 +314,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486395308975">
-        <mark key="'" line="294" column="28" />
-        <mark key="[" line="296" column="21" />
-        <mark key="]" line="296" column="21" />
-        <mark key="^" line="294" column="21" />
-        <mark key="." line="296" column="21" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486396664021">
+        <mark key="'" line="257" column="4" />
+        <mark key="[" line="296" column="0" />
+        <mark key="]" line="296" column="0" />
+        <mark key="^" line="293" column="25" />
+        <mark key="." line="296" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1485865142314">
         <mark key="'" line="51" column="27" />
@@ -572,8 +571,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="1" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
-      <jump line="132" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="81" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="25" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="82" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
@@ -671,47 +668,49 @@
       <jump line="9" column="37" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
       <jump line="296" column="21" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="293" column="5" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="294" column="28" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="294" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="256" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="257" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bind=True</text>
+        <text encoding="base64">ICAgIHByaW50KCdhYWFhYWFhJykKICAgIHByaW50KHNldHRpbmdzLlNDUkFQWV9TUElERVJTKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>bind=True</text>
+        <text>(bind=True)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkuc2NoZWR1bGVzIGltcG9ydCBjcm9udGFiCg==</text>
+        <text encoding="base64">ICAgICdwYXJzZS1uZXdzJzogewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">IyBAYXBwLnRhc2soYmluZD1UcnVlKQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIHByaW50KCdhYWFhYWFhJykKICAgIHByaW50KHNldHRpbmdzLlNDUkFQWV9TUElERVJTKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwLmNvbmZpZ19mcm9tX29iamVjdCgnZGphbmdvLmNvbmY6c2V0dGluZ3MnLCBuYW1lc3BhY2U9J0NFTEVSWScpCg==</text>
+        <text encoding="base64">ICAgICAgICAnc2NoZWR1bGUnOiA1LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwLmNvbmYuYmVhdF9zY2hlZHVsZSA9IHsKICAgICdwYXJzZS1uZXdzJzogewogICAgICAgICd0YXNrJzogJ3Rhc2tzLnBhcnNlJywKICAgICAgICAjICdzY2hlZHVsZSc6IGNyb250YWIobWludXRlPScqLzUnKSwKICAgICAgICAjICdzY2hlZHVsZSc6IDUuMCwKICAgICAgICAnc2NoZWR1bGUnOiBjcm9udGFiKCksCiAgICAgICAgIydyZWxhdGl2ZSc6IFRydWUsCiAgICAgICAgJ2FyZ3MnOiAoKQogICAgfSwKfQo=</text>
+        <text encoding="base64">ICAgICMgJ3BhcnNlLW5ld3MnOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXBwLmNvbmYuYmVhdF9zY2hlZHVsZSA9IHsKICAgICdwYXJzZS1uZXdzJzogewogICAgICAgICd0YXNrJzogJ3Rhc2tzLnBhcnNlJywKICAgICAgICAjICdzY2hlZHVsZSc6IGNyb250YWIobWludXRlPScqLzUnKSwKICAgICAgICAjICdzY2hlZHVsZSc6IDUuMCwKICAgICAgICAnc2NoZWR1bGUnOiBjcm9udGFiKCksCiAgICAgICAgIydyZWxhdGl2ZSc6IFRydWUsCiAgICAgICAgJ2FyZ3MnOiAoKQogICAgfSwKfQo=</text>
+        <text encoding="base64">ICAgICAgICAjICdhcmdzJzogKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjICdzY2hlZHVsZSc6IGNyb250YWIoKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkuc2NoZWR1bGVzIGltcG9ydCBjcm9udGFiCmZyb20gY2VsZXJ5IGltcG9ydCBzaGFyZWRfdGFzawo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAjIENhbGxzIHRlc3QoJ3dvcmxkJykgZXZlcnkgMzAgc2Vjb25kcwogICAgc2VuZGVyLmFkZF9wZXJpb2RpY190YXNrKDMwLjAsIHRlc3Qucygnd29ybGQnKSwgZXhwaXJlcz0xMCkK</text>
+        <text encoding="base64">IyBAYXBwLm9uX2FmdGVyX2NvbmZpZ3VyZS5jb25uZWN0CiMgZGVmIHNldHVwX3BlcmlvZGljX3Rhc2tzKHNlbmRlciwgKiprd2FyZ3MpOgojICAgICBzZW5kZXIuYWRkX3BlcmlvZGljX3Rhc2soMTAuMCwgcGFyc2UucygpLCBuYW1lPSdwYXJzZV9uZXdzX2V2ZXJ5XzVfbWluJykKCgojIEBhcHAudGFzayhuYW1lPSdwYXJzZS1uZXdzJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQ2FsbHMgdGVzdCgnaGVsbG8nKSBldmVyeSAxMCBzZWNvbmRzLgo=</text>
+        <text encoding="base64">IyBAYXBwLnRhc2soYmluZD1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmNvbmZpZ19mcm9tX29iamVjdCgnZGphbmdvLmNvbmY6c2V0dGluZ3MnLCBuYW1lc3BhY2U9J0NFTEVSWScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -792,6 +791,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
