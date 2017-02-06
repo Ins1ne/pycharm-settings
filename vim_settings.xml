@@ -313,9 +313,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486407330840">
-        <mark key="[" line="295" column="0" />
-        <mark key="]" line="295" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486414191021">
+        <mark key="[" line="229" column="36" />
+        <mark key="]" line="229" column="47" />
         <mark key="^" line="39" column="22" />
         <mark key="." line="295" column="0" />
       </file>
@@ -345,6 +345,13 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1486414291759">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="71" column="18" />
+        <mark key="^" line="71" column="18" />
+        <mark key="." line="71" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/afp.py" timestamp="1485863794709">
         <mark key="'" line="55" column="27" />
@@ -533,12 +540,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1486399055993">
-        <mark key="'" line="19" column="45" />
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="45" />
-        <mark key="." line="19" column="45" />
-        <mark key="^" line="19" column="45" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1486414376615">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="^" line="23" column="91" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" timestamp="1485975462349">
         <mark key="'" line="31" column="4" />
@@ -570,22 +577,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="19" column="36" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="186" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="15" column="42" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="45" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="12" column="66" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="16" column="19" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="39" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="26" column="60" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="55" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
-      <jump line="79" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="15" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" />
       <jump line="1" column="39" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
       <jump line="1" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/akhbaar24.py" />
@@ -617,29 +608,24 @@
       <jump line="2" column="0" filename="$USER_HOME$/vagrant/neag/neag/taskapp/celery.py" />
       <jump line="38" column="48" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="13" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="74" column="65" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="66" column="57" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="56" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="14" column="33" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="75" column="44" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="5" column="24" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="4" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="81" column="37" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="68" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="79" column="67" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="7" column="10" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="80" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="47" column="23" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="21" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="103" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="60" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="247" column="13" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="77" column="50" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="15" column="34" filename="$USER_HOME$/vagrant/neag/config/.env" />
       <jump line="16" column="48" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="117" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="91" column="43" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="6" column="28" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="45" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
@@ -666,68 +652,87 @@
       <jump line="39" column="22" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="22" column="0" filename="$USER_HOME$/vagrant/neag/env.example" />
       <jump line="22" column="73" filename="$USER_HOME$/vagrant/neag/config/.env" />
-      <jump line="19" column="45" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="17" column="27" filename="$USER_HOME$/vagrant/neag/neag/taskapp/celery.py" />
       <jump line="264" column="31" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="295" column="27" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="120" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="74" column="12" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="26" column="43" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="58" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="51" column="19" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="73" column="65" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="91" column="19" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="62" column="15" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="82" column="24" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="81" column="20" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="80" column="17" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="64" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="87" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="22" column="30" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="85" column="18" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="44" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="149" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/.gitignore" />
+      <jump line="19" column="26" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U0NSQVBZX1NQSURFUlMgPSBbJzNhbHlvdW0nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 'aa'</text>
+        <text>%(name)s %(asctime)s - %(levelname)s - %(message)s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZVw+</text>
+        <text>cele</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">U0NSQVBZX1NQSURFUlMgPSBbJzNhbHlvdW0nLCAnYWEnXQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICUoYXNjdGltZSlz</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U0NSQVBZX1NQSURFUlMgPSBbJzNhbHlvdW0nXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIG9wdGlvbnNbJ3ZlcmJvc2l0eSddID0gaW50KG9wdGlvbnNbJ3ZlcmJvc2l0eSddKQogICAgICAgICMgaWYgb3B0aW9uc1sndmVyYm9zaXR5J10gPiAxOgogICAgICAgICMgICAgIGlmIG9wdGlvbnNbJ3ZlcmJvc2l0eSddID09IDI6CiAgICAgICAgIyAgICAgICAgICMgdXNlIGxvZ2dlciBmb3IganVzdCB0aGlzIG1vZHVsZQogICAgICAgICMgICAgIGVsc2U6CiAgICAgICAgIyAgICAgICAgICMgdXNlIHJvb3QgbG9nZ2VyCiAgICAgICAgIyAgICAgICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKCcnKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkuc2NoZWR1bGVzIGltcG9ydCBjcm9udGFiCg==</text>
+        <text encoding="base64">ICAgICAgICAjIHBhcnNlci5hZGRfYXJndW1lbnQoCiAgICAgICAgIyAgICAgJy0tdmVyYm9zaXR5JywKICAgICAgICAjICAgICBhY3Rpb249J3N0b3JlJywKICAgICAgICAjICAgICBkZXN0PSd2ZXJib3NpdHknLAogICAgICAgICMgICAgIGRlZmF1bHQ9MCwKICAgICAgICAjICAgICBoZWxwPSdWZXJib3NpdHkgZm9yIGxvZ2dlcicsCiAgICAgICAgIyApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBhcHAuY29uZi5iZWF0X3NjaGVkdWxlID0gewojICAgICAncGFyc2UtbmV3cyc6IHsKIyAgICAgICAgICd0YXNrJzogJ3Rhc2tzLnBhcnNlJywKIyAgICAgICAgICMgJ3NjaGVkdWxlJzogY3JvbnRhYihtaW51dGU9JyovNScpLAojICAgICAgICAgIyAnc2NoZWR1bGUnOiA1LjAsCiMgICAgICAgICAnc2NoZWR1bGUnOiBjcm9udGFiKCksCiMgICAgICAgICAjJ3JlbGF0aXZlJzogVHJ1ZSwKIyAgICAgICAgICdhcmdzJzogKCkKIyAgICAgfSwKIyB9Cgo=</text>
+        <text encoding="base64">IyBsb2dnZXIgPSBsb2dnaW5nLmdldExvZ2dlcignbWFuYWdlbWVudF9jb21tYW5kJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eTdSQnNpY3VGRzRQNVFNWWczZ3BiMnBjeVpNcGd4NURnZmh3ZjdGMwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19maWxlX18pCiAgICAgICAgICAgIGNvbnNvbGUgPSBsb2dnaW5nLlN0cmVhbUhhbmRsZXIoKQogICAgICAgICAgICBjb25zb2xlLnNldExldmVsKGxvZ2dpbmcuREVCVUcpCiAgICAgICAgICAgIGNvbnNvbGUuc2V0Rm9ybWF0dGVyKGxvZ2dpbmcuRm9ybWF0dGVyKCclKG5hbWUpcyAtICUobGV2ZWxuYW1lKXMgLSAlKG1lc3NhZ2UpcycpKQogICAgICAgICAgICBsb2dnZXIuYWRkSGFuZGxlcihjb25zb2xlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFXU19BUElfVVJMPShzdHIsICcnKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlciA9IGxvZ2dpbmcuZ2V0TG9nZ2VyKF9fZmlsZV9fKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAKICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHByaW50KCdhYWFhYWFhJykKICAgIHByaW50KHNldHRpbmdzLlNDUkFQWV9TUElERVJTKQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnc2NoZWR1bGUnOiA1LAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgc2lnbmFsX2hhbmRsZXIoc2lnbmFsLCBmcmFtZSk6CiAgICAgICAgICAgIHByaW50KCdDbG9zaW5nIGltcG9ydC4uLicpCiAgICAgICAgICAgIHN5cy5leGl0KDApCgogICAgICAgIHNpZ25hbC5zaWduYWwoc2lnbmFsLlNJR0lOVCwgc2lnbmFsX2hhbmRsZXIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZVw+</last-search>
+      <last-search>cele</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZVw+</last-pattern>
+      <last-pattern>cele</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>br</entry>
-        <entry encoding="base64">XDx0aW1lZGVsdGFcPg==</entry>
         <entry encoding="base64">XDx1cmxqb2luXD4=</entry>
         <entry encoding="base64">XDxkZXBzXD4=</entry>
         <entry encoding="base64">XDxTQ1JBUFlfRE9OVF9GSUxURVJcPg==</entry>
@@ -746,6 +751,8 @@
         <entry encoding="base64">XDxQcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxyXD4=</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
+        <entry encoding="base64">XDx2ZXJib3NpdHlcPg==</entry>
+        <entry>cele</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2F0dHJfd2l0aF9qcy9qc192YWx1ZS9n</entry>
