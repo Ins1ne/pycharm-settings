@@ -243,12 +243,12 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486463687187">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486468316136">
         <mark key="'" line="13" column="26" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="21" column="12" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+        <mark key="^" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1485866501178">
         <mark key="'" line="83" column="42" />
@@ -318,12 +318,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486464096959">
-        <mark key="'" line="310" column="0" />
-        <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="29" />
-        <mark key="^" line="43" column="29" />
-        <mark key="." line="43" column="29" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486468249367">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="301" column="39" />
+        <mark key="]" line="302" column="0" />
+        <mark key="^" line="302" column="0" />
+        <mark key="." line="302" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1485865142314">
         <mark key="'" line="51" column="27" />
@@ -590,12 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="27" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="2" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="32" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="151" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
@@ -690,13 +684,19 @@
       <jump line="299" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="39" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="306" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="313" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="29" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="305" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="302" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="317" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>env('SCRAPYD_PROJECT')</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>env('SCRAPYD_PROJECT')</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTQ1JBUFlEX1VSTFw+</text>
