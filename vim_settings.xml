@@ -86,7 +86,7 @@
         <mark key="^" line="15" column="25" />
         <mark key="." line="15" column="25" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aa.py" timestamp="1486316949729">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aa.py" timestamp="1486478475223">
         <mark key="'" line="64" column="27" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -471,12 +471,12 @@
         <mark key="." line="120" column="0" />
         <mark key="^" line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1486332215785">
-        <mark key="'" line="112" column="42" />
-        <mark key="[" line="69" column="44" />
-        <mark key="]" line="69" column="46" />
-        <mark key="." line="69" column="46" />
-        <mark key="^" line="69" column="46" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" timestamp="1486478128575">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="37" />
+        <mark key="]" line="70" column="69" />
+        <mark key="." line="70" column="69" />
+        <mark key="^" line="70" column="69" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1486475238056">
         <mark key="'" line="9" column="37" />
@@ -534,12 +534,12 @@
         <mark key="^" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486386406389">
-        <mark key="'" line="69" column="4" />
-        <mark key="[" line="28" column="21" />
-        <mark key="]" line="28" column="21" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="21" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486477961673">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1485864139940">
         <mark key="'" line="52" column="27" />
@@ -599,10 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="247" column="13" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="77" column="50" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="15" column="34" filename="$USER_HOME$/vagrant/neag/config/.env" />
       <jump line="16" column="48" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="117" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="6" column="28" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
@@ -699,13 +695,17 @@
       <jump line="114" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="8" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="18" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
+      <jump line="8" column="6" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="70" column="69" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alriyadh.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Only picture allowed to upload</text>
+        <text>100</text>
       </register>
       <register name="-" type="4">
-        <text>Only picture allowed to upload</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
         <text>raise</text>
