@@ -108,8 +108,8 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486570009795">
-        <mark key="'" line="13" column="41" />
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486586089818">
+        <mark key="'" line="14" column="50" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -164,9 +164,6 @@
         <mark key="]" line="12" column="11" />
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="33" />
-      </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1486015697612">
-        <mark key="'" line="75" column="4" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/makkahnewspaper.py" timestamp="1486559950385">
         <mark key="'" line="114" column="8" />
@@ -539,6 +536,9 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/neag/users/models.py" timestamp="1486586693920">
+        <mark key="'" line="38" column="7" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1486504424443">
         <mark key="'" line="70" column="8" />
         <mark key="[" line="52" column="0" />
@@ -581,9 +581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="46" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
-      <jump line="62" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
-      <jump line="99" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="56" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="108" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
       <jump line="54" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" />
@@ -681,6 +678,9 @@
       <jump line="0" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="310" column="3" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="146" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="27" column="28" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="14" column="50" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="38" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -690,7 +690,7 @@
         <text>spiders</text>
       </register>
       <register name="/" type="4">
-        <text>download</text>
+        <text encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3BpZGVycyA9IHNldHRpbmdzLlNDUkFQWV9TUElERVJTCg==</text>
@@ -727,17 +727,16 @@
       </register>
     </registers>
     <search>
-      <last-search>download</last-search>
+      <last-search encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</last-search>
       <last-offset />
-      <last-pattern>download</last-pattern>
+      <last-pattern encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOZXdzTGlzdFNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxVc2VyRGV0YWlsc1NlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxDb21tZW50U2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxDb21tZW50c0xpc3RTZXJpYWxpemVyXD4=</entry>
@@ -757,6 +756,7 @@
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
         <entry>download</entry>
+        <entry encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2F0dHJfd2l0aF9qcy9qc192YWx1ZS9n</entry>
