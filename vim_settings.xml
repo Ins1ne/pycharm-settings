@@ -139,12 +139,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" timestamp="1486562898555">
-        <mark key="'" line="118" column="8" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="52" column="23" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" timestamp="1486571253194">
+        <mark key="'" line="125" column="8" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="27" />
+        <mark key="." line="60" column="0" />
+        <mark key="^" line="55" column="25" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" timestamp="1486552219960">
         <mark key="'" line="41" column="43" />
@@ -728,8 +728,8 @@
       <jump line="13" column="41" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJz0nICogNDApCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">LCA=</text>
@@ -737,8 +737,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxSZWdpc3RlclZpZXdcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>validators=[UniqueValidator(queryset=User.objects.all())]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoJz0nICogNDApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5maWVsZHMgaW1wb3J0IEVtYWlsRmllbGQK</text>
