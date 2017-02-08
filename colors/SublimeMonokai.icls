@@ -62,12 +62,6 @@
         <option name="FOREGROUND" value="48ff60" />
       </value>
     </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="c57633" />
-        <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="BASH.FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="e6da74" />
@@ -108,11 +102,6 @@
         <option name="FOREGROUND" value="fd9620" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="BASH.SHEBANG">
-      <value>
-        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="BASH.STRING">
@@ -475,21 +464,12 @@
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_BRACES">
-      <value />
-    </option>
-    <option name="DEFAULT_BRACKETS">
-      <value />
-    </option>
     <option name="DEFAULT_COMMA">
       <value>
         <option name="FOREGROUND" value="cc7832" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_DOT">
-      <value />
-    </option>
     <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_DECLARATION">
       <value>
@@ -515,9 +495,6 @@
       <value>
         <option name="FOREGROUND" value="f9276c" />
       </value>
-    </option>
-    <option name="DEFAULT_PARENTHS">
-      <value />
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_SEMICOLON">
@@ -1608,16 +1585,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
-    <option name="REGEXP.BRACKETS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="REGEXP.CHAR_CLASS">
       <value>
         <option name="FOREGROUND" value="fd9620" />
@@ -1638,11 +1605,6 @@
         <option name="FOREGROUND" value="f92772" />
       </value>
     </option>
-    <option name="REGEXP.PARENTHS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-      </value>
-    </option>
     <option name="REGEXP.QUOTE_CHARACTER">
       <value>
         <option name="FOREGROUND" value="e6da74" />
@@ -1652,15 +1614,6 @@
       <value>
         <option name="FOREGROUND" value="9bff" />
       </value>
-    </option>
-    <option name="RUBY_BAD_CHARACTER">
-      <value />
-    </option>
-    <option name="RUBY_BRACKETS">
-      <value />
-    </option>
-    <option name="RUBY_COLON">
-      <value />
     </option>
     <option name="RUBY_COMMA">
       <value>
@@ -1687,9 +1640,6 @@
       <value>
         <option name="FOREGROUND" value="f1f1f1" />
       </value>
-    </option>
-    <option name="RUBY_DOT">
-      <value />
     </option>
     <option name="RUBY_ESCAPE_SEQUENCE">
       <value>
@@ -1903,7 +1853,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="Scala Keyword">
       <value>
         <option name="FOREGROUND" value="65fcfa" />
