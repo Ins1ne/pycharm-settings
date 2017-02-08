@@ -108,8 +108,8 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486569183559">
-        <mark key="'" line="10" column="44" />
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486570009795">
+        <mark key="'" line="13" column="41" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -467,12 +467,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486508296691">
-        <mark key="'" line="320" column="0" />
-        <mark key="[" line="303" column="31" />
-        <mark key="]" line="303" column="31" />
-        <mark key="^" line="303" column="31" />
-        <mark key="." line="303" column="31" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486570273202">
+        <mark key="'" line="321" column="0" />
+        <mark key="[" line="200" column="34" />
+        <mark key="]" line="200" column="32" />
+        <mark key="^" line="200" column="32" />
+        <mark key="." line="200" column="32" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1486452530235">
         <mark key="'" line="2" column="21" />
@@ -626,7 +626,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
       <jump line="39" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" />
       <jump line="72" column="52" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
       <jump line="93" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/mci.py" />
@@ -726,6 +725,7 @@
       <jump line="1" column="48" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="42" column="35" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
       <jump line="10" column="44" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="13" column="41" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -735,7 +735,7 @@
         <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQYXNzd29yZENoYW5nZVZpZXdcPg==</text>
+        <text encoding="base64">XDxSZWdpc3RlclZpZXdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>validators=[UniqueValidator(queryset=User.objects.all())]</text>
@@ -772,9 +772,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQYXNzd29yZENoYW5nZVZpZXdcPg==</last-search>
+      <last-search encoding="base64">XDxSZWdpc3RlclZpZXdcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQYXNzd29yZENoYW5nZVZpZXdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxSZWdpc3RlclZpZXdcPg==</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>-1</last-dir>
@@ -782,7 +782,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNRURJQV9VUkxcPg==</entry>
         <entry encoding="base64">XDxORVdTX0lNQUdFX1BSRUZJWFw+</entry>
         <entry encoding="base64">XDxwaWN0dXJlXD4=</entry>
         <entry>NewsSerializer</entry>
@@ -802,6 +801,7 @@
         <entry encoding="base64">XDxwYWdpbmF0aW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRfdXNlcm5hbWVfbWF4X2xlbmd0aFw+</entry>
         <entry encoding="base64">XDxQYXNzd29yZENoYW5nZVZpZXdcPg==</entry>
+        <entry encoding="base64">XDxSZWdpc3RlclZpZXdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2F0dHJfd2l0aF9qcy9qc192YWx1ZS9n</entry>
