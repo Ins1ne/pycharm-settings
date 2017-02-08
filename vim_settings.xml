@@ -10,12 +10,12 @@
         <mark key="^" line="14" column="55" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1486549215100">
-        <mark key="'" line="65" column="28" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="12" />
-        <mark key="." line="44" column="12" />
-        <mark key="^" line="28" column="19" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" timestamp="1486550709959">
+        <mark key="'" line="66" column="28" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="44" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="13" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/saudishift.py" timestamp="1485865101788">
         <mark key="'" line="48" column="27" />
@@ -697,8 +697,8 @@
       <jump line="61" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/huffpostarabi.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>parsed_node['item']['pubDate']</text>
       </register>
       <register name="-" type="4">
         <text>response.meta['published']</text>
@@ -706,8 +706,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVkX3BhcnNlZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgaXRlbV9kYXRlID49IG5vdyAtIHRpbWVkZWx0YShkYXlzPU5FV1NfUEFSU0lOR19EQVlTX0xJTUlUKToK</text>
+      <register name="0" type="4">
+        <text>parsed_node['item']['pubDate']</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
