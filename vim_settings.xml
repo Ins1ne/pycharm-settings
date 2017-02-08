@@ -210,8 +210,8 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1486493689007">
-        <mark key="'" line="156" column="27" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1486579146556">
+        <mark key="'" line="71" column="20" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
         <mark key="." line="118" column="0" />
@@ -624,12 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/okaz.py" />
-      <jump line="33" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/rt.py" />
-      <jump line="68" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/3alyoum.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
-      <jump line="25" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="71" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sabq.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/saudishift.py" />
       <jump line="24" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/saudishift.py" />
@@ -724,6 +718,12 @@
       <jump line="16" column="7" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="158" column="12" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
       <jump line="21" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="32" column="39" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="156" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="9" column="53" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="46" column="67" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="49" column="6" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="71" column="20" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -733,7 +733,7 @@
         <text>settings.SCRAPY_SPIDERS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXF1ZXN0c1w+</text>
+        <text>download</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dHJ5OgogICAgZnJvbSB1cmxsaWIucGFyc2UgaW1wb3J0IHVybGpvaW4KZXhjZXB0IEltcG9ydEVycm9yOgogICAgZnJvbSB1cmxwYXJzZSBpbXBvcnQgdXJsam9pbgo=</text>
@@ -770,17 +770,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXF1ZXN0c1w+</last-search>
+      <last-search>download</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXF1ZXN0c1w+</last-pattern>
+      <last-pattern>download</last-pattern>
       <last-replace />
       <last-substitute encoding="base64">IA==</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NewsSerializer</entry>
         <entry encoding="base64">XDxOZXdzTGlzdFNlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxVc2VyRGV0YWlsc1NlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxDb21tZW50U2VyaWFsaXplclw+</entry>
@@ -800,6 +799,7 @@
         <entry encoding="base64">XDxweXR6XD4=</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2F0dHJfd2l0aF9qcy9qc192YWx1ZS9n</entry>
