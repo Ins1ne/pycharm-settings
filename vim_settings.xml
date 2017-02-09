@@ -108,8 +108,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486657165062">
-        <mark key="'" line="27" column="28" />
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486658466616">
+        <mark key="'" line="14" column="50" />
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="29" column="59" />
+        <mark key="." line="29" column="59" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -193,12 +197,12 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1486486063797">
-        <mark key="'" line="20" column="25" />
-        <mark key="[" line="90" column="55" />
-        <mark key="]" line="90" column="85" />
-        <mark key="." line="90" column="55" />
-        <mark key="^" line="43" column="99" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1486658267867">
+        <mark key="'" line="9" column="79" />
+        <mark key="[" line="133" column="6" />
+        <mark key="]" line="133" column="37" />
+        <mark key="^" line="134" column="7" />
+        <mark key="." line="134" column="7" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
         <mark key="'" line="86" column="8" />
@@ -469,12 +473,11 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486624495204">
-        <mark key="'" line="369" column="0" />
-        <mark key="[" line="169" column="18" />
-        <mark key="]" line="169" column="19" />
-        <mark key="^" line="170" column="9" />
-        <mark key="." line="169" column="19" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1486658749944">
+        <mark key="'" line="170" column="9" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="33" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/lambda_function.py" timestamp="1486452530235">
         <mark key="'" line="2" column="21" />
@@ -635,11 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="24" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
-      <jump line="85" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" />
-      <jump line="25" column="34" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" />
-      <jump line="60" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" />
       <jump line="22" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
       <jump line="67" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
@@ -733,48 +731,53 @@
       <jump line="38" column="85" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="0" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="13" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="14" column="50" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
       <jump line="27" column="28" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="124" column="21" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="125" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="130" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="9" column="79" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="14" column="50" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="170" column="9" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>''</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>prefetch_related('topics')</text>
+        <text>CustomGCMDeviceAuthorizedViewSet</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWyd1cmwnXSkK</text>
+        <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2UpCg==</text>
+        <text encoding="base64">ZnJvbSBwdXNoX25vdGlmaWNhdGlvbnMuYXBpLnJlc3RfZnJhbWV3b3JrIGltcG9ydCBBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXQsIEdDTURldmljZUF1dGhvcml6ZWRWaWV3U2V0Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWyd1cmwnXSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2UpCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="8">
+      <register name="6" type="8">
         <text encoding="base64">YXBuc19kZXZpY2VzID0KZ2NtX2RldmljZXMgPSA=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIGFwbnNfZGV2aWNlcyA9IHVzZXIuYXBuc2RldmljZV9zZXQudmFsdWVzX2xpc3QoJ2lkJywgZmxhdD1UcnVlKQogICAgZ2NtX2RldmljZXMgPSB1c2VyLmdjbWRldmljZV9zZXQudmFsdWVzX2xpc3QoJ2lkJywgZmxhdD1UcnVlKQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAjICAgICBxdWVyeXNldCA9IHN1cGVyKEZlZWRMaXN0LCBzZWxmKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5wcmVmZXRjaF9yZWxhdGVkKCd0b3BpY3MnKQogICAgIwogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fdG9waWNzX19waz1zZXR0aW5ncy5CUkVBS0lOR19ORVdTX0NBVEVHT1JZLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fdG9waWNzX19waz1zZXR0aW5ncy5CUkVBS0lOR19ORVdTX0NBVEVHT1JZLAo=</text>
+        <text encoding="base64">CiAgICAjIGRlZiBnZXRfcXVlcnlzZXQoc2VsZik6CiAgICAjICAgICBxdWVyeXNldCA9IHN1cGVyKEZlZWRMaXN0LCBzZWxmKS5nZXRfcXVlcnlzZXQoKQogICAgIyAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5wcmVmZXRjaF9yZWxhdGVkKCd0b3BpY3MnKQogICAgIwogICAgIyAgICAgcmV0dXJuIHF1ZXJ5c2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
