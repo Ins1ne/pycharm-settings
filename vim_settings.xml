@@ -390,12 +390,12 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486641241498">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486641962330">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="36" column="65" />
-        <mark key="]" line="38" column="7" />
-        <mark key="." line="38" column="7" />
-        <mark key="^" line="38" column="7" />
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="26" />
+        <mark key="." line="34" column="26" />
+        <mark key="^" line="34" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1486554859368">
         <mark key="'" line="98" column="17" />
@@ -689,11 +689,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+      <register name="&quot;" type="4">
+        <text>topic</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>topic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZVw+</text>
