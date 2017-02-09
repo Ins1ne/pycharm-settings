@@ -233,11 +233,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486641216217">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486645546637">
+        <mark key="'" line="6" column="36" />
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="6" column="36" />
+        <mark key="." line="6" column="36" />
+        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -390,12 +391,12 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486641962330">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486645498248">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="^" line="34" column="26" />
+        <mark key="[" line="42" column="1" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1486554859368">
         <mark key="'" line="98" column="17" />
@@ -587,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="17" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="43" column="32" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/t-voice.py" />
       <jump line="19" column="24" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
@@ -682,24 +682,25 @@
       <jump line="40" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="5" column="58" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="121" column="77" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="0" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="19" column="46" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
       <jump line="34" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="6" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="120" column="22" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="6" column="36" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>topic</text>
+        <text>send_</text>
       </register>
       <register name="-" type="4">
-        <text>topic</text>
+        <text>send_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>settings.BREAKING_NEWS_CATEGORY</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fcGs9ZmVlZF9pZCwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
