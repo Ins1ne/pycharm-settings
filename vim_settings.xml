@@ -238,11 +238,11 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486672394216">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486677531949">
         <mark key="'" line="0" column="31" />
-        <mark key="[" line="127" column="28" />
-        <mark key="]" line="128" column="31" />
-        <mark key="." line="128" column="31" />
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="37" />
+        <mark key="." line="24" column="37" />
         <mark key="^" line="128" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
@@ -699,11 +699,11 @@
       <jump line="64" column="23" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBrZXkgPSAne31fZmVhdHVyZWQnLmZvcm1hdChvYmoucGspCiAgICAgICAgZmVhdHVyZWRfaW1hZ2UgPSBjYWNoZS5nZXQoa2V5KQo=</text>
+      <register name="&quot;" type="4">
+        <text>, blank=True</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>, blank=True</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aXRsZVw+</text>
