@@ -108,8 +108,8 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486660228074">
-        <mark key="'" line="14" column="50" />
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486669345239">
+        <mark key="'" line="30" column="55" />
         <mark key="[" line="30" column="44" />
         <mark key="]" line="30" column="46" />
         <mark key="^" line="30" column="46" />
@@ -638,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
-      <jump line="67" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/true-gaming.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
       <jump line="27" column="25" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
       <jump line="68" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/twasul.py" />
@@ -736,8 +734,10 @@
       <jump line="125" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="130" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="9" column="79" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
-      <jump line="14" column="50" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
       <jump line="170" column="9" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="28" column="28" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="14" column="50" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
+      <jump line="30" column="55" filename="$USER_HOME$/vagrant/neag/config/urls.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
