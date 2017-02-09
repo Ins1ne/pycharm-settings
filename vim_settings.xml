@@ -233,12 +233,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486627143417">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="45" />
-        <mark key="^" line="1" column="45" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486639396042">
+        <mark key="'" line="32" column="21" />
+        <mark key="[" line="21" column="38" />
+        <mark key="]" line="21" column="48" />
+        <mark key="." line="21" column="48" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -588,7 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
       <jump line="33" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" />
       <jump line="26" column="26" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
       <jump line="68" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sport360.py" />
@@ -688,13 +687,14 @@
       <jump line="137" column="69" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="7" column="64" filename="$USER_HOME$/vagrant/neag/neag/news/urls.py" />
       <jump line="3" column="30" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
+      <jump line="32" column="21" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cache_page(60)(</text>
+        <text>er=</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>er=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZVw+</text>
