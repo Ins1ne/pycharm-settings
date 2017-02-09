@@ -108,12 +108,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486658466616">
+      <file name="$USER_HOME$/vagrant/neag/config/urls.py" timestamp="1486660228074">
         <mark key="'" line="14" column="50" />
-        <mark key="[" line="29" column="53" />
-        <mark key="]" line="29" column="59" />
-        <mark key="^" line="29" column="59" />
-        <mark key="." line="29" column="59" />
+        <mark key="[" line="30" column="44" />
+        <mark key="]" line="30" column="46" />
+        <mark key="^" line="30" column="46" />
+        <mark key="." line="30" column="46" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -740,17 +740,17 @@
       <jump line="170" column="9" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
+      <register name="&quot;" type="4">
+        <text>-:\w</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>-:\w</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>CustomGCMDeviceAuthorizedViewSet</text>
+        <text encoding="base64">KD9QPGtleT5bLTpcd10rKS8=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
