@@ -118,10 +118,10 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1486626753862">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1486649094462">
         <mark key="'" line="8" column="64" />
-        <mark key="[" line="11" column="56" />
-        <mark key="]" line="11" column="55" />
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="34" />
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="55" />
       </file>
@@ -233,12 +233,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486646469078">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1486648723698">
         <mark key="'" line="0" column="31" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-        <mark key="^" line="128" column="48" />
+        <mark key="[" line="127" column="28" />
+        <mark key="]" line="128" column="31" />
+        <mark key="." line="128" column="31" />
+        <mark key="^" line="128" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -419,12 +419,12 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486646612735">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486648401132">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="32" />
-        <mark key="^" line="39" column="7" />
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1486554859368">
         <mark key="'" line="98" column="17" />
@@ -732,17 +732,17 @@
       <jump line="0" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fdG9waWNzX19waz1zZXR0aW5ncy5CUkVBS0lOR19ORVdTX0NBVEVHT1JZLAo=</text>
+      <register name="&quot;" type="4">
+        <text>cache_page(60)(</text>
       </register>
       <register name="-" type="4">
-        <text>classmethod</text>
+        <text>.send_message()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWNoZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fcGs9ZmVlZF9pZCwK</text>
+      <register name="0" type="4">
+        <text>cache_page(60)(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyX19mZWVkc19fdG9waWNzX19waz1zZXR0aW5ncy5CUkVBS0lOR19ORVdTX0NBVEVHT1JZLAo=</text>
