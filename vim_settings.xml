@@ -396,11 +396,11 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486648401132">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486713828700">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="35" />
-        <mark key="." line="42" column="35" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="63" />
+        <mark key="." line="34" column="0" />
         <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1486554859368">
@@ -699,8 +699,8 @@
       <jump line="64" column="23" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, blank=True</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBwdXNoX25vdGlmaWNhdGlvbnMubW9kZWxzIGltcG9ydCBBUE5TRGV2aWNlLCBHQ01EZXZpY2UK</text>
       </register>
       <register name="-" type="4">
         <text>, blank=True</text>
@@ -712,31 +712,31 @@
         <text encoding="base64">ICAgICAgICBrZXkgPSAne31fZmVhdHVyZWQnLmZvcm1hdChvYmoucGspCiAgICAgICAgZmVhdHVyZWRfaW1hZ2UgPSBjYWNoZS5nZXQoa2V5KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ZnJvbSBwdXNoX25vdGlmaWNhdGlvbnMubW9kZWxzIGltcG9ydCBBUE5TRGV2aWNlLCBHQ01EZXZpY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBwdXNoX25vdGlmaWNhdGlvbnMuYXBpLnJlc3RfZnJhbWV3b3JrIGltcG9ydCBBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXQsIEdDTURldmljZUF1dGhvcml6ZWRWaWV3U2V0Cg==</text>
+        <text encoding="base64">VVBEQVRFX09OX0RVUExJQ0FURV9SRUdfSUQgPSBUcnVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWyd1cmwnXSkK</text>
+        <text encoding="base64">ZnJvbSBwdXNoX25vdGlmaWNhdGlvbnMuYXBpLnJlc3RfZnJhbWV3b3JrIGltcG9ydCBBUE5TRGV2aWNlQXV0aG9yaXplZFZpZXdTZXQsIEdDTURldmljZUF1dGhvcml6ZWRWaWV3U2V0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRzWyd1cmwnXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvYmouaW1hZ2UpCg==</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">YXBuc19kZXZpY2VzID0KZ2NtX2RldmljZXMgPSA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
