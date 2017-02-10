@@ -419,12 +419,12 @@
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486728245281">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1486731061808">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="63" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="42" column="35" />
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="^" line="38" column="52" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moe.py" timestamp="1486554859368">
         <mark key="'" line="98" column="17" />
