@@ -261,12 +261,12 @@
         <mark key="." line="49" column="16" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1486717045518">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1486905259622">
         <mark key="'" line="29" column="25" />
-        <mark key="[" line="29" column="26" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+        <mark key="[" line="119" column="51" />
+        <mark key="]" line="119" column="54" />
+        <mark key="." line="119" column="54" />
+        <mark key="^" line="119" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1486733876455">
         <mark key="'" line="22" column="73" />
@@ -726,10 +726,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>[</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBUE5TRGV2aWNlU2VyaWFsaXplclw+</text>
