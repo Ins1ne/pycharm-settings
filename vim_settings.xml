@@ -59,12 +59,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1486843290242">
-        <mark key="'" line="158" column="0" />
-        <mark key="[" line="154" column="44" />
-        <mark key="]" line="154" column="45" />
-        <mark key="." line="154" column="45" />
-        <mark key="^" line="154" column="45" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1486974713769">
+        <mark key="'" line="161" column="0" />
+        <mark key="[" line="67" column="53" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1486504381677">
         <mark key="'" line="7" column="0" />
@@ -725,8 +725,8 @@
       <jump line="150" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>[</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZV9mZWVkcyhzZWxmLCBmZWVkcyk6CiAgICAgICAgcmV0dXJuIEZlZWQub2JqZWN0cy5maWx0ZXIocGtfX2luPWZlZWRzKS52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>[</text>
@@ -735,7 +735,7 @@
         <text encoding="base64">XDxBUE5TRGV2aWNlU2VyaWFsaXplclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkZXZpY2UudXNlci5ub3RpZmljYXRpb25zID0gbm90aWZpY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgIGRlZiB2YWxpZGF0ZV9mZWVkcyhzZWxmLCBmZWVkcyk6CiAgICAgICAgcmV0dXJuIEZlZWQub2JqZWN0cy5maWx0ZXIocGtfX2luPWZlZWRzKS52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
