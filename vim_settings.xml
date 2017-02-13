@@ -122,7 +122,7 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1486991026738">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1487000134182">
         <mark key="'" line="8" column="64" />
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="37" />
@@ -766,7 +766,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IFVzZXIub2JqZWN0cy5jcmVhdGUodXNlcm5hbWU9cmVnaXN0cmF0aW9uX2lkLCBub3RpZmljYXRpb25zPW5vdGlmaWNhdGlvbnMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -820,8 +820,8 @@
         <entry>.,.+6821</entry>
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
