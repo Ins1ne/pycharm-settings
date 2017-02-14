@@ -548,12 +548,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1487089799137">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1487092703847">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="34" column="36" />
-        <mark key="]" line="35" column="38" />
-        <mark key="^" line="35" column="38" />
-        <mark key="." line="35" column="38" />
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="36" column="43" />
+        <mark key="^" line="36" column="43" />
+        <mark key="." line="36" column="43" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487062660478">
         <mark key="'" line="55" column="25" />
@@ -715,11 +715,11 @@
       <jump line="321" column="42" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">U0NSQVBZX1NQSURFUlM9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, 'topics__title'</text>
       </register>
       <register name="-" type="4">
-        <text>(list, []),</text>
+        <text>, 'topics__title'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljQVBJVmlld1w+</text>
