@@ -375,11 +375,12 @@
         <mark key="^" line="71" column="18" />
         <mark key="." line="71" column="18" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487077703981">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487086980402">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+        <mark key="[" line="42" column="52" />
+        <mark key="]" line="42" column="51" />
+        <mark key="." line="42" column="51" />
+        <mark key="^" line="42" column="51" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1486552553951">
         <mark key="'" line="100" column="8" />
@@ -715,11 +716,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmFsID0gc2VsZi5xdWVyeXNldC5nZXQocGs9cGspCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09IHNldChnZW5lcmFsKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>self.serializer_class</text>
+        <text encoding="base64">ID09IHNldChnZW5lcmFsKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljQVBJVmlld1w+</text>
