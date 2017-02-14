@@ -487,12 +487,12 @@
         <mark key="^" line="71" column="18" />
         <mark key="." line="71" column="18" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487068354164">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487070324546">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="78" />
-        <mark key="." line="41" column="0" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="44" column="3" />
+        <mark key="^" line="44" column="3" />
+        <mark key="." line="44" column="3" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1486552553951">
         <mark key="'" line="100" column="8" />
@@ -718,8 +718,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>all</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfcG9zdHNfY291bnQoc2VsZiwgb2JqKToKICAgICAgICByZXR1cm4gb2JqLm5ld3MuY291bnQoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>all</text>
@@ -727,8 +727,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTZXJpYWxpemVyTWV0aG9kRmllbGRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>set(user_feeds).intersection(general)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiBnZXRfcG9zdHNfY291bnQoc2VsZiwgb2JqKToKICAgICAgICByZXR1cm4gb2JqLm5ld3MuY291bnQoKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
