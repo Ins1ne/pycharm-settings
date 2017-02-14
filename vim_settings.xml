@@ -334,12 +334,12 @@
         <mark key="." line="72" column="72" />
         <mark key="^" line="72" column="72" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487061972303">
-        <mark key="'" line="408" column="21" />
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
-        <mark key="^" line="410" column="43" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487089987011">
+        <mark key="'" line="321" column="42" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="30" />
+        <mark key="." line="321" column="41" />
+        <mark key="^" line="321" column="41" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1486559062370">
         <mark key="'" line="61" column="8" />
@@ -434,12 +434,11 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/env.example" timestamp="1486480230022">
+      <file name="$USER_HOME$/vagrant/neag/env.example" timestamp="1487089636170">
         <mark key="'" line="26" column="17" />
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="29" column="19" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="29" column="19" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/urls.py" timestamp="1486474392224">
         <mark key="'" line="6" column="85" />
@@ -549,12 +548,12 @@
         <mark key="^" line="35" column="45" />
         <mark key="." line="52" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1487069378588">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/admin.py" timestamp="1487089799137">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="35" />
-        <mark key="]" line="33" column="48" />
-        <mark key="^" line="33" column="48" />
-        <mark key="." line="33" column="48" />
+        <mark key="[" line="34" column="36" />
+        <mark key="]" line="35" column="38" />
+        <mark key="^" line="35" column="38" />
+        <mark key="." line="35" column="38" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487062660478">
         <mark key="'" line="55" column="25" />
@@ -614,10 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="28" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
-      <jump line="100" column="12" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
-      <jump line="173" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
-      <jump line="45" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="159" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="7" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="158" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
@@ -714,46 +709,51 @@
       <jump line="11" column="85" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="50" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="9" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="38" column="13" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="320" column="17" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="49" column="29" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="321" column="42" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID09IHNldChnZW5lcmFsKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U0NSQVBZX1NQSURFUlM9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IHNldChnZW5lcmFsKQ==</text>
+        <text>(list, []),</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHZW5lcmljQVBJVmlld1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2VuZXJhbCA9IHNlbGYucXVlcnlzZXQuZ2V0KHBrPXBrKQo=</text>
+        <text encoding="base64">ICAgIFNDUkFQWV9TUElERVJTPShsaXN0LCBbXSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmFsID0gc2VsZi5xdWVyeXNldC5nZXQocGs9cGspCg==</text>
+        <text encoding="base64">U0NSQVBZX1NQSURFUlM9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICMgcXVlcnlzZXQgPSBHZW5lcmFsRmVlZC5vYmplY3RzLmFsbCgpCiAgICAjIHNlcmlhbGl6ZXJfY2xhc3MgPSBOZXdzTGlzdFNlcmlhbGl6ZXIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">PScnCiAgICA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
+      <register name="3" type="4">
+        <text>забыл спросить, для парсинга он походу не дал ресурсов правильно?
+тогда я пока буду смотреть в сторону поиска</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChnZW5lcmFsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIyBnZW5lcmFsID0gc2VsZi5xdWVyeXNldC5nZXQocGs9cGspCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgCg==</text>
+        <text encoding="base64">ICAgICMgcXVlcnlzZXQgPSBHZW5lcmFsRmVlZC5vYmplY3RzLmFsbCgpCiAgICAjIHNlcmlhbGl6ZXJfY2xhc3MgPSBOZXdzTGlzdFNlcmlhbGl6ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgT3JkZXJlZERpY3QK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChnZW5lcmFsKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgpjbGFzcyBHZW5lcmFsRmVlZERldGFpbHNTZXJpYWxpemVyKHNlcmlhbGl6ZXJzLk1vZGVsU2VyaWFsaXplcik6CiAgICBpc19mb2xsb3dlZCA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCiAgICBwb3N0c19jb3VudCA9IHNlcmlhbGl6ZXJzLlNlcmlhbGl6ZXJNZXRob2RGaWVsZCgpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtb2RlbCA9IEdlbmVyYWxGZWVkCiAgICAgICAgZmllbGRzID0gKCdpZCcsICd0aXRsZScsICd1cmwnLCAnaW1hZ2UnLCAnaXNfZm9sbG93ZWQnLCAnZmVlZHMnLCAnZmVlZHNfYXJ0aWNsZXMnKQoKICAgIGRlZiBnZXRfaXNfZm9sbG93ZWQoc2VsZiwgb2JqKToKICAgICAgICByZXF1ZXN0ID0gc2VsZi5jb250ZXh0WydyZXF1ZXN0J10KICAgICAgICAjIGNoZWNrIGlmIGFsbCBmZWVkcyBpbiBnZW5lcmFsIGZlZWQgYWxzbyBpbiB1c2VycyBmZWVkIGxpc3QKICAgICAgICBpZiBub3QgcmVxdWVzdC51c2VyLmlzX2Fub255bW91cygpOgogICAgICAgICAgICBnZW5lcmFsID0gb2JqLmZlZWRzLnZhbHVlc19saXN0KCdpZCcsIGZsYXQ9VHJ1ZSkKICAgICAgICAgICAgdXNlcl9mZWVkcyA9IHJlcXVlc3QudXNlci5mZWVkc19saXN0CiAgICAgICAgICAgIHJldHVybiBsaXN0KHNldCh1c2VyX2ZlZWRzKS5pbnRlcnNlY3Rpb24oZ2VuZXJhbCkpID09IGxpc3QoZ2VuZXJhbCkKICAgICAgICByZXR1cm4gRmFsc2UKCiAgICBkZWYgZ2V0X3Bvc3RzX2NvdW50KHNlbGYsIG9iaik6CiAgICAgICAgcmV0dXJuIE5ld3Mub2JqZWN0cy5maWx0ZXIoZmVlZF9faW49b2JqLmZlZWRzLmFsbCgpKS5jb3VudCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
