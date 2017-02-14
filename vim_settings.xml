@@ -487,12 +487,12 @@
         <mark key="^" line="71" column="18" />
         <mark key="." line="71" column="18" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487066788108">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487068354164">
         <mark key="'" line="29" column="30" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="40" column="56" />
-        <mark key="^" line="40" column="17" />
-        <mark key="." line="40" column="18" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="78" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1486552553951">
         <mark key="'" line="100" column="8" />
@@ -718,44 +718,44 @@
       <jump line="29" column="30" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>obj.feeds.values_list('id', flat=True)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>list(</text>
+        <text>()n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTZXJpYWxpemVyTWV0aG9kRmllbGRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>obj.feeds.values_list('id', flat=True)</text>
+        <text>set(user_feeds).intersection(general)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5wayBpbiByZXF1ZXN0LnVzZXIuZmVlZHNfbGlzdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBnZXRfZmVlZHMoc2VsZiwgb2JqKToKICAgICMgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodXNlcl9mZWVkcykKICAgICAgICAgICAgcHJpbnQoZ2VuZXJhbCkKICAgICAgICAgICAgcHJpbnQoc2V0KHVzZXJfZmVlZHMpLmludGVyc2VjdGlvbihnZW5lcmFsKSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgZmVlZHMgPSBzZXJpYWxpemVycy4oKQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocmVxdWVzdC51c2VyLmZlZWRzX2xpc3QpCiAgICAgICAgICAgIHByaW50KG9iai5mZWVkcy52YWx1ZXNfbGlzdCgnaWQnLCBmbGF0PVRydWUpKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9wZXJ0eWFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5wayBpbiByZXF1ZXN0LnVzZXIuZmVlZHNfbGlzdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZmVlZHMoc2VsZiwgb2JqKToKICAgICAgICBwcm9wZXJ0eWFzcwo=</text>
+        <text encoding="base64">CiAgICAjIGRlZiBnZXRfZmVlZHMoc2VsZiwgb2JqKToKICAgICMgICAgIHBhc3MK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbG9yID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMwLCBibGFuaz1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICMgZmVlZHMgPSBzZXJpYWxpemVycy4oKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHR5cGUgPSBtb2RlbHMuU21hbGxJbnRlZ2VyRmllbGQoY2hvaWNlcz1UT1BJQ19UWVBFX0NIT0lDRVMpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0eWFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZmVlZHMoc2VsZiwgb2JqKToKICAgICAgICBwcm9wZXJ0eWFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAncmVsYXRpdmUnOiBUcnVlLAo=</text>
+        <text encoding="base64">ICAgIGNvbG9yID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTMwLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
