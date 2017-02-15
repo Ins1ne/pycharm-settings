@@ -334,12 +334,12 @@
         <mark key="." line="72" column="72" />
         <mark key="^" line="72" column="72" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487089987011">
-        <mark key="'" line="321" column="42" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="30" />
-        <mark key="." line="321" column="41" />
-        <mark key="^" line="321" column="41" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487143600008">
+        <mark key="'" line="88" column="29" />
+        <mark key="[" line="87" column="27" />
+        <mark key="]" line="88" column="29" />
+        <mark key="." line="88" column="29" />
+        <mark key="^" line="88" column="29" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sportksa.py" timestamp="1486559062370">
         <mark key="'" line="61" column="8" />
@@ -613,7 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="7" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="158" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="171" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
@@ -713,6 +712,7 @@
       <jump line="320" column="17" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="49" column="29" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="321" column="42" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="88" column="29" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
