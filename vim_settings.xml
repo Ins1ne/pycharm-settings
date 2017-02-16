@@ -156,12 +156,12 @@
         <mark key="." line="65" column="16" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1487260840545">
-        <mark key="'" line="169" column="4" />
-        <mark key="[" line="198" column="73" />
-        <mark key="]" line="198" column="73" />
-        <mark key="^" line="204" column="60" />
-        <mark key="." line="198" column="73" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/serializers.py" timestamp="1487265154323">
+        <mark key="'" line="171" column="4" />
+        <mark key="[" line="46" column="100" />
+        <mark key="]" line="46" column="111" />
+        <mark key="^" line="46" column="111" />
+        <mark key="." line="46" column="111" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alsharq.py" timestamp="1486504381677">
         <mark key="'" line="7" column="0" />
@@ -454,12 +454,12 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487261940005">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487265247779">
         <mark key="'" line="64" column="23" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="45" column="7" />
+        <mark key="[" line="44" column="60" />
+        <mark key="]" line="44" column="102" />
+        <mark key="." line="44" column="102" />
+        <mark key="^" line="44" column="102" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
         <mark key="'" line="86" column="8" />
@@ -731,11 +731,11 @@
       <jump line="169" column="4" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLnVzZXIudXNlcm5hbWU6CiAgICAgICAgIyAgICAgc2VsZi51c2VyLnVzZXJuYW1lID0gc2VsZi51c2VyLmVtYWlsCiAgICAgICAgIyAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>This field is required</text>
       </register>
       <register name="-" type="4">
-        <text>self.serializer.</text>
+        <text>This field is required</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</text>
@@ -744,31 +744,31 @@
         <text encoding="base64">ICAgIGZlZWRzID0gc2VyaWFsaXplcnMuTGlzdFNlcmlhbGl6ZXIoY2hpbGQ9c2VyaWFsaXplcnMuSW50ZWdlckZpZWxkKCksIGFsbG93X2VtcHR5PUZhbHNlLCByZXF1aXJlZD1GYWxzZSkKCiAgICBkZWYgdmFsaWRhdGVfZmVlZHMoc2VsZiwgZmVlZHMpOgogICAgICAgIHJldHVybiBGZWVkLm9iamVjdHMuZmlsdGVyKHBrX19pbj1mZWVkcykudmFsdWVzX2xpc3QoJ2lkJywgZmxhdD1UcnVlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLnVzZXIudXNlcm5hbWU6CiAgICAgICAgIyAgICAgc2VsZi51c2VyLnVzZXJuYW1lID0gc2VsZi51c2VyLmVtYWlsCiAgICAgICAgIyAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhdmUgZW1haWwgYXMgdXNlcm5hbWUK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyX3NlcmlhbGl6ZXIgPSBVc2VyRGV0YWlsc1NlcmlhbGl6ZXIoaW5zdGFuY2U9c2VsZi51c2VyLCBjb250ZXh0PXsncmVxdWVzdCc6IHNlbGYucmVxdWVzdH0pCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgJ2tleSc6IHNlbGYudG9rZW4ua2V5LAogICAgICAgICAgICAndXNlcic6IHVzZXJfc2VyaWFsaXplci5kYXRhCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFzcwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLnVzZXIudXNlcm5hbWU6CiAgICAgICAgIyAgICAgc2VsZi51c2VyLnVzZXJuYW1lID0gc2VsZi51c2VyLmVtYWlsCiAgICAgICAgIyAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAjIHNhdmUgZW1haWwgYXMgdXNlcm5hbWUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyX3NlcmlhbGl6ZXIgPSBVc2VyRGV0YWlsc1NlcmlhbGl6ZXIoaW5zdGFuY2U9c2VsZi51c2VyLCBjb250ZXh0PXsncmVxdWVzdCc6IHNlbGYucmVxdWVzdH0pCiAgICAgICAgZGF0YSA9IHsKICAgICAgICAgICAgJ2tleSc6IHNlbGYudG9rZW4ua2V5LAogICAgICAgICAgICAndXNlcic6IHVzZXJfc2VyaWFsaXplci5kYXRhCiAgICAgICAgfQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhdmUgZW1haWwgYXMgdXNlcm5hbWUKICAgICAgICBpZiBub3Qgc2VsZi51c2VyLnVzZXJuYW1lOgogICAgICAgICAgICBzZWxmLnVzZXIudXNlcm5hbWUgPSBzZWxmLnVzZXIuZW1haWwKICAgICAgICAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
+        <text encoding="base64">cGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHNhdmUgZW1haWwgYXMgdXNlcm5hbWUKICAgICAgICBpZiBub3Qgc2VsZi51c2VyLnVzZXJuYW1lOgogICAgICAgICAgICBzZWxmLnVzZXIudXNlcm5hbWUgPSBzZWxmLnVzZXIuZW1haWwKICAgICAgICAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2F1dGguc29jaWFsX3NlcmlhbGl6ZXJzIGltcG9ydCBUd2l0dGVyTG9naW5TZXJpYWxpemVyCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
