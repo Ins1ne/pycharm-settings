@@ -229,11 +229,11 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1487350839745">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="70" column="21" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1487365150189">
+        <mark key="[" line="62" column="85" />
+        <mark key="]" line="62" column="80" />
+        <mark key="." line="62" column="80" />
+        <mark key="^" line="62" column="80" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ittihadfc.py" timestamp="1486552459017">
         <mark key="'" line="75" column="8" />
@@ -735,11 +735,11 @@
       <jump line="102" column="19" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChrZXlzKQo=</text>
+      <register name="&quot;" type="4">
+        <text>//p</text>
       </register>
       <register name="-" type="4">
-        <text>update(</text>
+        <text>//p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvc1w+</text>
