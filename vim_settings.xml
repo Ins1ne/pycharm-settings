@@ -229,12 +229,12 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1487347487504">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1487348236857">
         <mark key="'" line="23" column="55" />
-        <mark key="[" line="85" column="33" />
-        <mark key="]" line="85" column="53" />
-        <mark key="." line="85" column="53" />
-        <mark key="^" line="85" column="53" />
+        <mark key="[" line="67" column="54" />
+        <mark key="]" line="67" column="66" />
+        <mark key="." line="67" column="66" />
+        <mark key="^" line="67" column="66" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ittihadfc.py" timestamp="1486552459017">
         <mark key="'" line="75" column="8" />
@@ -736,11 +736,11 @@
       <jump line="23" column="55" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi51cGRhdGVfcGljdHVyZShpbWFnZV91cmwsIGltYWdlX25hbWUpCg==</text>
+      <register name="&quot;" type="4">
+        <text>post-body</text>
       </register>
       <register name="-" type="4">
-        <text>social_account.extra_data['name']</text>
+        <text>post-body</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvc1w+</text>
