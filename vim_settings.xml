@@ -454,12 +454,12 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487322023795">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="21" />
-        <mark key="." line="67" column="21" />
-        <mark key="^" line="67" column="21" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487324753959">
+        <mark key="'" line="4" column="7" />
+        <mark key="[" line="65" column="48" />
+        <mark key="]" line="67" column="35" />
+        <mark key="." line="67" column="35" />
+        <mark key="^" line="67" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
         <mark key="'" line="86" column="8" />
@@ -629,11 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="188" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="198" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="54" column="12" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="192" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="0" column="34" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="123" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="51" column="82" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
@@ -729,55 +724,60 @@
       <jump line="198" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="169" column="4" filename="$USER_HOME$/vagrant/neag/neag/users/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="59" column="40" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="253" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="63" column="46" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="4" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>kkkkkk</text>
+        <text encoding="base64">ZWxmLiA=</text>
       </register>
       <register name="-" type="4">
-        <text>kkkkkk</text>
+        <text encoding="base64">ZWxmLiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</text>
+        <text encoding="base64">XDxvc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXNlci5mdWxsX25hbWUgPSBzb2NpYWxfYWNjb3VudC5leHRyYV9kYXRhWyduYW1lJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdXNlci5hcG5zZGV2aWNlX3NldC5hbGwoKS5kZWxldGUoKQogICAgIyB1c2VyLmdjbWRldmljZV9zZXQuYWxsKCkuZGVsZXRlKCkK</text>
+        <text encoding="base64">a2tra2trCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICMgdXNlci5hcG5zZGV2aWNlX3NldC5hbGwoKS5kZWxldGUoKQogICAgIyB1c2VyLmdjbWRldmljZV9zZXQuYWxsKCkuZGVsZXRlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIGlmIG5vdCBzZWxmLnVzZXIudXNlcm5hbWU6CiAgICAgICAgIyAgICAgc2VsZi51c2VyLnVzZXJuYW1lID0gc2VsZi51c2VyLmVtYWlsCiAgICAgICAgIyAgICAgc2VsZi51c2VyLnNhdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIHNhdmUgZW1haWwgYXMgdXNlcm5hbWUK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</last-search>
+      <last-search encoding="base64">XDxvc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvc1w+</last-pattern>
       <last-replace>Delete</last-replace>
       <last-substitute>Custom</last-substitute>
       <last-dir>-1</last-dir>
@@ -785,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJTUFHRV9VUkxfQ0FDSEVfVElNRU9VVFw+</entry>
         <entry encoding="base64">XDxjbGVhcl9uZXdzXD4=</entry>
         <entry encoding="base64">XDxTZXJpYWxpemVyTWV0aG9kRmllbGRcPg==</entry>
         <entry encoding="base64">XDxyYWlzZVw+</entry>
@@ -805,6 +804,7 @@
         <entry encoding="base64">XDxQYXNzd29yZFJlc2V0U2VyaWFsaXplclw+</entry>
         <entry encoding="base64">XDxsaXN0X2Rpc3BsYXlfbGlua3NcPg==</entry>
         <entry encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</entry>
+        <entry encoding="base64">XDxvc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RydWUvVHJ1ZS9n</entry>
