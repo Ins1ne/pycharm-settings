@@ -454,11 +454,11 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487321170902">
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487322023795">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="67" />
-        <mark key="." line="59" column="0" />
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="21" />
+        <mark key="." line="67" column="21" />
         <mark key="^" line="67" column="21" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
@@ -731,11 +731,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXNlci5mdWxsX25hbWUgPSBzb2NpYWxfYWNjb3VudC5leHRyYV9kYXRhWyduYW1lJ10K</text>
+      <register name="&quot;" type="4">
+        <text>kkkkkk</text>
       </register>
       <register name="-" type="4">
-        <text>facebook</text>
+        <text>kkkkkk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUd2l0dGVyTG9naW5TZXJpYWxpemVyXD4=</text>
