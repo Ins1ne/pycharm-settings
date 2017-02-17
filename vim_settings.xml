@@ -52,6 +52,9 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/generics.py" timestamp="1487017630000">
+        <mark key="'" line="24" column="6" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/arabi21.py" timestamp="1486504627036">
         <mark key="'" line="69" column="8" />
         <mark key="[" line="41" column="0" />
@@ -399,6 +402,9 @@
         <mark key="." line="12" column="11" />
         <mark key="^" line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" timestamp="1486015697612">
+        <mark key="'" line="75" column="4" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/shorouknews.py" timestamp="1486558485636">
         <mark key="'" line="54" column="16" />
         <mark key="[" line="70" column="0" />
@@ -455,11 +461,7 @@
         <mark key="." line="47" column="16" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487328620466">
-        <mark key="'" line="287" column="0" />
-        <mark key="[" line="90" column="62" />
-        <mark key="]" line="92" column="19" />
-        <mark key="^" line="92" column="19" />
-        <mark key="." line="92" column="19" />
+        <mark key="'" line="265" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
         <mark key="'" line="86" column="8" />
@@ -546,6 +548,9 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="19" column="84" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/mixins.py" timestamp="1487017607922">
+        <mark key="'" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alyaum.py" timestamp="1486504424443">
         <mark key="'" line="70" column="8" />
