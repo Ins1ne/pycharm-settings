@@ -454,12 +454,11 @@
         <mark key="^" line="73" column="72" />
         <mark key="." line="47" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487324753959">
-        <mark key="'" line="4" column="7" />
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="67" column="35" />
-        <mark key="." line="67" column="35" />
-        <mark key="^" line="67" column="35" />
+      <file name="$USER_HOME$/vagrant/neag/neag/users/views.py" timestamp="1487325995977">
+        <mark key="[" line="71" column="37" />
+        <mark key="]" line="71" column="54" />
+        <mark key="." line="71" column="54" />
+        <mark key="^" line="71" column="54" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/noonpost.py" timestamp="1486557156050">
         <mark key="'" line="86" column="8" />
@@ -629,7 +628,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="34" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="123" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="51" column="82" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="44" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
@@ -729,10 +727,11 @@
       <jump line="253" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="63" column="46" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
       <jump line="4" column="7" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
+      <jump line="65" column="8" filename="$USER_HOME$/vagrant/neag/neag/users/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWxmLiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZWxmLiA=</text>
@@ -744,31 +743,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYudXNlci5mdWxsX25hbWUgPSBzb2NpYWxfYWNjb3VudC5leHRyYV9kYXRhWyduYW1lJ10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">a2tra2trCg==</text>
+        <text encoding="base64">ICAgICAgICBpbWFnZV9uYW1lID0gb3MucGF0aC5iYXNlbmFtZShpbWFnZV91cmwpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VfZmlsZSA9IEZpbGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXNlci5hcG5zZGV2aWNlX3NldC5hbGwoKS5kZWxldGUoKQogICAgIyB1c2VyLmdjbWRldmljZV9zZXQuYWxsKCkuZGVsZXRlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">a2tra2trCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICMgdXNlci5hcG5zZGV2aWNlX3NldC5hbGwoKS5kZWxldGUoKQogICAgIyB1c2VyLmdjbWRldmljZV9zZXQuYWxsKCkuZGVsZXRlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
