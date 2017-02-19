@@ -501,11 +501,12 @@
         <mark key="." line="13" column="107" />
         <mark key="^" line="13" column="107" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487497715702">
-        <mark key="'" line="2" column="1" />
-        <mark key="[" line="428" column="0" />
-        <mark key="]" line="433" column="1" />
-        <mark key="." line="428" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487500617876">
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="421" column="0" />
+        <mark key="]" line="421" column="0" />
+        <mark key="." line="421" column="0" />
+        <mark key="^" line="421" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1486414291759">
         <mark key="'" line="0" column="0" />
@@ -749,12 +750,12 @@
       <jump line="246" column="27" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="9" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="32" column="11" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="421" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="2" column="1" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="421" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">SEFZU1RBQ0tfQ09OTkVDVElPTlMgPSB7CiAgICAnZGVmYXVsdCc6IHsKICAgICAgICAnRU5HSU5FJzogJ2hheXN0YWNrLmJhY2tlbmRzLndob29zaF9iYWNrZW5kLldob29zaEVuZ2luZScsCiAgICAgICAgJ1BBVEgnOiBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ3dob29zaF9pbmRleCcpLAogICAgfSwKfQo=</text>
+        <text encoding="base64">ICAgICAgICAjIC4uLm9yIGZvciBtdWx0aWNvcmUuLi4KICAgICAgICAjICdVUkwnOiAnaHR0cDovLzEyNy4wLjAuMTo4OTgzL3NvbHIvbXlzaXRlJywK</text>
       </register>
       <register name="-" type="4">
         <text>user.get_full_name</text>
@@ -766,31 +767,43 @@
         <text encoding="base64">ICAgICAgICAgICAga2V5cyA9IFsne306aXRlbXMnLmZvcm1hdChzcGlkZXIpIGZvciBzcGlkZXIgaW4gc2V0dGluZ3MuU0NSQVBZX1NQSURFUlNdCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">SEFZU1RBQ0tfQ09OTkVDVElPTlMgPSB7CiAgICAnZGVmYXVsdCc6IHsKICAgICAgICAnRU5HSU5FJzogJ2hheXN0YWNrLmJhY2tlbmRzLndob29zaF9iYWNrZW5kLldob29zaEVuZ2luZScsCiAgICAgICAgJ1BBVEgnOiBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ3dob29zaF9pbmRleCcpLAogICAgfSwKfQo=</text>
+        <text encoding="base64">ICAgICAgICAjIC4uLm9yIGZvciBtdWx0aWNvcmUuLi4KICAgICAgICAjICdVUkwnOiAnaHR0cDovLzEyNy4wLjAuMTo4OTgzL3NvbHIvbXlzaXRlJywK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">e3sgb2JqZWN0LmJvZHkgfX0K</text>
+      <register name="2" type="4">
+        <text># HAYSTACK_CONNECTIONS = {
+#     'default': {
+#         'ENGINE': 'haystack.backends.elasticsearch_backend.ElasticsearchSearchEngine',
+#         'URL': 'http://127.0.0.1:9200/',
+#         'INDEX_NAME': 'neag',
+#     },
+# }
+HAYSTACK_CONNECTIONS = {
+    'default': {
+        'ENGINE': 'haystack.backends.whoosh_backend.WhooshEngine',
+        'PATH': os.path.join(os.path.dirname(__file__), 'whoosh_index'),
+    },
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SEFZU1RBQ0tfQ09OTkVDVElPTlMgPSB7CiAgICAnZGVmYXVsdCc6IHsKICAgICAgICAnRU5HSU5FJzogJ2hheXN0YWNrLmJhY2tlbmRzLndob29zaF9iYWNrZW5kLldob29zaEVuZ2luZScsCiAgICAgICAgJ1BBVEgnOiBvcy5wYXRoLmpvaW4ob3MucGF0aC5kaXJuYW1lKF9fZmlsZV9fKSwgJ3dob29zaF9pbmRleCcpLAogICAgfSwKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgb2JqZWN0LmJvZHkgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBgZmllbGRzYCBjb250YWlucyBhbGwgdGhlIGZpZWxkcyB3ZSB3YW50IHRvIGluY2x1ZGUuCiAgICAgICAgIyBOT1RFOiBNYWtlIHN1cmUgeW91IGRvbid0IGNvbmZ1c2UgdGhlc2Ugd2l0aCBtb2RlbCBhdHRyaWJ1dGVzLiBUaGVzZQogICAgICAgICMgZmllbGRzIGJlbG9uZyB0byB0aGUgc2VhcmNoIGluZGV4IQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBUb3BpYywgRmVlZCwgTmV3cywgVGFnLCBJbWFnZSwgUGFnZSwgQ29tbWVudCwgR2VuZXJhbEZlZWQK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAjIFRoZSBgaW5kZXhfY2xhc3Nlc2AgYXR0cmlidXRlIGlzIGEgbGlzdCBvZiB3aGljaCBzZWFyY2ggaW5kZXhlcwogICAgICAgICMgd2Ugd2FudCB0byBpbmNsdWRlIGluIHRoZSBzZWFyY2guCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAjIFRoZSBgZmllbGRzYCBjb250YWlucyBhbGwgdGhlIGZpZWxkcyB3ZSB3YW50IHRvIGluY2x1ZGUuCiAgICAgICAgIyBOT1RFOiBNYWtlIHN1cmUgeW91IGRvbid0IGNvbmZ1c2UgdGhlc2Ugd2l0aCBtb2RlbCBhdHRyaWJ1dGVzLiBUaGVzZQogICAgICAgICMgZmllbGRzIGJlbG9uZyB0byB0aGUgc2VhcmNoIGluZGV4IQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBUb3BpYywgRmVlZCwgTmV3cywgVGFnLCBJbWFnZSwgUGFnZSwgQ29tbWVudCwgR2VuZXJhbEZlZWQK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgICAgICAjIFRoZSBgaW5kZXhfY2xhc3Nlc2AgYXR0cmlidXRlIGlzIGEgbGlzdCBvZiB3aGljaCBzZWFyY2ggaW5kZXhlcwogICAgICAgICMgd2Ugd2FudCB0byBpbmNsdWRlIGluIHRoZSBzZWFyY2guCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
