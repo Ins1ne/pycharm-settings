@@ -302,12 +302,12 @@
         <mark key="." line="4" column="37" />
         <mark key="^" line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1486733876455">
+      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1487512408364">
         <mark key="'" line="22" column="73" />
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="25" />
-        <mark key="." line="25" column="25" />
-        <mark key="^" line="25" column="25" />
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="37" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1486558901413">
         <mark key="'" line="85" column="8" />
@@ -556,12 +556,6 @@
         <mark key="]" line="24" column="45" />
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
-      </file>
-      <file name="$USER_HOME$/vagrant/neag/env.example" timestamp="1487089636170">
-        <mark key="'" line="26" column="17" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/beinsports.py" timestamp="1486547737824">
         <mark key="'" line="66" column="8" />
