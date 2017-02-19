@@ -244,12 +244,12 @@
         <mark key="^" line="84" column="38" />
         <mark key="." line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487535862848">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487539964768">
         <mark key="'" line="14" column="34" />
-        <mark key="[" line="225" column="0" />
-        <mark key="]" line="225" column="0" />
-        <mark key="." line="225" column="0" />
-        <mark key="^" line="223" column="35" />
+        <mark key="[" line="226" column="37" />
+        <mark key="]" line="229" column="35" />
+        <mark key="." line="229" column="35" />
+        <mark key="^" line="229" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1486559257729">
         <mark key="'" line="62" column="8" />
