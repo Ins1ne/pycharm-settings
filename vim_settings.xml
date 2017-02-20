@@ -245,11 +245,10 @@
         <mark key="^" line="84" column="38" />
         <mark key="." line="84" column="38" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487605249070">
-        <mark key="[" line="221" column="68" />
-        <mark key="]" line="222" column="35" />
-        <mark key="." line="222" column="35" />
-        <mark key="^" line="222" column="35" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487609732636">
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1486559257729">
         <mark key="'" line="62" column="8" />
@@ -519,12 +518,12 @@
         <mark key="^" line="71" column="18" />
         <mark key="." line="71" column="18" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487594227447">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="246" column="71" />
-        <mark key="]" line="247" column="3" />
-        <mark key="." line="247" column="3" />
-        <mark key="^" line="247" column="3" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/serializers.py" timestamp="1487609447455">
+        <mark key="'" line="198" column="4" />
+        <mark key="[" line="255" column="73" />
+        <mark key="]" line="255" column="77" />
+        <mark key="." line="255" column="77" />
+        <mark key="^" line="255" column="77" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/maaal.py" timestamp="1486552553951">
         <mark key="'" line="100" column="8" />
@@ -653,7 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_auth/views.py" />
       <jump line="101" column="45" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="8" column="1" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -753,10 +751,11 @@
       <jump line="156" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
       <jump line="173" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
+      <jump line="198" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>, 'autocomplete'</text>
@@ -768,31 +767,31 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ3RleHQnLCAnY29udGVudCcsICd0aXRsZScsICdhdXRvY29tcGxldGUnLCAnaWQnXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAjIGF1dG9jb21wbGV0ZSA9IGluZGV4ZXMuRWRnZU5ncmFtRmllbGQoKQogICAgIwogICAgIyBAc3RhdGljbWV0aG9kCiAgICAjIGRlZiBwcmVwYXJlX2F1dG9jb21wbGV0ZShvYmopOgogICAgIyAgICAgcmV0dXJuICIgIi5qb2luKChvYmoudGl0bGUsIG9iai5jb250ZW50KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAjIGRlZiBnZXRfcGFnaW5hdGVkX3Jlc3BvbnNlKHNlbGYsIGRhdGEpOgogICAgIyAgICAgZGF0YSA9IHN1cGVyKFNlYXJjaFZpZXcsIHNlbGYpLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2UoZGF0YSkKICAgICMgICAgIG5ld3NfaWRzID0gW2l0ZW1bJ2lkJ10gZm9yIGl0ZW0gaW4gZGF0YV0KICAgICMKICAgICMgICAgIGlmIG5ld3NfaWRzOgogICAgIyAgICAgICAgIG5ld3MgPSBOZXdzLm9iamVjdHMuZmlsdGVyKGlkX19pbj1uZXdzX2lkcykKICAgICMgICAgICAgICBuZXdzX2RhdGEgPSBOZXdzTGlzdFNlcmlhbGl6ZXIoZGF0YT1uZXdzLCBtYW55PVRydWUpCiAgICAjICAgICAgICAgcmV0dXJuIG5ld3NfZGF0YQogICAgIyAgICAgZWxzZToKICAgICMgICAgICAgICByZXR1cm4gZGF0YQo=</text>
+        <text encoding="base64">CiAgICAjIGF1dG9jb21wbGV0ZSA9IGluZGV4ZXMuRWRnZU5ncmFtRmllbGQoKQogICAgIwogICAgIyBAc3RhdGljbWV0aG9kCiAgICAjIGRlZiBwcmVwYXJlX2F1dG9jb21wbGV0ZShvYmopOgogICAgIyAgICAgcmV0dXJuICIgIi5qb2luKChvYmoudGl0bGUsIG9iai5jb250ZW50KSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICMgdXJsKCdec2VhcmNoLyQnLCBTZWFyY2hWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ibmV3c19zZWFyY2giKSwK</text>
+        <text encoding="base64">CiAgICAjIGRlZiBnZXRfcGFnaW5hdGVkX3Jlc3BvbnNlKHNlbGYsIGRhdGEpOgogICAgIyAgICAgZGF0YSA9IHN1cGVyKFNlYXJjaFZpZXcsIHNlbGYpLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2UoZGF0YSkKICAgICMgICAgIG5ld3NfaWRzID0gW2l0ZW1bJ2lkJ10gZm9yIGl0ZW0gaW4gZGF0YV0KICAgICMKICAgICMgICAgIGlmIG5ld3NfaWRzOgogICAgIyAgICAgICAgIG5ld3MgPSBOZXdzLm9iamVjdHMuZmlsdGVyKGlkX19pbj1uZXdzX2lkcykKICAgICMgICAgICAgICBuZXdzX2RhdGEgPSBOZXdzTGlzdFNlcmlhbGl6ZXIoZGF0YT1uZXdzLCBtYW55PVRydWUpCiAgICAjICAgICAgICAgcmV0dXJuIG5ld3NfZGF0YQogICAgIyAgICAgZWxzZToKICAgICMgICAgICAgICByZXR1cm4gZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
+        <text encoding="base64">ICAgICMgdXJsKCdec2VhcmNoLyQnLCBTZWFyY2hWaWV3LmFzX3ZpZXcoKSwgbmFtZT0ibmV3c19zZWFyY2giKSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgojIGNsYXNzIFNlYXJjaFNlcmlhbGl6ZXIoSGF5c3RhY2tTZXJpYWxpemVyTWl4aW4sIE5ld3NMaXN0U2VyaWFsaXplcik6CiMgICAgICMgY2xhc3MgU2VhcmNoU2VyaWFsaXplcihIYXlzdGFja1NlcmlhbGl6ZXJNaXhpbiwgc2VyaWFsaXplcnMuU2VyaWFsaXplcik6CiMgICAgIGNsYXNzIE1ldGEoTmV3c0xpc3RTZXJpYWxpemVyLk1ldGEpOgojICAgICAgICAgaW5kZXhfY2xhc3NlcyA9IFtOZXdzSW5kZXhdCiMgICAgICAgICBzZWFyY2hfZmllbGRzID0gKCdjb250ZW50JywgJ3RpdGxlJywgJ3RleHQnKQojICAgICAgICAgIyBmaWVsZHMgPSBbJ3RleHQnLCAnY29udGVudCcsICd0aXRsZScsICdhdXRvY29tcGxldGUnLCAnZGphbmdvX2lkJ10KIyAgICAgICAgICMgaWdub3JlX2ZpZWxkcyA9IFsiYXV0b2NvbXBsZXRlIl0KIyAgICAgICAgIGZpZWxkX2FsaWFzZXMgPSB7CiMgICAgICAgICAgICAgInEiOiAiYXV0b2NvbXBsZXRlIgojICAgICAgICAgfQojICAgICAgICAgIyBleGNsdWRlID0gWydpZCddCiMKIyAgICAgZGVmIGdldF9vYmplY3RzKHNlbGYsIGluc3RhbmNlKToKIyAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiMgICAgICAgICByZXR1cm4gc3VwZXIoU2VhcmNoU2VyaWFsaXplciwgc2VsZikuZ2V0X29iamVjdHMoaW5zdGFuY2UpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">CgojIGNsYXNzIFNlYXJjaFNlcmlhbGl6ZXIoSGF5c3RhY2tTZXJpYWxpemVyTWl4aW4sIE5ld3NMaXN0U2VyaWFsaXplcik6CiMgICAgICMgY2xhc3MgU2VhcmNoU2VyaWFsaXplcihIYXlzdGFja1NlcmlhbGl6ZXJNaXhpbiwgc2VyaWFsaXplcnMuU2VyaWFsaXplcik6CiMgICAgIGNsYXNzIE1ldGEoTmV3c0xpc3RTZXJpYWxpemVyLk1ldGEpOgojICAgICAgICAgaW5kZXhfY2xhc3NlcyA9IFtOZXdzSW5kZXhdCiMgICAgICAgICBzZWFyY2hfZmllbGRzID0gKCdjb250ZW50JywgJ3RpdGxlJywgJ3RleHQnKQojICAgICAgICAgIyBmaWVsZHMgPSBbJ3RleHQnLCAnY29udGVudCcsICd0aXRsZScsICdhdXRvY29tcGxldGUnLCAnZGphbmdvX2lkJ10KIyAgICAgICAgICMgaWdub3JlX2ZpZWxkcyA9IFsiYXV0b2NvbXBsZXRlIl0KIyAgICAgICAgIGZpZWxkX2FsaWFzZXMgPSB7CiMgICAgICAgICAgICAgInEiOiAiYXV0b2NvbXBsZXRlIgojICAgICAgICAgfQojICAgICAgICAgIyBleGNsdWRlID0gWydpZCddCiMKIyAgICAgZGVmIGdldF9vYmplY3RzKHNlbGYsIGluc3RhbmNlKToKIyAgICAgICAgIGltcG9ydCBpcGRiOyBpcGRiLnNldF90cmFjZSgpCiMgICAgICAgICByZXR1cm4gc3VwZXIoU2VhcmNoU2VyaWFsaXplciwgc2VsZikuZ2V0X29iamVjdHMoaW5zdGFuY2UpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZF9hbGlhc2VzID0gewogICAgICAgICAgICAicSI6ICJ0ZXh0X19jb250YWlucyIKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZXNwb25zZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIGZpZWxkcyA9IFsnaWQnXQo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZF9hbGlhc2VzID0gewogICAgICAgICAgICAicSI6ICJ0ZXh0X19jb250YWlucyIKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
