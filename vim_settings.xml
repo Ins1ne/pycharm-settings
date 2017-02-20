@@ -126,11 +126,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487605437038">
-        <mark key="[" line="9" column="46" />
-        <mark key="]" line="10" column="54" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="54" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487606592169">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="8" />
+        <mark key="." line="9" column="8" />
+        <mark key="^" line="9" column="8" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -260,8 +261,8 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/mixins.py" timestamp="1487017607922">
         <mark key="'" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487163501158">
-        <mark key="'" line="131" column="25" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487606266330">
+        <mark key="'" line="32" column="22" />
         <mark key="[" line="85" column="40" />
         <mark key="]" line="85" column="40" />
         <mark key="^" line="85" column="40" />
@@ -640,6 +641,9 @@
         <mark key="^" line="34" column="24" />
         <mark key="." line="31" column="73" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/config/schema.xml" timestamp="1487606614061">
+        <mark key="'" line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" timestamp="1486547882265">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="24" column="42" />
@@ -649,18 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
-      <jump line="56" column="56" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="47" column="83" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="142" column="20" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="136" column="25" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="129" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
-      <jump line="108" column="17" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="51" column="6" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="66" column="29" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="74" column="37" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="17" column="21" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
-      <jump line="100" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="215" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="56" column="0" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_auth/views.py" />
       <jump line="101" column="45" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -749,6 +741,18 @@
       <jump line="117" column="29" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="105" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="219" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="23" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="10" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
+      <jump line="162" column="36" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="107" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="104" column="32" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="100" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="32" column="22" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="159" column="4" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
+      <jump line="158" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
+      <jump line="156" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
+      <jump line="173" column="0" filename="$USER_HOME$/vagrant/neag/config/schema.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -758,7 +762,7 @@
         <text>, 'autocomplete'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxIYXlzdGFja0dlbmVyaWNBUElWaWV3XD4=</text>
+        <text>_en</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWVsZHMgPSBbJ3RleHQnLCAnY29udGVudCcsICd0aXRsZScsICdhdXRvY29tcGxldGUnLCAnaWQnXQo=</text>
@@ -795,18 +799,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxIYXlzdGFja0dlbmVyaWNBUElWaWV3XD4=</last-search>
+      <last-search>_en</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxIYXlzdGFja0dlbmVyaWNBUElWaWV3XD4=</last-pattern>
-      <last-replace>Delete</last-replace>
-      <last-substitute>Custom</last-substitute>
+      <last-pattern>_en</last-pattern>
+      <last-replace>_ar</last-replace>
+      <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTZW50cnlIYW5kbGVyXD4=</entry>
-        <entry encoding="base64">XDxTb2NpYWxMb2dpblZpZXdcPg==</entry>
         <entry encoding="base64">XDxGZWVkRGV0YWlsc1NlcmlhbGl6ZXJcPg==</entry>
         <entry encoding="base64">XDxGZWVkRGV0YWlsU2VyaWFsaXplclw+</entry>
         <entry>FeedSerializer</entry>
@@ -825,9 +827,10 @@
         <entry encoding="base64">XDxTZWFyY2hTZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxIYXlzdGFja0F1dG9jb21wbGV0ZUZpbHRlclw+</entry>
         <entry encoding="base64">XDxIYXlzdGFja0dlbmVyaWNBUElWaWV3XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVkXD4=</entry>
+        <entry>_en</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2ZhbHNlL0ZhbHNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
         <entry>s/0.0/0/g</entry>
         <entry encoding="base64">JzwsJz5zL3JlY3J1aXRlZV9jb250YWN0L3RpbWVzaGVldC9n</entry>
@@ -844,8 +847,9 @@
         <entry encoding="base64">JzwsJz5x</entry>
         <entry>x</entry>
         <entry encoding="base64">JzwsJz5zL0N1c3RvbS9EZWxldGUvZw==</entry>
-        <entry>q</entry>
         <entry>ww</entry>
+        <entry>q</entry>
+        <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
