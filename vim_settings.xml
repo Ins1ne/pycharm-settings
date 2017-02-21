@@ -194,6 +194,12 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="77" column="16" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/neag/news/signals.py" timestamp="1487713067050">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/env.example" timestamp="1486457561649">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="12" column="11" />
@@ -523,12 +529,11 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487704888069">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487712869454">
         <mark key="'" line="51" column="4" />
-        <mark key="[" line="51" column="38" />
-        <mark key="]" line="51" column="38" />
-        <mark key="." line="51" column="38" />
-        <mark key="^" line="51" column="52" />
+        <mark key="[" line="432" column="0" />
+        <mark key="]" line="432" column="0" />
+        <mark key="." line="432" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/drf_haystack/serializers.py" timestamp="1487588700992">
         <mark key="[" line="212" column="0" />
@@ -781,10 +786,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>= '</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>= '</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JhcHlJbWFnZXNQaXBlbGluZVw+</text>
@@ -793,18 +798,21 @@
         <text encoding="base64">SU1BR0VTX1NUT1JFPScvaG9tZS92YWdyYW50L25ld3NfcGFyc2VyL25ld3NfcGFyc2VyL2ltYWdlcy8nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoLmpvaW4oaW1hZ2VfcGF0aF9wYXJ0c1swXSwgc3BpZGVyX25hbWUsIGltYWdlX3BhdGhfcGFydHNbMV0pKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcGlkZXJfbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoLmpvaW4oaW1hZ2VfcGF0aF9wYXJ0c1swXSwgc3BpZGVyX25hbWUsIGltYWdlX3BhdGhfcGFydHNbMV0pKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9wYXRoKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzcGlkZXJfbmFtZSkK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9wYXRoKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>HAYSTACK_CONNECTIONS = {
     'default': {
         'ENGINE': 'haystack.backends.solr_backend.SolrEngine',
@@ -812,17 +820,14 @@
     },
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBkZWYgZ2V0X2NvbnRlbnQoc2VsZiwgb2JqKToKICAgICAgICByZXR1cm4gdHJ1bmNhdGUob2JqLmNvbnRlbnQpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnRlbnQgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBkZWYgc21hcnRfdHJ1bmNhdGUoY29udGVudCwgbGVuZ3RoPTEwMCwgc3VmZml4PScuLi4nKToKICAgICAgICAgICAgaWYgbGVuKGNvbnRlbnQpIDw9IHNldHRpbmdzLk5FV1NfQ09OVEVOVF9MRU5HVEg6CiAgICAgICAgICAgICAgICByZXR1cm4gY29udGVudAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmV0dXJuICcgJy5qb2luKGNvbnRlbnRbOmxlbmd0aCArIDFdLnNwbGl0KCcgJylbMDotMV0pICsgc3VmZml4</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBsZW5ndGg6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
