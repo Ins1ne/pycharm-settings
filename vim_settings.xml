@@ -523,8 +523,8 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487675687972">
-        <mark key="'" line="427" column="20" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487704888069">
+        <mark key="'" line="51" column="4" />
         <mark key="[" line="51" column="38" />
         <mark key="]" line="51" column="38" />
         <mark key="." line="51" column="38" />
@@ -748,7 +748,6 @@
       <jump line="265" column="27" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="13" column="13" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="426" column="20" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
-      <jump line="51" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="427" column="20" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="59" column="13" filename="$USER_HOME$/vagrant/news_parser/env/lib/python3.4/site-packages/scrapy/pipelines/images.py" />
       <jump line="33" column="21" filename="$USER_HOME$/vagrant/news_parser/env/lib/python3.4/site-packages/scrapy/pipelines/images.py" />
@@ -778,6 +777,7 @@
       <jump line="128" column="21" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="6" column="54" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="136" column="80" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
+      <jump line="51" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
