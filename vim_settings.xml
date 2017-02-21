@@ -194,11 +194,11 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="77" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/signals.py" timestamp="1487713067050">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/signals.py" timestamp="1487713925405">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="13" column="64" />
+        <mark key="]" line="13" column="77" />
+        <mark key="." line="13" column="64" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/env.example" timestamp="1486457561649">
         <mark key="'" line="0" column="0" />
@@ -277,12 +277,11 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/mixins.py" timestamp="1487017607922">
         <mark key="'" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487711727708">
-        <mark key="'" line="2" column="58" />
-        <mark key="[" line="165" column="59" />
-        <mark key="]" line="169" column="31" />
-        <mark key="^" line="169" column="31" />
-        <mark key="." line="169" column="31" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487714147197">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -529,11 +528,12 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487712869454">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487713963300">
         <mark key="'" line="51" column="4" />
-        <mark key="[" line="432" column="0" />
-        <mark key="]" line="432" column="0" />
-        <mark key="." line="432" column="0" />
+        <mark key="[" line="431" column="29" />
+        <mark key="]" line="431" column="65" />
+        <mark key="." line="431" column="65" />
+        <mark key="^" line="431" column="65" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/drf_haystack/serializers.py" timestamp="1487588700992">
         <mark key="[" line="212" column="0" />
@@ -683,10 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="9" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="32" column="11" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
-      <jump line="2" column="1" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="210" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="213" column="38" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
@@ -783,51 +779,50 @@
       <jump line="23" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="168" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="2" column="58" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="8" column="73" filename="$USER_HOME$/vagrant/neag/neag/news/signals.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/signals.py" />
+      <jump line="166" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>= '</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgpkZWYgdXBkYXRlX2luZGV4KHNlbmRlciwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncyk6CiAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>= '</text>
+        <text>haystack.signals.BaseSignalProcessor</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JhcHlJbWFnZXNQaXBlbGluZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">SU1BR0VTX1NUT1JFPScvaG9tZS92YWdyYW50L25ld3NfcGFyc2VyL25ld3NfcGFyc2VyL2ltYWdlcy8nCg==</text>
+      <register name="0" type="4">
+        <text>, sender=News</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgpkZWYgdXBkYXRlX2luZGV4KHNlbmRlciwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncyk6CiAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChvcy5wYXRoLmpvaW4oaW1hZ2VfcGF0aF9wYXJ0c1swXSwgc3BpZGVyX25hbWUsIGltYWdlX3BhdGhfcGFydHNbMV0pKQo=</text>
+        <text encoding="base64">cG9zdF9kZWxldGUuY29ubmVjdCh1cGRhdGVfaW5kZXgsIHNlbmRlcj1OZXdzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzcGlkZXJfbmFtZSkK</text>
+        <text encoding="base64">SEFZU1RBQ0tfU0lHTkFMX1BST0NFU1NPUiA9ICdoYXlzdGFjay5zaWduYWxzLkJhc2VTaWduYWxQcm9jZXNzb3InCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbWFnZV9wYXRoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICAgICAjIE5haXZlIChsaXN0ZW4gdG8gYWxsIG1vZGVsIHNhdmVzKS4K</text>
       </register>
-      <register name="6" type="4">
-        <text>HAYSTACK_CONNECTIONS = {
-    'default': {
-        'ENGINE': 'haystack.backends.solr_backend.SolrEngine',
-        'URL': 'http://127.0.0.1:8983/solr'
-    },
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIEVmZmljaWVudCB3b3VsZCBiZSBnb2luZyB0aHJvdWdoIGFsbCBiYWNrZW5kcyAmIGNvbGxlY3RpbmcgYWxsIG1vZGVscwogICAgICAgICMgYmVpbmcgdXNlZCwgdGhlbiBob29raW5nIHVwIHNpZ25hbHMgb25seSBmb3IgdGhvc2UuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBkZWYgZ2V0X2NvbnRlbnQoc2VsZiwgb2JqKToKICAgICAgICByZXR1cm4gdHJ1bmNhdGUob2JqLmNvbnRlbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAjIE5haXZlIChsaXN0ZW4gdG8gYWxsIG1vZGVsIHNhdmVzKS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQgPSBzZXJpYWxpemVycy5TZXJpYWxpemVyTWV0aG9kRmllbGQoKQo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBkZWYgc21hcnRfdHJ1bmNhdGUoY29udGVudCwgbGVuZ3RoPTEwMCwgc3VmZml4PScuLi4nKToKICAgICAgICAgICAgaWYgbGVuKGNvbnRlbnQpIDw9IHNldHRpbmdzLk5FV1NfQ09OVEVOVF9MRU5HVEg6CiAgICAgICAgICAgICAgICByZXR1cm4gY29udGVudAogICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgcmV0dXJuICcgJy5qb2luKGNvbnRlbnRbOmxlbmd0aCArIDFdLnNwbGl0KCcgJylbMDotMV0pICsgc3VmZml4</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
