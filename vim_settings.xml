@@ -419,11 +419,11 @@
         <mark key="." line="65" column="16" />
         <mark key="^" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1487689139858">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
+      <file name="$USER_HOME$/vagrant/news_parser/requirements.txt" timestamp="1487692456694">
+        <mark key="[" line="17" column="10" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aawsat.py" timestamp="1486488661969">
         <mark key="'" line="103" column="28" />
