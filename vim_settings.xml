@@ -100,11 +100,11 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/requirements/base.txt" timestamp="1487453812992">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
+      <file name="$USER_HOME$/vagrant/neag/requirements/base.txt" timestamp="1487658306000">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="21" column="12" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="21" column="12" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" timestamp="1487365150189">
         <mark key="[" line="62" column="85" />
@@ -847,8 +847,8 @@
         <entry>x</entry>
         <entry encoding="base64">JzwsJz5zL0N1c3RvbS9EZWxldGUvZw==</entry>
         <entry>ww</entry>
-        <entry>q</entry>
         <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
