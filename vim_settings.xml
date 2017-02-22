@@ -324,12 +324,12 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1487797899817">
+      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1487797943771">
         <mark key="'" line="22" column="73" />
         <mark key="[" line="25" column="27" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="7" column="37" />
+        <mark key="]" line="26" column="101" />
+        <mark key="." line="26" column="101" />
+        <mark key="^" line="26" column="101" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/skynewsarabia.py" timestamp="1486558901413">
         <mark key="'" line="85" column="8" />
@@ -857,7 +857,6 @@
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
         <entry>s/0.0/0/g</entry>
         <entry encoding="base64">JzwsJz5zL3JlY3J1aXRlZV9jb250YWN0L3RpbWVzaGVldC9n</entry>
-        <entry>W</entry>
         <entry encoding="base64">JzwsJz5zL2ludGVybmFsX3ZhbHVlcy9kYXRhL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzEvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLzEvNC9n</entry>
@@ -873,6 +872,7 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
