@@ -277,11 +277,12 @@
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/mixins.py" timestamp="1487017607922">
         <mark key="'" line="46" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487714147197">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="0" />
-        <mark key="." line="166" column="0" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1487754251623">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -683,7 +684,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="210" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="213" column="38" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="9" column="33" filename="$USER_HOME$/vagrant/neag/neag/news/urls.py" />
@@ -783,13 +783,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/signals.py" />
       <jump line="166" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
+      <jump line="143" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgpkZWYgdXBkYXRlX2luZGV4KHNlbmRlciwgaW5zdGFuY2UsICphcmdzLCAqKmt3YXJncyk6CiAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>, post_delete</text>
       </register>
       <register name="-" type="4">
-        <text>haystack.signals.BaseSignalProcessor</text>
+        <text>, post_delete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTY3JhcHlJbWFnZXNQaXBlbGluZVw+</text>
