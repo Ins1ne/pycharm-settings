@@ -126,11 +126,11 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487882952669">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="26" column="33" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487884524912">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="20" column="43" />
+        <mark key="." line="20" column="43" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
@@ -780,17 +780,17 @@
       <jump line="33" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CgojIGNsYXNzIEZhdm9yaXRlc0luZGV4KGluZGV4ZXMuU2VhcmNoSW5kZXgsIGluZGV4ZXMuSW5kZXhhYmxlKToKIyAgICAgdGV4dCA9IGluZGV4ZXMuQ2hhckZpZWxkKGRvY3VtZW50PVRydWUsIHVzZV90ZW1wbGF0ZT1UcnVlKQojICAgICBjb250ZW50ID0gaW5kZXhlcy5DaGFyRmllbGQobW9kZWxfYXR0cj0nY29udGVudCcpCiMgICAgIHRpdGxlID0gaW5kZXhlcy5DaGFyRmllbGQobW9kZWxfYXR0cj0ndGl0bGUnKQojICAgICBuZXdzX2lkID0gaW5kZXhlcy5JbnRlZ2VyRmllbGQobW9kZWxfYXR0cj0naWQnKQojICAgICBjcmVhdGVkID0gaW5kZXhlcy5EYXRlVGltZUZpZWxkKG1vZGVsX2F0dHI9J2NyZWF0ZWQnKQojICAgICB1c2VyID0gaW5kZXhlcy5JbnRlZ2VyRmllbGQobW9kZWxfYXR0cj0ndXNlcl9mYXZvcml0ZXNfX2lkJykKIwojICAgICBkZWYgZ2V0X21vZGVsKHNlbGYpOgojICAgICAgICAgcmV0dXJuIEZhdm9yaXRlTmV3cwojCiMgICAgIGRlZiBpbmRleF9xdWVyeXNldChzZWxmLCB1c2luZz1Ob25lKToKIyAgICAgICAgIHJldHVybiBzZWxmLmdldF9tb2RlbCgpLm9iamVjdHMuZmlsdGVyKHVzZXJfZmF2b3JpdGVzX19pc251bGw9RmFsc2UpCg==</text>
+      <register name="&quot;" type="4">
+        <text>filter(feed__user_feeds__isnull=False)</text>
       </register>
       <register name="-" type="4">
-        <text>SearchSerializer</text>
+        <text>filter(feed__user_feeds__isnull=False)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uX2NsYXNzZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmZWVkcyA9IHNlbGYucmVxdWVzdC5xdWVyeV9wYXJhbXMuZ2V0KCdmZWVkX19pbicpCgogICAgICAgIGlmIHNlbGYucmVxdWVzdC51c2VyIGFuZCBub3Qgc2VsZi5yZXF1ZXN0LnVzZXIuaXNfYW5vbnltb3VzKCk6CiAgICAgICAgICAgIHF1ZXJ5c2V0ID0gcXVlcnlzZXQuZmlsdGVyKGZlZWRfX2luPXNlbGYucmVxdWVzdC51c2VyLmZlZWRzX2xpc3QpCgogICAgICAgIGlmIGZlZWRzOgogICAgICAgICAgICBmZWVkc19saXN0ID0gW2ZlZWQgZm9yIGZlZWQgaW4gZmVlZHMuc3BsaXQoJywnKSBpZiBmZWVkLmlzZGlnaXQoKV0KICAgICAgICAgICAgcXVlcnlzZXQgPSBxdWVyeXNldC5maWx0ZXIoZmVlZF9faW49ZmVlZHNfbGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nZXRfbW9kZWwoKS5vYmplY3RzLmZpbHRlcihmZWVkX191c2VyX2ZlZWRzX19pc251bGw9RmFsc2UpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgojIGNsYXNzIEZhdm9yaXRlc0luZGV4KGluZGV4ZXMuU2VhcmNoSW5kZXgsIGluZGV4ZXMuSW5kZXhhYmxlKToKIyAgICAgdGV4dCA9IGluZGV4ZXMuQ2hhckZpZWxkKGRvY3VtZW50PVRydWUsIHVzZV90ZW1wbGF0ZT1UcnVlKQojICAgICBjb250ZW50ID0gaW5kZXhlcy5DaGFyRmllbGQobW9kZWxfYXR0cj0nY29udGVudCcpCiMgICAgIHRpdGxlID0gaW5kZXhlcy5DaGFyRmllbGQobW9kZWxfYXR0cj0ndGl0bGUnKQojICAgICBuZXdzX2lkID0gaW5kZXhlcy5JbnRlZ2VyRmllbGQobW9kZWxfYXR0cj0naWQnKQojICAgICBjcmVhdGVkID0gaW5kZXhlcy5EYXRlVGltZUZpZWxkKG1vZGVsX2F0dHI9J2NyZWF0ZWQnKQojICAgICB1c2VyID0gaW5kZXhlcy5JbnRlZ2VyRmllbGQobW9kZWxfYXR0cj0ndXNlcl9mYXZvcml0ZXNfX2lkJykKIwojICAgICBkZWYgZ2V0X21vZGVsKHNlbGYpOgojICAgICAgICAgcmV0dXJuIEZhdm9yaXRlTmV3cwojCiMgICAgIGRlZiBpbmRleF9xdWVyeXNldChzZWxmLCB1c2luZz1Ob25lKToKIyAgICAgICAgIHJldHVybiBzZWxmLmdldF9tb2RlbCgpLm9iamVjdHMuZmlsdGVyKHVzZXJfZmF2b3JpdGVzX19pc251bGw9RmFsc2UpCg==</text>
