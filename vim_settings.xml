@@ -529,12 +529,12 @@
         <mark key="." line="12" column="58" />
         <mark key="^" line="12" column="58" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487842658761">
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487845373978">
         <mark key="'" line="51" column="22" />
-        <mark key="[" line="435" column="24" />
-        <mark key="]" line="435" column="24" />
-        <mark key="." line="435" column="24" />
-        <mark key="^" line="438" column="53" />
+        <mark key="[" line="435" column="20" />
+        <mark key="]" line="435" column="19" />
+        <mark key="." line="435" column="19" />
+        <mark key="^" line="435" column="19" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1486414291759">
         <mark key="'" line="0" column="0" />
@@ -779,10 +779,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>65nu0br3co:q8cd4ra0ak@</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>65nu0br3co:q8cd4ra0ak@</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdzSW5kZXhcPg==</text>
