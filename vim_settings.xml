@@ -260,9 +260,9 @@
         <mark key="^" line="91" column="4" />
         <mark key="." line="91" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487871756091">
-        <mark key="'" line="37" column="17" />
-        <mark key="[" line="108" column="43" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487873172304">
+        <mark key="'" line="8" column="37" />
+        <mark key="[" line="221" column="77" />
         <mark key="]" line="108" column="105" />
         <mark key="." line="108" column="43" />
         <mark key="^" line="88" column="80" />
@@ -676,7 +676,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="31" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="104" column="32" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="100" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="32" column="22" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
@@ -776,6 +775,7 @@
       <jump line="223" column="8" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="79" column="17" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
       <jump line="37" column="17" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
+      <jump line="8" column="37" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
