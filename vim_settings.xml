@@ -126,12 +126,12 @@
         <mark key="^" line="9" column="57" />
         <mark key="." line="9" column="57" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487796712940">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" timestamp="1487835274329">
         <mark key="'" line="10" column="4" />
         <mark key="[" line="10" column="57" />
-        <mark key="]" line="26" column="61" />
-        <mark key="." line="26" column="61" />
-        <mark key="^" line="26" column="61" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/anbaanews.py" timestamp="1486504444368">
         <mark key="'" line="70" column="8" />
