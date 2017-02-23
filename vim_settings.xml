@@ -260,12 +260,12 @@
         <mark key="^" line="91" column="4" />
         <mark key="." line="91" column="4" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487873172304">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1487874167564">
         <mark key="'" line="8" column="37" />
         <mark key="[" line="221" column="77" />
-        <mark key="]" line="108" column="105" />
-        <mark key="." line="108" column="43" />
-        <mark key="^" line="88" column="80" />
+        <mark key="]" line="225" column="61" />
+        <mark key="." line="225" column="61" />
+        <mark key="^" line="225" column="61" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/tech-wd.py" timestamp="1486559257729">
         <mark key="'" line="62" column="8" />
