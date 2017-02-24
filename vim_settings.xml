@@ -825,7 +825,7 @@
         <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -878,9 +878,9 @@
         <entry>ww</entry>
         <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>x</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
