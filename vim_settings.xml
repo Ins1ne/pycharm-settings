@@ -193,12 +193,12 @@
         <mark key="^" line="53" column="26" />
         <mark key="." line="77" column="16" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/signals.py" timestamp="1487918078008">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/signals.py" timestamp="1487920026724">
         <mark key="'" line="28" column="8" />
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="19" />
-        <mark key="." line="28" column="19" />
-        <mark key="^" line="28" column="19" />
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="47" column="34" />
+        <mark key="." line="47" column="34" />
+        <mark key="^" line="47" column="34" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/env.example" timestamp="1486457561649">
         <mark key="'" line="0" column="0" />
