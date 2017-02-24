@@ -532,12 +532,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1487690859259">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1487966486788">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="60" />
-        <mark key="." line="12" column="58" />
-        <mark key="^" line="12" column="58" />
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487922300048">
         <mark key="'" line="432" column="47" />
