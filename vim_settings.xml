@@ -248,8 +248,8 @@
         <mark key="." line="26" column="43" />
         <mark key="^" line="26" column="43" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1488010630919">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" timestamp="1488140578985">
+        <mark key="'" line="154" column="0" />
         <mark key="[" line="91" column="4" />
         <mark key="]" line="91" column="4" />
         <mark key="^" line="91" column="4" />
@@ -662,7 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="80" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/tasks.py" />
       <jump line="23" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
       <jump line="168" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/models.py" />
@@ -762,6 +761,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" />
       <jump line="41" column="17" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/utils.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="154" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
