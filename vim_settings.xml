@@ -52,8 +52,8 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1486549128486">
-        <mark key="'" line="86" column="8" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" timestamp="1488285768153">
+        <mark key="'" line="52" column="12" />
         <mark key="[" line="27" column="42" />
         <mark key="]" line="27" column="45" />
         <mark key="^" line="27" column="45" />
@@ -666,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="22" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="435" column="19" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="24" column="14" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
       <jump line="22" column="30" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
@@ -766,6 +765,7 @@
       <jump line="36" column="4" filename="$USER_HOME$/vagrant/news_parser/develop.yml" />
       <jump line="89" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" />
       <jump line="35" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/itp.py" />
+      <jump line="52" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -775,7 +775,7 @@
         <text>, &quot;bbc.co.uk&quot;, &quot;bbc.com&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUd2lzdGVkSFRUUFRyYW5zcG9ydFw+</text>
+        <text encoding="base64">XDx0ZWFkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaXRlbV9kYXRlID0gZGF0ZXRpbWUuZnJvbXRpbWVzdGFtcChta3RpbWUoaXRlbVsncHVibGlzaGVkX3BhcnNlZCddKSkK</text>
@@ -812,9 +812,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUd2lzdGVkSFRUUFRyYW5zcG9ydFw+</last-search>
+      <last-search encoding="base64">XDx0ZWFkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUd2lzdGVkSFRUUFRyYW5zcG9ydFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0ZWFkc1w+</last-pattern>
       <last-replace>_ar</last-replace>
       <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
@@ -822,7 +822,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbWFnZXNQaXBlbGluZVw+</entry>
         <entry encoding="base64">XDxTY3JhcHlJbWFnZXNQaXBlbGluZVw+</entry>
         <entry encoding="base64">XDxIQVlTVEFDS19JTkRFWF9OQU1FXD4=</entry>
         <entry encoding="base64">XDxGZWVkU2VyaWFsaXplclw+</entry>
@@ -842,6 +841,7 @@
         <entry encoding="base64">XDxoYW5kbGVfc2F2ZVw+</entry>
         <entry encoding="base64">XDxBUElWaWV3XD4=</entry>
         <entry encoding="base64">XDxUd2lzdGVkSFRUUFRyYW5zcG9ydFw+</entry>
+        <entry encoding="base64">XDx0ZWFkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
