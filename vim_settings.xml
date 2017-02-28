@@ -146,6 +146,9 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/env/lib/python3.4/site-packages/scrapy/pipelines/images.py" timestamp="1487680112620">
+        <mark key="'" line="44" column="4" />
+      </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/urls.py" timestamp="1487887406008">
         <mark key="'" line="9" column="56" />
         <mark key="[" line="26" column="106" />
@@ -186,6 +189,9 @@
         <mark key="]" line="49" column="16" />
         <mark key="." line="49" column="16" />
         <mark key="^" line="22" column="26" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/pipelines/media.py" timestamp="1487681866946">
+        <mark key="'" line="57" column="31" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/elshaab.py" timestamp="1486548912486">
         <mark key="'" line="110" column="8" />
@@ -250,6 +256,9 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_auth/views.py" timestamp="1487233521953">
+        <mark key="'" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jamaheir.py" timestamp="1486492568570">
         <mark key="'" line="66" column="55" />
         <mark key="[" line="26" column="29" />
@@ -277,6 +286,9 @@
         <mark key="]" line="41" column="16" />
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/mixins.py" timestamp="1487017607922">
+        <mark key="'" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/env/local_settings.py" timestamp="1487888440974">
         <mark key="[" line="0" column="0" />
@@ -371,6 +383,9 @@
         <mark key="]" line="6" column="31" />
         <mark key="." line="35" column="73" />
         <mark key="^" line="35" column="73" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/773034043/1444635714/rest_framework/generics.py" timestamp="1487017630000">
+        <mark key="'" line="24" column="6" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/arabi21.py" timestamp="1486504627036">
         <mark key="'" line="69" column="8" />
@@ -588,6 +603,12 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/develop.yml" timestamp="1488269272934">
+        <mark key="'" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/pipelines/files.py" timestamp="1487681094951">
+        <mark key="'" line="237" column="13" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/beinsports.py" timestamp="1486547737824">
         <mark key="'" line="66" column="8" />
         <mark key="[" line="24" column="42" />
@@ -662,6 +683,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/vagrant/neag/config/schema.xml" timestamp="1487606614061">
+        <mark key="'" line="173" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/cnbcarabia.py" timestamp="1486547882265">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="24" column="42" />
@@ -671,7 +695,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="29" filename="$USER_HOME$/vagrant/neag/neag/news/serializers.py" />
       <jump line="21" column="15" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
       <jump line="2" column="13" filename="$USER_HOME$/vagrant/neag/neag/news/search_indexes.py" />
       <jump line="51" column="22" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -771,6 +794,7 @@
       <jump line="0" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="86" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="54" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
+      <jump line="36" column="4" filename="$USER_HOME$/vagrant/news_parser/develop.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
