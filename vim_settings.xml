@@ -474,8 +474,10 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488365796660">
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488373579669">
         <mark key="'" line="69" column="23" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="69" column="49" />
       </file>
       <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" timestamp="1488365986380">
         <mark key="'" line="18" column="67" />
@@ -664,11 +666,11 @@
         <mark key="." line="87" column="16" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488366132658">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="17" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488373592253">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1488309428574">
         <mark key="'" line="0" column="0" />
@@ -835,7 +837,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToKICAgICAgICBmb3IgdXJsIGluIHNlbGYuc3RhcnRfdXJsczoKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
       </register>
       <register name="-" type="4">
         <text>, log</text>
@@ -844,7 +846,7 @@
         <text encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dHoKaW1wb3J0IHhtbHRvZGljdAo=</text>
+        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToKICAgICAgICBmb3IgdXJsIGluIHNlbGYuc3RhcnRfdXJsczoKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
