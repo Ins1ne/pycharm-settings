@@ -474,8 +474,10 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488363030897" />
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" timestamp="1488364172314">
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488365796660">
+        <mark key="'" line="69" column="23" />
+      </file>
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" timestamp="1488365986380">
         <mark key="'" line="18" column="67" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -662,7 +664,7 @@
         <mark key="." line="87" column="16" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488363745919">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488366132658">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="37" />
         <mark key="." line="30" column="0" />
@@ -730,7 +732,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="23" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="34" column="4" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="32" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="31" column="57" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
@@ -830,6 +831,7 @@
       <jump line="48" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/extensions.py" />
       <jump line="23" column="4" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" />
       <jump line="18" column="67" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" />
+      <jump line="69" column="23" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -839,7 +841,7 @@
         <text>, log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpdGVyYXRvclw+</text>
+        <text encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHB5dHoKaW1wb3J0IHhtbHRvZGljdAo=</text>
@@ -854,32 +856,31 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZSk6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbmF6YWhyYS5jb20vZmVlZC8nLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>selector.xpath(
-            '//div[@class=&quot;entry-content&quot;]//p//img[contains(@class, &quot;wp-image&quot;)]/@src').extract()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZSk6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbmF6YWhyYS5jb20vZmVlZC8nLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpdGVyYXRvclw+</last-search>
+      <last-search encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpdGVyYXRvclw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</last-pattern>
       <last-replace>_ar</last-replace>
       <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
@@ -887,7 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxOZXdzSW5kZXhcPg==</entry>
         <entry encoding="base64">XDxGaWx0ZXJTZXRcPg==</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uX2NsYXNzZXNcPg==</entry>
         <entry encoding="base64">XDxmZWVkX19pblw+</entry>
@@ -907,6 +907,7 @@
         <entry encoding="base64">XDxTcGxhc2hSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxpdGVyYXRvclw+</entry>
+        <entry encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
