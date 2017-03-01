@@ -17,6 +17,9 @@
         <mark key="^" line="45" column="41" />
         <mark key="." line="45" column="41" />
       </file>
+      <file name="/a.dummy" timestamp="1488348910403">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almasryalyoum.py" timestamp="1486504846233">
         <mark key="'" line="129" column="12" />
         <mark key="[" line="128" column="11" />
@@ -409,10 +412,10 @@
         <mark key="." line="24" column="45" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1488287187517">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" timestamp="1488349204022">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="44" column="33" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="23" />
         <mark key="." line="60" column="12" />
         <mark key="^" line="45" column="11" />
       </file>
@@ -541,7 +544,7 @@
         <mark key="." line="72" column="16" />
         <mark key="^" line="52" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488319714504">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488348869332">
         <mark key="[" line="22" column="9" />
         <mark key="]" line="22" column="50" />
         <mark key="." line="22" column="50" />
@@ -651,6 +654,12 @@
         <mark key="]" line="87" column="16" />
         <mark key="." line="87" column="16" />
         <mark key="^" line="68" column="26" />
+      </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488349222926">
+        <mark key="[" line="25" column="15" />
+        <mark key="]" line="25" column="18" />
+        <mark key="." line="25" column="18" />
+        <mark key="^" line="25" column="18" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1488309428574">
         <mark key="'" line="0" column="0" />
@@ -811,16 +820,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://www.ng4a.com/feed/</text>
+        <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.ng4a.com/feed/</text>
+        <text>article</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTcGxhc2hSZXF1ZXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>//main[@id=&quot;main&quot;]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGl0ZXJ0YWcgPSAnYXJ0aWNsZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
