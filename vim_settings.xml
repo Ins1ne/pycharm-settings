@@ -667,12 +667,12 @@
         <mark key="." line="87" column="16" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488386905734">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488387667618">
         <mark key="'" line="12" column="32" />
-        <mark key="[" line="99" column="38" />
-        <mark key="]" line="100" column="35" />
-        <mark key="." line="100" column="35" />
-        <mark key="^" line="100" column="35" />
+        <mark key="[" line="56" column="46" />
+        <mark key="]" line="56" column="80" />
+        <mark key="." line="56" column="80" />
+        <mark key="^" line="56" column="80" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1488309428574">
         <mark key="'" line="0" column="0" />
