@@ -474,15 +474,15 @@
         <mark key="." line="47" column="16" />
         <mark key="^" line="30" column="45" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488373579669">
-        <mark key="'" line="69" column="23" />
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" timestamp="1488374260430">
+        <mark key="'" line="11" column="29" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="69" column="49" />
       </file>
-      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" timestamp="1488365986380">
+      <file name="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" timestamp="1488374307019">
         <mark key="'" line="18" column="67" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="30" />
         <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/almuraba.py" timestamp="1486504800861">
@@ -666,11 +666,11 @@
         <mark key="." line="87" column="16" />
         <mark key="^" line="68" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488373592253">
-        <mark key="[" line="30" column="35" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="20" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" timestamp="1488374321176">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+        <mark key="^" line="30" column="35" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1488309428574">
         <mark key="'" line="0" column="0" />
@@ -734,9 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
-      <jump line="31" column="57" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="4" column="41" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="307" column="33" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="77" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -834,22 +831,25 @@
       <jump line="23" column="4" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" />
       <jump line="18" column="67" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/feed.py" />
       <jump line="69" column="23" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" />
+      <jump line="72" column="15" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" />
+      <jump line="83" column="15" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" />
+      <jump line="11" column="29" filename="$USER_HOME$/Library/Caches/PyCharm2016.2/remote_sources/-1094591321/1471196306/scrapy/spiders/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToKICAgICAgICBmb3IgdXJsIGluIHNlbGYuc3RhcnRfdXJsczoKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
+        <text encoding="base64">CiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgZm9yIHVybCBpbiBzZWxmLnN0YXJ0X3VybHM6CiAgICAgICAgICAgIHByaW50KHVybCkKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
       </register>
       <register name="-" type="4">
         <text>, log</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</text>
+        <text encoding="base64">XDx1cmxfaXNfZnJvbV9zcGlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBzdGFydF9yZXF1ZXN0cyhzZWxmKToKICAgICAgICBmb3IgdXJsIGluIHNlbGYuc3RhcnRfdXJsczoKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZSk6Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">CiAgICBkZWYgc3RhcnRfcmVxdWVzdHMoc2VsZik6CiAgICAgICAgZm9yIHVybCBpbiBzZWxmLnN0YXJ0X3VybHM6CiAgICAgICAgICAgIHByaW50KHVybCkKICAgICAgICAgICAgeWllbGQgc2VsZi5tYWtlX3JlcXVlc3RzX2Zyb21fdXJsKHVybCkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
@@ -861,28 +861,28 @@
         <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZSk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
+        <text encoding="base64">ICAgIGRlZiBwYXJzZShzZWxmLCByZXNwb25zZSk6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbmF6YWhyYS5jb20vZmVlZC8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IGlwZGI7IGlwZGIuc2V0X3RyYWNlKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgICAnaHR0cDovL3d3dy5hbmF6YWhyYS5jb20vZmVlZC8nLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</last-search>
+      <last-search encoding="base64">XDx1cmxfaXNfZnJvbV9zcGlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cmxfaXNfZnJvbV9zcGlkZXJcPg==</last-pattern>
       <last-replace>_ar</last-replace>
       <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
@@ -890,8 +890,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGaWx0ZXJTZXRcPg==</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uX2NsYXNzZXNcPg==</entry>
         <entry encoding="base64">XDxmZWVkX19pblw+</entry>
         <entry encoding="base64">XDxGYXZvcml0ZXNTZWFyY2hWaWV3XD4=</entry>
         <entry encoding="base64">XDxJc0F1dGhlbnRpY2F0ZWRcPg==</entry>
@@ -910,6 +908,8 @@
         <entry encoding="base64">XDxsb2dcPg==</entry>
         <entry encoding="base64">XDxpdGVyYXRvclw+</entry>
         <entry encoding="base64">XDxtYWtlX3JlcXVlc3RzX2Zyb21fdXJsXD4=</entry>
+        <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDx1cmxfaXNfZnJvbV9zcGlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
