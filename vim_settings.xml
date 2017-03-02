@@ -569,12 +569,12 @@
         <mark key="." line="72" column="16" />
         <mark key="^" line="52" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488475942691">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="26" column="30" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488486089772">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1488309453583">
         <mark key="'" line="0" column="0" />
@@ -583,12 +583,12 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="32" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1488460287966">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1488485784597">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="14" column="110" />
-        <mark key="]" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="^" line="16" column="32" />
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="17" column="21" />
+        <mark key="." line="17" column="21" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/gamevolt.py" timestamp="1488318800039">
         <mark key="'" line="0" column="0" />
