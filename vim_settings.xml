@@ -299,12 +299,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1488543478637">
-        <mark key="'" line="151" column="0" />
-        <mark key="[" line="135" column="54" />
-        <mark key="]" line="135" column="79" />
-        <mark key="." line="135" column="79" />
-        <mark key="^" line="135" column="79" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1488546449904">
+        <mark key="'" line="152" column="0" />
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="63" column="57" />
+        <mark key="." line="63" column="57" />
+        <mark key="^" line="63" column="57" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
