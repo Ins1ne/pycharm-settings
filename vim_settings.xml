@@ -299,12 +299,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1488546449904">
+      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1488561021566">
         <mark key="'" line="152" column="0" />
-        <mark key="[" line="62" column="26" />
-        <mark key="]" line="63" column="57" />
-        <mark key="." line="63" column="57" />
-        <mark key="^" line="63" column="57" />
+        <mark key="[" line="63" column="58" />
+        <mark key="]" line="63" column="86" />
+        <mark key="." line="63" column="86" />
+        <mark key="^" line="63" column="86" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
@@ -561,12 +561,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="67" column="105" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1487922300048">
-        <mark key="'" line="432" column="47" />
-        <mark key="[" line="17" column="61" />
-        <mark key="]" line="17" column="64" />
-        <mark key="." line="17" column="64" />
-        <mark key="^" line="17" column="64" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1488561596345">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="175" column="27" />
+        <mark key="]" line="175" column="27" />
+        <mark key="." line="175" column="27" />
+        <mark key="^" line="175" column="27" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1486414291759">
         <mark key="'" line="0" column="0" />
@@ -707,13 +707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
-      <jump line="135" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/pipelines.py" />
-      <jump line="53" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
-      <jump line="0" column="16" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
-      <jump line="86" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
-      <jump line="54" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aleqt.py" />
       <jump line="36" column="4" filename="$USER_HOME$/vagrant/news_parser/develop.yml" />
       <jump line="89" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/argaam.py" />
       <jump line="35" column="45" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/itp.py" />
@@ -807,16 +800,23 @@
       <jump line="60" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" />
       <jump line="2" column="126" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/middlewares.py" />
       <jump line="150" column="27" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/settings.py" />
+      <jump line="113" column="5" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="304" column="43" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="12" column="11" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="426" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="175" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UFJPWFlNRVNIX0NPVU5UUlk9J2ZyJwo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>OfogPro//8437</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFTkFCTEVEX0tFWVw+</text>
+        <text encoding="base64">XDxST09UX0RJUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0VOVFJZX0RTTj0naHR0cHM6Ly81NzBkMTkxZTNkMmE0MGRmOTFmZTg0NjFhOWRlN2RiNjoyZjNhODhmYTNjYzY0M2I2OGNiNmI2MDE4Yjk1NjdkZEBzZW50cnkuc3RlZWxraXdpLmNvbS83OCcKUFJPWFlNRVNIX1VTRVJOQU1FPSdvZm9nJwpQUk9YWU1FU0hfUEFTU1dPUkQ9J09mb2dQcm8vLzg0MzcnClBST1hZTUVTSF9DT1VOVFJZPSdmcicK</text>
@@ -853,9 +853,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFTkFCTEVEX0tFWVw+</last-search>
+      <last-search encoding="base64">XDxST09UX0RJUlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFTkFCTEVEX0tFWVw+</last-pattern>
+      <last-pattern encoding="base64">XDxST09UX0RJUlw+</last-pattern>
       <last-replace>_ar</last-replace>
       <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
@@ -863,7 +863,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVfc2F2ZVw+</entry>
         <entry encoding="base64">XDxBUElWaWV3XD4=</entry>
         <entry encoding="base64">XDxUd2lzdGVkSFRUUFRyYW5zcG9ydFw+</entry>
         <entry encoding="base64">XDx0ZWFkc1w+</entry>
@@ -883,6 +882,7 @@
         <entry encoding="base64">XDxQUk9YWU1FU0hfUEFTU1dPUkRcPg==</entry>
         <entry encoding="base64">XDxwcm94eV9lbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxFTkFCTEVEX0tFWVw+</entry>
+        <entry encoding="base64">XDxST09UX0RJUlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
