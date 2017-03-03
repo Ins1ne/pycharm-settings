@@ -573,12 +573,12 @@
         <mark key="." line="72" column="16" />
         <mark key="^" line="52" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488531892130">
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" timestamp="1488537098095">
         <mark key="'" line="23" column="5" />
-        <mark key="[" line="66" column="42" />
-        <mark key="]" line="67" column="7" />
-        <mark key="." line="67" column="7" />
-        <mark key="^" line="67" column="7" />
+        <mark key="[" line="59" column="42" />
+        <mark key="]" line="70" column="67" />
+        <mark key="." line="70" column="67" />
+        <mark key="^" line="70" column="67" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/moh.py" timestamp="1488309453583">
         <mark key="'" line="0" column="0" />
@@ -854,11 +854,11 @@
       <jump line="24" column="5" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ng4a.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaXBkYjsgaXBkYi5zZXRfdHJhY2UoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>div</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>div</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFTkFCTEVEX0tFWVw+</text>
