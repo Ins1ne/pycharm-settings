@@ -292,7 +292,7 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Private/Projects/yfotki/server.py" timestamp="1488830445696" />
+      <file name="$USER_HOME$/Private/Projects/yfotki/server.py" timestamp="1488832247565" />
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jamaheir.py" timestamp="1486492568570">
         <mark key="'" line="66" column="55" />
         <mark key="[" line="26" column="29" />
@@ -700,6 +700,12 @@
         <mark key="." line="103" column="0" />
         <mark key="^" line="103" column="53" />
       </file>
+      <file name="$USER_HOME$/Private/Projects/yfotki/requirements.txt" timestamp="1488832220503">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhilal.py" timestamp="1488309428574">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="44" column="0" />
@@ -865,11 +871,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFQTlNfQ0VSVElGSUNBVEU9KHN0ciwgJycpLAogICAgR0NNX0FQSV9LRVk9KHN0ciwgJycpLAo=</text>
+      <register name="&quot;" type="4">
+        <text>22</text>
       </register>
       <register name="-" type="4">
-        <text>pDqa_zjcvZ5EAqQiRfa-AvpKTA1ns4</text>
+        <text>22</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTUElERVJTX1JVTl9ERUxBWVw+</text>
