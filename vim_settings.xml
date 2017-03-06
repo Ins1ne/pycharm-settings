@@ -306,8 +306,8 @@
         <mark key="^" line="30" column="51" />
         <mark key="." line="30" column="51" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1488569598953">
-        <mark key="'" line="146" column="17" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/views.py" timestamp="1488776028325">
+        <mark key="'" line="33" column="39" />
         <mark key="[" line="32" column="24" />
         <mark key="]" line="33" column="39" />
         <mark key="." line="33" column="39" />
@@ -759,7 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/france24.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ittihadfc.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ajel.py" />
@@ -859,6 +858,7 @@
       <jump line="33" column="37" filename="$USER_HOME$/vagrant/neag/neag/users/models.py" />
       <jump line="69" column="33" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/env.example" />
+      <jump line="33" column="39" filename="$USER_HOME$/vagrant/neag/neag/news/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -901,7 +901,7 @@
         <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -955,8 +955,8 @@
         <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
         <entry>W</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
