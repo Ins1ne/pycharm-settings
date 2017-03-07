@@ -216,6 +216,13 @@
         <mark key="." line="66" column="37" />
         <mark key="^" line="66" column="37" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" timestamp="1488904390856">
+        <mark key="'" line="103" column="8" />
+        <mark key="[" line="48" column="13" />
+        <mark key="]" line="49" column="39" />
+        <mark key="^" line="49" column="39" />
+        <mark key="." line="49" column="39" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/ign.py" timestamp="1488287170373">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="49" column="0" />
@@ -767,9 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="5" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
-      <jump line="12" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
-      <jump line="10" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="56" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="31" column="18" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="14" column="43" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
@@ -867,10 +871,15 @@
       <jump line="483" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="485" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="72" column="18" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
+      <jump line="64" column="4" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
+      <jump line="98" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>123</text>
+        <text>dateparser.parse(
+                item['published'].replace(u' ص', u' AM').replace(u' م', u' PM')
+            )</text>
       </register>
       <register name="-" type="4">
         <text>123</text>
@@ -878,8 +887,10 @@
       <register name="/" type="4">
         <text encoding="base64">XDxESkFOR09fREVCVUdcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEhBWVNUQUNLX0NPTk5FQ1RJT05TWydkZWZhdWx0J11bJ0tXQVJHUyddWydwb3J0J10gPSA0NDMK</text>
+      <register name="0" type="4">
+        <text>dateparser.parse(
+                item['published'].replace(u' ص', u' AM').replace(u' م', u' PM')
+            )</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
