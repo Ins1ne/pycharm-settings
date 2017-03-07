@@ -537,6 +537,13 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/.env" timestamp="1488917468131">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/gamevolt.py" timestamp="1488318800039">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="52" column="0" />
@@ -805,10 +812,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>item_date</text>
+        <text>us</text>
       </register>
       <register name="-" type="4">
-        <text>item_date</text>
+        <text>us</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESkFOR09fREVCVUdcPg==</text>
