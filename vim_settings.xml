@@ -375,12 +375,12 @@
         <mark key="." line="8" column="12" />
         <mark key="^" line="8" column="12" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1488903499061">
+      <file name="$USER_HOME$/vagrant/neag/config/.env" timestamp="1488904101826">
         <mark key="'" line="22" column="73" />
-        <mark key="[" line="0" column="14" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-        <mark key="^" line="0" column="14" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Private/Projects/yfotki/views.py" timestamp="1488877274592">
         <mark key="[" line="2" column="0" />
@@ -870,10 +870,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ff</text>
+        <text>123</text>
       </register>
       <register name="-" type="4">
-        <text>ff</text>
+        <text>123</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxESkFOR09fREVCVUdcPg==</text>
