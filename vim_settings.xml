@@ -330,13 +330,6 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="24" column="45" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/models.py" timestamp="1488563822398">
-        <mark key="'" line="172" column="0" />
-        <mark key="[" line="73" column="29" />
-        <mark key="]" line="73" column="52" />
-        <mark key="^" line="73" column="52" />
-        <mark key="." line="73" column="52" />
-      </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/aqarnews.py" timestamp="1486504504946">
         <mark key="'" line="73" column="8" />
         <mark key="[" line="41" column="0" />
@@ -553,11 +546,11 @@
         <mark key="^" line="36" column="45" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1488808953710">
-        <mark key="'" line="38" column="36" />
-        <mark key="[" line="38" column="51" />
-        <mark key="]" line="38" column="49" />
-        <mark key="." line="38" column="49" />
-        <mark key="^" line="38" column="49" />
+        <mark key="'" line="4" column="36" />
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="49" />
+        <mark key="." line="4" column="49" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/permissions.py" timestamp="1488809159676">
         <mark key="'" line="8" column="54" />
@@ -630,10 +623,6 @@
       </file>
       <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1488809805034">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="40" column="3" />
-        <mark key="." line="40" column="3" />
-        <mark key="^" line="40" column="3" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/.gitignore" timestamp="1486414291759">
         <mark key="'" line="0" column="0" />
