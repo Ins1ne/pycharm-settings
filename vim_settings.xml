@@ -620,8 +620,8 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="67" column="105" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1488893858951">
-        <mark key="'" line="7" column="19" />
+      <file name="$USER_HOME$/vagrant/neag/config/settings.py" timestamp="1488894458226">
+        <mark key="'" line="485" column="4" />
         <mark key="[" line="485" column="47" />
         <mark key="]" line="485" column="103" />
         <mark key="^" line="485" column="103" />
@@ -786,8 +786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="43" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
-      <jump line="41" column="11" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="51" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="13" column="5" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
       <jump line="12" column="7" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhadath.py" />
@@ -886,6 +884,8 @@
       <jump line="482" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="476" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="7" column="19" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="483" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
+      <jump line="485" column="4" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
