@@ -422,8 +422,8 @@
         <mark key="." line="45" column="16" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhurra.py" timestamp="1488905859906">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhurra.py" timestamp="1488911887511">
+        <mark key="'" line="93" column="8" />
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="16" />
         <mark key="." line="65" column="16" />
@@ -702,7 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="43" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="12" column="11" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="426" column="0" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
       <jump line="175" column="8" filename="$USER_HOME$/vagrant/neag/config/settings.py" />
@@ -802,6 +801,7 @@
       <jump line="66" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="104" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
       <jump line="43" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/youm7.py" />
+      <jump line="93" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/alhurra.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -846,7 +846,7 @@
         <text encoding="base64">ICAgIHVybChyJ14kJywgc2NoZW1hX3ZpZXcpLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -900,8 +900,8 @@
         <entry encoding="base64">JzwsJz5zL19lbi9fYXIvZw==</entry>
         <entry>W</entry>
         <entry>x</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
