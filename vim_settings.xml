@@ -295,12 +295,12 @@
         <mark key="." line="41" column="16" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/Private/Projects/yfotki/server.py" timestamp="1488877283928">
-        <mark key="'" line="22" column="4" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Private/Projects/yfotki/server.py" timestamp="1488878750835">
+        <mark key="'" line="3" column="13" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/al-jamaheir.py" timestamp="1486492568570">
         <mark key="'" line="66" column="55" />
@@ -794,7 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="110" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sayidaty.py" />
       <jump line="82" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sayidaty.py" />
       <jump line="47" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sayidaty.py" />
       <jump line="52" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/gamevolt.py" />
@@ -894,6 +893,7 @@
       <jump line="42" column="0" filename="$USER_HOME$/Private/Projects/yfotki/server.py" />
       <jump line="25" column="4" filename="$USER_HOME$/Private/Projects/yfotki/server.py" />
       <jump line="10" column="7" filename="$USER_HOME$/Private/Projects/yfotki/client.py" />
+      <jump line="3" column="13" filename="$USER_HOME$/Private/Projects/yfotki/server.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
