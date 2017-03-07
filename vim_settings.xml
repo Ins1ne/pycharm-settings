@@ -351,8 +351,8 @@
         <mark key="." line="49" column="16" />
         <mark key="^" line="30" column="26" />
       </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1487359099843">
-        <mark key="'" line="103" column="19" />
+      <file name="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" timestamp="1488881207528">
+        <mark key="'" line="38" column="29" />
         <mark key="[" line="100" column="66" />
         <mark key="]" line="101" column="7" />
         <mark key="." line="101" column="7" />
@@ -544,13 +544,6 @@
         <mark key="]" line="53" column="16" />
         <mark key="." line="53" column="16" />
         <mark key="^" line="36" column="45" />
-      </file>
-      <file name="$USER_HOME$/vagrant/neag/neag/news/tasks.py" timestamp="1488808953710">
-        <mark key="'" line="4" column="36" />
-        <mark key="[" line="4" column="51" />
-        <mark key="]" line="4" column="49" />
-        <mark key="." line="4" column="49" />
-        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/vagrant/neag/neag/news/permissions.py" timestamp="1488809159676">
         <mark key="'" line="8" column="54" />
@@ -783,11 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sayidaty.py" />
-      <jump line="47" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/sayidaty.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/gamevolt.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/spiders/gamevolt.py" />
-      <jump line="5" column="28" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/extensions.py" />
       <jump line="41" column="8" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/extensions.py" />
       <jump line="1" column="13" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/extensions.py" />
       <jump line="48" column="10" filename="$USER_HOME$/vagrant/news_parser/news_parser/news_parser/extensions.py" />
@@ -883,6 +871,11 @@
       <jump line="25" column="4" filename="$USER_HOME$/Private/Projects/yfotki/server.py" />
       <jump line="10" column="7" filename="$USER_HOME$/Private/Projects/yfotki/client.py" />
       <jump line="3" column="13" filename="$USER_HOME$/Private/Projects/yfotki/server.py" />
+      <jump line="31" column="26" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="164" column="16" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="34" column="4" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
+      <jump line="38" column="29" filename="$USER_HOME$/vagrant/neag/neag/news/management/commands/import_news.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -892,7 +885,7 @@
         <text>rv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhaW9odHRwXD4=</text>
+        <text encoding="base64">XDxzaWduYWxfaGFuZGxlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xpZW50ID0gWWFGb3RraShBUElfVVJMLCBBUElfVE9LRU4pCg==</text>
@@ -929,9 +922,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhaW9odHRwXD4=</last-search>
+      <last-search encoding="base64">XDxzaWduYWxfaGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhaW9odHRwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzaWduYWxfaGFuZGxlclw+</last-pattern>
       <last-replace>_ar</last-replace>
       <last-substitute>_en</last-substitute>
       <last-dir>-1</last-dir>
@@ -939,7 +932,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmZWVkcGFyc2VyXD4=</entry>
         <entry encoding="base64">XDxzY3JhcHlcPg==</entry>
         <entry encoding="base64">XDxSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxyZXF1ZXN0c1w+</entry>
@@ -959,6 +951,7 @@
         <entry encoding="base64">XDxwcHJpbnRcPg==</entry>
         <entry encoding="base64">XDxBTEJVTVNfUEFTU1dPUkRcPg==</entry>
         <entry encoding="base64">XDxhaW9odHRwXD4=</entry>
+        <entry encoding="base64">XDxzaWduYWxfaGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL251bGwvTm9uZS9n</entry>
